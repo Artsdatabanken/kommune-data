@@ -5,7 +5,7 @@ Utdata fra lastejobb for Norske fylker og kommuner ikke inklusive kartdata.
 Eksempel på innhold
 
 ### Kommune
-```
+```json
 {
     	"1001": {
 		"wikidata": "http://www.wikidata.org/entity/Q2415",
@@ -28,7 +28,7 @@ Eksempel på innhold
 
 ### Fylke
 
-```
+```json
 {
   "NO-03": {
     "wikidata": "http://www.wikidata.org/entity/Q585",
