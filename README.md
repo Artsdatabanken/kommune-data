@@ -1,28 +1,42 @@
 Utdata fra lastejobb for Norske fylker og kommuner ikke inklusive kartdata.
 
-## Datasett
+## Kilde og bruk
+### Dataene brukes blant annet av
 
-Eksempel på innhold
+* [Natur i Norge kart](https://github.com/Artsdatabanken/nin-kart-frontend)
+* [Artsdatabanken åpne data](https://data.artsdatabanken.no/)
+
+### Baserer seg på åpne data fra (takk til)
+
+* [Wikipedia](https://no.wikipedia.org)
+
+### Bygges av
+
+* [kommune-lastejobb](https://github.com/Artsdatabanken/kommune-lastejobb) (lastejobb)
+
+## Om datasettet
+
+Eksempel på innhold i utdata
 
 ### Kommune
 ```json
 {
-    	"1001": {
-		"wikidata": "http://www.wikidata.org/entity/Q2415",
-		"bilde": {
-			"image": ["http://commons.wikimedia.org/wiki/Special:FilePath/Kristiansand%2C%20Norway.jpg"
-			],
-			"banner": ["http://commons.wikimedia.org/wiki/Special:FilePath/Bannerkristiansand.JPG"
-			],
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Kristiansand%20komm.svg"
-		},
-		"label": "Kristiansand",
-		"wikipedia": "https://no.wikipedia.org/wiki/Kristiansand",
-		"url": "http://www.kristiansand.kommune.no/",
-		"naboer": [
-			"0928","0926","1014","1018","1017"
-		]
-	},
+  "1001": {
+    "wikidata": "http://www.wikidata.org/entity/Q2415",
+    "bilde": {
+      "image": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Kristiansand%2C%20Norway.jpg"
+      ],
+      "banner": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Bannerkristiansand.JPG"
+      ],
+      "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Kristiansand%20komm.svg"
+    },
+    "label": "Kristiansand",
+    "wikipedia": "https://no.wikipedia.org/wiki/Kristiansand",
+    "url": "http://www.kristiansand.kommune.no/",
+    "naboer": ["0928", "0926", "1014", "1018", "1017"]
+  }
 }
 ```
 
@@ -51,15 +65,3 @@ Eksempel på innhold
 }
 ```
 
-## Dataene brukes blant annet av
-
-* [Natur i Norge kart](https://github.com/Artsdatabanken/nin-kart-frontend)
-* [Artsdatabanken åpne data](https://data.artsdatabanken.no/)
-
-## Baserer seg på åpne data fra (takk til)
-
-* [Wikipedia](https://no.wikipedia.org)
-
-## Bygges av
-
-* [kommune-kartdata](https://github.com/Artsdatabanken/kommune-lastejobb) (lastejobb)
