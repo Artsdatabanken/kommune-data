@@ -1,417 +1,417 @@
 {
-	"items": {
-		"NO-01": {
-			"item": "http://www.wikidata.org/entity/Q50614",
-			"article": "https://no.wikipedia.org/wiki/%C3%98stfold",
-			"url": "http://www.ostfold-f.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%98stfold%20v%C3%A5pen.svg",
-			"banner": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%98stfold%20banner.jpg",
-			"flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20%C3%98stfold.svg",
-			"itemLabel": "Østfold",
-			"naboer": [
-				"NO-02"
-			],
-			"bilde": {
-				"image": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/R%C3%B8denes%202006.jpg"
-				],
-				"banner": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/%C3%98stfold%20banner.jpg"
-				]
-			}
-		},
-		"NO-02": {
-			"item": "http://www.wikidata.org/entity/Q50615",
-			"article": "https://no.wikipedia.org/wiki/Akershus",
-			"url": "http://www.akershus.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Akershus%20v%C3%A5pen.svg",
-			"banner": "http://commons.wikimedia.org/wiki/Special:FilePath/Akershus%20banner.JPG",
-			"flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Akershus.svg",
-			"itemLabel": "Akershus",
-			"naboer": [
-				"NO-03",
-				"NO-01",
-				"NO-04",
-				"NO-05",
-				"NO-06"
-			],
-			"bilde": {
-				"image": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/LKS%20Foto%20Anders%20Rodem.jpg"
-				],
-				"banner": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Akershus%20banner.JPG"
-				]
-			}
-		},
-		"NO-03": {
-			"item": "http://www.wikidata.org/entity/Q585",
-			"article": "https://no.wikipedia.org/wiki/Oslo",
-			"url": "http://www.oslo.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Oslo%20komm.svg",
-			"banner": "http://commons.wikimedia.org/wiki/Special:FilePath/Oslo%20banner%20Akershus%20castle.jpg",
-			"osm": "2775550",
-			"inception": "1048-01-01T00:00:00.000Z",
-			"elevation": "23",
-			"flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Oslo.svg",
-			"itemLabel": "Oslo",
-			"naboer": [
-				"NO-02",
-				"NO-05",
-				"NO-06"
-			],
-			"bilde": {
-				"image": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Oslo%20city%20in%2010%20images.jpg"
-				],
-				"banner": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Oslo%20banner%20Akershus%20castle.jpg"
-				]
-			}
-		},
-		"NO-04": {
-			"item": "http://www.wikidata.org/entity/Q50616",
-			"article": "https://no.wikipedia.org/wiki/Hedmark",
-			"url": "http://www.hedmark.org/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Hedmark%20v%C3%A5pen.svg",
-			"banner": "http://commons.wikimedia.org/wiki/Special:FilePath/Skibladner%20Moelv%20brygge%20banner.jpg",
-			"flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Hedmark.svg",
-			"itemLabel": "Hedmark",
-			"naboer": [
-				"NO-02",
-				"NO-05",
-				"NO-16",
-				"NO-50"
-			],
-			"bilde": {
-				"image": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Fjellandskap%20Os%20%28896500191%29.jpg"
-				],
-				"banner": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Skibladner%20Moelv%20brygge%20banner.jpg"
-				]
-			}
-		},
-		"NO-05": {
-			"item": "http://www.wikidata.org/entity/Q50617",
-			"article": "https://no.wikipedia.org/wiki/Oppland",
-			"url": "http://www.oppland.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Oppland%20v%C3%A5pen.svg",
-			"banner": "http://commons.wikimedia.org/wiki/Special:FilePath/Oppland%20banner.jpg",
-			"flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Oppland.svg",
-			"itemLabel": "Oppland",
-			"naboer": [
-				"NO-03",
-				"NO-02",
-				"NO-04",
-				"NO-06",
-				"NO-14",
-				"NO-15",
-				"NO-16",
-				"NO-50"
-			]
-		},
-		"NO-06": {
-			"item": "http://www.wikidata.org/entity/Q50618",
-			"article": "https://no.wikipedia.org/wiki/Buskerud",
-			"url": "http://www.bfk.no",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Buskerud%20v%C3%A5pen.svg",
-			"banner": "http://commons.wikimedia.org/wiki/Special:FilePath/Uvdal%20stavkirke%20banner.jpg",
-			"flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Buskerud.svg",
-			"itemLabel": "Buskerud",
-			"naboer": [
-				"NO-03",
-				"NO-08",
-				"NO-02",
-				"NO-05",
-				"NO-07",
-				"NO-12",
-				"NO-14"
-			],
-			"bilde": {
-				"image": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Villa%20Fridheim%2C%20Kr%C3%B8deren%2C%202.jpg"
-				],
-				"banner": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Uvdal%20stavkirke%20banner.jpg"
-				]
-			}
-		},
-		"NO-07": {
-			"item": "http://www.wikidata.org/entity/Q50619",
-			"article": "https://no.wikipedia.org/wiki/Vestfold",
-			"url": "http://www.vfk.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Vestfold%20v%C3%A5pen.svg",
-			"banner": "http://commons.wikimedia.org/wiki/Special:FilePath/Vestfold%20banner.jpg",
-			"flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Vestfold.svg",
-			"itemLabel": "Vestfold",
-			"naboer": [
-				"NO-08",
-				"NO-06"
-			],
-			"bilde": {
-				"image": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/N%C3%B8tter%C3%B8y%20jordbrukslandskap%202.JPG"
-				],
-				"banner": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Vestfold%20banner.jpg"
-				]
-			}
-		},
-		"NO-08": {
-			"item": "http://www.wikidata.org/entity/Q2254",
-			"article": "https://no.wikipedia.org/wiki/Telemark",
-			"url": "http://www.telemark-fk.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Telemark%20v%C3%A5pen.svg",
-			"banner": "http://commons.wikimedia.org/wiki/Special:FilePath/Telemark%20banner.jpg",
-			"flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Telemark.svg",
-			"itemLabel": "Telemark",
-			"naboer": [
-				"NO-06",
-				"NO-07",
-				"NO-09",
-				"NO-11",
-				"NO-12"
-			],
-			"bilde": {
-				"image": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Rjukan%20Gaustatoppen.jpg"
-				],
-				"banner": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Telemark%20banner.jpg"
-				]
-			}
-		},
-		"NO-09": {
-			"item": "http://www.wikidata.org/entity/Q50621",
-			"article": "https://no.wikipedia.org/wiki/Aust-Agder",
-			"url": "http://www.aa-f.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Aust-Agder%20v%C3%A5pen.svg",
-			"banner": "http://commons.wikimedia.org/wiki/Special:FilePath/Aust-Agder%20banner.jpg",
-			"flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Aust-Agder.svg",
-			"itemLabel": "Aust-Agder",
-			"naboer": [
-				"NO-08",
-				"NO-10",
-				"NO-11"
-			],
-			"bilde": {
-				"image": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/MyrVannSkog.jpg"
-				],
-				"banner": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Aust-Agder%20banner.jpg"
-				]
-			}
-		},
-		"NO-10": {
-			"item": "http://www.wikidata.org/entity/Q50623",
-			"article": "https://no.wikipedia.org/wiki/Vest-Agder",
-			"url": "http://www.vaf.no",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Vest-Agder%20v%C3%A5pen.svg",
-			"banner": "http://commons.wikimedia.org/wiki/Special:FilePath/Vest-Agder%20banner.jpg",
-			"flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Vest-Agder.svg",
-			"itemLabel": "Vest-Agder",
-			"naboer": [
-				"NO-09",
-				"NO-11"
-			],
-			"bilde": {
-				"image": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Lindesnes%20Fyr.jpg"
-				],
-				"banner": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Vest-Agder%20banner.jpg"
-				]
-			}
-		},
-		"NO-11": {
-			"item": "http://www.wikidata.org/entity/Q50624",
-			"article": "https://no.wikipedia.org/wiki/Rogaland",
-			"url": "http://www.rogfk.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Rogaland%20v%C3%A5pen.svg",
-			"banner": "http://commons.wikimedia.org/wiki/Special:FilePath/Preikestolen%20banner.jpg",
-			"flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Rogaland.svg",
-			"itemLabel": "Rogaland",
-			"naboer": [
-				"NO-08",
-				"NO-09",
-				"NO-10",
-				"NO-12"
-			],
-			"bilde": {
-				"image": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Obrestad%20fyr%20utsiktspunkt%20%28light%20house%29.jpg"
-				],
-				"banner": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Preikestolen%20banner.jpg"
-				]
-			}
-		},
-		"NO-12": {
-			"item": "http://www.wikidata.org/entity/Q50625",
-			"article": "https://no.wikipedia.org/wiki/Hordaland",
-			"url": "http://www.hordaland.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Hordaland%20v%C3%A5pen.svg",
-			"banner": "http://commons.wikimedia.org/wiki/Special:FilePath/UlvikfjordMountains%20banner.jpg",
-			"flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Hordaland.svg",
-			"itemLabel": "Hordaland",
-			"naboer": [
-				"NO-08",
-				"NO-06",
-				"NO-11",
-				"NO-14"
-			],
-			"bilde": {
-				"image": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Ulvik%20March%202009.jpg"
-				],
-				"banner": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/UlvikfjordMountains%20banner.jpg"
-				]
-			}
-		},
-		"NO-14": {
-			"item": "http://www.wikidata.org/entity/Q50626",
-			"article": "https://no.wikipedia.org/wiki/Sogn_og_Fjordane",
-			"url": "http://www.sfj.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Sogn%20og%20Fjordane%20v%C3%A5pen.svg",
-			"banner": "http://commons.wikimedia.org/wiki/Special:FilePath/Oppstrynsvatnet%20banner.jpg",
-			"flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Sogn%20og%20Fjordane.svg",
-			"itemLabel": "Sogn og Fjordane",
-			"naboer": [
-				"NO-05",
-				"NO-06",
-				"NO-12",
-				"NO-15"
-			],
-			"bilde": {
-				"image": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Frahafstadfjellet.jpg"
-				],
-				"banner": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Oppstrynsvatnet%20banner.jpg"
-				]
-			}
-		},
-		"NO-15": {
-			"item": "http://www.wikidata.org/entity/Q50627",
-			"article": "https://no.wikipedia.org/wiki/M%C3%B8re_og_Romsdal",
-			"url": "http://www.mrfylke.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/M%C3%B8re%20og%20Romsdal%20v%C3%A5pen.svg",
-			"banner": "http://commons.wikimedia.org/wiki/Special:FilePath/Romsdalsfjorden%20banner.jpg",
-			"flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20M%C3%B8re%20og%20Romsdal.svg",
-			"itemLabel": "Møre og Romsdal",
-			"naboer": [
-				"NO-05",
-				"NO-14",
-				"NO-16",
-				"NO-50"
-			],
-			"bilde": {
-				"image": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Vartdal.jpg"
-				],
-				"banner": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Romsdalsfjorden%20banner.jpg"
-				]
-			}
-		},
-		"NO-18": {
-			"item": "http://www.wikidata.org/entity/Q50630",
-			"article": "https://no.wikipedia.org/wiki/Nordland",
-			"url": "http://www.nfk.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Nordland%20v%C3%A5pen.svg",
-			"banner": "http://commons.wikimedia.org/wiki/Special:FilePath/Norrland%20Wikivoyage%20banner.jpg",
-			"flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Nordland.svg",
-			"itemLabel": "Nordland",
-			"naboer": [
-				"NO-17",
-				"NO-19",
-				"NO-50"
-			],
-			"bilde": {
-				"image": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Berge%20Sieben%20Schwestern%20Norwegen.jpg"
-				],
-				"banner": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Norrland%20Wikivoyage%20banner.jpg"
-				]
-			}
-		},
-		"NO-19": {
-			"item": "http://www.wikidata.org/entity/Q50631",
-			"article": "https://no.wikipedia.org/wiki/Troms",
-			"url": "http://www.troms-f.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Troms%20v%C3%A5pen.svg",
-			"banner": "http://commons.wikimedia.org/wiki/Special:FilePath/Havnnes%20banner.jpg",
-			"flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Troms.svg",
-			"itemLabel": "Troms",
-			"naboer": [
-				"NO-18",
-				"NO-20"
-			],
-			"bilde": {
-				"image": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Arn%C3%B8yh%C3%B8gda%2C%20Laukslettinden%2C%20Tjuvtinden%20%26%20R%C3%B8dhetta%2C%202012%20March.jpg"
-				],
-				"banner": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Havnnes%20banner.jpg"
-				]
-			}
-		},
-		"NO-20": {
-			"item": "http://www.wikidata.org/entity/Q50632",
-			"article": "https://no.wikipedia.org/wiki/Finnmark",
-			"url": "http://www.ffk.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Finnmark%20v%C3%A5pen.svg",
-			"banner": "http://commons.wikimedia.org/wiki/Special:FilePath/NordkapPanoramaHDR%20banner.jpg",
-			"flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Finnmark.svg",
-			"itemLabel": "Finnmark",
-			"naboer": [
-				"NO-19"
-			],
-			"bilde": {
-				"image": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Locator%20map%20of%20municipalities%20in%20Finnmark%2C%20Norway%20numbered.svg"
-				],
-				"banner": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/NordkapPanoramaHDR%20banner.jpg"
-				]
-			}
-		},
-		"NO-50": {
-			"item": "http://www.wikidata.org/entity/Q127676",
-			"article": "https://no.wikipedia.org/wiki/Tr%C3%B8ndelag",
-			"url": "http://www.trondelag.com",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Tr%C3%B8ndelag%20v%C3%A5pen.svg",
-			"banner": "http://commons.wikimedia.org/wiki/Special:FilePath/Langnes%20small%20craft%20harbor.jpg",
-			"osm": "406567",
-			"itemLabel": "Trøndelag",
-			"naboer": [
-				"NO-04",
-				"NO-05",
-				"NO-15",
-				"NO-18"
-			],
-			"bilde": {
-				"image": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Seierstad%20J%C3%B8a.jpg"
-				],
-				"banner": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Langnes%20small%20craft%20harbor.jpg"
-				]
-			}
-		}
-	},
-	"meta": {
-		"tittel": "Fylke",
-		"produsertUtc": "2019-04-20T14:45:36.641Z",
-		"utgiver": "Artsdatabanken",
-		"url": "https://github.com/Artsdatabanken/kommune-data/blob/master/fylke.json",
-		"tool": {
-			"name": "kverna",
-			"url": "https://github.com/Artsdatabanken/kverna/"
-		}
-	}
+  "items": {
+    "NO-01": {
+      "item": "http://www.wikidata.org/entity/Q50614",
+      "article": "https://no.wikipedia.org/wiki/%C3%98stfold",
+      "url": "http://www.ostfold-f.kommune.no/",
+      "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%98stfold%20v%C3%A5pen.svg",
+      "banner": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%98stfold%20banner.jpg",
+      "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20%C3%98stfold.svg",
+      "itemLabel": "Østfold",
+      "naboer": [
+        "NO-02"
+      ],
+      "bilde": {
+        "image": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/R%C3%B8denes%202006.jpg"
+        ],
+        "banner": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%98stfold%20banner.jpg"
+        ]
+      }
+    },
+    "NO-02": {
+      "item": "http://www.wikidata.org/entity/Q50615",
+      "article": "https://no.wikipedia.org/wiki/Akershus",
+      "url": "http://www.akershus.no/",
+      "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Akershus%20v%C3%A5pen.svg",
+      "banner": "http://commons.wikimedia.org/wiki/Special:FilePath/Akershus%20banner.JPG",
+      "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Akershus.svg",
+      "itemLabel": "Akershus",
+      "naboer": [
+        "NO-03",
+        "NO-01",
+        "NO-04",
+        "NO-05",
+        "NO-06"
+      ],
+      "bilde": {
+        "image": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/LKS%20Foto%20Anders%20Rodem.jpg"
+        ],
+        "banner": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Akershus%20banner.JPG"
+        ]
+      }
+    },
+    "NO-03": {
+      "item": "http://www.wikidata.org/entity/Q585",
+      "article": "https://no.wikipedia.org/wiki/Oslo",
+      "url": "http://www.oslo.kommune.no/",
+      "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Oslo%20komm.svg",
+      "banner": "http://commons.wikimedia.org/wiki/Special:FilePath/Oslo%20banner%20Akershus%20castle.jpg",
+      "osm": "2775550",
+      "inception": "1048-01-01T00:00:00.000Z",
+      "elevation": "23",
+      "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Oslo.svg",
+      "itemLabel": "Oslo",
+      "naboer": [
+        "NO-02",
+        "NO-05",
+        "NO-06"
+      ],
+      "bilde": {
+        "image": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Oslo%20city%20in%2010%20images.jpg"
+        ],
+        "banner": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Oslo%20banner%20Akershus%20castle.jpg"
+        ]
+      }
+    },
+    "NO-04": {
+      "item": "http://www.wikidata.org/entity/Q50616",
+      "article": "https://no.wikipedia.org/wiki/Hedmark",
+      "url": "http://www.hedmark.org/",
+      "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Hedmark%20v%C3%A5pen.svg",
+      "banner": "http://commons.wikimedia.org/wiki/Special:FilePath/Skibladner%20Moelv%20brygge%20banner.jpg",
+      "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Hedmark.svg",
+      "itemLabel": "Hedmark",
+      "naboer": [
+        "NO-02",
+        "NO-05",
+        "NO-16",
+        "NO-50"
+      ],
+      "bilde": {
+        "image": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Fjellandskap%20Os%20%28896500191%29.jpg"
+        ],
+        "banner": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Skibladner%20Moelv%20brygge%20banner.jpg"
+        ]
+      }
+    },
+    "NO-05": {
+      "item": "http://www.wikidata.org/entity/Q50617",
+      "article": "https://no.wikipedia.org/wiki/Oppland",
+      "url": "http://www.oppland.no/",
+      "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Oppland%20v%C3%A5pen.svg",
+      "banner": "http://commons.wikimedia.org/wiki/Special:FilePath/Oppland%20banner.jpg",
+      "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Oppland.svg",
+      "itemLabel": "Oppland",
+      "naboer": [
+        "NO-03",
+        "NO-02",
+        "NO-04",
+        "NO-06",
+        "NO-14",
+        "NO-15",
+        "NO-16",
+        "NO-50"
+      ]
+    },
+    "NO-06": {
+      "item": "http://www.wikidata.org/entity/Q50618",
+      "article": "https://no.wikipedia.org/wiki/Buskerud",
+      "url": "http://www.bfk.no",
+      "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Buskerud%20v%C3%A5pen.svg",
+      "banner": "http://commons.wikimedia.org/wiki/Special:FilePath/Uvdal%20stavkirke%20banner.jpg",
+      "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Buskerud.svg",
+      "itemLabel": "Buskerud",
+      "naboer": [
+        "NO-03",
+        "NO-08",
+        "NO-02",
+        "NO-05",
+        "NO-07",
+        "NO-12",
+        "NO-14"
+      ],
+      "bilde": {
+        "image": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Villa%20Fridheim%2C%20Kr%C3%B8deren%2C%202.jpg"
+        ],
+        "banner": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Uvdal%20stavkirke%20banner.jpg"
+        ]
+      }
+    },
+    "NO-07": {
+      "item": "http://www.wikidata.org/entity/Q50619",
+      "article": "https://no.wikipedia.org/wiki/Vestfold",
+      "url": "http://www.vfk.no/",
+      "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Vestfold%20v%C3%A5pen.svg",
+      "banner": "http://commons.wikimedia.org/wiki/Special:FilePath/Vestfold%20banner.jpg",
+      "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Vestfold.svg",
+      "itemLabel": "Vestfold",
+      "naboer": [
+        "NO-08",
+        "NO-06"
+      ],
+      "bilde": {
+        "image": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/N%C3%B8tter%C3%B8y%20jordbrukslandskap%202.JPG"
+        ],
+        "banner": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Vestfold%20banner.jpg"
+        ]
+      }
+    },
+    "NO-08": {
+      "item": "http://www.wikidata.org/entity/Q2254",
+      "article": "https://no.wikipedia.org/wiki/Telemark",
+      "url": "http://www.telemark-fk.no/",
+      "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Telemark%20v%C3%A5pen.svg",
+      "banner": "http://commons.wikimedia.org/wiki/Special:FilePath/Telemark%20banner.jpg",
+      "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Telemark.svg",
+      "itemLabel": "Telemark",
+      "naboer": [
+        "NO-06",
+        "NO-07",
+        "NO-09",
+        "NO-11",
+        "NO-12"
+      ],
+      "bilde": {
+        "image": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Rjukan%20Gaustatoppen.jpg"
+        ],
+        "banner": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Telemark%20banner.jpg"
+        ]
+      }
+    },
+    "NO-09": {
+      "item": "http://www.wikidata.org/entity/Q50621",
+      "article": "https://no.wikipedia.org/wiki/Aust-Agder",
+      "url": "http://www.aa-f.kommune.no/",
+      "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Aust-Agder%20v%C3%A5pen.svg",
+      "banner": "http://commons.wikimedia.org/wiki/Special:FilePath/Aust-Agder%20banner.jpg",
+      "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Aust-Agder.svg",
+      "itemLabel": "Aust-Agder",
+      "naboer": [
+        "NO-08",
+        "NO-10",
+        "NO-11"
+      ],
+      "bilde": {
+        "image": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/MyrVannSkog.jpg"
+        ],
+        "banner": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Aust-Agder%20banner.jpg"
+        ]
+      }
+    },
+    "NO-10": {
+      "item": "http://www.wikidata.org/entity/Q50623",
+      "article": "https://no.wikipedia.org/wiki/Vest-Agder",
+      "url": "http://www.vaf.no",
+      "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Vest-Agder%20v%C3%A5pen.svg",
+      "banner": "http://commons.wikimedia.org/wiki/Special:FilePath/Vest-Agder%20banner.jpg",
+      "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Vest-Agder.svg",
+      "itemLabel": "Vest-Agder",
+      "naboer": [
+        "NO-09",
+        "NO-11"
+      ],
+      "bilde": {
+        "image": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Lindesnes%20Fyr.jpg"
+        ],
+        "banner": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Vest-Agder%20banner.jpg"
+        ]
+      }
+    },
+    "NO-11": {
+      "item": "http://www.wikidata.org/entity/Q50624",
+      "article": "https://no.wikipedia.org/wiki/Rogaland",
+      "url": "http://www.rogfk.no/",
+      "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Rogaland%20v%C3%A5pen.svg",
+      "banner": "http://commons.wikimedia.org/wiki/Special:FilePath/Preikestolen%20banner.jpg",
+      "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Rogaland.svg",
+      "itemLabel": "Rogaland",
+      "naboer": [
+        "NO-08",
+        "NO-09",
+        "NO-10",
+        "NO-12"
+      ],
+      "bilde": {
+        "image": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Obrestad%20fyr%20utsiktspunkt%20%28light%20house%29.jpg"
+        ],
+        "banner": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Preikestolen%20banner.jpg"
+        ]
+      }
+    },
+    "NO-12": {
+      "item": "http://www.wikidata.org/entity/Q50625",
+      "article": "https://no.wikipedia.org/wiki/Hordaland",
+      "url": "http://www.hordaland.no/",
+      "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Hordaland%20v%C3%A5pen.svg",
+      "banner": "http://commons.wikimedia.org/wiki/Special:FilePath/UlvikfjordMountains%20banner.jpg",
+      "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Hordaland.svg",
+      "itemLabel": "Hordaland",
+      "naboer": [
+        "NO-08",
+        "NO-06",
+        "NO-11",
+        "NO-14"
+      ],
+      "bilde": {
+        "image": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Ulvik%20March%202009.jpg"
+        ],
+        "banner": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/UlvikfjordMountains%20banner.jpg"
+        ]
+      }
+    },
+    "NO-14": {
+      "item": "http://www.wikidata.org/entity/Q50626",
+      "article": "https://no.wikipedia.org/wiki/Sogn_og_Fjordane",
+      "url": "http://www.sfj.no/",
+      "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Sogn%20og%20Fjordane%20v%C3%A5pen.svg",
+      "banner": "http://commons.wikimedia.org/wiki/Special:FilePath/Oppstrynsvatnet%20banner.jpg",
+      "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Sogn%20og%20Fjordane.svg",
+      "itemLabel": "Sogn og Fjordane",
+      "naboer": [
+        "NO-05",
+        "NO-06",
+        "NO-12",
+        "NO-15"
+      ],
+      "bilde": {
+        "image": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Frahafstadfjellet.jpg"
+        ],
+        "banner": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Oppstrynsvatnet%20banner.jpg"
+        ]
+      }
+    },
+    "NO-15": {
+      "item": "http://www.wikidata.org/entity/Q50627",
+      "article": "https://no.wikipedia.org/wiki/M%C3%B8re_og_Romsdal",
+      "url": "http://www.mrfylke.no/",
+      "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/M%C3%B8re%20og%20Romsdal%20v%C3%A5pen.svg",
+      "banner": "http://commons.wikimedia.org/wiki/Special:FilePath/Romsdalsfjorden%20banner.jpg",
+      "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20M%C3%B8re%20og%20Romsdal.svg",
+      "itemLabel": "Møre og Romsdal",
+      "naboer": [
+        "NO-05",
+        "NO-14",
+        "NO-16",
+        "NO-50"
+      ],
+      "bilde": {
+        "image": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Vartdal.jpg"
+        ],
+        "banner": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Romsdalsfjorden%20banner.jpg"
+        ]
+      }
+    },
+    "NO-18": {
+      "item": "http://www.wikidata.org/entity/Q50630",
+      "article": "https://no.wikipedia.org/wiki/Nordland",
+      "url": "http://www.nfk.no/",
+      "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Nordland%20v%C3%A5pen.svg",
+      "banner": "http://commons.wikimedia.org/wiki/Special:FilePath/Norrland%20Wikivoyage%20banner.jpg",
+      "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Nordland.svg",
+      "itemLabel": "Nordland",
+      "naboer": [
+        "NO-17",
+        "NO-19",
+        "NO-50"
+      ],
+      "bilde": {
+        "image": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Berge%20Sieben%20Schwestern%20Norwegen.jpg"
+        ],
+        "banner": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Norrland%20Wikivoyage%20banner.jpg"
+        ]
+      }
+    },
+    "NO-19": {
+      "item": "http://www.wikidata.org/entity/Q50631",
+      "article": "https://no.wikipedia.org/wiki/Troms",
+      "url": "http://www.troms-f.kommune.no/",
+      "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Troms%20v%C3%A5pen.svg",
+      "banner": "http://commons.wikimedia.org/wiki/Special:FilePath/Havnnes%20banner.jpg",
+      "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Troms.svg",
+      "itemLabel": "Troms",
+      "naboer": [
+        "NO-18",
+        "NO-20"
+      ],
+      "bilde": {
+        "image": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Arn%C3%B8yh%C3%B8gda%2C%20Laukslettinden%2C%20Tjuvtinden%20%26%20R%C3%B8dhetta%2C%202012%20March.jpg"
+        ],
+        "banner": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Havnnes%20banner.jpg"
+        ]
+      }
+    },
+    "NO-20": {
+      "item": "http://www.wikidata.org/entity/Q50632",
+      "article": "https://no.wikipedia.org/wiki/Finnmark",
+      "url": "http://www.ffk.no/",
+      "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Finnmark%20v%C3%A5pen.svg",
+      "banner": "http://commons.wikimedia.org/wiki/Special:FilePath/NordkapPanoramaHDR%20banner.jpg",
+      "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Finnmark.svg",
+      "itemLabel": "Finnmark",
+      "naboer": [
+        "NO-19"
+      ],
+      "bilde": {
+        "image": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Locator%20map%20of%20municipalities%20in%20Finnmark%2C%20Norway%20numbered.svg"
+        ],
+        "banner": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/NordkapPanoramaHDR%20banner.jpg"
+        ]
+      }
+    },
+    "NO-50": {
+      "item": "http://www.wikidata.org/entity/Q127676",
+      "article": "https://no.wikipedia.org/wiki/Tr%C3%B8ndelag",
+      "url": "http://www.trondelag.com",
+      "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Tr%C3%B8ndelag%20v%C3%A5pen.svg",
+      "banner": "http://commons.wikimedia.org/wiki/Special:FilePath/Langnes%20small%20craft%20harbor.jpg",
+      "osm": "406567",
+      "itemLabel": "Trøndelag",
+      "naboer": [
+        "NO-04",
+        "NO-05",
+        "NO-15",
+        "NO-18"
+      ],
+      "bilde": {
+        "image": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Seierstad%20J%C3%B8a.jpg"
+        ],
+        "banner": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Langnes%20small%20craft%20harbor.jpg"
+        ]
+      }
+    }
+  },
+  "meta": {
+    "tittel": "Fylke",
+    "produsertUtc": "2019-04-20T15:37:16.530Z",
+    "utgiver": "Artsdatabanken",
+    "url": "https://github.com/Artsdatabanken/kommune-data/blob/master/fylke.json",
+    "tool": {
+      "name": "kverna",
+      "url": "https://github.com/Artsdatabanken/kverna/"
+    }
+  }
 }
