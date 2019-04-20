@@ -3211,12 +3211,12 @@
 			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Narvik%20komm.svg",
 			"itemLabel": "Narvik kommune",
 			"naboer": [
+				"1920",
 				"1853",
 				"1854",
 				"1919",
 				"1913",
-				"1922",
-				"1920"
+				"1922"
 			],
 			"bilde": {
 				"image": [
@@ -5029,329 +5029,45 @@
 				"1601"
 			]
 		},
-		"0928": {
-			"item": "http://www.wikidata.org/entity/Q88802",
-			"article": "https://no.wikipedia.org/wiki/Birkenes",
-			"url": "http://www.birkenes.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Birkenes%20komm.svg",
-			"inception": "1838-01-01T00:00:00.000Z",
-			"itemLabel": "Birkenes",
+		"0101": {
+			"item": "http://www.wikidata.org/entity/Q109042",
+			"article": "https://no.wikipedia.org/wiki/Halden",
+			"url": "http://www.halden.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Halden%20komm.svg",
+			"itemLabel": "Halden",
 			"naboer": [
-				"1001",
-				"0937",
-				"0919",
-				"0904",
-				"0935",
-				"0926",
-				"1014"
-			]
-		},
-		"0941": {
-			"item": "http://www.wikidata.org/entity/Q88806",
-			"article": "https://no.wikipedia.org/wiki/Bykle",
-			"url": "http://www.bykle.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Bykle%20komm.svg",
-			"itemLabel": "Bykle",
-			"naboer": [
-				"0833",
-				"0834",
-				"1134",
-				"0940",
-				"1133",
-				"1046",
-				"1129"
-			]
-		},
-		"0938": {
-			"item": "http://www.wikidata.org/entity/Q88804",
-			"article": "https://no.wikipedia.org/wiki/Bygland",
-			"url": "http://www.bygland.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Bygland%20komm.svg",
-			"itemLabel": "Bygland",
-			"naboer": [
-				"0831",
-				"0937",
-				"0919",
-				"0940",
-				"0929",
-				"1026",
-				"1046",
-				"1037"
-			]
-		},
-		"0919": {
-			"item": "http://www.wikidata.org/entity/Q88810",
-			"article": "https://no.wikipedia.org/wiki/Froland",
-			"url": "http://www.froland.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Froland%20komm.svg",
-			"itemLabel": "Froland",
-			"naboer": [
-				"0906",
-				"0928",
-				"0938",
-				"0937",
-				"0904",
-				"0914",
-				"0929"
+				"0118",
+				"0105",
+				"0128"
 			],
 			"bilde": {
 				"image": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Krk-Froland.jpg"
-				],
-				"banner": []
-			}
-		},
-		"0937": {
-			"item": "http://www.wikidata.org/entity/Q88808",
-			"article": "https://no.wikipedia.org/wiki/Evje_og_Hornnes",
-			"url": "http://www.e-h.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Evje%20og%20Hornnes%20komm.svg",
-			"inception": "1960-01-01T00:00:00.000Z",
-			"itemLabel": "Evje og Hornnes",
-			"naboer": [
-				"0928",
-				"0938",
-				"0919",
-				"0935",
-				"1026",
-				"1021",
-				"1027",
-				"1014"
-			]
-		},
-		"0911": {
-			"item": "http://www.wikidata.org/entity/Q88813",
-			"article": "https://no.wikipedia.org/wiki/Gjerstad",
-			"url": "http://www.gjerstad.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Gjerstad%20komm.svg",
-			"itemLabel": "Gjerstad",
-			"naboer": [
-				"0830",
-				"0817",
-				"0815",
-				"0901",
-				"0912"
-			]
-		},
-		"0904": {
-			"item": "http://www.wikidata.org/entity/Q90590",
-			"article": "https://no.wikipedia.org/wiki/Grimstad",
-			"url": "http://www.grimstad.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Grimstad%20komm.svg",
-			"itemLabel": "Grimstad",
-			"naboer": [
-				"0906",
-				"0928",
-				"0919",
-				"0926"
-			],
-			"bilde": {
-				"image": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Grimstad%20078.jpg"
-				],
-				"banner": []
-			}
-		},
-		"0935": {
-			"item": "http://www.wikidata.org/entity/Q90592",
-			"article": "https://no.wikipedia.org/wiki/Iveland",
-			"url": "http://www.iveland.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Iveland%20komm.svg",
-			"inception": "1886-01-01T00:00:00.000Z",
-			"itemLabel": "Iveland",
-			"naboer": [
-				"0928",
-				"0937",
-				"1014"
-			]
-		},
-		"0234": {
-			"item": "http://www.wikidata.org/entity/Q57084",
-			"article": "https://no.wikipedia.org/wiki/Gjerdrum",
-			"url": "http://www.gjerdrum.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Gjerdrum%20komm.svg",
-			"itemLabel": "Gjerdrum",
-			"naboer": [
-				"0238",
-				"0233",
-				"0231",
-				"0226",
-				"0235"
-			],
-			"bilde": {
-				"image": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Gjerdrum%20kulturhus.JPG"
-				],
-				"banner": []
-			}
-		},
-		"0239": {
-			"item": "http://www.wikidata.org/entity/Q57858",
-			"article": "https://no.wikipedia.org/wiki/Hurdal",
-			"url": "http://www.hurdal.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Hurdal%20komm.svg",
-			"itemLabel": "Hurdal",
-			"naboer": [
-				"0529",
-				"0237",
-				"0238",
-				"0528",
-				"0534"
-			],
-			"bilde": {
-				"image": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Trafikkinferno%20Grue%20Hurdal%20-%2011.jpg"
-				],
-				"banner": []
-			}
-		},
-		"0616": {
-			"item": "http://www.wikidata.org/entity/Q483986",
-			"article": "https://no.wikipedia.org/wiki/Nes_(Buskerud)",
-			"url": "http://www.nes-bu.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Nes%20Buskerud%20komm.svg",
-			"itemLabel": "Nes",
-			"naboer": [
-				"0540",
-				"0633",
-				"0615",
-				"0619",
-				"0617"
-			],
-			"bilde": {
-				"image": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Nesbyen%20Kirche.jpg"
-				],
-				"banner": []
-			}
-		},
-		"0623": {
-			"item": "http://www.wikidata.org/entity/Q484001",
-			"article": "https://no.wikipedia.org/wiki/Modum",
-			"url": "http://www.modum.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Modum%20komm.svg",
-			"itemLabel": "Modum",
-			"naboer": [
-				"0622",
-				"0625",
-				"0624",
-				"0605",
-				"0621",
-				"0626",
-				"0612"
-			]
-		},
-		"0833": {
-			"item": "http://www.wikidata.org/entity/Q2241",
-			"article": "https://no.wikipedia.org/wiki/Tokke",
-			"url": "http://www.tokke.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Tokke%20komm.svg",
-			"itemLabel": "Tokke",
-			"naboer": [
-				"0831",
-				"0829",
-				"0828",
-				"0834",
-				"0941",
-				"0940"
-			]
-		},
-		"0834": {
-			"item": "http://www.wikidata.org/entity/Q2245",
-			"article": "https://no.wikipedia.org/wiki/Vinje",
-			"url": "http://www.vinje.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Vinje%20komm.svg",
-			"itemLabel": "Vinje",
-			"naboer": [
-				"0828",
-				"0833",
-				"0826",
-				"1134",
-				"0633",
-				"0941",
-				"1228",
-				"1231"
-			]
-		},
-		"0806": {
-			"item": "http://www.wikidata.org/entity/Q2272",
-			"article": "https://no.wikipedia.org/wiki/Skien",
-			"url": "http://www.skien.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Skien%20komm.svg",
-			"itemLabel": "Skien",
-			"naboer": [
-				"0805",
-				"0811",
-				"0817",
-				"0819",
-				"0822",
-				"0604",
-				"0814"
-			],
-			"bilde": {
-				"image": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Bryggevannet%20og%20Hjellevannet%20-%20Skien.jpg"
+					"http://commons.wikimedia.org/wiki/Special:FilePath/Halden%20Fra%20Festningen.jpg"
 				],
 				"banner": [
 					"http://commons.wikimedia.org/wiki/Special:FilePath/Skien%20banner.jpg"
 				]
 			}
 		},
-		"0227": {
-			"item": "http://www.wikidata.org/entity/Q57082",
-			"article": "https://no.wikipedia.org/wiki/Fet",
-			"url": "http://www.fet.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Fet%20komm.svg",
-			"itemLabel": "Fet",
+		"0104": {
+			"item": "http://www.wikidata.org/entity/Q109021",
+			"article": "https://no.wikipedia.org/wiki/Moss",
+			"url": "http://www.moss.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Moss%20komm.svg",
+			"itemLabel": "Moss",
 			"naboer": [
-				"0122",
-				"0221",
-				"0229",
-				"0228",
-				"0231",
-				"0226"
+				"0211",
+				"0136",
+				"0137"
 			],
 			"bilde": {
 				"image": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Fetsund%26bru.jpg"
+					"http://commons.wikimedia.org/wiki/Special:FilePath/Moss%2C%20Norway.jpg"
 				],
-				"banner": []
+				"banner": [
+					"http://commons.wikimedia.org/wiki/Special:FilePath/Moss-banner.jpg"
+				]
 			}
-		},
-		"0215": {
-			"item": "http://www.wikidata.org/entity/Q57083",
-			"article": "https://no.wikipedia.org/wiki/Frogn",
-			"url": "http://www.frogn.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Frogn%20komm.svg",
-			"itemLabel": "Frogn",
-			"naboer": [
-				"0214",
-				"0216",
-				"0211"
-			],
-			"bilde": {
-				"image": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Dr%C3%B8bak%20Nordstranda.JPG"
-				],
-				"banner": []
-			}
-		},
-		"0229": {
-			"item": "http://www.wikidata.org/entity/Q57081",
-			"article": "https://no.wikipedia.org/wiki/Enebakk",
-			"url": "http://www.enebakk.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Enebakk%20komm.svg",
-			"itemLabel": "Enebakk",
-			"naboer": [
-				"0301",
-				"0123",
-				"0122",
-				"0227",
-				"0230",
-				"0228",
-				"0213",
-				"0138"
-			]
 		},
 		"0105": {
 			"item": "http://www.wikidata.org/entity/Q108025",
@@ -5378,132 +5094,239 @@
 				]
 			}
 		},
-		"0502": {
-			"item": "http://www.wikidata.org/entity/Q108031",
-			"article": "https://no.wikipedia.org/wiki/Gj%C3%B8vik",
-			"url": "http://www.gjovik.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Gj%C3%B8vik%20komm.svg",
-			"itemLabel": "Gjøvik",
+		"0106": {
+			"item": "http://www.wikidata.org/entity/Q107135",
+			"article": "https://no.wikipedia.org/wiki/Fredrikstad",
+			"url": "http://www.fredrikstad.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Fredrikstad%20komm.svg",
+			"inception": "1567-01-01T00:00:00.000Z",
+			"itemLabel": "Fredrikstad",
 			"naboer": [
-				"0529",
-				"0501",
-				"0412",
-				"0528",
-				"0536",
-				"0538"
+				"0105",
+				"0135",
+				"0111"
 			],
 			"bilde": {
 				"image": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Gj%C3%B8vik%20sett%20fra%20Nordlia.jpg"
+					"http://commons.wikimedia.org/wiki/Special:FilePath/Fredrikstad%20bryggepromenade%20fra%20Kr%C3%A5ker%C3%B8ybroa.JPG"
 				],
 				"banner": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Gj%C3%B8vik%20banner.jpg"
+					"http://commons.wikimedia.org/wiki/Special:FilePath/Fredrikstad%20banner.jpg"
 				]
 			}
 		},
-		"0542": {
-			"item": "http://www.wikidata.org/entity/Q484074",
-			"article": "https://no.wikipedia.org/wiki/Nord-Aurdal",
-			"url": "http://www.nord-aurdal.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Nord-Aurdal%20komm.svg",
-			"itemLabel": "Nord-Aurdal",
+		"0111": {
+			"item": "http://www.wikidata.org/entity/Q488435",
+			"article": "https://no.wikipedia.org/wiki/Hvaler_(kommune)",
+			"url": "http://www.hvaler.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Hvaler%20komm.svg",
+			"itemLabel": "Hvaler",
 			"naboer": [
-				"0540",
-				"0544",
-				"0522",
-				"0538",
-				"0541",
-				"0543",
-				"0617",
-				"0618"
+				"0106",
+				"0105"
 			]
 		},
-		"0807": {
-			"item": "http://www.wikidata.org/entity/Q2326",
-			"article": "https://no.wikipedia.org/wiki/Notodden",
-			"url": "http://www.notodden.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Notodden%20komm.svg",
-			"itemLabel": "Notodden",
+		"0118": {
+			"item": "http://www.wikidata.org/entity/Q48393",
+			"article": "https://no.wikipedia.org/wiki/Aremark",
+			"url": "http://www.aremark.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Aremark%20komm.svg",
+			"inception": "1837-01-01T00:00:00.000Z",
+			"itemLabel": "Aremark",
 			"naboer": [
-				"0828",
-				"0827",
-				"0826",
-				"0822",
-				"0631",
-				"0604",
-				"0821"
+				"0101",
+				"0128",
+				"0119"
+			]
+		},
+		"0119": {
+			"item": "http://www.wikidata.org/entity/Q486736",
+			"article": "https://no.wikipedia.org/wiki/Marker",
+			"url": "http://www.marker.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Marker%20komm.svg",
+			"itemLabel": "Marker",
+			"naboer": [
+				"0118",
+				"0221",
+				"0121",
+				"0125",
+				"0128"
+			]
+		},
+		"0121": {
+			"item": "http://www.wikidata.org/entity/Q113622",
+			"article": "https://no.wikipedia.org/wiki/R%C3%B8mskog",
+			"url": "http://www.romskog.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/R%C3%B8mskog%20komm.svg",
+			"itemLabel": "Rømskog",
+			"naboer": [
+				"0221",
+				"0119"
+			]
+		},
+		"0122": {
+			"item": "http://www.wikidata.org/entity/Q48678",
+			"article": "https://no.wikipedia.org/wiki/Tr%C3%B8gstad",
+			"url": "http://www.trogstad.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Tr%C3%B8gstad%20komm.svg",
+			"itemLabel": "Trøgstad",
+			"naboer": [
+				"0123",
+				"0221",
+				"0229",
+				"0227",
+				"0124",
+				"0125"
 			],
 			"bilde": {
 				"image": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Notodden%20dark.jpg"
-				],
-				"banner": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Notodden%20Wikivoyage%20Banner.jpg"
-				]
-			}
-		},
-		"0827": {
-			"item": "http://www.wikidata.org/entity/Q2354",
-			"article": "https://no.wikipedia.org/wiki/Hjartdal",
-			"url": "http://www.hjartdal.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Hjartdal%20komm.svg",
-			"itemLabel": "Hjartdal",
-			"naboer": [
-				"0828",
-				"0807",
-				"0826"
-			]
-		},
-		"0826": {
-			"item": "http://www.wikidata.org/entity/Q2365",
-			"article": "https://no.wikipedia.org/wiki/Tinn_(kommune)",
-			"url": "http://www.tinn.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Tinn%20komm.svg",
-			"itemLabel": "Tinn",
-			"naboer": [
-				"0828",
-				"0834",
-				"0807",
-				"0827",
-				"0633",
-				"0631",
-				"0632"
-			],
-			"bilde": {
-				"image": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/P1000747Rjukan.JPG"
+					"http://commons.wikimedia.org/wiki/Special:FilePath/Trogstad%20kommune%20M%C3%B8rk.jpg"
 				],
 				"banner": []
 			}
 		},
-		"0228": {
-			"item": "http://www.wikidata.org/entity/Q57870",
-			"article": "https://no.wikipedia.org/wiki/R%C3%A6lingen",
-			"url": "http://www.ralingen.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/R%C3%A6lingen%20komm.svg",
-			"itemLabel": "Rælingen",
+		"0123": {
+			"item": "http://www.wikidata.org/entity/Q48668",
+			"article": "https://no.wikipedia.org/wiki/Spydeberg",
+			"url": "http://www.spydeberg.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Spydeberg%20komm.svg",
+			"itemLabel": "Spydeberg",
 			"naboer": [
+				"0122",
 				"0229",
-				"0227",
-				"0230",
-				"0231"
+				"0124",
+				"0138",
+				"0127",
+				"0137"
 			]
 		},
-		"0231": {
-			"item": "http://www.wikidata.org/entity/Q57871",
-			"article": "https://no.wikipedia.org/wiki/Skedsmo",
-			"url": "http://www.skedsmo.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Skedsmo%20komm.svg",
-			"itemLabel": "Skedsmo",
-			"osm": "406125",
+		"0124": {
+			"item": "http://www.wikidata.org/entity/Q109469",
+			"article": "https://no.wikipedia.org/wiki/Askim",
+			"url": "http://www.askim.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Askim%20komm.svg",
+			"itemLabel": "Askim",
 			"naboer": [
-				"0301",
-				"0227",
-				"0234",
-				"0230",
-				"0233",
-				"0228",
-				"0226"
+				"0123",
+				"0122",
+				"0125",
+				"0127"
+			]
+		},
+		"0125": {
+			"item": "http://www.wikidata.org/entity/Q113740",
+			"article": "https://no.wikipedia.org/wiki/Eidsberg",
+			"url": "http://www.eidsberg.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Eidsberg%20komm.svg",
+			"itemLabel": "Eidsberg",
+			"naboer": [
+				"0122",
+				"0221",
+				"0124",
+				"0127",
+				"0128",
+				"0119"
+			]
+		},
+		"0127": {
+			"item": "http://www.wikidata.org/entity/Q156420",
+			"article": "https://no.wikipedia.org/wiki/Skiptvet",
+			"url": "http://www.skiptvet.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Skiptvet%20komm.svg",
+			"itemLabel": "Skiptvet",
+			"naboer": [
+				"0123",
+				"0105",
+				"0124",
+				"0125",
+				"0128",
+				"0137"
+			]
+		},
+		"0128": {
+			"item": "http://www.wikidata.org/entity/Q483969",
+			"article": "https://no.wikipedia.org/wiki/Rakkestad",
+			"url": "http://www.rakkestad.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Rakkestad%20komm.svg",
+			"itemLabel": "Rakkestad",
+			"naboer": [
+				"0118",
+				"0105",
+				"0101",
+				"0125",
+				"0127",
+				"0119"
+			]
+		},
+		"0135": {
+			"item": "http://www.wikidata.org/entity/Q483906",
+			"article": "https://no.wikipedia.org/wiki/R%C3%A5de",
+			"url": "http://www.rade.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/R%C3%A5de%20komm.svg",
+			"itemLabel": "Råde",
+			"naboer": [
+				"0106",
+				"0105",
+				"0136",
+				"0137"
+			]
+		},
+		"0136": {
+			"item": "http://www.wikidata.org/entity/Q486696",
+			"article": "https://no.wikipedia.org/wiki/Rygge",
+			"url": "http://www.rygge.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Rygge%20komm.svg",
+			"itemLabel": "Rygge",
+			"naboer": [
+				"0104",
+				"0135",
+				"0137"
+			]
+		},
+		"0137": {
+			"item": "http://www.wikidata.org/entity/Q499446",
+			"article": "https://no.wikipedia.org/wiki/V%C3%A5ler_(%C3%98stfold)",
+			"url": "http://www.valer-of.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/V%C3%A5ler%20%C3%98stfold%20komm.svg",
+			"itemLabel": "Våler",
+			"naboer": [
+				"0123",
+				"0211",
+				"0105",
+				"0104",
+				"0138",
+				"0127",
+				"0135",
+				"0136"
+			]
+		},
+		"0138": {
+			"item": "http://www.wikidata.org/entity/Q109475",
+			"article": "https://no.wikipedia.org/wiki/Hob%C3%B8l",
+			"url": "http://www.hobol.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Hob%C3%B8l%20komm.svg",
+			"itemLabel": "Hobøl",
+			"naboer": [
+				"0123",
+				"0214",
+				"0229",
+				"0213",
+				"0211",
+				"0137"
+			]
+		},
+		"0211": {
+			"item": "http://www.wikidata.org/entity/Q57918",
+			"article": "https://no.wikipedia.org/wiki/Vestby",
+			"url": "http://www.vestby.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Vestby%20komm.svg",
+			"itemLabel": "Vestby",
+			"naboer": [
+				"0214",
+				"0215",
+				"0104",
+				"0138",
+				"0137"
 			]
 		},
 		"0213": {
@@ -5518,201 +5341,6 @@
 				"0229",
 				"0217",
 				"0138"
-			]
-		},
-		"0901": {
-			"item": "http://www.wikidata.org/entity/Q90595",
-			"article": "https://no.wikipedia.org/wiki/Ris%C3%B8r",
-			"url": "http://www.risor.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Ris%C3%B8r%20komm.svg",
-			"itemLabel": "Risør",
-			"naboer": [
-				"0815",
-				"0911",
-				"0914",
-				"0912"
-			],
-			"bilde": {
-				"image": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Ris%C3%B8r%20Krantoppen%20august%202017%20%284%29.jpg"
-				],
-				"banner": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Ris%C3%B8r%20banner.jpg"
-				]
-			}
-		},
-		"0926": {
-			"item": "http://www.wikidata.org/entity/Q90593",
-			"article": "https://no.wikipedia.org/wiki/Lillesand",
-			"url": "http://www.lillesand.kommune.no",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Lillesand%20komm.svg",
-			"itemLabel": "Lillesand",
-			"osm": "406034",
-			"naboer": [
-				"1001",
-				"0928",
-				"0904"
-			],
-			"bilde": {
-				"image": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Lillesandskyline12.jpg"
-				],
-				"banner": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Lillesand%20banner.jpg"
-				]
-			}
-		},
-		"0940": {
-			"item": "http://www.wikidata.org/entity/Q90598",
-			"article": "https://no.wikipedia.org/wiki/Valle",
-			"url": "http://www.valle.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Valle%20komm.svg",
-			"itemLabel": "Valle",
-			"naboer": [
-				"0831",
-				"0833",
-				"0938",
-				"0941",
-				"1046"
-			],
-			"bilde": {
-				"image": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Landscape%20Setesdal%20-%202%20%282705360655%29.jpg"
-				],
-				"banner": []
-			}
-		},
-		"0914": {
-			"item": "http://www.wikidata.org/entity/Q90597",
-			"article": "https://no.wikipedia.org/wiki/Tvedestrand",
-			"url": "http://www.tvedestrand.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Tvedestrand%20komm.svg",
-			"itemLabel": "Tvedestrand",
-			"naboer": [
-				"0906",
-				"0919",
-				"0901",
-				"0912",
-				"0929"
-			],
-			"bilde": {
-				"image": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Tvedestrand%20Brygga%202000.jpg"
-				],
-				"banner": []
-			}
-		},
-		"0912": {
-			"item": "http://www.wikidata.org/entity/Q90600",
-			"article": "https://no.wikipedia.org/wiki/Veg%C3%A5rshei",
-			"url": "http://www.vegarshei.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Veg%C3%A5rshei%20komm.svg",
-			"itemLabel": "Vegårshei",
-			"naboer": [
-				"0830",
-				"0911",
-				"0901",
-				"0914",
-				"0929"
-			]
-		},
-		"0715": {
-			"item": "http://www.wikidata.org/entity/Q483871",
-			"article": "https://no.wikipedia.org/wiki/Holmestrand",
-			"url": "http://www.holmestrand.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Holmestrand%20komm.svg",
-			"itemLabel": "Holmestrand",
-			"naboer": [
-				"0602",
-				"0604",
-				"0625",
-				"0624",
-				"0712",
-				"0713",
-				"0716"
-			],
-			"bilde": {
-				"image": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Holmestrand.jpg"
-				],
-				"banner": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Holmestrand%20Wikivoyage%20Banner.jpg"
-				]
-			}
-		},
-		"0301": {
-			"item": "http://www.wikidata.org/entity/Q585",
-			"article": "https://no.wikipedia.org/wiki/Oslo",
-			"url": "http://www.oslo.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Oslo%20komm.svg",
-			"inception": "1048-01-01T00:00:00.000Z",
-			"itemLabel": "Oslo",
-			"elevation": "23",
-			"osm": "2775550",
-			"naboer": [
-				"0219",
-				"0229",
-				"0230",
-				"0216",
-				"0233",
-				"0217",
-				"0231",
-				"0213",
-				"0605",
-				"0533"
-			],
-			"bilde": {
-				"image": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Oslo%20city%20in%2010%20images.jpg"
-				],
-				"banner": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Oslo%20banner%20Akershus%20castle.jpg"
-				]
-			}
-		},
-		"0434": {
-			"item": "http://www.wikidata.org/entity/Q48909",
-			"article": "https://no.wikipedia.org/wiki/Engerdal",
-			"url": "http://www.engerdal.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Engerdal%20komm.svg",
-			"itemLabel": "Engerdal",
-			"naboer": [
-				"0428",
-				"1640",
-				"0432",
-				"0436",
-				"0441"
-			]
-		},
-		"0420": {
-			"item": "http://www.wikidata.org/entity/Q48913",
-			"article": "https://no.wikipedia.org/wiki/Eidskog",
-			"url": "http://www.eidskog.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Eidskog%20komm.svg",
-			"itemLabel": "Eidskog",
-			"naboer": [
-				"0419",
-				"0221",
-				"0402",
-				"0236"
-			]
-		},
-		"0633": {
-			"item": "http://www.wikidata.org/entity/Q48924",
-			"article": "https://no.wikipedia.org/wiki/Nore_og_Uvdal",
-			"url": "http://www.nore-og-uvdal.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Nore%20og%20Uvdal%20komm.svg",
-			"itemLabel": "Nore og Uvdal",
-			"naboer": [
-				"0834",
-				"0826",
-				"0615",
-				"0619",
-				"0632",
-				"1232",
-				"0616",
-				"0620",
-				"0621"
 			]
 		},
 		"0214": {
@@ -5737,176 +5365,68 @@
 				]
 			}
 		},
-		"0929": {
-			"item": "http://www.wikidata.org/entity/Q90601",
-			"article": "https://no.wikipedia.org/wiki/%C3%85mli",
-			"url": "http://www.amli.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%85mli%20komm.svg",
-			"itemLabel": "Åmli",
+		"0215": {
+			"item": "http://www.wikidata.org/entity/Q57083",
+			"article": "https://no.wikipedia.org/wiki/Frogn",
+			"url": "http://www.frogn.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Frogn%20komm.svg",
+			"itemLabel": "Frogn",
 			"naboer": [
-				"0831",
-				"0830",
-				"0938",
-				"0919",
-				"0914",
-				"0912"
-			]
-		},
-		"0631": {
-			"item": "http://www.wikidata.org/entity/Q93633",
-			"article": "https://no.wikipedia.org/wiki/Flesberg",
-			"url": "http://www.flesberg.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Flesberg%20komm.svg",
-			"itemLabel": "Flesberg",
-			"naboer": [
-				"0807",
-				"0826",
-				"0604",
-				"0624",
-				"0632",
-				"0621"
-			]
-		},
-		"0615": {
-			"item": "http://www.wikidata.org/entity/Q93703",
-			"article": "https://no.wikipedia.org/wiki/Fl%C3%A5",
-			"url": "http://www.flaa.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Fl%C3%A5%20komm.svg",
-			"itemLabel": "Flå",
-			"naboer": [
-				"0540",
-				"0622",
-				"0633",
-				"0605",
-				"0616",
-				"0621"
-			]
-		},
-		"0501": {
-			"item": "http://www.wikidata.org/entity/Q101341",
-			"article": "https://no.wikipedia.org/wiki/Lillehammer",
-			"url": "http://lillehammer.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Lillehammer%20komm.svg",
-			"inception": "1827-01-01T00:00:00.000Z",
-			"itemLabel": "Lillehammer",
-			"elevation": "162",
-			"naboer": [
-				"0502",
-				"0412",
-				"0521",
-				"0522",
-				"0538"
+				"0214",
+				"0216",
+				"0211"
 			],
 			"bilde": {
 				"image": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/LillehammerDSC01504.JPG"
+					"http://commons.wikimedia.org/wiki/Special:FilePath/Dr%C3%B8bak%20Nordstranda.JPG"
 				],
-				"banner": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Lillehammer%20banner.jpg"
-				]
+				"banner": []
 			}
 		},
-		"0135": {
-			"item": "http://www.wikidata.org/entity/Q483906",
-			"article": "https://no.wikipedia.org/wiki/R%C3%A5de",
-			"url": "http://www.rade.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/R%C3%A5de%20komm.svg",
-			"itemLabel": "Råde",
+		"0216": {
+			"item": "http://www.wikidata.org/entity/Q57864",
+			"article": "https://no.wikipedia.org/wiki/Nesodden",
+			"url": "http://www.nesodden.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Nesodden%20komm.svg",
+			"itemLabel": "Nesodden",
 			"naboer": [
-				"0106",
-				"0105",
-				"0136",
-				"0137"
+				"0301",
+				"0220",
+				"0219",
+				"0215"
+			],
+			"bilde": {
+				"image": [
+					"http://commons.wikimedia.org/wiki/Special:FilePath/Oksval.JPG"
+				],
+				"banner": []
+			}
+		},
+		"0217": {
+			"item": "http://www.wikidata.org/entity/Q57868",
+			"article": "https://no.wikipedia.org/wiki/Oppeg%C3%A5rd",
+			"url": "http://www.oppegard.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Oppeg%C3%A5rd%20komm.svg",
+			"itemLabel": "Oppegård",
+			"naboer": [
+				"0301",
+				"0214",
+				"0213"
 			]
 		},
-		"0632": {
-			"item": "http://www.wikidata.org/entity/Q483911",
-			"article": "https://no.wikipedia.org/wiki/Rollag",
-			"url": "http://www.rollag.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Rollag%20komm.svg",
-			"itemLabel": "Rollag",
+		"0219": {
+			"item": "http://www.wikidata.org/entity/Q57076",
+			"article": "https://no.wikipedia.org/wiki/B%C3%A6rum",
+			"url": "http://www.baerum.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/B%C3%A6rum%20komm.svg",
+			"itemLabel": "Bærum",
 			"naboer": [
-				"0826",
-				"0633",
-				"0631",
-				"0621"
-			]
-		},
-		"0128": {
-			"item": "http://www.wikidata.org/entity/Q483969",
-			"article": "https://no.wikipedia.org/wiki/Rakkestad",
-			"url": "http://www.rakkestad.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Rakkestad%20komm.svg",
-			"itemLabel": "Rakkestad",
-			"naboer": [
-				"0118",
-				"0105",
-				"0101",
-				"0125",
-				"0127",
-				"0119"
-			]
-		},
-		"0831": {
-			"item": "http://www.wikidata.org/entity/Q1881",
-			"article": "https://no.wikipedia.org/wiki/Fyresdal",
-			"url": "http://www.fyresdal.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Fyresdal%20komm.svg",
-			"itemLabel": "Fyresdal",
-			"naboer": [
-				"0830",
-				"0829",
-				"0833",
-				"0938",
-				"0940",
-				"0929"
-			]
-		},
-		"0830": {
-			"item": "http://www.wikidata.org/entity/Q2229",
-			"article": "https://no.wikipedia.org/wiki/Nissedal",
-			"url": "http://www.nissedal.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Nissedal%20komm.svg",
-			"itemLabel": "Nissedal",
-			"naboer": [
-				"0831",
-				"0829",
-				"0817",
-				"0911",
-				"0912",
-				"0929"
-			]
-		},
-		"0829": {
-			"item": "http://www.wikidata.org/entity/Q2232",
-			"article": "https://no.wikipedia.org/wiki/Kviteseid",
-			"url": "http://www.kviteseid.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Kviteseid%20komm.svg",
-			"itemLabel": "Kviteseid",
-			"naboer": [
-				"0831",
-				"0830",
-				"0828",
-				"0833",
-				"0817",
-				"0819",
-				"0821"
-			]
-		},
-		"0828": {
-			"item": "http://www.wikidata.org/entity/Q2236",
-			"article": "https://no.wikipedia.org/wiki/Seljord",
-			"url": "http://www.seljord.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Seljord%20komm.svg",
-			"itemLabel": "Seljord",
-			"naboer": [
-				"0829",
-				"0833",
-				"0834",
-				"0807",
-				"0827",
-				"0826",
-				"0821"
+				"0301",
+				"0220",
+				"0216",
+				"0605",
+				"0626",
+				"0612"
 			]
 		},
 		"0220": {
@@ -5946,20 +5466,191 @@
 				"0236"
 			]
 		},
-		"0219": {
-			"item": "http://www.wikidata.org/entity/Q57076",
-			"article": "https://no.wikipedia.org/wiki/B%C3%A6rum",
-			"url": "http://www.baerum.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/B%C3%A6rum%20komm.svg",
-			"itemLabel": "Bærum",
+		"0226": {
+			"item": "http://www.wikidata.org/entity/Q57914",
+			"article": "https://no.wikipedia.org/wiki/S%C3%B8rum",
+			"url": "http://www.sorum.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/S%C3%B8rum%20komm.svg",
+			"itemLabel": "Sørum",
+			"naboer": [
+				"0221",
+				"0227",
+				"0234",
+				"0231",
+				"0235",
+				"0236"
+			],
+			"bilde": {
+				"image": [
+					"http://commons.wikimedia.org/wiki/Special:FilePath/S%C3%B8rumsand%20stasjon%20Tertitten.JPG"
+				],
+				"banner": []
+			}
+		},
+		"0227": {
+			"item": "http://www.wikidata.org/entity/Q57082",
+			"article": "https://no.wikipedia.org/wiki/Fet",
+			"url": "http://www.fet.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Fet%20komm.svg",
+			"itemLabel": "Fet",
+			"naboer": [
+				"0122",
+				"0221",
+				"0229",
+				"0228",
+				"0231",
+				"0226"
+			],
+			"bilde": {
+				"image": [
+					"http://commons.wikimedia.org/wiki/Special:FilePath/Fetsund%26bru.jpg"
+				],
+				"banner": []
+			}
+		},
+		"0228": {
+			"item": "http://www.wikidata.org/entity/Q57870",
+			"article": "https://no.wikipedia.org/wiki/R%C3%A6lingen",
+			"url": "http://www.ralingen.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/R%C3%A6lingen%20komm.svg",
+			"itemLabel": "Rælingen",
+			"naboer": [
+				"0229",
+				"0227",
+				"0230",
+				"0231"
+			]
+		},
+		"0229": {
+			"item": "http://www.wikidata.org/entity/Q57081",
+			"article": "https://no.wikipedia.org/wiki/Enebakk",
+			"url": "http://www.enebakk.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Enebakk%20komm.svg",
+			"itemLabel": "Enebakk",
 			"naboer": [
 				"0301",
-				"0220",
-				"0216",
-				"0605",
-				"0626",
-				"0612"
+				"0123",
+				"0122",
+				"0227",
+				"0230",
+				"0228",
+				"0213",
+				"0138"
 			]
+		},
+		"0230": {
+			"item": "http://www.wikidata.org/entity/Q57860",
+			"article": "https://no.wikipedia.org/wiki/L%C3%B8renskog",
+			"url": "http://www.lorenskog.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/L%C3%B8renskog%20komm.svg",
+			"itemLabel": "Lørenskog",
+			"osm": "406126",
+			"naboer": [
+				"0301",
+				"0229",
+				"0228",
+				"0231"
+			],
+			"bilde": {
+				"image": [
+					"http://commons.wikimedia.org/wiki/Special:FilePath/L%C3%B8renskog%20kirke%2020080614-2.jpg"
+				],
+				"banner": []
+			}
+		},
+		"0231": {
+			"item": "http://www.wikidata.org/entity/Q57871",
+			"article": "https://no.wikipedia.org/wiki/Skedsmo",
+			"url": "http://www.skedsmo.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Skedsmo%20komm.svg",
+			"itemLabel": "Skedsmo",
+			"osm": "406125",
+			"naboer": [
+				"0301",
+				"0227",
+				"0234",
+				"0230",
+				"0233",
+				"0228",
+				"0226"
+			]
+		},
+		"0233": {
+			"item": "http://www.wikidata.org/entity/Q57865",
+			"article": "https://no.wikipedia.org/wiki/Nittedal",
+			"url": "http://www.nittedal.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Nittedal%20komm.svg",
+			"itemLabel": "Nittedal",
+			"naboer": [
+				"0301",
+				"0234",
+				"0238",
+				"0231",
+				"0533"
+			]
+		},
+		"0234": {
+			"item": "http://www.wikidata.org/entity/Q57084",
+			"article": "https://no.wikipedia.org/wiki/Gjerdrum",
+			"url": "http://www.gjerdrum.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Gjerdrum%20komm.svg",
+			"itemLabel": "Gjerdrum",
+			"naboer": [
+				"0238",
+				"0233",
+				"0231",
+				"0226",
+				"0235"
+			],
+			"bilde": {
+				"image": [
+					"http://commons.wikimedia.org/wiki/Special:FilePath/Gjerdrum%20kulturhus.JPG"
+				],
+				"banner": []
+			}
+		},
+		"0235": {
+			"item": "http://www.wikidata.org/entity/Q57917",
+			"article": "https://no.wikipedia.org/wiki/Ullensaker",
+			"url": "http://www.ullensaker.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Ullensaker%20komm.svg",
+			"itemLabel": "Ullensaker",
+			"naboer": [
+				"0237",
+				"0234",
+				"0238",
+				"0226",
+				"0236"
+			],
+			"bilde": {
+				"image": [
+					"http://commons.wikimedia.org/wiki/Special:FilePath/Herredshuset%20Ullensaker.jpg"
+				],
+				"banner": []
+			}
+		},
+		"0236": {
+			"item": "http://www.wikidata.org/entity/Q488026",
+			"article": "https://no.wikipedia.org/wiki/Nes_(Akershus)",
+			"url": "http://www.nes-ak.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Nes%20Akershus%20komm.svg",
+			"itemLabel": "Nes",
+			"osm": "406119",
+			"naboer": [
+				"0419",
+				"0420",
+				"0221",
+				"0237",
+				"0226",
+				"0235",
+				"0418"
+			],
+			"bilde": {
+				"image": [
+					"http://commons.wikimedia.org/wiki/Special:FilePath/Ingeborgrud%20kirkested.jpg"
+				],
+				"banner": []
+			}
 		},
 		"0237": {
 			"item": "http://www.wikidata.org/entity/Q57080",
@@ -5985,148 +5676,6 @@
 				]
 			}
 		},
-		"0403": {
-			"item": "http://www.wikidata.org/entity/Q104400",
-			"article": "https://no.wikipedia.org/wiki/Hamar",
-			"url": "https://www.hamar.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Hamar%20komm.svg",
-			"itemLabel": "Hamar",
-			"osm": "410882",
-			"naboer": [
-				"0417",
-				"0412",
-				"0429",
-				"0415"
-			],
-			"bilde": {
-				"image": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Hamar%20from%20air.jpg"
-				],
-				"banner": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Akersvika%20mot%20Hamar%20banner.jpg"
-				]
-			}
-		},
-		"0106": {
-			"item": "http://www.wikidata.org/entity/Q107135",
-			"article": "https://no.wikipedia.org/wiki/Fredrikstad",
-			"url": "http://www.fredrikstad.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Fredrikstad%20komm.svg",
-			"inception": "1567-01-01T00:00:00.000Z",
-			"itemLabel": "Fredrikstad",
-			"naboer": [
-				"0105",
-				"0135",
-				"0111"
-			],
-			"bilde": {
-				"image": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Fredrikstad%20bryggepromenade%20fra%20Kr%C3%A5ker%C3%B8ybroa.JPG"
-				],
-				"banner": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Fredrikstad%20banner.jpg"
-				]
-			}
-		},
-		"0704": {
-			"item": "http://www.wikidata.org/entity/Q107392",
-			"article": "https://no.wikipedia.org/wiki/T%C3%B8nsberg",
-			"url": "http://www.tonsberg.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/T%C3%B8nsberg%20komm.svg",
-			"itemLabel": "Tønsberg",
-			"naboer": [
-				"0710",
-				"0701",
-				"0716",
-				"0729"
-			],
-			"bilde": {
-				"image": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Brygga%20i%20T%C3%B8nsberg.JPG"
-				],
-				"banner": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/T%C3%B8nsberg%20Wikivoyage%20Banner.jpg"
-				]
-			}
-		},
-		"0814": {
-			"item": "http://www.wikidata.org/entity/Q484052",
-			"article": "https://no.wikipedia.org/wiki/Bamble",
-			"url": "http://www.bamble.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Bamble%20komm.svg",
-			"itemLabel": "Bamble",
-			"naboer": [
-				"0806",
-				"0805",
-				"0817",
-				"0815"
-			]
-		},
-		"0620": {
-			"item": "http://www.wikidata.org/entity/Q484057",
-			"article": "https://no.wikipedia.org/wiki/Hol",
-			"url": "http://www.hol.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Hol%20komm.svg",
-			"itemLabel": "Hol",
-			"naboer": [
-				"0633",
-				"0619",
-				"1232",
-				"1421",
-				"1233",
-				"1422"
-			]
-		},
-		"0439": {
-			"item": "http://www.wikidata.org/entity/Q484064",
-			"article": "https://no.wikipedia.org/wiki/Folldal",
-			"url": "http://www.folldal.kommune.no",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Folldal%20komm.svg",
-			"itemLabel": "Folldal",
-			"naboer": [
-				"0430",
-				"0438",
-				"5021",
-				"0511",
-				"0519",
-				"0437",
-				"0517"
-			]
-		},
-		"0805": {
-			"item": "http://www.wikidata.org/entity/Q2290",
-			"article": "https://no.wikipedia.org/wiki/Porsgrunn",
-			"url": "http://www.porsgrunn.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Porsgrunn%20komm.svg",
-			"itemLabel": "Porsgrunn",
-			"naboer": [
-				"0806",
-				"0811",
-				"0712",
-				"0814"
-			],
-			"bilde": {
-				"image": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Porsgrunn%20Vestsida.jpg"
-				],
-				"banner": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Porsgrunn%20%28Brevik%29%20banner.jpg"
-				]
-			}
-		},
-		"0811": {
-			"item": "http://www.wikidata.org/entity/Q2308",
-			"article": "https://no.wikipedia.org/wiki/Siljan",
-			"url": "http://www.siljan.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Siljan%20komm.svg",
-			"itemLabel": "Siljan",
-			"naboer": [
-				"0806",
-				"0805",
-				"0604",
-				"0712"
-			]
-		},
 		"0238": {
 			"item": "http://www.wikidata.org/entity/Q57862",
 			"article": "https://no.wikipedia.org/wiki/Nannestad",
@@ -6149,70 +5698,55 @@
 				"banner": []
 			}
 		},
-		"0230": {
-			"item": "http://www.wikidata.org/entity/Q57860",
-			"article": "https://no.wikipedia.org/wiki/L%C3%B8renskog",
-			"url": "http://www.lorenskog.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/L%C3%B8renskog%20komm.svg",
-			"itemLabel": "Lørenskog",
-			"osm": "406126",
+		"0239": {
+			"item": "http://www.wikidata.org/entity/Q57858",
+			"article": "https://no.wikipedia.org/wiki/Hurdal",
+			"url": "http://www.hurdal.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Hurdal%20komm.svg",
+			"itemLabel": "Hurdal",
 			"naboer": [
-				"0301",
-				"0229",
-				"0228",
-				"0231"
-			],
-			"bilde": {
-				"image": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/L%C3%B8renskog%20kirke%2020080614-2.jpg"
-				],
-				"banner": []
-			}
-		},
-		"0216": {
-			"item": "http://www.wikidata.org/entity/Q57864",
-			"article": "https://no.wikipedia.org/wiki/Nesodden",
-			"url": "http://www.nesodden.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Nesodden%20komm.svg",
-			"itemLabel": "Nesodden",
-			"naboer": [
-				"0301",
-				"0220",
-				"0219",
-				"0215"
-			],
-			"bilde": {
-				"image": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Oksval.JPG"
-				],
-				"banner": []
-			}
-		},
-		"0233": {
-			"item": "http://www.wikidata.org/entity/Q57865",
-			"article": "https://no.wikipedia.org/wiki/Nittedal",
-			"url": "http://www.nittedal.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Nittedal%20komm.svg",
-			"itemLabel": "Nittedal",
-			"naboer": [
-				"0301",
-				"0234",
+				"0529",
+				"0237",
 				"0238",
-				"0231",
-				"0533"
-			]
+				"0528",
+				"0534"
+			],
+			"bilde": {
+				"image": [
+					"http://commons.wikimedia.org/wiki/Special:FilePath/Trafikkinferno%20Grue%20Hurdal%20-%2011.jpg"
+				],
+				"banner": []
+			}
 		},
-		"0217": {
-			"item": "http://www.wikidata.org/entity/Q57868",
-			"article": "https://no.wikipedia.org/wiki/Oppeg%C3%A5rd",
-			"url": "http://www.oppegard.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Oppeg%C3%A5rd%20komm.svg",
-			"itemLabel": "Oppegård",
+		"0301": {
+			"item": "http://www.wikidata.org/entity/Q585",
+			"article": "https://no.wikipedia.org/wiki/Oslo",
+			"url": "http://www.oslo.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Oslo%20komm.svg",
+			"inception": "1048-01-01T00:00:00.000Z",
+			"itemLabel": "Oslo",
+			"osm": "2775550",
+			"elevation": "23",
 			"naboer": [
-				"0301",
-				"0214",
-				"0213"
-			]
+				"0219",
+				"0229",
+				"0230",
+				"0216",
+				"0233",
+				"0217",
+				"0231",
+				"0213",
+				"0605",
+				"0533"
+			],
+			"bilde": {
+				"image": [
+					"http://commons.wikimedia.org/wiki/Special:FilePath/Oslo%20city%20in%2010%20images.jpg"
+				],
+				"banner": [
+					"http://commons.wikimedia.org/wiki/Special:FilePath/Oslo%20banner%20Akershus%20castle.jpg"
+				]
+			}
 		},
 		"0402": {
 			"item": "http://www.wikidata.org/entity/Q109499",
@@ -6231,6 +5765,833 @@
 				],
 				"banner": [
 					"http://commons.wikimedia.org/wiki/Special:FilePath/Kongsvinger%20Wikivoyage%20Banner.jpg"
+				]
+			}
+		},
+		"0403": {
+			"item": "http://www.wikidata.org/entity/Q104400",
+			"article": "https://no.wikipedia.org/wiki/Hamar",
+			"url": "https://www.hamar.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Hamar%20komm.svg",
+			"itemLabel": "Hamar",
+			"osm": "410882",
+			"naboer": [
+				"0417",
+				"0412",
+				"0429",
+				"0415"
+			],
+			"bilde": {
+				"image": [
+					"http://commons.wikimedia.org/wiki/Special:FilePath/Hamar%20from%20air.jpg"
+				],
+				"banner": [
+					"http://commons.wikimedia.org/wiki/Special:FilePath/Akersvika%20mot%20Hamar%20banner.jpg"
+				]
+			}
+		},
+		"0412": {
+			"item": "http://www.wikidata.org/entity/Q113466",
+			"article": "https://no.wikipedia.org/wiki/Ringsaker",
+			"url": "http://www.ringsaker.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Ringsaker%20komm.svg",
+			"itemLabel": "Ringsaker",
+			"naboer": [
+				"0430",
+				"0417",
+				"0501",
+				"0403",
+				"0502",
+				"0429",
+				"0528",
+				"0521"
+			]
+		},
+		"0415": {
+			"item": "http://www.wikidata.org/entity/Q488951",
+			"article": "https://no.wikipedia.org/wiki/L%C3%B8ten",
+			"url": "http://www.loten.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/L%C3%B8ten%20komm.svg",
+			"itemLabel": "Løten",
+			"naboer": [
+				"0417",
+				"0403",
+				"0427",
+				"0429",
+				"0426"
+			]
+		},
+		"0417": {
+			"item": "http://www.wikidata.org/entity/Q48542",
+			"article": "https://no.wikipedia.org/wiki/Stange",
+			"url": "https://www.stange.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Stange%20komm.svg",
+			"itemLabel": "Stange",
+			"naboer": [
+				"0425",
+				"0237",
+				"0403",
+				"0412",
+				"0528",
+				"0418",
+				"0415",
+				"0426"
+			],
+			"bilde": {
+				"image": [
+					"http://commons.wikimedia.org/wiki/Special:FilePath/Stange%20sentrum.jpg"
+				],
+				"banner": []
+			}
+		},
+		"0418": {
+			"item": "http://www.wikidata.org/entity/Q484218",
+			"article": "https://no.wikipedia.org/wiki/Nord-Odal",
+			"url": "http://www.nord-odal.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Nord-Odal%20komm.svg",
+			"itemLabel": "Nord-Odal",
+			"naboer": [
+				"0417",
+				"0419",
+				"0425",
+				"0237",
+				"0236",
+				"0423"
+			],
+			"bilde": {
+				"image": [
+					"http://commons.wikimedia.org/wiki/Special:FilePath/Storsjoen%20Odal.jpg"
+				],
+				"banner": []
+			}
+		},
+		"0419": {
+			"item": "http://www.wikidata.org/entity/Q48615",
+			"article": "https://no.wikipedia.org/wiki/S%C3%B8r-Odal",
+			"url": "http://www.sor-odal.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/S%C3%B8r-Odal%20komm.svg",
+			"itemLabel": "Sør-Odal",
+			"naboer": [
+				"0420",
+				"0402",
+				"0418",
+				"0236",
+				"0423"
+			]
+		},
+		"0420": {
+			"item": "http://www.wikidata.org/entity/Q48913",
+			"article": "https://no.wikipedia.org/wiki/Eidskog",
+			"url": "http://www.eidskog.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Eidskog%20komm.svg",
+			"itemLabel": "Eidskog",
+			"naboer": [
+				"0419",
+				"0221",
+				"0402",
+				"0236"
+			]
+		},
+		"0423": {
+			"item": "http://www.wikidata.org/entity/Q488783",
+			"article": "https://no.wikipedia.org/wiki/Grue",
+			"url": "http://www.grue.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Grue%20komm.svg",
+			"itemLabel": "Grue",
+			"naboer": [
+				"0419",
+				"0425",
+				"0402",
+				"0418"
+			]
+		},
+		"0425": {
+			"item": "http://www.wikidata.org/entity/Q48769",
+			"article": "https://no.wikipedia.org/wiki/%C3%85snes",
+			"url": "http://www.asnes.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%85snes%20komm.svg",
+			"itemLabel": "Åsnes",
+			"naboer": [
+				"0417",
+				"0418",
+				"0423",
+				"0426"
+			]
+		},
+		"0426": {
+			"item": "http://www.wikidata.org/entity/Q501413",
+			"article": "https://no.wikipedia.org/wiki/V%C3%A5ler_(Hedmark)",
+			"url": "http://www.valer.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/V%C3%A5ler%20Hedmark%20komm.svg",
+			"itemLabel": "Våler",
+			"naboer": [
+				"0428",
+				"0417",
+				"0425",
+				"0427",
+				"0415"
+			]
+		},
+		"0427": {
+			"item": "http://www.wikidata.org/entity/Q109140",
+			"article": "https://no.wikipedia.org/wiki/Elverum",
+			"url": "https://www.elverum.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Elverum%20komm.svg",
+			"itemLabel": "Elverum",
+			"naboer": [
+				"0428",
+				"0429",
+				"0415",
+				"0426"
+			],
+			"bilde": {
+				"image": [
+					"http://commons.wikimedia.org/wiki/Special:FilePath/Leiret%20Elverum.jpg"
+				],
+				"banner": [
+					"http://commons.wikimedia.org/wiki/Special:FilePath/WV%20banner%20Elverum%20Winter%20view.jpg"
+				]
+			}
+		},
+		"0428": {
+			"item": "http://www.wikidata.org/entity/Q48529",
+			"article": "https://no.wikipedia.org/wiki/Trysil",
+			"url": "http://www.trysil.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Trysil%20komm.svg",
+			"inception": "1838-01-01T00:00:00.000Z",
+			"itemLabel": "Trysil",
+			"naboer": [
+				"0434",
+				"0427",
+				"0429",
+				"0432",
+				"0426"
+			]
+		},
+		"0429": {
+			"item": "http://www.wikidata.org/entity/Q271063",
+			"article": "https://no.wikipedia.org/wiki/%C3%85mot",
+			"url": "http://www.amot.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%85mot%20komm.svg",
+			"itemLabel": "Åmot",
+			"naboer": [
+				"0430",
+				"0428",
+				"0403",
+				"0427",
+				"0412",
+				"0432",
+				"0415"
+			],
+			"bilde": {
+				"image": [
+					"http://commons.wikimedia.org/wiki/Special:FilePath/Nordre-Osen-Old-Church-%C3%85mot-Norway.jpg"
+				],
+				"banner": []
+			}
+		},
+		"0430": {
+			"item": "http://www.wikidata.org/entity/Q48526",
+			"article": "https://no.wikipedia.org/wiki/Stor-Elvdal",
+			"url": "http://www.stor-elvdal.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Stor-Elvdal%20komm.svg",
+			"itemLabel": "Stor-Elvdal",
+			"naboer": [
+				"0520",
+				"0438",
+				"0412",
+				"0429",
+				"0521",
+				"0439",
+				"0519",
+				"0432"
+			]
+		},
+		"0432": {
+			"item": "http://www.wikidata.org/entity/Q488229",
+			"article": "https://no.wikipedia.org/wiki/Rendalen",
+			"url": "http://www.rendalen.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Rendalen%20komm.svg",
+			"itemLabel": "Rendalen",
+			"naboer": [
+				"0430",
+				"0428",
+				"0438",
+				"0434",
+				"0429",
+				"0437",
+				"0436"
+			]
+		},
+		"0434": {
+			"item": "http://www.wikidata.org/entity/Q48909",
+			"article": "https://no.wikipedia.org/wiki/Engerdal",
+			"url": "http://www.engerdal.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Engerdal%20komm.svg",
+			"itemLabel": "Engerdal",
+			"naboer": [
+				"0428",
+				"1640",
+				"0432",
+				"0436",
+				"0441"
+			]
+		},
+		"0436": {
+			"item": "http://www.wikidata.org/entity/Q507549",
+			"article": "https://no.wikipedia.org/wiki/Tolga",
+			"url": "http://www.tolga.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Tolga%20komm.svg",
+			"itemLabel": "Tolga",
+			"naboer": [
+				"0434",
+				"0432",
+				"0437",
+				"0441"
+			],
+			"bilde": {
+				"image": [
+					"http://commons.wikimedia.org/wiki/Special:FilePath/Gata%20Tolga.jpg"
+				],
+				"banner": []
+			}
+		},
+		"0437": {
+			"item": "http://www.wikidata.org/entity/Q488779",
+			"article": "https://no.wikipedia.org/wiki/Tynset",
+			"url": "http://www.tynset.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Tynset%20komm.svg",
+			"itemLabel": "Tynset",
+			"naboer": [
+				"0438",
+				"5021",
+				"0439",
+				"1635",
+				"0432",
+				"1648",
+				"0436",
+				"0441"
+			],
+			"bilde": {
+				"image": [
+					"http://commons.wikimedia.org/wiki/Special:FilePath/Tynset%20fra%20bygda.jpg"
+				],
+				"banner": [
+					"http://commons.wikimedia.org/wiki/Special:FilePath/Tynset%20Wikivoyage%20Banner.jpg"
+				]
+			}
+		},
+		"0438": {
+			"item": "http://www.wikidata.org/entity/Q48723",
+			"article": "https://no.wikipedia.org/wiki/Alvdal",
+			"url": "http://www.alvdal.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Alvdal%20komm.svg",
+			"itemLabel": "Alvdal",
+			"naboer": [
+				"0430",
+				"0439",
+				"0432",
+				"0437"
+			]
+		},
+		"0439": {
+			"item": "http://www.wikidata.org/entity/Q484064",
+			"article": "https://no.wikipedia.org/wiki/Folldal",
+			"url": "http://www.folldal.kommune.no",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Folldal%20komm.svg",
+			"itemLabel": "Folldal",
+			"naboer": [
+				"0430",
+				"0438",
+				"5021",
+				"0511",
+				"0519",
+				"0437",
+				"0517"
+			]
+		},
+		"0441": {
+			"item": "http://www.wikidata.org/entity/Q507562",
+			"article": "https://no.wikipedia.org/wiki/Os_(Hedmark)",
+			"url": "http://www.os.hedmark.no",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Os%20Hedmark%20komm.svg",
+			"itemLabel": "Os",
+			"naboer": [
+				"0434",
+				"1640",
+				"1644",
+				"0437",
+				"1648",
+				"0436"
+			]
+		},
+		"0501": {
+			"item": "http://www.wikidata.org/entity/Q101341",
+			"article": "https://no.wikipedia.org/wiki/Lillehammer",
+			"url": "http://lillehammer.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Lillehammer%20komm.svg",
+			"inception": "1827-01-01T00:00:00.000Z",
+			"itemLabel": "Lillehammer",
+			"elevation": "162",
+			"naboer": [
+				"0502",
+				"0412",
+				"0521",
+				"0522",
+				"0538"
+			],
+			"bilde": {
+				"image": [
+					"http://commons.wikimedia.org/wiki/Special:FilePath/LillehammerDSC01504.JPG"
+				],
+				"banner": [
+					"http://commons.wikimedia.org/wiki/Special:FilePath/Lillehammer%20banner.jpg"
+				]
+			}
+		},
+		"0502": {
+			"item": "http://www.wikidata.org/entity/Q108031",
+			"article": "https://no.wikipedia.org/wiki/Gj%C3%B8vik",
+			"url": "http://www.gjovik.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Gj%C3%B8vik%20komm.svg",
+			"itemLabel": "Gjøvik",
+			"naboer": [
+				"0529",
+				"0501",
+				"0412",
+				"0528",
+				"0536",
+				"0538"
+			],
+			"bilde": {
+				"image": [
+					"http://commons.wikimedia.org/wiki/Special:FilePath/Gj%C3%B8vik%20sett%20fra%20Nordlia.jpg"
+				],
+				"banner": [
+					"http://commons.wikimedia.org/wiki/Special:FilePath/Gj%C3%B8vik%20banner.jpg"
+				]
+			}
+		},
+		"0511": {
+			"item": "http://www.wikidata.org/entity/Q486677",
+			"article": "https://no.wikipedia.org/wiki/Dovre",
+			"url": "http://www.dovre.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Dovre%20komm.svg",
+			"itemLabel": "Dovre",
+			"naboer": [
+				"0515",
+				"5021",
+				"0439",
+				"0512",
+				"0517"
+			],
+			"bilde": {
+				"image": [
+					"http://commons.wikimedia.org/wiki/Special:FilePath/Dovre%20panorama.jpg"
+				],
+				"banner": []
+			}
+		},
+		"0512": {
+			"item": "http://www.wikidata.org/entity/Q488405",
+			"article": "https://no.wikipedia.org/wiki/Lesja",
+			"url": "http://www.lesja.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Lesja%20komm.svg",
+			"itemLabel": "Lesja",
+			"naboer": [
+				"1563",
+				"0515",
+				"5021",
+				"1543",
+				"0513",
+				"0511",
+				"0514",
+				"1539"
+			]
+		},
+		"0513": {
+			"item": "http://www.wikidata.org/entity/Q484116",
+			"article": "https://no.wikipedia.org/wiki/Skj%C3%A5k",
+			"url": "http://www.skjaak.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Skj%C3%A5k%20komm.svg",
+			"itemLabel": "Skjåk",
+			"naboer": [
+				"1449",
+				"1525",
+				"0514",
+				"0512",
+				"1524",
+				"1539",
+				"1426"
+			]
+		},
+		"0514": {
+			"item": "http://www.wikidata.org/entity/Q488395",
+			"article": "https://no.wikipedia.org/wiki/Lom",
+			"url": "http://www.lom.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Lom%20komm.svg",
+			"itemLabel": "Lom",
+			"naboer": [
+				"0515",
+				"0513",
+				"0512",
+				"1426",
+				"0545"
+			],
+			"bilde": {
+				"image": [
+					"http://commons.wikimedia.org/wiki/Special:FilePath/Lom%20stave%20church.jpg"
+				],
+				"banner": []
+			}
+		},
+		"0515": {
+			"item": "http://www.wikidata.org/entity/Q113438",
+			"article": "https://no.wikipedia.org/wiki/V%C3%A5g%C3%A5",
+			"url": "http://www.vaga.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/V%C3%A5g%C3%A5%20komm.svg",
+			"itemLabel": "Vågå",
+			"naboer": [
+				"0544",
+				"0511",
+				"0514",
+				"0516",
+				"0512",
+				"0545",
+				"0517"
+			]
+		},
+		"0516": {
+			"item": "http://www.wikidata.org/entity/Q488401",
+			"article": "https://no.wikipedia.org/wiki/Nord-Fron",
+			"url": "http://www.nord-fron.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Nord-Fron%20komm.svg",
+			"itemLabel": "Nord-Fron",
+			"naboer": [
+				"0515",
+				"0544",
+				"0519",
+				"0517"
+			]
+		},
+		"0517": {
+			"item": "http://www.wikidata.org/entity/Q507499",
+			"article": "https://no.wikipedia.org/wiki/Sel_(kommune)",
+			"url": "http://www.sel.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Sel%20komm.svg",
+			"itemLabel": "Sel",
+			"naboer": [
+				"0515",
+				"0439",
+				"0511",
+				"0519",
+				"0516"
+			]
+		},
+		"0519": {
+			"item": "http://www.wikidata.org/entity/Q488054",
+			"article": "https://no.wikipedia.org/wiki/S%C3%B8r-Fron",
+			"url": "http://www.sor-fron.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/S%C3%B8r-Fron%20komm.svg",
+			"itemLabel": "Sør-Fron",
+			"naboer": [
+				"0430",
+				"0520",
+				"0544",
+				"0439",
+				"0522",
+				"0516",
+				"0517"
+			],
+			"bilde": {
+				"image": [
+					"http://commons.wikimedia.org/wiki/Special:FilePath/S%C3%B8r-Fron%20kirke%201.JPG"
+				],
+				"banner": []
+			}
+		},
+		"0520": {
+			"item": "http://www.wikidata.org/entity/Q48637",
+			"article": "https://no.wikipedia.org/wiki/Ringebu",
+			"url": "http://www.ringebu.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Ringebu%20komm.svg",
+			"itemLabel": "Ringebu",
+			"naboer": [
+				"0430",
+				"0521",
+				"0522",
+				"0519"
+			]
+		},
+		"0521": {
+			"item": "http://www.wikidata.org/entity/Q316779",
+			"article": "https://no.wikipedia.org/wiki/%C3%98yer",
+			"url": "http://www.oyer.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%98yer%20komm.svg",
+			"itemLabel": "Øyer",
+			"naboer": [
+				"0430",
+				"0520",
+				"0501",
+				"0412",
+				"0522"
+			],
+			"bilde": {
+				"image": [
+					"http://commons.wikimedia.org/wiki/Special:FilePath/%C3%96yer%20Jemne%20gaard%20IMG%201508.JPG"
+				],
+				"banner": []
+			}
+		},
+		"0522": {
+			"item": "http://www.wikidata.org/entity/Q486713",
+			"article": "https://no.wikipedia.org/wiki/Gausdal",
+			"url": "http://www.gausdal.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Gausdal%20komm.svg",
+			"itemLabel": "Gausdal",
+			"naboer": [
+				"0520",
+				"0501",
+				"0521",
+				"0544",
+				"0542",
+				"0538",
+				"0519"
+			]
+		},
+		"0528": {
+			"item": "http://www.wikidata.org/entity/Q308420",
+			"article": "https://no.wikipedia.org/wiki/%C3%98stre_Toten",
+			"url": "http://www.ostre-toten.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%98stre%20Toten%20komm.svg",
+			"itemLabel": "Østre Toten",
+			"naboer": [
+				"0417",
+				"0529",
+				"0237",
+				"0239",
+				"0502",
+				"0412"
+			],
+			"bilde": {
+				"image": [
+					"http://commons.wikimedia.org/wiki/Special:FilePath/%C3%98stre%20Toten.jpg"
+				],
+				"banner": []
+			}
+		},
+		"0529": {
+			"item": "http://www.wikidata.org/entity/Q48717",
+			"article": "https://no.wikipedia.org/wiki/Vestre_Toten",
+			"url": "http://www.vestre-toten.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Vestre%20Toten%20komm.svg",
+			"itemLabel": "Vestre Toten",
+			"naboer": [
+				"0239",
+				"0502",
+				"0528",
+				"0536",
+				"0534"
+			],
+			"bilde": {
+				"image": [
+					"http://commons.wikimedia.org/wiki/Special:FilePath/Vestre%20Toten%20kart.png"
+				],
+				"banner": []
+			}
+		},
+		"0532": {
+			"item": "http://www.wikidata.org/entity/Q486704",
+			"article": "https://no.wikipedia.org/wiki/Jevnaker",
+			"url": "http://www.jevnaker.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Jevnaker%20komm.svg",
+			"itemLabel": "Jevnaker",
+			"naboer": [
+				"0605",
+				"0533",
+				"0534"
+			]
+		},
+		"0533": {
+			"item": "http://www.wikidata.org/entity/Q488398",
+			"article": "https://no.wikipedia.org/wiki/Lunner",
+			"url": "http://www.lunner.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Lunner%20komm.svg",
+			"itemLabel": "Lunner",
+			"naboer": [
+				"0301",
+				"0238",
+				"0233",
+				"0605",
+				"0532",
+				"0534"
+			]
+		},
+		"0534": {
+			"item": "http://www.wikidata.org/entity/Q501518",
+			"article": "https://no.wikipedia.org/wiki/Gran_(kommune)",
+			"url": "http://www.gran.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Gran%20komm.svg",
+			"itemLabel": "Gran",
+			"naboer": [
+				"0529",
+				"0239",
+				"0238",
+				"0605",
+				"0536",
+				"0532",
+				"0533"
+			],
+			"bilde": {
+				"image": [
+					"http://commons.wikimedia.org/wiki/Special:FilePath/Brandbukampen.jpg"
+				],
+				"banner": []
+			}
+		},
+		"0536": {
+			"item": "http://www.wikidata.org/entity/Q484093",
+			"article": "https://no.wikipedia.org/wiki/S%C3%B8ndre_Land",
+			"url": "http://www.sondre-land.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/S%C3%B8ndre%20Land%20komm.svg",
+			"itemLabel": "Søndre Land",
+			"naboer": [
+				"0540",
+				"0529",
+				"0502",
+				"0605",
+				"0538",
+				"0534"
+			]
+		},
+		"0538": {
+			"item": "http://www.wikidata.org/entity/Q486741",
+			"article": "https://no.wikipedia.org/wiki/Nordre_Land",
+			"url": "http://www.nordre-land.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Nordre%20Land%20komm.svg",
+			"itemLabel": "Nordre Land",
+			"naboer": [
+				"0540",
+				"0501",
+				"0502",
+				"0542",
+				"0536",
+				"0522",
+				"0541"
+			]
+		},
+		"0540": {
+			"item": "http://www.wikidata.org/entity/Q48414",
+			"article": "https://no.wikipedia.org/wiki/S%C3%B8r-Aurdal",
+			"url": "http://www.sor-aurdal.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/S%C3%B8r-Aurdal%20komm.svg",
+			"itemLabel": "Sør-Aurdal",
+			"naboer": [
+				"0615",
+				"0605",
+				"0616",
+				"0542",
+				"0536",
+				"0538",
+				"0541",
+				"0617"
+			]
+		},
+		"0541": {
+			"item": "http://www.wikidata.org/entity/Q488049",
+			"article": "https://no.wikipedia.org/wiki/Etnedal",
+			"url": "http://www.etnedal.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Etnedal%20komm.svg",
+			"itemLabel": "Etnedal",
+			"naboer": [
+				"0540",
+				"0542",
+				"0538"
+			]
+		},
+		"0542": {
+			"item": "http://www.wikidata.org/entity/Q484074",
+			"article": "https://no.wikipedia.org/wiki/Nord-Aurdal",
+			"url": "http://www.nord-aurdal.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Nord-Aurdal%20komm.svg",
+			"itemLabel": "Nord-Aurdal",
+			"naboer": [
+				"0540",
+				"0544",
+				"0522",
+				"0538",
+				"0541",
+				"0543",
+				"0617",
+				"0618"
+			]
+		},
+		"0543": {
+			"item": "http://www.wikidata.org/entity/Q488439",
+			"article": "https://no.wikipedia.org/wiki/Vestre_Slidre",
+			"url": "http://www.vestre-slidre.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Vestre%20Slidre%20komm.svg",
+			"itemLabel": "Vestre Slidre",
+			"naboer": [
+				"0544",
+				"0542",
+				"0618",
+				"0545"
+			]
+		},
+		"0544": {
+			"item": "http://www.wikidata.org/entity/Q329894",
+			"article": "https://no.wikipedia.org/wiki/%C3%98ystre_Slidre",
+			"url": "http://www.oystre-slidre.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%98ystre%20Slidre%20komm.svg",
+			"itemLabel": "Øystre Slidre",
+			"naboer": [
+				"0515",
+				"0542",
+				"0522",
+				"0519",
+				"0516",
+				"0543",
+				"0545"
+			]
+		},
+		"0545": {
+			"item": "http://www.wikidata.org/entity/Q503637",
+			"article": "https://no.wikipedia.org/wiki/Vang_(Oppland)",
+			"url": "http://www.vang.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Vang%20komm.svg",
+			"inception": "1838-01-01T00:00:00.000Z",
+			"itemLabel": "Vang",
+			"naboer": [
+				"0515",
+				"1424",
+				"0544",
+				"0514",
+				"0543",
+				"1422",
+				"0618",
+				"1426"
+			]
+		},
+		"0602": {
+			"item": "http://www.wikidata.org/entity/Q26525",
+			"article": "https://no.wikipedia.org/wiki/Drammen",
+			"url": "http://www.drammen.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Drammen%20komm.svg",
+			"itemLabel": "Drammen",
+			"naboer": [
+				"0711",
+				"0625",
+				"0713",
+				"0715",
+				"0626"
+			],
+			"bilde": {
+				"image": [
+					"http://commons.wikimedia.org/wiki/Special:FilePath/Drammen.jpg"
+				],
+				"banner": [
+					"http://commons.wikimedia.org/wiki/Special:FilePath/Drammen%20banner.jpg"
 				]
 			}
 		},
@@ -6258,382 +6619,6 @@
 				"banner": [
 					"http://commons.wikimedia.org/wiki/Special:FilePath/Kongsberg%20Wikivoyage%20Banner.jpg"
 				]
-			}
-		},
-		"0710": {
-			"item": "http://www.wikidata.org/entity/Q109005",
-			"article": "https://no.wikipedia.org/wiki/Sandefjord",
-			"url": "http://www.sandefjord.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandefjord%20komm%202017.svg",
-			"itemLabel": "Sandefjord",
-			"naboer": [
-				"0704",
-				"0712",
-				"0716",
-				"0729"
-			],
-			"bilde": {
-				"image": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/ByskolenSandefjord.jpg"
-				],
-				"banner": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Sandefjord%20banner.jpg"
-				]
-			}
-		},
-		"0536": {
-			"item": "http://www.wikidata.org/entity/Q484093",
-			"article": "https://no.wikipedia.org/wiki/S%C3%B8ndre_Land",
-			"url": "http://www.sondre-land.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/S%C3%B8ndre%20Land%20komm.svg",
-			"itemLabel": "Søndre Land",
-			"naboer": [
-				"0540",
-				"0529",
-				"0502",
-				"0605",
-				"0538",
-				"0534"
-			]
-		},
-		"0617": {
-			"item": "http://www.wikidata.org/entity/Q493301",
-			"article": "https://no.wikipedia.org/wiki/Gol",
-			"url": "http://www.gol.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Gol%20komm.svg",
-			"itemLabel": "Gol",
-			"naboer": [
-				"0540",
-				"0619",
-				"0616",
-				"0542",
-				"0618"
-			]
-		},
-		"0817": {
-			"item": "http://www.wikidata.org/entity/Q2367",
-			"article": "https://no.wikipedia.org/wiki/Drangedal",
-			"url": "http://www.drangedal.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Drangedal%20komm.svg",
-			"itemLabel": "Drangedal",
-			"naboer": [
-				"0830",
-				"0829",
-				"0806",
-				"0815",
-				"0819",
-				"0911",
-				"0814"
-			]
-		},
-		"0815": {
-			"item": "http://www.wikidata.org/entity/Q2372",
-			"article": "https://no.wikipedia.org/wiki/Krager%C3%B8",
-			"url": "http://www.kragero.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Krager%C3%B8%20komm.svg",
-			"itemLabel": "Kragerø",
-			"naboer": [
-				"0817",
-				"0911",
-				"0901",
-				"0814"
-			],
-			"bilde": {
-				"image": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Krager%C3%B81.jpg"
-				],
-				"banner": []
-			}
-		},
-		"0226": {
-			"item": "http://www.wikidata.org/entity/Q57914",
-			"article": "https://no.wikipedia.org/wiki/S%C3%B8rum",
-			"url": "http://www.sorum.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/S%C3%B8rum%20komm.svg",
-			"itemLabel": "Sørum",
-			"naboer": [
-				"0221",
-				"0227",
-				"0234",
-				"0231",
-				"0235",
-				"0236"
-			],
-			"bilde": {
-				"image": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/S%C3%B8rumsand%20stasjon%20Tertitten.JPG"
-				],
-				"banner": []
-			}
-		},
-		"0211": {
-			"item": "http://www.wikidata.org/entity/Q57918",
-			"article": "https://no.wikipedia.org/wiki/Vestby",
-			"url": "http://www.vestby.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Vestby%20komm.svg",
-			"itemLabel": "Vestby",
-			"naboer": [
-				"0214",
-				"0215",
-				"0104",
-				"0138",
-				"0137"
-			]
-		},
-		"0906": {
-			"item": "http://www.wikidata.org/entity/Q57919",
-			"article": "https://no.wikipedia.org/wiki/Arendal",
-			"url": "https://www.arendal.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Arendal%20komm.svg",
-			"itemLabel": "Arendal",
-			"naboer": [
-				"0919",
-				"0904",
-				"0914"
-			],
-			"bilde": {
-				"image": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Arendal%20Utsikt%2002.JPG"
-				],
-				"banner": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Arendal%20WV%20Banner.jpg"
-				]
-			}
-		},
-		"0235": {
-			"item": "http://www.wikidata.org/entity/Q57917",
-			"article": "https://no.wikipedia.org/wiki/Ullensaker",
-			"url": "http://www.ullensaker.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Ullensaker%20komm.svg",
-			"itemLabel": "Ullensaker",
-			"naboer": [
-				"0237",
-				"0234",
-				"0238",
-				"0226",
-				"0236"
-			],
-			"bilde": {
-				"image": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Herredshuset%20Ullensaker.jpg"
-				],
-				"banner": []
-			}
-		},
-		"0104": {
-			"item": "http://www.wikidata.org/entity/Q109021",
-			"article": "https://no.wikipedia.org/wiki/Moss",
-			"url": "http://www.moss.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Moss%20komm.svg",
-			"itemLabel": "Moss",
-			"naboer": [
-				"0211",
-				"0136",
-				"0137"
-			],
-			"bilde": {
-				"image": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Moss%2C%20Norway.jpg"
-				],
-				"banner": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Moss-banner.jpg"
-				]
-			}
-		},
-		"0101": {
-			"item": "http://www.wikidata.org/entity/Q109042",
-			"article": "https://no.wikipedia.org/wiki/Halden",
-			"url": "http://www.halden.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Halden%20komm.svg",
-			"itemLabel": "Halden",
-			"naboer": [
-				"0118",
-				"0105",
-				"0128"
-			],
-			"bilde": {
-				"image": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Halden%20Fra%20Festningen.jpg"
-				],
-				"banner": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Skien%20banner.jpg"
-				]
-			}
-		},
-		"0513": {
-			"item": "http://www.wikidata.org/entity/Q484116",
-			"article": "https://no.wikipedia.org/wiki/Skj%C3%A5k",
-			"url": "http://www.skjaak.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Skj%C3%A5k%20komm.svg",
-			"itemLabel": "Skjåk",
-			"naboer": [
-				"1449",
-				"1525",
-				"0514",
-				"0512",
-				"1524",
-				"1539",
-				"1426"
-			]
-		},
-		"0819": {
-			"item": "http://www.wikidata.org/entity/Q2375",
-			"article": "https://no.wikipedia.org/wiki/Nome",
-			"url": "http://www.nome.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Nome%20komm.svg",
-			"itemLabel": "Nome",
-			"naboer": [
-				"0829",
-				"0806",
-				"0817",
-				"0822",
-				"0821"
-			],
-			"bilde": {
-				"image": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Ulefoss%20panorama.JPG"
-				],
-				"banner": []
-			}
-		},
-		"0822": {
-			"item": "http://www.wikidata.org/entity/Q2381",
-			"article": "https://no.wikipedia.org/wiki/Sauherad",
-			"url": "http://www.sauherad.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Sauherad%20komm.svg",
-			"itemLabel": "Sauherad",
-			"naboer": [
-				"0806",
-				"0807",
-				"0819",
-				"0604",
-				"0821"
-			]
-		},
-		"0701": {
-			"item": "http://www.wikidata.org/entity/Q109048",
-			"article": "https://no.wikipedia.org/wiki/Horten",
-			"url": "http://www.horten.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Horten%20Kommune.svg",
-			"inception": "1858-01-01T00:00:00.000Z",
-			"itemLabel": "Horten",
-			"naboer": [
-				"0704",
-				"0716"
-			],
-			"bilde": {
-				"image": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Norwegian%20Naval%20Museum%20Horten.jpg"
-				],
-				"banner": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Horten%20Wikivoyage%20Banner.jpg"
-				]
-			}
-		},
-		"0427": {
-			"item": "http://www.wikidata.org/entity/Q109140",
-			"article": "https://no.wikipedia.org/wiki/Elverum",
-			"url": "https://www.elverum.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Elverum%20komm.svg",
-			"itemLabel": "Elverum",
-			"naboer": [
-				"0428",
-				"0429",
-				"0415",
-				"0426"
-			],
-			"bilde": {
-				"image": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Leiret%20Elverum.jpg"
-				],
-				"banner": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/WV%20banner%20Elverum%20Winter%20view.jpg"
-				]
-			}
-		},
-		"0124": {
-			"item": "http://www.wikidata.org/entity/Q109469",
-			"article": "https://no.wikipedia.org/wiki/Askim",
-			"url": "http://www.askim.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Askim%20komm.svg",
-			"itemLabel": "Askim",
-			"naboer": [
-				"0123",
-				"0122",
-				"0125",
-				"0127"
-			]
-		},
-		"0138": {
-			"item": "http://www.wikidata.org/entity/Q109475",
-			"article": "https://no.wikipedia.org/wiki/Hob%C3%B8l",
-			"url": "http://www.hobol.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Hob%C3%B8l%20komm.svg",
-			"itemLabel": "Hobøl",
-			"naboer": [
-				"0123",
-				"0214",
-				"0229",
-				"0213",
-				"0211",
-				"0137"
-			]
-		},
-		"0418": {
-			"item": "http://www.wikidata.org/entity/Q484218",
-			"article": "https://no.wikipedia.org/wiki/Nord-Odal",
-			"url": "http://www.nord-odal.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Nord-Odal%20komm.svg",
-			"itemLabel": "Nord-Odal",
-			"naboer": [
-				"0417",
-				"0419",
-				"0425",
-				"0237",
-				"0236",
-				"0423"
-			],
-			"bilde": {
-				"image": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Storsjoen%20Odal.jpg"
-				],
-				"banner": []
-			}
-		},
-		"0625": {
-			"item": "http://www.wikidata.org/entity/Q110268",
-			"article": "https://no.wikipedia.org/wiki/Nedre_Eiker",
-			"url": "http://www.nedre-eiker.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Nedre%20Eiker%20komm.svg",
-			"itemLabel": "Nedre Eiker",
-			"naboer": [
-				"0602",
-				"0624",
-				"0715",
-				"0623",
-				"0626"
-			]
-		},
-		"0624": {
-			"item": "http://www.wikidata.org/entity/Q110311",
-			"article": "https://no.wikipedia.org/wiki/%C3%98vre_Eiker",
-			"url": "http://www.ovre-eiker.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%98vre%20Eiker%20komm.svg",
-			"itemLabel": "Øvre Eiker",
-			"naboer": [
-				"0631",
-				"0604",
-				"0625",
-				"0715",
-				"0623",
-				"0621",
-				"0626"
-			],
-			"bilde": {
-				"image": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Storgata%20Hokksund.jpg"
-				],
-				"banner": []
 			}
 		},
 		"0605": {
@@ -6664,165 +6649,87 @@
 				]
 			}
 		},
-		"0511": {
-			"item": "http://www.wikidata.org/entity/Q486677",
-			"article": "https://no.wikipedia.org/wiki/Dovre",
-			"url": "http://www.dovre.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Dovre%20komm.svg",
-			"itemLabel": "Dovre",
+		"0612": {
+			"item": "http://www.wikidata.org/entity/Q488622",
+			"article": "https://no.wikipedia.org/wiki/Hole",
+			"url": "http://www.hole.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Hole%20komm.svg",
+			"itemLabel": "Hole",
 			"naboer": [
-				"0515",
-				"5021",
-				"0439",
-				"0512",
-				"0517"
-			],
-			"bilde": {
-				"image": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Dovre%20panorama.jpg"
-				],
-				"banner": []
-			}
-		},
-		"0136": {
-			"item": "http://www.wikidata.org/entity/Q486696",
-			"article": "https://no.wikipedia.org/wiki/Rygge",
-			"url": "http://www.rygge.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Rygge%20komm.svg",
-			"itemLabel": "Rygge",
-			"naboer": [
-				"0104",
-				"0135",
-				"0137"
-			]
-		},
-		"0532": {
-			"item": "http://www.wikidata.org/entity/Q486704",
-			"article": "https://no.wikipedia.org/wiki/Jevnaker",
-			"url": "http://www.jevnaker.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Jevnaker%20komm.svg",
-			"itemLabel": "Jevnaker",
-			"naboer": [
+				"0219",
 				"0605",
-				"0533",
-				"0534"
-			]
-		},
-		"0522": {
-			"item": "http://www.wikidata.org/entity/Q486713",
-			"article": "https://no.wikipedia.org/wiki/Gausdal",
-			"url": "http://www.gausdal.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Gausdal%20komm.svg",
-			"itemLabel": "Gausdal",
-			"naboer": [
-				"0520",
-				"0501",
-				"0521",
-				"0544",
-				"0542",
-				"0538",
-				"0519"
-			]
-		},
-		"0621": {
-			"item": "http://www.wikidata.org/entity/Q486726",
-			"article": "https://no.wikipedia.org/wiki/Sigdal",
-			"url": "http://www.sigdal.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Sigdal%20komm.svg",
-			"itemLabel": "Sigdal",
-			"naboer": [
-				"0622",
-				"0633",
-				"0631",
-				"0615",
-				"0624",
-				"0632",
-				"0623"
-			]
-		},
-		"0119": {
-			"item": "http://www.wikidata.org/entity/Q486736",
-			"article": "https://no.wikipedia.org/wiki/Marker",
-			"url": "http://www.marker.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Marker%20komm.svg",
-			"itemLabel": "Marker",
-			"naboer": [
-				"0118",
-				"0221",
-				"0121",
-				"0125",
-				"0128"
-			]
-		},
-		"0538": {
-			"item": "http://www.wikidata.org/entity/Q486741",
-			"article": "https://no.wikipedia.org/wiki/Nordre_Land",
-			"url": "http://www.nordre-land.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Nordre%20Land%20komm.svg",
-			"itemLabel": "Nordre Land",
-			"naboer": [
-				"0540",
-				"0501",
-				"0502",
-				"0542",
-				"0536",
-				"0522",
-				"0541"
-			]
-		},
-		"0602": {
-			"item": "http://www.wikidata.org/entity/Q26525",
-			"article": "https://no.wikipedia.org/wiki/Drammen",
-			"url": "http://www.drammen.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Drammen%20komm.svg",
-			"itemLabel": "Drammen",
-			"naboer": [
-				"0711",
-				"0625",
-				"0713",
-				"0715",
+				"0623",
 				"0626"
 			],
 			"bilde": {
 				"image": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Drammen.jpg"
+					"http://commons.wikimedia.org/wiki/Special:FilePath/Hole%20in%20Norway.JPG"
 				],
-				"banner": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Drammen%20banner.jpg"
-				]
+				"banner": []
 			}
 		},
-		"0515": {
-			"item": "http://www.wikidata.org/entity/Q113438",
-			"article": "https://no.wikipedia.org/wiki/V%C3%A5g%C3%A5",
-			"url": "http://www.vaga.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/V%C3%A5g%C3%A5%20komm.svg",
-			"itemLabel": "Vågå",
+		"0615": {
+			"item": "http://www.wikidata.org/entity/Q93703",
+			"article": "https://no.wikipedia.org/wiki/Fl%C3%A5",
+			"url": "http://www.flaa.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Fl%C3%A5%20komm.svg",
+			"itemLabel": "Flå",
 			"naboer": [
-				"0544",
-				"0511",
-				"0514",
-				"0516",
-				"0512",
-				"0545",
-				"0517"
+				"0540",
+				"0622",
+				"0633",
+				"0605",
+				"0616",
+				"0621"
 			]
 		},
-		"0412": {
-			"item": "http://www.wikidata.org/entity/Q113466",
-			"article": "https://no.wikipedia.org/wiki/Ringsaker",
-			"url": "http://www.ringsaker.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Ringsaker%20komm.svg",
-			"itemLabel": "Ringsaker",
+		"0616": {
+			"item": "http://www.wikidata.org/entity/Q483986",
+			"article": "https://no.wikipedia.org/wiki/Nes_(Buskerud)",
+			"url": "http://www.nes-bu.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Nes%20Buskerud%20komm.svg",
+			"itemLabel": "Nes",
 			"naboer": [
-				"0430",
-				"0417",
-				"0501",
-				"0403",
-				"0502",
-				"0429",
-				"0528",
-				"0521"
+				"0540",
+				"0633",
+				"0615",
+				"0619",
+				"0617"
+			],
+			"bilde": {
+				"image": [
+					"http://commons.wikimedia.org/wiki/Special:FilePath/Nesbyen%20Kirche.jpg"
+				],
+				"banner": []
+			}
+		},
+		"0617": {
+			"item": "http://www.wikidata.org/entity/Q493301",
+			"article": "https://no.wikipedia.org/wiki/Gol",
+			"url": "http://www.gol.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Gol%20komm.svg",
+			"itemLabel": "Gol",
+			"naboer": [
+				"0540",
+				"0619",
+				"0616",
+				"0542",
+				"0618"
+			]
+		},
+		"0618": {
+			"item": "http://www.wikidata.org/entity/Q497248",
+			"article": "https://no.wikipedia.org/wiki/Hemsedal",
+			"url": "http://www.hemsedal.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Hemsedal%20komm.svg",
+			"itemLabel": "Hemsedal",
+			"naboer": [
+				"0619",
+				"0542",
+				"0543",
+				"1422",
+				"0617",
+				"0545"
 			]
 		},
 		"0619": {
@@ -6846,224 +6753,337 @@
 				"banner": []
 			}
 		},
-		"0121": {
-			"item": "http://www.wikidata.org/entity/Q113622",
-			"article": "https://no.wikipedia.org/wiki/R%C3%B8mskog",
-			"url": "http://www.romskog.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/R%C3%B8mskog%20komm.svg",
-			"itemLabel": "Rømskog",
+		"0620": {
+			"item": "http://www.wikidata.org/entity/Q484057",
+			"article": "https://no.wikipedia.org/wiki/Hol",
+			"url": "http://www.hol.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Hol%20komm.svg",
+			"itemLabel": "Hol",
 			"naboer": [
-				"0221",
-				"0119"
-			]
-		},
-		"0618": {
-			"item": "http://www.wikidata.org/entity/Q497248",
-			"article": "https://no.wikipedia.org/wiki/Hemsedal",
-			"url": "http://www.hemsedal.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Hemsedal%20komm.svg",
-			"itemLabel": "Hemsedal",
-			"naboer": [
+				"0633",
 				"0619",
-				"0542",
-				"0543",
-				"1422",
-				"0617",
-				"0545"
+				"1232",
+				"1421",
+				"1233",
+				"1422"
 			]
 		},
-		"0137": {
-			"item": "http://www.wikidata.org/entity/Q499446",
-			"article": "https://no.wikipedia.org/wiki/V%C3%A5ler_(%C3%98stfold)",
-			"url": "http://www.valer-of.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/V%C3%A5ler%20%C3%98stfold%20komm.svg",
-			"itemLabel": "Våler",
+		"0621": {
+			"item": "http://www.wikidata.org/entity/Q486726",
+			"article": "https://no.wikipedia.org/wiki/Sigdal",
+			"url": "http://www.sigdal.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Sigdal%20komm.svg",
+			"itemLabel": "Sigdal",
 			"naboer": [
-				"0123",
-				"0211",
-				"0105",
-				"0104",
-				"0138",
-				"0127",
-				"0135",
-				"0136"
+				"0622",
+				"0633",
+				"0631",
+				"0615",
+				"0624",
+				"0632",
+				"0623"
 			]
 		},
-		"0821": {
-			"item": "http://www.wikidata.org/entity/Q499450",
-			"article": "https://no.wikipedia.org/wiki/B%C3%B8_(Telemark)",
-			"url": "http://www.bo.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/B%C3%B8%20Telemark%20komm.svg",
-			"itemLabel": "Bø",
+		"0622": {
+			"item": "http://www.wikidata.org/entity/Q48886",
+			"article": "https://no.wikipedia.org/wiki/Kr%C3%B8dsherad",
+			"url": "http://www.krodsherad.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Kr%C3%B8dsherad%20komm.svg",
+			"itemLabel": "Krødsherad",
 			"naboer": [
-				"0829",
-				"0828",
-				"0807",
-				"0819",
-				"0822"
-			]
-		},
-		"0426": {
-			"item": "http://www.wikidata.org/entity/Q501413",
-			"article": "https://no.wikipedia.org/wiki/V%C3%A5ler_(Hedmark)",
-			"url": "http://www.valer.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/V%C3%A5ler%20Hedmark%20komm.svg",
-			"itemLabel": "Våler",
-			"naboer": [
-				"0428",
-				"0417",
-				"0425",
-				"0427",
-				"0415"
-			]
-		},
-		"0534": {
-			"item": "http://www.wikidata.org/entity/Q501518",
-			"article": "https://no.wikipedia.org/wiki/Gran_(kommune)",
-			"url": "http://www.gran.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Gran%20komm.svg",
-			"itemLabel": "Gran",
-			"naboer": [
-				"0529",
-				"0239",
-				"0238",
+				"0615",
 				"0605",
-				"0536",
-				"0532",
-				"0533"
+				"0623",
+				"0621"
 			],
 			"bilde": {
 				"image": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Brandbukampen.jpg"
+					"http://commons.wikimedia.org/wiki/Special:FilePath/Kr%C3%B8deren1.jpg"
 				],
 				"banner": []
 			}
 		},
-		"0430": {
-			"item": "http://www.wikidata.org/entity/Q48526",
-			"article": "https://no.wikipedia.org/wiki/Stor-Elvdal",
-			"url": "http://www.stor-elvdal.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Stor-Elvdal%20komm.svg",
-			"itemLabel": "Stor-Elvdal",
+		"0623": {
+			"item": "http://www.wikidata.org/entity/Q484001",
+			"article": "https://no.wikipedia.org/wiki/Modum",
+			"url": "http://www.modum.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Modum%20komm.svg",
+			"itemLabel": "Modum",
 			"naboer": [
-				"0520",
-				"0438",
-				"0412",
-				"0429",
-				"0521",
-				"0439",
-				"0519",
-				"0432"
+				"0622",
+				"0625",
+				"0624",
+				"0605",
+				"0621",
+				"0626",
+				"0612"
 			]
 		},
-		"0428": {
-			"item": "http://www.wikidata.org/entity/Q48529",
-			"article": "https://no.wikipedia.org/wiki/Trysil",
-			"url": "http://www.trysil.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Trysil%20komm.svg",
-			"inception": "1838-01-01T00:00:00.000Z",
-			"itemLabel": "Trysil",
+		"0624": {
+			"item": "http://www.wikidata.org/entity/Q110311",
+			"article": "https://no.wikipedia.org/wiki/%C3%98vre_Eiker",
+			"url": "http://www.ovre-eiker.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%98vre%20Eiker%20komm.svg",
+			"itemLabel": "Øvre Eiker",
 			"naboer": [
-				"0434",
-				"0427",
-				"0429",
-				"0432",
-				"0426"
-			]
-		},
-		"0417": {
-			"item": "http://www.wikidata.org/entity/Q48542",
-			"article": "https://no.wikipedia.org/wiki/Stange",
-			"url": "https://www.stange.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Stange%20komm.svg",
-			"itemLabel": "Stange",
-			"naboer": [
-				"0425",
-				"0237",
-				"0403",
-				"0412",
-				"0528",
-				"0418",
-				"0415",
-				"0426"
+				"0631",
+				"0604",
+				"0625",
+				"0715",
+				"0623",
+				"0621",
+				"0626"
 			],
 			"bilde": {
 				"image": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Stange%20sentrum.jpg"
+					"http://commons.wikimedia.org/wiki/Special:FilePath/Storgata%20Hokksund.jpg"
 				],
 				"banner": []
 			}
 		},
-		"0125": {
-			"item": "http://www.wikidata.org/entity/Q113740",
-			"article": "https://no.wikipedia.org/wiki/Eidsberg",
-			"url": "http://www.eidsberg.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Eidsberg%20komm.svg",
-			"itemLabel": "Eidsberg",
+		"0625": {
+			"item": "http://www.wikidata.org/entity/Q110268",
+			"article": "https://no.wikipedia.org/wiki/Nedre_Eiker",
+			"url": "http://www.nedre-eiker.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Nedre%20Eiker%20komm.svg",
+			"itemLabel": "Nedre Eiker",
 			"naboer": [
-				"0122",
-				"0221",
-				"0124",
-				"0127",
-				"0128",
-				"0119"
+				"0602",
+				"0624",
+				"0715",
+				"0623",
+				"0626"
 			]
 		},
-		"0236": {
-			"item": "http://www.wikidata.org/entity/Q488026",
-			"article": "https://no.wikipedia.org/wiki/Nes_(Akershus)",
-			"url": "http://www.nes-ak.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Nes%20Akershus%20komm.svg",
-			"itemLabel": "Nes",
-			"osm": "406119",
+		"0626": {
+			"item": "http://www.wikidata.org/entity/Q488607",
+			"article": "https://no.wikipedia.org/wiki/Lier",
+			"url": "http://www.lier.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Lier%20komm.svg",
+			"itemLabel": "Lier",
 			"naboer": [
-				"0419",
-				"0420",
-				"0221",
-				"0237",
-				"0226",
-				"0235",
-				"0418"
+				"0602",
+				"0220",
+				"0219",
+				"0625",
+				"0624",
+				"0623",
+				"0612",
+				"0627"
+			]
+		},
+		"0627": {
+			"item": "http://www.wikidata.org/entity/Q488663",
+			"article": "https://no.wikipedia.org/wiki/R%C3%B8yken",
+			"url": "http://www.royken.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/R%C3%B8yken%20komm.svg",
+			"itemLabel": "Røyken",
+			"naboer": [
+				"0220",
+				"0626",
+				"0628"
+			]
+		},
+		"0628": {
+			"item": "http://www.wikidata.org/entity/Q488611",
+			"article": "https://no.wikipedia.org/wiki/Hurum",
+			"url": "http://www.hurum.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Hurum%20komm.svg",
+			"itemLabel": "Hurum",
+			"naboer": [
+				"0627"
 			],
 			"bilde": {
 				"image": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Ingeborgrud%20kirkested.jpg"
+					"http://commons.wikimedia.org/wiki/Special:FilePath/Verket%20Hurum.jpg"
 				],
 				"banner": []
 			}
 		},
-		"0541": {
-			"item": "http://www.wikidata.org/entity/Q488049",
-			"article": "https://no.wikipedia.org/wiki/Etnedal",
-			"url": "http://www.etnedal.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Etnedal%20komm.svg",
-			"itemLabel": "Etnedal",
+		"0631": {
+			"item": "http://www.wikidata.org/entity/Q93633",
+			"article": "https://no.wikipedia.org/wiki/Flesberg",
+			"url": "http://www.flesberg.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Flesberg%20komm.svg",
+			"itemLabel": "Flesberg",
 			"naboer": [
-				"0540",
-				"0542",
-				"0538"
+				"0807",
+				"0826",
+				"0604",
+				"0624",
+				"0632",
+				"0621"
 			]
 		},
-		"0519": {
-			"item": "http://www.wikidata.org/entity/Q488054",
-			"article": "https://no.wikipedia.org/wiki/S%C3%B8r-Fron",
-			"url": "http://www.sor-fron.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/S%C3%B8r-Fron%20komm.svg",
-			"itemLabel": "Sør-Fron",
+		"0632": {
+			"item": "http://www.wikidata.org/entity/Q483911",
+			"article": "https://no.wikipedia.org/wiki/Rollag",
+			"url": "http://www.rollag.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Rollag%20komm.svg",
+			"itemLabel": "Rollag",
 			"naboer": [
-				"0430",
-				"0520",
-				"0544",
-				"0439",
-				"0522",
-				"0516",
-				"0517"
+				"0826",
+				"0633",
+				"0631",
+				"0621"
+			]
+		},
+		"0633": {
+			"item": "http://www.wikidata.org/entity/Q48924",
+			"article": "https://no.wikipedia.org/wiki/Nore_og_Uvdal",
+			"url": "http://www.nore-og-uvdal.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Nore%20og%20Uvdal%20komm.svg",
+			"itemLabel": "Nore og Uvdal",
+			"naboer": [
+				"0834",
+				"0826",
+				"0615",
+				"0619",
+				"0632",
+				"1232",
+				"0616",
+				"0620",
+				"0621"
+			]
+		},
+		"0701": {
+			"item": "http://www.wikidata.org/entity/Q109048",
+			"article": "https://no.wikipedia.org/wiki/Horten",
+			"url": "http://www.horten.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Horten%20Kommune.svg",
+			"inception": "1858-01-01T00:00:00.000Z",
+			"itemLabel": "Horten",
+			"naboer": [
+				"0704",
+				"0716"
 			],
 			"bilde": {
 				"image": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/S%C3%B8r-Fron%20kirke%201.JPG"
+					"http://commons.wikimedia.org/wiki/Special:FilePath/Norwegian%20Naval%20Museum%20Horten.jpg"
+				],
+				"banner": [
+					"http://commons.wikimedia.org/wiki/Special:FilePath/Horten%20Wikivoyage%20Banner.jpg"
+				]
+			}
+		},
+		"0704": {
+			"item": "http://www.wikidata.org/entity/Q107392",
+			"article": "https://no.wikipedia.org/wiki/T%C3%B8nsberg",
+			"url": "http://www.tonsberg.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/T%C3%B8nsberg%20komm.svg",
+			"itemLabel": "Tønsberg",
+			"naboer": [
+				"0710",
+				"0701",
+				"0716",
+				"0729"
+			],
+			"bilde": {
+				"image": [
+					"http://commons.wikimedia.org/wiki/Special:FilePath/Brygga%20i%20T%C3%B8nsberg.JPG"
+				],
+				"banner": [
+					"http://commons.wikimedia.org/wiki/Special:FilePath/T%C3%B8nsberg%20Wikivoyage%20Banner.jpg"
+				]
+			}
+		},
+		"0710": {
+			"item": "http://www.wikidata.org/entity/Q109005",
+			"article": "https://no.wikipedia.org/wiki/Sandefjord",
+			"url": "http://www.sandefjord.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandefjord%20komm%202017.svg",
+			"itemLabel": "Sandefjord",
+			"naboer": [
+				"0704",
+				"0712",
+				"0716",
+				"0729"
+			],
+			"bilde": {
+				"image": [
+					"http://commons.wikimedia.org/wiki/Special:FilePath/ByskolenSandefjord.jpg"
+				],
+				"banner": [
+					"http://commons.wikimedia.org/wiki/Special:FilePath/Sandefjord%20banner.jpg"
+				]
+			}
+		},
+		"0711": {
+			"item": "http://www.wikidata.org/entity/Q48701",
+			"article": "https://no.wikipedia.org/wiki/Svelvik",
+			"url": "http://www.svelvik.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Svelvik%20komm.svg",
+			"itemLabel": "Svelvik",
+			"naboer": [
+				"0602",
+				"0713"
+			],
+			"bilde": {
+				"image": [
+					"http://commons.wikimedia.org/wiki/Special:FilePath/Svelvik.jpg"
 				],
 				"banner": []
+			}
+		},
+		"0712": {
+			"item": "http://www.wikidata.org/entity/Q156125",
+			"article": "https://no.wikipedia.org/wiki/Larvik",
+			"url": "http://www.larvik.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Larvik%20komm%202018.svg",
+			"inception": "1671-01-01T00:00:00.000Z",
+			"itemLabel": "Larvik",
+			"osm": "404591",
+			"naboer": [
+				"0805",
+				"0811",
+				"0604",
+				"0710",
+				"0715",
+				"0716"
+			],
+			"bilde": {
+				"image": [
+					"http://commons.wikimedia.org/wiki/Special:FilePath/Larvik%20%2814387497427%29.jpg"
+				],
+				"banner": [
+					"http://commons.wikimedia.org/wiki/Special:FilePath/Larvik%20Wikivoyage%20banner.jpg"
+				]
+			}
+		},
+		"0713": {
+			"item": "http://www.wikidata.org/entity/Q183029",
+			"article": "https://no.wikipedia.org/wiki/Sande_(Vestfold)",
+			"url": "http://www.sande-ve.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Sande%20Vestfold%20komm.svg",
+			"itemLabel": "Sande",
+			"naboer": [
+				"0602",
+				"0711",
+				"0715"
+			]
+		},
+		"0715": {
+			"item": "http://www.wikidata.org/entity/Q483871",
+			"article": "https://no.wikipedia.org/wiki/Holmestrand",
+			"url": "http://www.holmestrand.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Holmestrand%20komm.svg",
+			"itemLabel": "Holmestrand",
+			"naboer": [
+				"0602",
+				"0604",
+				"0625",
+				"0624",
+				"0712",
+				"0713",
+				"0716"
+			],
+			"bilde": {
+				"image": [
+					"http://commons.wikimedia.org/wiki/Special:FilePath/Holmestrand.jpg"
+				],
+				"banner": [
+					"http://commons.wikimedia.org/wiki/Special:FilePath/Holmestrand%20Wikivoyage%20Banner.jpg"
+				]
 			}
 		},
 		"0716": {
@@ -7094,494 +7114,6 @@
 				"banner": []
 			}
 		},
-		"0118": {
-			"item": "http://www.wikidata.org/entity/Q48393",
-			"article": "https://no.wikipedia.org/wiki/Aremark",
-			"url": "http://www.aremark.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Aremark%20komm.svg",
-			"inception": "1837-01-01T00:00:00.000Z",
-			"itemLabel": "Aremark",
-			"naboer": [
-				"0101",
-				"0128",
-				"0119"
-			]
-		},
-		"0540": {
-			"item": "http://www.wikidata.org/entity/Q48414",
-			"article": "https://no.wikipedia.org/wiki/S%C3%B8r-Aurdal",
-			"url": "http://www.sor-aurdal.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/S%C3%B8r-Aurdal%20komm.svg",
-			"itemLabel": "Sør-Aurdal",
-			"naboer": [
-				"0615",
-				"0605",
-				"0616",
-				"0542",
-				"0536",
-				"0538",
-				"0541",
-				"0617"
-			]
-		},
-		"0545": {
-			"item": "http://www.wikidata.org/entity/Q503637",
-			"article": "https://no.wikipedia.org/wiki/Vang_(Oppland)",
-			"url": "http://www.vang.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Vang%20komm.svg",
-			"inception": "1838-01-01T00:00:00.000Z",
-			"itemLabel": "Vang",
-			"naboer": [
-				"0515",
-				"1424",
-				"0544",
-				"0514",
-				"0543",
-				"1422",
-				"0618",
-				"1426"
-			]
-		},
-		"0419": {
-			"item": "http://www.wikidata.org/entity/Q48615",
-			"article": "https://no.wikipedia.org/wiki/S%C3%B8r-Odal",
-			"url": "http://www.sor-odal.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/S%C3%B8r-Odal%20komm.svg",
-			"itemLabel": "Sør-Odal",
-			"naboer": [
-				"0420",
-				"0402",
-				"0418",
-				"0236",
-				"0423"
-			]
-		},
-		"0520": {
-			"item": "http://www.wikidata.org/entity/Q48637",
-			"article": "https://no.wikipedia.org/wiki/Ringebu",
-			"url": "http://www.ringebu.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Ringebu%20komm.svg",
-			"itemLabel": "Ringebu",
-			"naboer": [
-				"0430",
-				"0521",
-				"0522",
-				"0519"
-			]
-		},
-		"0123": {
-			"item": "http://www.wikidata.org/entity/Q48668",
-			"article": "https://no.wikipedia.org/wiki/Spydeberg",
-			"url": "http://www.spydeberg.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Spydeberg%20komm.svg",
-			"itemLabel": "Spydeberg",
-			"naboer": [
-				"0122",
-				"0229",
-				"0124",
-				"0138",
-				"0127",
-				"0137"
-			]
-		},
-		"0122": {
-			"item": "http://www.wikidata.org/entity/Q48678",
-			"article": "https://no.wikipedia.org/wiki/Tr%C3%B8gstad",
-			"url": "http://www.trogstad.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Tr%C3%B8gstad%20komm.svg",
-			"itemLabel": "Trøgstad",
-			"naboer": [
-				"0123",
-				"0221",
-				"0229",
-				"0227",
-				"0124",
-				"0125"
-			],
-			"bilde": {
-				"image": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Trogstad%20kommune%20M%C3%B8rk.jpg"
-				],
-				"banner": []
-			}
-		},
-		"0711": {
-			"item": "http://www.wikidata.org/entity/Q48701",
-			"article": "https://no.wikipedia.org/wiki/Svelvik",
-			"url": "http://www.svelvik.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Svelvik%20komm.svg",
-			"itemLabel": "Svelvik",
-			"naboer": [
-				"0602",
-				"0713"
-			],
-			"bilde": {
-				"image": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Svelvik.jpg"
-				],
-				"banner": []
-			}
-		},
-		"0529": {
-			"item": "http://www.wikidata.org/entity/Q48717",
-			"article": "https://no.wikipedia.org/wiki/Vestre_Toten",
-			"url": "http://www.vestre-toten.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Vestre%20Toten%20komm.svg",
-			"itemLabel": "Vestre Toten",
-			"naboer": [
-				"0239",
-				"0502",
-				"0528",
-				"0536",
-				"0534"
-			],
-			"bilde": {
-				"image": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Vestre%20Toten%20kart.png"
-				],
-				"banner": []
-			}
-		},
-		"0438": {
-			"item": "http://www.wikidata.org/entity/Q48723",
-			"article": "https://no.wikipedia.org/wiki/Alvdal",
-			"url": "http://www.alvdal.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Alvdal%20komm.svg",
-			"itemLabel": "Alvdal",
-			"naboer": [
-				"0430",
-				"0439",
-				"0432",
-				"0437"
-			]
-		},
-		"0429": {
-			"item": "http://www.wikidata.org/entity/Q271063",
-			"article": "https://no.wikipedia.org/wiki/%C3%85mot",
-			"url": "http://www.amot.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%85mot%20komm.svg",
-			"itemLabel": "Åmot",
-			"naboer": [
-				"0430",
-				"0428",
-				"0403",
-				"0427",
-				"0412",
-				"0432",
-				"0415"
-			],
-			"bilde": {
-				"image": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Nordre-Osen-Old-Church-%C3%85mot-Norway.jpg"
-				],
-				"banner": []
-			}
-		},
-		"0111": {
-			"item": "http://www.wikidata.org/entity/Q488435",
-			"article": "https://no.wikipedia.org/wiki/Hvaler_(kommune)",
-			"url": "http://www.hvaler.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Hvaler%20komm.svg",
-			"itemLabel": "Hvaler",
-			"naboer": [
-				"0106",
-				"0105"
-			]
-		},
-		"0543": {
-			"item": "http://www.wikidata.org/entity/Q488439",
-			"article": "https://no.wikipedia.org/wiki/Vestre_Slidre",
-			"url": "http://www.vestre-slidre.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Vestre%20Slidre%20komm.svg",
-			"itemLabel": "Vestre Slidre",
-			"naboer": [
-				"0544",
-				"0542",
-				"0618",
-				"0545"
-			]
-		},
-		"0626": {
-			"item": "http://www.wikidata.org/entity/Q488607",
-			"article": "https://no.wikipedia.org/wiki/Lier",
-			"url": "http://www.lier.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Lier%20komm.svg",
-			"itemLabel": "Lier",
-			"naboer": [
-				"0602",
-				"0220",
-				"0219",
-				"0625",
-				"0624",
-				"0623",
-				"0612",
-				"0627"
-			]
-		},
-		"0628": {
-			"item": "http://www.wikidata.org/entity/Q488611",
-			"article": "https://no.wikipedia.org/wiki/Hurum",
-			"url": "http://www.hurum.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Hurum%20komm.svg",
-			"itemLabel": "Hurum",
-			"naboer": [
-				"0627"
-			],
-			"bilde": {
-				"image": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Verket%20Hurum.jpg"
-				],
-				"banner": []
-			}
-		},
-		"0612": {
-			"item": "http://www.wikidata.org/entity/Q488622",
-			"article": "https://no.wikipedia.org/wiki/Hole",
-			"url": "http://www.hole.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Hole%20komm.svg",
-			"itemLabel": "Hole",
-			"naboer": [
-				"0219",
-				"0605",
-				"0623",
-				"0626"
-			],
-			"bilde": {
-				"image": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Hole%20in%20Norway.JPG"
-				],
-				"banner": []
-			}
-		},
-		"0627": {
-			"item": "http://www.wikidata.org/entity/Q488663",
-			"article": "https://no.wikipedia.org/wiki/R%C3%B8yken",
-			"url": "http://www.royken.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/R%C3%B8yken%20komm.svg",
-			"itemLabel": "Røyken",
-			"naboer": [
-				"0220",
-				"0626",
-				"0628"
-			]
-		},
-		"0528": {
-			"item": "http://www.wikidata.org/entity/Q308420",
-			"article": "https://no.wikipedia.org/wiki/%C3%98stre_Toten",
-			"url": "http://www.ostre-toten.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%98stre%20Toten%20komm.svg",
-			"itemLabel": "Østre Toten",
-			"naboer": [
-				"0417",
-				"0529",
-				"0237",
-				"0239",
-				"0502",
-				"0412"
-			],
-			"bilde": {
-				"image": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/%C3%98stre%20Toten.jpg"
-				],
-				"banner": []
-			}
-		},
-		"0521": {
-			"item": "http://www.wikidata.org/entity/Q316779",
-			"article": "https://no.wikipedia.org/wiki/%C3%98yer",
-			"url": "http://www.oyer.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%98yer%20komm.svg",
-			"itemLabel": "Øyer",
-			"naboer": [
-				"0430",
-				"0520",
-				"0501",
-				"0412",
-				"0522"
-			],
-			"bilde": {
-				"image": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/%C3%96yer%20Jemne%20gaard%20IMG%201508.JPG"
-				],
-				"banner": []
-			}
-		},
-		"0544": {
-			"item": "http://www.wikidata.org/entity/Q329894",
-			"article": "https://no.wikipedia.org/wiki/%C3%98ystre_Slidre",
-			"url": "http://www.oystre-slidre.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%98ystre%20Slidre%20komm.svg",
-			"itemLabel": "Øystre Slidre",
-			"naboer": [
-				"0515",
-				"0542",
-				"0522",
-				"0519",
-				"0516",
-				"0543",
-				"0545"
-			]
-		},
-		"0437": {
-			"item": "http://www.wikidata.org/entity/Q488779",
-			"article": "https://no.wikipedia.org/wiki/Tynset",
-			"url": "http://www.tynset.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Tynset%20komm.svg",
-			"itemLabel": "Tynset",
-			"naboer": [
-				"0438",
-				"5021",
-				"0439",
-				"1635",
-				"0432",
-				"1648",
-				"0436",
-				"0441"
-			],
-			"bilde": {
-				"image": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Tynset%20fra%20bygda.jpg"
-				],
-				"banner": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Tynset%20Wikivoyage%20Banner.jpg"
-				]
-			}
-		},
-		"0423": {
-			"item": "http://www.wikidata.org/entity/Q488783",
-			"article": "https://no.wikipedia.org/wiki/Grue",
-			"url": "http://www.grue.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Grue%20komm.svg",
-			"itemLabel": "Grue",
-			"naboer": [
-				"0419",
-				"0425",
-				"0402",
-				"0418"
-			]
-		},
-		"0415": {
-			"item": "http://www.wikidata.org/entity/Q488951",
-			"article": "https://no.wikipedia.org/wiki/L%C3%B8ten",
-			"url": "http://www.loten.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/L%C3%B8ten%20komm.svg",
-			"itemLabel": "Løten",
-			"naboer": [
-				"0417",
-				"0403",
-				"0427",
-				"0429",
-				"0426"
-			]
-		},
-		"0127": {
-			"item": "http://www.wikidata.org/entity/Q156420",
-			"article": "https://no.wikipedia.org/wiki/Skiptvet",
-			"url": "http://www.skiptvet.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Skiptvet%20komm.svg",
-			"itemLabel": "Skiptvet",
-			"naboer": [
-				"0123",
-				"0105",
-				"0124",
-				"0125",
-				"0128",
-				"0137"
-			]
-		},
-		"0713": {
-			"item": "http://www.wikidata.org/entity/Q183029",
-			"article": "https://no.wikipedia.org/wiki/Sande_(Vestfold)",
-			"url": "http://www.sande-ve.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Sande%20Vestfold%20komm.svg",
-			"itemLabel": "Sande",
-			"naboer": [
-				"0602",
-				"0711",
-				"0715"
-			]
-		},
-		"0432": {
-			"item": "http://www.wikidata.org/entity/Q488229",
-			"article": "https://no.wikipedia.org/wiki/Rendalen",
-			"url": "http://www.rendalen.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Rendalen%20komm.svg",
-			"itemLabel": "Rendalen",
-			"naboer": [
-				"0430",
-				"0428",
-				"0438",
-				"0434",
-				"0429",
-				"0437",
-				"0436"
-			]
-		},
-		"0514": {
-			"item": "http://www.wikidata.org/entity/Q488395",
-			"article": "https://no.wikipedia.org/wiki/Lom",
-			"url": "http://www.lom.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Lom%20komm.svg",
-			"itemLabel": "Lom",
-			"naboer": [
-				"0515",
-				"0513",
-				"0512",
-				"1426",
-				"0545"
-			],
-			"bilde": {
-				"image": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Lom%20stave%20church.jpg"
-				],
-				"banner": []
-			}
-		},
-		"0533": {
-			"item": "http://www.wikidata.org/entity/Q488398",
-			"article": "https://no.wikipedia.org/wiki/Lunner",
-			"url": "http://www.lunner.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Lunner%20komm.svg",
-			"itemLabel": "Lunner",
-			"naboer": [
-				"0301",
-				"0238",
-				"0233",
-				"0605",
-				"0532",
-				"0534"
-			]
-		},
-		"0516": {
-			"item": "http://www.wikidata.org/entity/Q488401",
-			"article": "https://no.wikipedia.org/wiki/Nord-Fron",
-			"url": "http://www.nord-fron.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Nord-Fron%20komm.svg",
-			"itemLabel": "Nord-Fron",
-			"naboer": [
-				"0515",
-				"0544",
-				"0519",
-				"0517"
-			]
-		},
-		"0512": {
-			"item": "http://www.wikidata.org/entity/Q488405",
-			"article": "https://no.wikipedia.org/wiki/Lesja",
-			"url": "http://www.lesja.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Lesja%20komm.svg",
-			"itemLabel": "Lesja",
-			"naboer": [
-				"1563",
-				"0515",
-				"5021",
-				"1543",
-				"0513",
-				"0511",
-				"0514",
-				"1539"
-			]
-		},
 		"0729": {
 			"item": "http://www.wikidata.org/entity/Q42320251",
 			"article": "https://no.wikipedia.org/wiki/F%C3%A6rder",
@@ -7593,121 +7125,589 @@
 				"0710"
 			]
 		},
-		"0712": {
-			"item": "http://www.wikidata.org/entity/Q156125",
-			"article": "https://no.wikipedia.org/wiki/Larvik",
-			"url": "http://www.larvik.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Larvik%20komm%202018.svg",
-			"inception": "1671-01-01T00:00:00.000Z",
-			"itemLabel": "Larvik",
-			"osm": "404591",
+		"0805": {
+			"item": "http://www.wikidata.org/entity/Q2290",
+			"article": "https://no.wikipedia.org/wiki/Porsgrunn",
+			"url": "http://www.porsgrunn.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Porsgrunn%20komm.svg",
+			"itemLabel": "Porsgrunn",
 			"naboer": [
-				"0805",
+				"0806",
 				"0811",
-				"0604",
-				"0710",
-				"0715",
-				"0716"
+				"0712",
+				"0814"
 			],
 			"bilde": {
 				"image": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Larvik%20%2814387497427%29.jpg"
+					"http://commons.wikimedia.org/wiki/Special:FilePath/Porsgrunn%20Vestsida.jpg"
 				],
 				"banner": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Larvik%20Wikivoyage%20banner.jpg"
+					"http://commons.wikimedia.org/wiki/Special:FilePath/Porsgrunn%20%28Brevik%29%20banner.jpg"
 				]
 			}
 		},
-		"0517": {
-			"item": "http://www.wikidata.org/entity/Q507499",
-			"article": "https://no.wikipedia.org/wiki/Sel_(kommune)",
-			"url": "http://www.sel.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Sel%20komm.svg",
-			"itemLabel": "Sel",
+		"0806": {
+			"item": "http://www.wikidata.org/entity/Q2272",
+			"article": "https://no.wikipedia.org/wiki/Skien",
+			"url": "http://www.skien.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Skien%20komm.svg",
+			"itemLabel": "Skien",
 			"naboer": [
-				"0515",
-				"0439",
-				"0511",
-				"0519",
-				"0516"
-			]
-		},
-		"0436": {
-			"item": "http://www.wikidata.org/entity/Q507549",
-			"article": "https://no.wikipedia.org/wiki/Tolga",
-			"url": "http://www.tolga.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Tolga%20komm.svg",
-			"itemLabel": "Tolga",
-			"naboer": [
-				"0434",
-				"0432",
-				"0437",
-				"0441"
+				"0805",
+				"0811",
+				"0817",
+				"0819",
+				"0822",
+				"0604",
+				"0814"
 			],
 			"bilde": {
 				"image": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Gata%20Tolga.jpg"
+					"http://commons.wikimedia.org/wiki/Special:FilePath/Bryggevannet%20og%20Hjellevannet%20-%20Skien.jpg"
+				],
+				"banner": [
+					"http://commons.wikimedia.org/wiki/Special:FilePath/Skien%20banner.jpg"
+				]
+			}
+		},
+		"0807": {
+			"item": "http://www.wikidata.org/entity/Q2326",
+			"article": "https://no.wikipedia.org/wiki/Notodden",
+			"url": "http://www.notodden.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Notodden%20komm.svg",
+			"itemLabel": "Notodden",
+			"naboer": [
+				"0828",
+				"0827",
+				"0826",
+				"0822",
+				"0631",
+				"0604",
+				"0821"
+			],
+			"bilde": {
+				"image": [
+					"http://commons.wikimedia.org/wiki/Special:FilePath/Notodden%20dark.jpg"
+				],
+				"banner": [
+					"http://commons.wikimedia.org/wiki/Special:FilePath/Notodden%20Wikivoyage%20Banner.jpg"
+				]
+			}
+		},
+		"0811": {
+			"item": "http://www.wikidata.org/entity/Q2308",
+			"article": "https://no.wikipedia.org/wiki/Siljan",
+			"url": "http://www.siljan.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Siljan%20komm.svg",
+			"itemLabel": "Siljan",
+			"naboer": [
+				"0806",
+				"0805",
+				"0604",
+				"0712"
+			]
+		},
+		"0814": {
+			"item": "http://www.wikidata.org/entity/Q484052",
+			"article": "https://no.wikipedia.org/wiki/Bamble",
+			"url": "http://www.bamble.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Bamble%20komm.svg",
+			"itemLabel": "Bamble",
+			"naboer": [
+				"0806",
+				"0805",
+				"0817",
+				"0815"
+			]
+		},
+		"0815": {
+			"item": "http://www.wikidata.org/entity/Q2372",
+			"article": "https://no.wikipedia.org/wiki/Krager%C3%B8",
+			"url": "http://www.kragero.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Krager%C3%B8%20komm.svg",
+			"itemLabel": "Kragerø",
+			"naboer": [
+				"0817",
+				"0911",
+				"0901",
+				"0814"
+			],
+			"bilde": {
+				"image": [
+					"http://commons.wikimedia.org/wiki/Special:FilePath/Krager%C3%B81.jpg"
 				],
 				"banner": []
 			}
 		},
-		"0441": {
-			"item": "http://www.wikidata.org/entity/Q507562",
-			"article": "https://no.wikipedia.org/wiki/Os_(Hedmark)",
-			"url": "http://www.os.hedmark.no",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Os%20Hedmark%20komm.svg",
-			"itemLabel": "Os",
+		"0817": {
+			"item": "http://www.wikidata.org/entity/Q2367",
+			"article": "https://no.wikipedia.org/wiki/Drangedal",
+			"url": "http://www.drangedal.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Drangedal%20komm.svg",
+			"itemLabel": "Drangedal",
 			"naboer": [
-				"0434",
-				"1640",
-				"1644",
-				"0437",
-				"1648",
-				"0436"
+				"0830",
+				"0829",
+				"0806",
+				"0815",
+				"0819",
+				"0911",
+				"0814"
 			]
 		},
-		"0425": {
-			"item": "http://www.wikidata.org/entity/Q48769",
-			"article": "https://no.wikipedia.org/wiki/%C3%85snes",
-			"url": "http://www.asnes.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%85snes%20komm.svg",
-			"itemLabel": "Åsnes",
+		"0819": {
+			"item": "http://www.wikidata.org/entity/Q2375",
+			"article": "https://no.wikipedia.org/wiki/Nome",
+			"url": "http://www.nome.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Nome%20komm.svg",
+			"itemLabel": "Nome",
 			"naboer": [
-				"0417",
-				"0418",
-				"0423",
-				"0426"
-			]
-		},
-		"0622": {
-			"item": "http://www.wikidata.org/entity/Q48886",
-			"article": "https://no.wikipedia.org/wiki/Kr%C3%B8dsherad",
-			"url": "http://www.krodsherad.kommune.no/",
-			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Kr%C3%B8dsherad%20komm.svg",
-			"itemLabel": "Krødsherad",
-			"naboer": [
-				"0615",
-				"0605",
-				"0623",
-				"0621"
+				"0829",
+				"0806",
+				"0817",
+				"0822",
+				"0821"
 			],
 			"bilde": {
 				"image": [
-					"http://commons.wikimedia.org/wiki/Special:FilePath/Kr%C3%B8deren1.jpg"
+					"http://commons.wikimedia.org/wiki/Special:FilePath/Ulefoss%20panorama.JPG"
 				],
 				"banner": []
 			}
+		},
+		"0821": {
+			"item": "http://www.wikidata.org/entity/Q499450",
+			"article": "https://no.wikipedia.org/wiki/B%C3%B8_(Telemark)",
+			"url": "http://www.bo.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/B%C3%B8%20Telemark%20komm.svg",
+			"itemLabel": "Bø",
+			"naboer": [
+				"0829",
+				"0828",
+				"0807",
+				"0819",
+				"0822"
+			]
+		},
+		"0822": {
+			"item": "http://www.wikidata.org/entity/Q2381",
+			"article": "https://no.wikipedia.org/wiki/Sauherad",
+			"url": "http://www.sauherad.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Sauherad%20komm.svg",
+			"itemLabel": "Sauherad",
+			"naboer": [
+				"0806",
+				"0807",
+				"0819",
+				"0604",
+				"0821"
+			]
+		},
+		"0826": {
+			"item": "http://www.wikidata.org/entity/Q2365",
+			"article": "https://no.wikipedia.org/wiki/Tinn_(kommune)",
+			"url": "http://www.tinn.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Tinn%20komm.svg",
+			"itemLabel": "Tinn",
+			"naboer": [
+				"0828",
+				"0834",
+				"0807",
+				"0827",
+				"0633",
+				"0631",
+				"0632"
+			],
+			"bilde": {
+				"image": [
+					"http://commons.wikimedia.org/wiki/Special:FilePath/P1000747Rjukan.JPG"
+				],
+				"banner": []
+			}
+		},
+		"0827": {
+			"item": "http://www.wikidata.org/entity/Q2354",
+			"article": "https://no.wikipedia.org/wiki/Hjartdal",
+			"url": "http://www.hjartdal.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Hjartdal%20komm.svg",
+			"itemLabel": "Hjartdal",
+			"naboer": [
+				"0828",
+				"0807",
+				"0826"
+			]
+		},
+		"0828": {
+			"item": "http://www.wikidata.org/entity/Q2236",
+			"article": "https://no.wikipedia.org/wiki/Seljord",
+			"url": "http://www.seljord.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Seljord%20komm.svg",
+			"itemLabel": "Seljord",
+			"naboer": [
+				"0829",
+				"0833",
+				"0834",
+				"0807",
+				"0827",
+				"0826",
+				"0821"
+			]
+		},
+		"0829": {
+			"item": "http://www.wikidata.org/entity/Q2232",
+			"article": "https://no.wikipedia.org/wiki/Kviteseid",
+			"url": "http://www.kviteseid.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Kviteseid%20komm.svg",
+			"itemLabel": "Kviteseid",
+			"naboer": [
+				"0831",
+				"0830",
+				"0828",
+				"0833",
+				"0817",
+				"0819",
+				"0821"
+			]
+		},
+		"0830": {
+			"item": "http://www.wikidata.org/entity/Q2229",
+			"article": "https://no.wikipedia.org/wiki/Nissedal",
+			"url": "http://www.nissedal.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Nissedal%20komm.svg",
+			"itemLabel": "Nissedal",
+			"naboer": [
+				"0831",
+				"0829",
+				"0817",
+				"0911",
+				"0912",
+				"0929"
+			]
+		},
+		"0831": {
+			"item": "http://www.wikidata.org/entity/Q1881",
+			"article": "https://no.wikipedia.org/wiki/Fyresdal",
+			"url": "http://www.fyresdal.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Fyresdal%20komm.svg",
+			"itemLabel": "Fyresdal",
+			"naboer": [
+				"0830",
+				"0829",
+				"0833",
+				"0938",
+				"0940",
+				"0929"
+			]
+		},
+		"0833": {
+			"item": "http://www.wikidata.org/entity/Q2241",
+			"article": "https://no.wikipedia.org/wiki/Tokke",
+			"url": "http://www.tokke.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Tokke%20komm.svg",
+			"itemLabel": "Tokke",
+			"naboer": [
+				"0831",
+				"0829",
+				"0828",
+				"0834",
+				"0941",
+				"0940"
+			]
+		},
+		"0834": {
+			"item": "http://www.wikidata.org/entity/Q2245",
+			"article": "https://no.wikipedia.org/wiki/Vinje",
+			"url": "http://www.vinje.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Vinje%20komm.svg",
+			"itemLabel": "Vinje",
+			"naboer": [
+				"0828",
+				"0833",
+				"0826",
+				"1134",
+				"0633",
+				"0941",
+				"1228",
+				"1231"
+			]
+		},
+		"0901": {
+			"item": "http://www.wikidata.org/entity/Q90595",
+			"article": "https://no.wikipedia.org/wiki/Ris%C3%B8r",
+			"url": "http://www.risor.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Ris%C3%B8r%20komm.svg",
+			"itemLabel": "Risør",
+			"naboer": [
+				"0815",
+				"0911",
+				"0914",
+				"0912"
+			],
+			"bilde": {
+				"image": [
+					"http://commons.wikimedia.org/wiki/Special:FilePath/Ris%C3%B8r%20Krantoppen%20august%202017%20%284%29.jpg"
+				],
+				"banner": [
+					"http://commons.wikimedia.org/wiki/Special:FilePath/Ris%C3%B8r%20banner.jpg"
+				]
+			}
+		},
+		"0904": {
+			"item": "http://www.wikidata.org/entity/Q90590",
+			"article": "https://no.wikipedia.org/wiki/Grimstad",
+			"url": "http://www.grimstad.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Grimstad%20komm.svg",
+			"itemLabel": "Grimstad",
+			"naboer": [
+				"0906",
+				"0928",
+				"0919",
+				"0926"
+			],
+			"bilde": {
+				"image": [
+					"http://commons.wikimedia.org/wiki/Special:FilePath/Grimstad%20078.jpg"
+				],
+				"banner": []
+			}
+		},
+		"0906": {
+			"item": "http://www.wikidata.org/entity/Q57919",
+			"article": "https://no.wikipedia.org/wiki/Arendal",
+			"url": "https://www.arendal.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Arendal%20komm.svg",
+			"itemLabel": "Arendal",
+			"naboer": [
+				"0919",
+				"0904",
+				"0914"
+			],
+			"bilde": {
+				"image": [
+					"http://commons.wikimedia.org/wiki/Special:FilePath/Arendal%20Utsikt%2002.JPG"
+				],
+				"banner": [
+					"http://commons.wikimedia.org/wiki/Special:FilePath/Arendal%20WV%20Banner.jpg"
+				]
+			}
+		},
+		"0911": {
+			"item": "http://www.wikidata.org/entity/Q88813",
+			"article": "https://no.wikipedia.org/wiki/Gjerstad",
+			"url": "http://www.gjerstad.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Gjerstad%20komm.svg",
+			"itemLabel": "Gjerstad",
+			"naboer": [
+				"0830",
+				"0817",
+				"0815",
+				"0901",
+				"0912"
+			]
+		},
+		"0912": {
+			"item": "http://www.wikidata.org/entity/Q90600",
+			"article": "https://no.wikipedia.org/wiki/Veg%C3%A5rshei",
+			"url": "http://www.vegarshei.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Veg%C3%A5rshei%20komm.svg",
+			"itemLabel": "Vegårshei",
+			"naboer": [
+				"0830",
+				"0911",
+				"0901",
+				"0914",
+				"0929"
+			]
+		},
+		"0914": {
+			"item": "http://www.wikidata.org/entity/Q90597",
+			"article": "https://no.wikipedia.org/wiki/Tvedestrand",
+			"url": "http://www.tvedestrand.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Tvedestrand%20komm.svg",
+			"itemLabel": "Tvedestrand",
+			"naboer": [
+				"0906",
+				"0919",
+				"0901",
+				"0912",
+				"0929"
+			],
+			"bilde": {
+				"image": [
+					"http://commons.wikimedia.org/wiki/Special:FilePath/Tvedestrand%20Brygga%202000.jpg"
+				],
+				"banner": []
+			}
+		},
+		"0919": {
+			"item": "http://www.wikidata.org/entity/Q88810",
+			"article": "https://no.wikipedia.org/wiki/Froland",
+			"url": "http://www.froland.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Froland%20komm.svg",
+			"itemLabel": "Froland",
+			"naboer": [
+				"0906",
+				"0928",
+				"0938",
+				"0937",
+				"0904",
+				"0914",
+				"0929"
+			],
+			"bilde": {
+				"image": [
+					"http://commons.wikimedia.org/wiki/Special:FilePath/Krk-Froland.jpg"
+				],
+				"banner": []
+			}
+		},
+		"0926": {
+			"item": "http://www.wikidata.org/entity/Q90593",
+			"article": "https://no.wikipedia.org/wiki/Lillesand",
+			"url": "http://www.lillesand.kommune.no",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Lillesand%20komm.svg",
+			"itemLabel": "Lillesand",
+			"osm": "406034",
+			"naboer": [
+				"0904",
+				"1001",
+				"0928"
+			],
+			"bilde": {
+				"image": [
+					"http://commons.wikimedia.org/wiki/Special:FilePath/Lillesandskyline12.jpg"
+				],
+				"banner": [
+					"http://commons.wikimedia.org/wiki/Special:FilePath/Lillesand%20banner.jpg"
+				]
+			}
+		},
+		"0928": {
+			"item": "http://www.wikidata.org/entity/Q88802",
+			"article": "https://no.wikipedia.org/wiki/Birkenes",
+			"url": "http://www.birkenes.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Birkenes%20komm.svg",
+			"inception": "1838-01-01T00:00:00.000Z",
+			"itemLabel": "Birkenes",
+			"naboer": [
+				"1001",
+				"0937",
+				"0919",
+				"0904",
+				"0935",
+				"0926",
+				"1014"
+			]
+		},
+		"0929": {
+			"item": "http://www.wikidata.org/entity/Q90601",
+			"article": "https://no.wikipedia.org/wiki/%C3%85mli",
+			"url": "http://www.amli.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%85mli%20komm.svg",
+			"itemLabel": "Åmli",
+			"naboer": [
+				"0831",
+				"0830",
+				"0938",
+				"0919",
+				"0914",
+				"0912"
+			]
+		},
+		"0935": {
+			"item": "http://www.wikidata.org/entity/Q90592",
+			"article": "https://no.wikipedia.org/wiki/Iveland",
+			"url": "http://www.iveland.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Iveland%20komm.svg",
+			"inception": "1886-01-01T00:00:00.000Z",
+			"itemLabel": "Iveland",
+			"naboer": [
+				"0928",
+				"0937",
+				"1014"
+			]
+		},
+		"0937": {
+			"item": "http://www.wikidata.org/entity/Q88808",
+			"article": "https://no.wikipedia.org/wiki/Evje_og_Hornnes",
+			"url": "http://www.e-h.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Evje%20og%20Hornnes%20komm.svg",
+			"inception": "1960-01-01T00:00:00.000Z",
+			"itemLabel": "Evje og Hornnes",
+			"naboer": [
+				"0928",
+				"0938",
+				"0919",
+				"0935",
+				"1026",
+				"1021",
+				"1027",
+				"1014"
+			]
+		},
+		"0938": {
+			"item": "http://www.wikidata.org/entity/Q88804",
+			"article": "https://no.wikipedia.org/wiki/Bygland",
+			"url": "http://www.bygland.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Bygland%20komm.svg",
+			"itemLabel": "Bygland",
+			"naboer": [
+				"0831",
+				"0937",
+				"0919",
+				"0940",
+				"0929",
+				"1026",
+				"1046",
+				"1037"
+			]
+		},
+		"0940": {
+			"item": "http://www.wikidata.org/entity/Q90598",
+			"article": "https://no.wikipedia.org/wiki/Valle",
+			"url": "http://www.valle.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Valle%20komm.svg",
+			"itemLabel": "Valle",
+			"naboer": [
+				"0831",
+				"0833",
+				"0938",
+				"0941",
+				"1046"
+			],
+			"bilde": {
+				"image": [
+					"http://commons.wikimedia.org/wiki/Special:FilePath/Landscape%20Setesdal%20-%202%20%282705360655%29.jpg"
+				],
+				"banner": []
+			}
+		},
+		"0941": {
+			"item": "http://www.wikidata.org/entity/Q88806",
+			"article": "https://no.wikipedia.org/wiki/Bykle",
+			"url": "http://www.bykle.kommune.no/",
+			"coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Bykle%20komm.svg",
+			"itemLabel": "Bykle",
+			"naboer": [
+				"0833",
+				"0834",
+				"1134",
+				"0940",
+				"1133",
+				"1046",
+				"1129"
+			]
 		}
 	},
 	"meta": {
 		"tittel": "Kommune",
-		"produsertUtc": "2019-04-20T00:50:18.851Z",
+		"produsertUtc": "2019-04-20T01:15:55.520Z",
 		"utgiver": "Artsdatabanken",
-		"url": "https://data.artsdatabanken.no/kommune.json",
+		"url": "https://github.com/Artsdatabanken/kommune-data/blob/master/kommune.json",
 		"tool": {
 			"name": "kverna",
 			"url": "https://github.com/Artsdatabanken/kverna/"
 		},
-		"elementer": 1
+		"elementer": 2
 	}
 }
