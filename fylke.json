@@ -29,8 +29,8 @@
       "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Akershus.svg",
       "itemLabel": "Akershus",
       "naboer": [
-        "NO-03",
         "NO-01",
+        "NO-03",
         "NO-04",
         "NO-05",
         "NO-06"
@@ -52,7 +52,7 @@
       "banner": "http://commons.wikimedia.org/wiki/Special:FilePath/Oslo%20banner%20Akershus%20castle.jpg",
       "osm": "2775550",
       "inception": "1048-01-01T00:00:00.000Z",
-      "elevation": "23",
+      "elevation": 23,
       "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Oslo.svg",
       "itemLabel": "Oslo",
       "naboer": [
@@ -101,8 +101,8 @@
       "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Oppland.svg",
       "itemLabel": "Oppland",
       "naboer": [
-        "NO-03",
         "NO-02",
+        "NO-03",
         "NO-04",
         "NO-06",
         "NO-14",
@@ -120,11 +120,11 @@
       "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Buskerud.svg",
       "itemLabel": "Buskerud",
       "naboer": [
-        "NO-03",
-        "NO-08",
         "NO-02",
+        "NO-03",
         "NO-05",
         "NO-07",
+        "NO-08",
         "NO-12",
         "NO-14"
       ],
@@ -146,8 +146,8 @@
       "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Vestfold.svg",
       "itemLabel": "Vestfold",
       "naboer": [
-        "NO-08",
-        "NO-06"
+        "NO-06",
+        "NO-08"
       ],
       "bilde": {
         "image": [
@@ -257,8 +257,8 @@
       "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Hordaland.svg",
       "itemLabel": "Hordaland",
       "naboer": [
-        "NO-08",
         "NO-06",
+        "NO-08",
         "NO-11",
         "NO-14"
       ],
@@ -406,7 +406,7 @@
   },
   "meta": {
     "tittel": "Fylke",
-    "produsertUtc": "2019-04-20T15:37:16.530Z",
+    "produsertUtc": "2019-04-20T15:57:31.732Z",
     "utgiver": "Artsdatabanken",
     "url": "https://github.com/Artsdatabanken/kommune-data/blob/master/fylke.json",
     "tool": {

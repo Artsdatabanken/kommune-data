@@ -7,11 +7,11 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Kristiansand%20komm.svg",
       "itemLabel": "Kristiansand",
       "naboer": [
-        "0928",
         "0926",
+        "0928",
         "1014",
-        "1018",
-        "1017"
+        "1017",
+        "1018"
       ],
       "bilde": {
         "image": [
@@ -29,9 +29,9 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20Arms%20of%20Mandal.svg",
       "itemLabel": "Mandal",
       "naboer": [
+        "1018",
         "1021",
-        "1029",
-        "1018"
+        "1029"
       ],
       "bilde": {
         "image": [
@@ -49,8 +49,8 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Farsund%20komm.svg",
       "itemLabel": "Farsund",
       "naboer": [
-        "1037",
-        "1032"
+        "1032",
+        "1037"
       ],
       "bilde": {
         "image": [
@@ -66,9 +66,9 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Flekkefjord%20komm.svg",
       "itemLabel": "Flekkefjord",
       "naboer": [
-        "1111",
-        "1046",
         "1037",
+        "1046",
+        "1111",
         "1112"
       ],
       "bilde": {
@@ -88,12 +88,12 @@
       "itemLabel": "Vennesla",
       "inception": "1865-01-01T00:00:00.000Z",
       "naboer": [
-        "1001",
         "0928",
-        "0937",
         "0935",
-        "1021",
-        "1017"
+        "0937",
+        "1001",
+        "1017",
+        "1021"
       ],
       "bilde": {
         "image": [
@@ -110,9 +110,9 @@
       "itemLabel": "Songdalen",
       "naboer": [
         "1001",
-        "1021",
         "1014",
-        "1018"
+        "1018",
+        "1021"
       ],
       "bilde": {
         "image": [
@@ -130,8 +130,8 @@
       "naboer": [
         "1001",
         "1002",
-        "1021",
-        "1017"
+        "1017",
+        "1021"
       ],
       "bilde": {
         "image": [
@@ -149,11 +149,11 @@
       "naboer": [
         "0937",
         "1002",
-        "1029",
-        "1027",
         "1014",
+        "1017",
         "1018",
-        "1017"
+        "1027",
+        "1029"
       ]
     },
     "1026": {
@@ -163,11 +163,11 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%85seral%20komm.svg",
       "itemLabel": "Åseral",
       "naboer": [
-        "0938",
         "0937",
-        "1037",
+        "0938",
+        "1027",
         "1034",
-        "1027"
+        "1037"
       ]
     },
     "1027": {
@@ -178,11 +178,11 @@
       "itemLabel": "Audnedal",
       "naboer": [
         "0937",
-        "1026",
         "1021",
-        "1034",
+        "1026",
         "1029",
-        "1032"
+        "1032",
+        "1034"
       ]
     },
     "1029": {
@@ -211,11 +211,11 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Lyngdal%20komm.svg",
       "itemLabel": "Lyngdal",
       "naboer": [
-        "1037",
-        "1034",
-        "1029",
         "1003",
-        "1027"
+        "1027",
+        "1029",
+        "1034",
+        "1037"
       ]
     },
     "1034": {
@@ -226,9 +226,9 @@
       "itemLabel": "Hægebostad",
       "naboer": [
         "1026",
-        "1037",
         "1027",
-        "1032"
+        "1032",
+        "1037"
       ]
     },
     "1037": {
@@ -239,12 +239,12 @@
       "itemLabel": "Kvinesdal",
       "naboer": [
         "0938",
-        "1026",
-        "1046",
-        "1034",
         "1003",
         "1004",
-        "1032"
+        "1026",
+        "1032",
+        "1034",
+        "1046"
       ],
       "bilde": {
         "image": [
@@ -264,15 +264,15 @@
       "itemLabel": "Sirdal",
       "naboer": [
         "0938",
-        "0941",
         "0940",
-        "1122",
-        "1101",
-        "1129",
-        "1037",
-        "1114",
+        "0941",
         "1004",
-        "1112"
+        "1037",
+        "1101",
+        "1112",
+        "1114",
+        "1122",
+        "1129"
       ]
     },
     "1101": {
@@ -282,11 +282,11 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Eigersund%20komm.svg",
       "itemLabel": "Eigersund",
       "naboer": [
-        "1111",
         "1046",
-        "1119",
+        "1111",
+        "1112",
         "1114",
-        "1112"
+        "1119"
       ],
       "bilde": {
         "image": [
@@ -301,14 +301,14 @@
       "url": "http://www.sandnes.kommune.no/",
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandnes%20komm.svg",
       "itemLabel": "Sandnes",
-      "elevation": "0",
+      "elevation": 0,
       "naboer": [
         "1103",
-        "1122",
-        "1129",
-        "1124",
+        "1120",
         "1121",
-        "1120"
+        "1122",
+        "1124",
+        "1129"
       ],
       "bilde": {
         "image": [
@@ -325,7 +325,7 @@
       "url": "http://www.stavanger.kommune.no",
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Stavanger%20komm.svg",
       "itemLabel": "Stavanger",
-      "elevation": "1",
+      "elevation": 1,
       "naboer": [
         "1102",
         "1124",
@@ -351,10 +351,10 @@
       "itemLabel": "Haugesund",
       "osm": "405834",
       "naboer": [
-        "1216",
-        "1219",
+        "1146",
         "1149",
-        "1146"
+        "1216",
+        "1219"
       ],
       "bilde": {
         "image": [
@@ -372,8 +372,8 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Sokndal%20komm.svg",
       "itemLabel": "Sokndal",
       "naboer": [
-        "1101",
         "1004",
+        "1101",
         "1112"
       ]
     },
@@ -384,10 +384,10 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Lund%20komm.svg",
       "itemLabel": "Lund",
       "naboer": [
-        "1111",
+        "1004",
         "1046",
         "1101",
-        "1004"
+        "1111"
       ]
     },
     "1114": {
@@ -397,11 +397,11 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Bjerkreim%20komm.svg",
       "itemLabel": "Bjerkreim",
       "naboer": [
-        "1122",
         "1046",
         "1101",
         "1119",
-        "1121"
+        "1121",
+        "1122"
       ]
     },
     "1119": {
@@ -413,8 +413,8 @@
       "naboer": [
         "1101",
         "1114",
-        "1121",
-        "1120"
+        "1120",
+        "1121"
       ],
       "bilde": {
         "image": [
@@ -434,8 +434,8 @@
       "naboer": [
         "1102",
         "1119",
-        "1124",
-        "1121"
+        "1121",
+        "1124"
       ]
     },
     "1121": {
@@ -446,10 +446,10 @@
       "itemLabel": "Time",
       "naboer": [
         "1102",
-        "1122",
-        "1119",
         "1114",
-        "1120"
+        "1119",
+        "1120",
+        "1122"
       ],
       "bilde": {
         "image": [
@@ -465,11 +465,11 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Gjesdal%20komm.svg",
       "itemLabel": "Gjesdal",
       "naboer": [
-        "1102",
         "1046",
-        "1129",
+        "1102",
         "1114",
-        "1121"
+        "1121",
+        "1129"
       ],
       "bilde": {
         "image": [
@@ -485,10 +485,10 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Sola%20komm.svg",
       "itemLabel": "Sola",
       "naboer": [
-        "1103",
         "1102",
-        "1127",
-        "1120"
+        "1103",
+        "1120",
+        "1127"
       ]
     },
     "1127": {
@@ -500,8 +500,8 @@
       "naboer": [
         "1103",
         "1124",
-        "1144",
-        "1142"
+        "1142",
+        "1144"
       ],
       "bilde": {
         "image": [
@@ -516,14 +516,14 @@
       "url": "http://www.forsand.kommune.no/",
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Forsand%20komm.svg",
       "itemLabel": "Forsand",
-      "elevation": "0",
+      "elevation": 0,
       "naboer": [
-        "1102",
-        "1130",
         "0941",
-        "1133",
+        "1046",
+        "1102",
         "1122",
-        "1046"
+        "1130",
+        "1133"
       ],
       "bilde": {
         "image": [
@@ -541,9 +541,9 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Strand%20komm.svg",
       "itemLabel": "Strand",
       "naboer": [
-        "1141",
+        "1129",
         "1133",
-        "1129"
+        "1141"
       ],
       "bilde": {
         "image": [
@@ -559,11 +559,11 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Hjelmeland%20komm.svg",
       "itemLabel": "Hjelmeland",
       "naboer": [
-        "1134",
-        "1130",
-        "1141",
         "0941",
-        "1129"
+        "1129",
+        "1130",
+        "1134",
+        "1141"
       ]
     },
     "1134": {
@@ -574,13 +574,13 @@
       "itemLabel": "Suldal",
       "naboer": [
         "0834",
-        "1141",
-        "1211",
         "0941",
-        "1228",
         "1133",
         "1135",
-        "1160"
+        "1141",
+        "1160",
+        "1211",
+        "1228"
       ],
       "bilde": {
         "image": [
@@ -614,12 +614,12 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Finn%C3%B8y%20komm.svg",
       "itemLabel": "Finnøy",
       "naboer": [
-        "1134",
         "1130",
         "1133",
+        "1134",
+        "1142",
         "1145",
-        "1146",
-        "1142"
+        "1146"
       ],
       "bilde": {
         "image": [
@@ -638,10 +638,10 @@
       "osm": "6148112",
       "naboer": [
         "1103",
-        "1141",
-        "1145",
         "1127",
-        "1144"
+        "1141",
+        "1144",
+        "1145"
       ],
       "bilde": {
         "image": [
@@ -657,10 +657,10 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Kvits%C3%B8y%20komm.svg",
       "itemLabel": "Kvitsøy",
       "naboer": [
-        "1149",
-        "1145",
         "1127",
-        "1142"
+        "1142",
+        "1145",
+        "1149"
       ],
       "bilde": {
         "image": [
@@ -677,10 +677,10 @@
       "itemLabel": "Bokn",
       "naboer": [
         "1141",
-        "1149",
-        "1146",
+        "1142",
         "1144",
-        "1142"
+        "1146",
+        "1149"
       ],
       "bilde": {
         "image": [
@@ -696,12 +696,12 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Tysv%C3%A6r%20komm.svg",
       "itemLabel": "Tysvær",
       "naboer": [
-        "1216",
-        "1141",
         "1106",
-        "1149",
+        "1141",
         "1145",
-        "1160"
+        "1149",
+        "1160",
+        "1216"
       ]
     },
     "1149": {
@@ -713,9 +713,9 @@
       "osm": "6144371",
       "naboer": [
         "1106",
+        "1144",
         "1145",
         "1146",
-        "1144",
         "1151"
       ],
       "bilde": {
@@ -742,12 +742,12 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Vindafjord%20komm.svg",
       "itemLabel": "Vindafjord",
       "naboer": [
-        "1216",
         "1134",
+        "1146",
         "1211",
-        "1224",
+        "1216",
         "1221",
-        "1146"
+        "1224"
       ]
     },
     "1201": {
@@ -759,14 +759,14 @@
       "osm": "404159",
       "inception": "1070-01-01T00:00:00.000Z",
       "naboer": [
-        "1251",
-        "1263",
-        "1247",
-        "1244",
         "1242",
-        "1256",
         "1243",
-        "1245"
+        "1244",
+        "1245",
+        "1247",
+        "1251",
+        "1256",
+        "1263"
       ],
       "bilde": {
         "image": [
@@ -785,10 +785,10 @@
       "itemLabel": "Etne",
       "naboer": [
         "1134",
-        "1228",
-        "1224",
         "1135",
-        "1160"
+        "1160",
+        "1224",
+        "1228"
       ]
     },
     "1216": {
@@ -799,10 +799,10 @@
       "itemLabel": "Sveio",
       "naboer": [
         "1106",
-        "1219",
-        "1221",
         "1146",
-        "1160"
+        "1160",
+        "1219",
+        "1221"
       ],
       "bilde": {
         "image": [
@@ -818,11 +818,11 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/B%C3%B8mlo%20komm.svg",
       "itemLabel": "Bømlo",
       "naboer": [
-        "1216",
         "1106",
+        "1216",
+        "1221",
         "1222",
-        "1244",
-        "1221"
+        "1244"
       ]
     },
     "1221": {
@@ -832,12 +832,12 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Stord%20komm.svg",
       "itemLabel": "Stord",
       "naboer": [
-        "1223",
+        "1160",
         "1216",
-        "1222",
         "1219",
-        "1224",
-        "1160"
+        "1222",
+        "1223",
+        "1224"
       ]
     },
     "1222": {
@@ -847,10 +847,10 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Fitjar%20komm.svg",
       "itemLabel": "Fitjar",
       "naboer": [
-        "1223",
         "1219",
-        "1244",
-        "1221"
+        "1221",
+        "1223",
+        "1244"
       ]
     },
     "1223": {
@@ -860,12 +860,12 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Tysnes%20komm.svg",
       "itemLabel": "Tysnes",
       "naboer": [
-        "1222",
-        "1244",
-        "1224",
         "1221",
+        "1222",
+        "1224",
         "1241",
-        "1243"
+        "1243",
+        "1244"
       ]
     },
     "1224": {
@@ -875,15 +875,15 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Kvinnherad%20komm.svg",
       "itemLabel": "Kvinnherad",
       "naboer": [
-        "1223",
+        "1160",
         "1211",
-        "1228",
-        "1227",
-        "1231",
         "1221",
+        "1223",
+        "1227",
+        "1228",
+        "1231",
         "1238",
-        "1241",
-        "1160"
+        "1241"
       ],
       "bilde": {
         "image": [
@@ -921,10 +921,10 @@
       "naboer": [
         "0834",
         "1134",
+        "1135",
         "1211",
         "1224",
-        "1231",
-        "1135"
+        "1231"
       ],
       "bilde": {
         "image": [
@@ -943,13 +943,13 @@
       "itemLabel": "Ullensvang",
       "naboer": [
         "0834",
-        "1228",
-        "1227",
-        "1232",
         "1224",
+        "1227",
+        "1228",
+        "1232",
+        "1233",
         "1234",
-        "1238",
-        "1233"
+        "1238"
       ]
     },
     "1232": {
@@ -959,8 +959,8 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Eidfjord%20komm.svg",
       "itemLabel": "Eidfjord",
       "naboer": [
-        "0633",
         "0620",
+        "0633",
         "1231",
         "1233"
       ],
@@ -980,11 +980,11 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Ulvik%20komm.svg",
       "itemLabel": "Ulvik",
       "naboer": [
-        "1235",
-        "1232",
         "0620",
         "1231",
+        "1232",
         "1234",
+        "1235",
         "1421"
       ],
       "bilde": {
@@ -1003,10 +1003,10 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Granvin%20komm.svg",
       "itemLabel": "Granvin",
       "naboer": [
-        "1235",
         "1231",
-        "1238",
-        "1233"
+        "1233",
+        "1235",
+        "1238"
       ],
       "bilde": {
         "image": [
@@ -1023,12 +1023,12 @@
       "itemLabel": "Voss",
       "osm": "404138",
       "naboer": [
+        "1233",
+        "1234",
+        "1238",
         "1251",
         "1417",
-        "1234",
-        "1421",
-        "1238",
-        "1233"
+        "1421"
       ],
       "bilde": {
         "image": [
@@ -1046,14 +1046,14 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Kvam%20komm.svg",
       "itemLabel": "Kvam",
       "naboer": [
-        "1251",
-        "1235",
-        "1227",
         "1224",
+        "1227",
         "1231",
         "1234",
+        "1235",
+        "1241",
         "1242",
-        "1241"
+        "1251"
       ]
     },
     "1241": {
@@ -1078,10 +1078,10 @@
       "itemLabel": "Samnanger",
       "naboer": [
         "1201",
-        "1251",
         "1238",
         "1241",
-        "1243"
+        "1243",
+        "1251"
       ],
       "bilde": {
         "image": [
@@ -1099,9 +1099,9 @@
       "naboer": [
         "1201",
         "1223",
-        "1244",
+        "1241",
         "1242",
-        "1241"
+        "1244"
       ]
     },
     "1244": {
@@ -1112,9 +1112,9 @@
       "itemLabel": "Austevoll",
       "naboer": [
         "1201",
-        "1223",
-        "1222",
         "1219",
+        "1222",
+        "1223",
         "1243",
         "1245"
       ],
@@ -1135,8 +1135,8 @@
       "itemLabel": "Sund",
       "naboer": [
         "1201",
-        "1246",
-        "1244"
+        "1244",
+        "1246"
       ],
       "bilde": {
         "image": [
@@ -1152,9 +1152,9 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Fjell%20komm.svg",
       "itemLabel": "Fjell",
       "naboer": [
+        "1245",
         "1247",
-        "1259",
-        "1245"
+        "1259"
       ],
       "bilde": {
         "image": [
@@ -1171,9 +1171,9 @@
       "itemLabel": "Askøy",
       "naboer": [
         "1201",
-        "1259",
         "1246",
         "1256",
+        "1259",
         "1260"
       ],
       "bilde": {
@@ -1194,12 +1194,12 @@
       "naboer": [
         "1201",
         "1235",
-        "1263",
-        "1252",
-        "1417",
         "1238",
+        "1242",
+        "1252",
         "1253",
-        "1242"
+        "1263",
+        "1417"
       ]
     },
     "1252": {
@@ -1209,9 +1209,9 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Modalen%20komm.svg",
       "itemLabel": "Modalen",
       "naboer": [
-        "1266",
         "1251",
         "1263",
+        "1266",
         "1416",
         "1417"
       ],
@@ -1247,9 +1247,9 @@
       "itemLabel": "Meland",
       "naboer": [
         "1201",
-        "1263",
         "1247",
-        "1260"
+        "1260",
+        "1263"
       ]
     },
     "1259": {
@@ -1259,10 +1259,10 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%98ygarden%20komm.svg",
       "itemLabel": "Øygarden",
       "naboer": [
-        "1247",
         "1246",
-        "1265",
-        "1260"
+        "1247",
+        "1260",
+        "1265"
       ]
     },
     "1260": {
@@ -1272,12 +1272,12 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Rad%C3%B8y%20komm.svg",
       "itemLabel": "Radøy",
       "naboer": [
-        "1263",
         "1247",
+        "1256",
         "1259",
+        "1263",
         "1264",
-        "1265",
-        "1256"
+        "1265"
       ],
       "bilde": {
         "image": [
@@ -1294,14 +1294,14 @@
       "itemLabel": "Lindås",
       "naboer": [
         "1201",
-        "1266",
         "1251",
         "1252",
-        "1411",
-        "1264",
         "1253",
         "1256",
-        "1260"
+        "1260",
+        "1264",
+        "1266",
+        "1411"
       ],
       "bilde": {
         "image": [
@@ -1319,10 +1319,10 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Austrheim%20komm.svg",
       "itemLabel": "Austrheim",
       "naboer": [
+        "1260",
         "1263",
-        "1411",
         "1265",
-        "1260"
+        "1411"
       ],
       "bilde": {
         "image": [
@@ -1339,10 +1339,10 @@
       "itemLabel": "Fedje",
       "inception": "1947-01-01T00:00:00.000Z",
       "naboer": [
-        "1411",
         "1259",
+        "1260",
         "1264",
-        "1260"
+        "1411"
       ]
     },
     "1266": {
@@ -1352,10 +1352,10 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Masfjorden%20komm.svg",
       "itemLabel": "Masfjorden",
       "naboer": [
-        "1263",
-        "1416",
         "1252",
-        "1411"
+        "1263",
+        "1411",
+        "1416"
       ]
     },
     "1401": {
@@ -1365,10 +1365,10 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Flora%20komm.svg",
       "itemLabel": "Flora",
       "naboer": [
-        "1445",
-        "1438",
+        "1428",
         "1433",
-        "1428"
+        "1438",
+        "1445"
       ]
     },
     "1411": {
@@ -1378,13 +1378,13 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Gulen%20komm.svg",
       "itemLabel": "Gulen",
       "naboer": [
-        "1266",
-        "1412",
         "1263",
-        "1416",
         "1264",
         "1265",
-        "1413"
+        "1266",
+        "1412",
+        "1413",
+        "1416"
       ]
     },
     "1412": {
@@ -1396,8 +1396,8 @@
       "naboer": [
         "1411",
         "1413",
-        "1429",
-        "1428"
+        "1428",
+        "1429"
       ]
     },
     "1413": {
@@ -1407,9 +1407,9 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Hyllestad%20komm.svg",
       "itemLabel": "Hyllestad",
       "naboer": [
+        "1411",
         "1412",
         "1416",
-        "1411",
         "1429"
       ],
       "bilde": {
@@ -1427,14 +1427,14 @@
       "itemLabel": "Høyanger",
       "osm": "409073",
       "naboer": [
-        "1266",
         "1252",
+        "1266",
         "1411",
-        "1417",
-        "1430",
-        "1418",
         "1413",
-        "1429"
+        "1417",
+        "1418",
+        "1429",
+        "1430"
       ],
       "bilde": {
         "image": [
@@ -1452,15 +1452,15 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Vik%20komm.svg",
       "itemLabel": "Vik",
       "naboer": [
-        "1251",
-        "1419",
         "1235",
-        "1416",
+        "1251",
         "1252",
-        "1421",
-        "1422",
+        "1416",
+        "1418",
+        "1419",
         "1420",
-        "1418"
+        "1421",
+        "1422"
       ],
       "bilde": {
         "image": [
@@ -1476,12 +1476,12 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Balestrand%20komm.svg",
       "itemLabel": "Balestrand",
       "naboer": [
-        "1419",
-        "1432",
         "1416",
         "1417",
+        "1419",
         "1420",
-        "1430"
+        "1430",
+        "1432"
       ],
       "bilde": {
         "image": [
@@ -1500,8 +1500,8 @@
       "itemLabel": "Leikanger",
       "naboer": [
         "1417",
-        "1420",
-        "1418"
+        "1418",
+        "1420"
       ],
       "bilde": {
         "image": [
@@ -1517,13 +1517,13 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Sogndal%20komm.svg",
       "itemLabel": "Sogndal",
       "naboer": [
-        "1419",
-        "1432",
         "1417",
-        "1431",
-        "1422",
         "1418",
-        "1426"
+        "1419",
+        "1422",
+        "1426",
+        "1431",
+        "1432"
       ]
     },
     "1421": {
@@ -1533,10 +1533,10 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Aurland%20komm.svg",
       "itemLabel": "Aurland",
       "naboer": [
-        "1235",
-        "1417",
         "0620",
         "1233",
+        "1235",
+        "1417",
         "1422"
       ],
       "bilde": {
@@ -1553,14 +1553,14 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/L%C3%A6rdal%20komm.svg",
       "itemLabel": "Lærdal",
       "naboer": [
-        "0619",
-        "1424",
-        "1417",
-        "0620",
-        "1421",
-        "1420",
+        "0545",
         "0618",
-        "0545"
+        "0619",
+        "0620",
+        "1417",
+        "1420",
+        "1421",
+        "1424"
       ],
       "bilde": {
         "image": [
@@ -1578,9 +1578,9 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%85rdal%20komm.svg",
       "itemLabel": "Årdal",
       "naboer": [
+        "0545",
         "1422",
-        "1426",
-        "0545"
+        "1426"
       ],
       "bilde": {
         "image": [
@@ -1596,13 +1596,13 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Luster%20komm.svg",
       "itemLabel": "Luster",
       "naboer": [
-        "1449",
-        "1424",
-        "1431",
         "0513",
         "0514",
+        "0545",
         "1420",
-        "0545"
+        "1424",
+        "1431",
+        "1449"
       ]
     },
     "1428": {
@@ -1612,11 +1612,11 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Askvoll%20komm.svg",
       "itemLabel": "Askvoll",
       "naboer": [
-        "1412",
-        "1432",
-        "1430",
         "1401",
+        "1412",
         "1429",
+        "1430",
+        "1432",
         "1433"
       ],
       "bilde": {
@@ -1634,10 +1634,10 @@
       "itemLabel": "Fjaler",
       "naboer": [
         "1412",
-        "1416",
-        "1430",
         "1413",
-        "1428"
+        "1416",
+        "1428",
+        "1430"
       ]
     },
     "1430": {
@@ -1647,11 +1647,11 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Gaular%20komm.svg",
       "itemLabel": "Gaular",
       "naboer": [
-        "1432",
         "1416",
         "1418",
+        "1428",
         "1429",
-        "1428"
+        "1432"
       ],
       "bilde": {
         "image": [
@@ -1667,12 +1667,12 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%B8lster%20komm.svg",
       "itemLabel": "Jølster",
       "naboer": [
-        "1449",
-        "1432",
-        "1445",
         "1420",
         "1426",
-        "1433"
+        "1432",
+        "1433",
+        "1445",
+        "1449"
       ]
     },
     "1432": {
@@ -1683,12 +1683,12 @@
       "itemLabel": "Førde",
       "osm": "404491",
       "naboer": [
-        "1431",
-        "1420",
-        "1430",
         "1418",
-        "1433",
-        "1428"
+        "1420",
+        "1428",
+        "1430",
+        "1431",
+        "1433"
       ],
       "bilde": {
         "image": [
@@ -1706,11 +1706,11 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Naustdal%20komm.svg",
       "itemLabel": "Naustdal",
       "naboer": [
-        "1432",
-        "1445",
-        "1431",
         "1401",
-        "1428"
+        "1428",
+        "1431",
+        "1432",
+        "1445"
       ],
       "bilde": {
         "image": [
@@ -1726,10 +1726,10 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Bremanger%20komm.svg",
       "itemLabel": "Bremanger",
       "naboer": [
-        "1445",
         "1401",
         "1439",
-        "1443"
+        "1443",
+        "1445"
       ]
     },
     "1439": {
@@ -1739,10 +1739,10 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/V%C3%A5gs%C3%B8y%20komm.svg",
       "itemLabel": "Vågsøy",
       "naboer": [
-        "1441",
-        "1511",
         "1438",
-        "1443"
+        "1441",
+        "1443",
+        "1511"
       ]
     },
     "1441": {
@@ -1752,8 +1752,8 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Selje%20komm.svg",
       "itemLabel": "Selje",
       "naboer": [
-        "1511",
         "1439",
+        "1511",
         "1514"
       ],
       "bilde": {
@@ -1770,13 +1770,13 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Eid%20komm.svg",
       "itemLabel": "Eid",
       "naboer": [
-        "1449",
-        "1445",
-        "1519",
-        "1511",
-        "1444",
         "1438",
-        "1439"
+        "1439",
+        "1444",
+        "1445",
+        "1449",
+        "1511",
+        "1519"
       ]
     },
     "1444": {
@@ -1786,11 +1786,11 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Hornindal%20komm.svg",
       "itemLabel": "Hornindal",
       "naboer": [
+        "1443",
         "1449",
-        "1525",
-        "1520",
         "1519",
-        "1443"
+        "1520",
+        "1525"
       ]
     },
     "1445": {
@@ -1800,12 +1800,12 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Gloppen%20komm.svg",
       "itemLabel": "Gloppen",
       "naboer": [
-        "1449",
-        "1431",
         "1401",
+        "1431",
+        "1433",
         "1438",
         "1443",
-        "1433"
+        "1449"
       ]
     },
     "1449": {
@@ -1815,13 +1815,13 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Stryn%20komm.svg",
       "itemLabel": "Stryn",
       "naboer": [
-        "1525",
-        "1445",
-        "1431",
         "0513",
-        "1444",
+        "1426",
+        "1431",
         "1443",
-        "1426"
+        "1444",
+        "1445",
+        "1525"
       ],
       "bilde": {
         "image": [
@@ -1838,15 +1838,15 @@
       "url": "http://www.molde.kommune.no/",
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Molde%20komm.svg",
       "itemLabel": "Molde kommune",
-      "elevation": "130",
+      "elevation": 130,
       "naboer": [
-        "1543",
-        "1548",
         "1535",
+        "1539",
+        "1543",
         "1545",
         "1547",
-        "1557",
-        "1539"
+        "1548",
+        "1557"
       ],
       "bilde": {
         "image": [
@@ -1866,11 +1866,11 @@
       "osm": "406858",
       "inception": "1838-01-01T00:00:00.000Z",
       "naboer": [
-        "1529",
         "1528",
+        "1529",
+        "1531",
         "1532",
-        "1534",
-        "1531"
+        "1534"
       ],
       "bilde": {
         "image": [
@@ -1889,10 +1889,10 @@
       "itemLabel": "Kristiansund",
       "osm": "406837",
       "naboer": [
-        "1573",
         "1554",
-        "1560",
         "1557",
+        "1560",
+        "1573",
         "1576"
       ],
       "bilde": {
@@ -1911,12 +1911,12 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Vanylven%20komm.svg",
       "itemLabel": "Vanylven",
       "naboer": [
-        "1441",
-        "1519",
-        "1515",
         "1439",
+        "1441",
         "1443",
-        "1514"
+        "1514",
+        "1515",
+        "1519"
       ]
     },
     "1514": {
@@ -1927,8 +1927,8 @@
       "itemLabel": "Sande",
       "naboer": [
         "1441",
-        "1515",
-        "1511"
+        "1511",
+        "1515"
       ],
       "bilde": {
         "image": [
@@ -1944,10 +1944,10 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Her%C3%B8y%20M%C3%B8re%20og%20Romsdal%20komm.svg",
       "itemLabel": "Herøy",
       "naboer": [
-        "1519",
-        "1516",
         "1511",
-        "1514"
+        "1514",
+        "1516",
+        "1519"
       ]
     },
     "1516": {
@@ -1969,10 +1969,10 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Hareid%20komm.svg",
       "itemLabel": "Hareid",
       "naboer": [
-        "1520",
         "1516",
-        "1532",
-        "1531"
+        "1520",
+        "1531",
+        "1532"
       ]
     },
     "1519": {
@@ -1982,11 +1982,11 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Volda%20komm.svg",
       "itemLabel": "Volda",
       "naboer": [
-        "1520",
-        "1515",
-        "1511",
+        "1443",
         "1444",
-        "1443"
+        "1511",
+        "1515",
+        "1520"
       ]
     },
     "1520": {
@@ -1996,11 +1996,11 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%98rsta%20komm.svg",
       "itemLabel": "Ørsta",
       "naboer": [
+        "1444",
+        "1517",
+        "1519",
         "1525",
         "1528",
-        "1519",
-        "1517",
-        "1444",
         "1531"
       ]
     },
@@ -2012,9 +2012,9 @@
       "itemLabel": "Ørskog",
       "inception": "1838-01-01T00:00:00.000Z",
       "naboer": [
-        "1529",
-        "1528",
         "1526",
+        "1528",
+        "1529",
         "1535"
       ],
       "bilde": {
@@ -2031,9 +2031,9 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Norddal%20komm.svg",
       "itemLabel": "Norddal",
       "naboer": [
+        "0513",
         "1525",
         "1526",
-        "0513",
         "1539"
       ]
     },
@@ -2044,13 +2044,13 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Stranda%20komm.svg",
       "itemLabel": "Stranda",
       "naboer": [
-        "1449",
-        "1528",
-        "1526",
-        "1520",
         "0513",
+        "1444",
+        "1449",
+        "1520",
         "1524",
-        "1444"
+        "1526",
+        "1528"
       ],
       "bilde": {
         "image": [
@@ -2067,11 +2067,11 @@
       "itemLabel": "Stordal",
       "inception": "1892-01-01T00:00:00.000Z",
       "naboer": [
+        "1523",
+        "1524",
         "1525",
         "1528",
-        "1523",
         "1535",
-        "1524",
         "1539"
       ]
     },
@@ -2082,12 +2082,12 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Sykkylven%20komm.svg",
       "itemLabel": "Sykkylven",
       "naboer": [
-        "1529",
-        "1525",
-        "1526",
         "1504",
         "1520",
-        "1523"
+        "1523",
+        "1525",
+        "1526",
+        "1529"
       ],
       "bilde": {
         "image": [
@@ -2103,11 +2103,11 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Skodje%20komm.svg",
       "itemLabel": "Skodje",
       "naboer": [
-        "1528",
         "1504",
         "1523",
-        "1535",
-        "1534"
+        "1528",
+        "1534",
+        "1535"
       ],
       "bilde": {
         "image": [
@@ -2124,8 +2124,8 @@
       "itemLabel": "Sula",
       "naboer": [
         "1504",
-        "1520",
         "1517",
+        "1520",
         "1532"
       ]
     },
@@ -2139,8 +2139,8 @@
         "1504",
         "1516",
         "1517",
-        "1534",
-        "1531"
+        "1531",
+        "1534"
       ],
       "bilde": {
         "image": [
@@ -2156,12 +2156,12 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Haram%20komm.svg",
       "itemLabel": "Haram",
       "naboer": [
-        "1529",
-        "1546",
         "1504",
+        "1529",
+        "1532",
         "1535",
         "1545",
-        "1532"
+        "1546"
       ]
     },
     "1535": {
@@ -2171,13 +2171,13 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Vestnes%20komm.svg",
       "itemLabel": "Vestnes",
       "naboer": [
-        "1529",
-        "1526",
         "1502",
         "1523",
-        "1545",
+        "1526",
+        "1529",
         "1534",
-        "1539"
+        "1539",
+        "1545"
       ]
     },
     "1539": {
@@ -2187,13 +2187,13 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Rauma%20komm.svg",
       "itemLabel": "Rauma",
       "naboer": [
-        "1526",
-        "1502",
-        "1543",
-        "0513",
-        "1535",
         "0512",
-        "1524"
+        "0513",
+        "1502",
+        "1524",
+        "1526",
+        "1535",
+        "1543"
       ]
     },
     "1543": {
@@ -2203,12 +2203,12 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Nesset%20komm.svg",
       "itemLabel": "Nesset",
       "naboer": [
-        "1563",
-        "1502",
-        "1560",
         "0512",
+        "1502",
+        "1539",
         "1557",
-        "1539"
+        "1560",
+        "1563"
       ]
     },
     "1545": {
@@ -2218,11 +2218,11 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Midsund%20komm.svg",
       "itemLabel": "Midsund",
       "naboer": [
-        "1546",
         "1502",
+        "1534",
         "1535",
-        "1547",
-        "1534"
+        "1546",
+        "1547"
       ],
       "bilde": {
         "image": [
@@ -2239,9 +2239,9 @@
       "itemLabel": "Sandøy",
       "inception": "1867-01-01T00:00:00.000Z",
       "naboer": [
+        "1534",
         "1545",
-        "1547",
-        "1534"
+        "1547"
       ],
       "bilde": {
         "image": [
@@ -2257,10 +2257,10 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Aukra%20komm.svg",
       "itemLabel": "Aukra",
       "naboer": [
-        "1546",
         "1502",
-        "1548",
-        "1545"
+        "1545",
+        "1546",
+        "1548"
       ],
       "bilde": {
         "image": [
@@ -2278,8 +2278,8 @@
       "naboer": [
         "1502",
         "1547",
-        "1557",
-        "1551"
+        "1551",
+        "1557"
       ]
     },
     "1551": {
@@ -2289,8 +2289,8 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Eide%20komm.svg",
       "itemLabel": "Eide",
       "naboer": [
-        "1554",
         "1548",
+        "1554",
         "1557"
       ]
     },
@@ -2302,8 +2302,8 @@
       "itemLabel": "Averøy",
       "naboer": [
         "1505",
-        "1557",
-        "1551"
+        "1551",
+        "1557"
       ],
       "bilde": {
         "image": [
@@ -2324,10 +2324,10 @@
         "1502",
         "1505",
         "1543",
-        "1554",
         "1548",
-        "1560",
-        "1551"
+        "1551",
+        "1554",
+        "1560"
       ]
     },
     "1560": {
@@ -2337,12 +2337,12 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Tingvoll%20komm.svg",
       "itemLabel": "Tingvoll",
       "naboer": [
-        "1563",
-        "1566",
         "1505",
         "1543",
-        "1571",
         "1557",
+        "1563",
+        "1566",
+        "1571",
         "1576"
       ]
     },
@@ -2353,11 +2353,11 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Sunndal%20komm.svg",
       "itemLabel": "Sunndal",
       "naboer": [
-        "1566",
-        "1634",
+        "0512",
         "1543",
         "1560",
-        "0512"
+        "1566",
+        "1634"
       ],
       "bilde": {
         "image": [
@@ -2373,12 +2373,12 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Surnadal%20komm.svg",
       "itemLabel": "Surnadal",
       "naboer": [
-        "1563",
-        "1634",
-        "5061",
-        "1571",
         "1560",
-        "1612"
+        "1563",
+        "1571",
+        "1612",
+        "1634",
+        "5061"
       ]
     },
     "1571": {
@@ -2389,10 +2389,10 @@
       "itemLabel": "Halsa",
       "inception": "1838-01-01T00:00:00.000Z",
       "naboer": [
-        "1566",
         "1560",
-        "1612",
-        "1576"
+        "1566",
+        "1576",
+        "1612"
       ],
       "bilde": {
         "image": [
@@ -2409,9 +2409,9 @@
       "inception": "1960-01-01T00:00:00.000Z",
       "itemLabel": "Smøla",
       "naboer": [
-        "5013",
         "1505",
-        "1576"
+        "1576",
+        "5013"
       ]
     },
     "1576": {
@@ -2422,12 +2422,12 @@
       "itemLabel": "Aure",
       "inception": "1838-01-01T00:00:00.000Z",
       "naboer": [
-        "5013",
         "1505",
-        "1573",
-        "1571",
         "1560",
-        "1612"
+        "1571",
+        "1573",
+        "1612",
+        "5013"
       ],
       "bilde": {
         "image": [
@@ -2447,12 +2447,12 @@
       "osm": "406438",
       "naboer": [
         "1566",
-        "5012",
-        "5013",
-        "5061",
         "1571",
         "1576",
-        "5024"
+        "5012",
+        "5013",
+        "5024",
+        "5061"
       ]
     },
     "1621": {
@@ -2474,9 +2474,9 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Osen%20komm.svg",
       "itemLabel": "Osen",
       "naboer": [
-        "5049",
+        "5019",
         "5040",
-        "5019"
+        "5049"
       ]
     },
     "1634": {
@@ -2486,14 +2486,14 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Oppdal%20komm.svg",
       "itemLabel": "Oppdal",
       "naboer": [
-        "1563",
-        "1566",
+        "0437",
         "0439",
         "0511",
-        "5022",
-        "5061",
         "0512",
-        "0437"
+        "1563",
+        "1566",
+        "5022",
+        "5061"
       ],
       "bilde": {
         "image": [
@@ -2511,10 +2511,10 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Tydal%20komm.svg",
       "itemLabel": "Tydal",
       "naboer": [
-        "5034",
         "5025",
         "5026",
-        "5032"
+        "5032",
+        "5034"
       ]
     },
     "1702": {
@@ -2525,12 +2525,12 @@
       "itemLabel": "Steinkjer",
       "naboer": [
         "1742",
-        "5053",
-        "5041",
         "1744",
+        "5038",
         "5039",
         "5040",
-        "5038"
+        "5041",
+        "5053"
       ],
       "bilde": {
         "image": [
@@ -2546,11 +2546,11 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Stj%C3%B8rdal%20komm.svg",
       "itemLabel": "Stjørdal",
       "naboer": [
-        "5034",
-        "5037",
-        "5036",
+        "5031",
         "5032",
-        "5031"
+        "5034",
+        "5036",
+        "5037"
       ],
       "bilde": {
         "image": [
@@ -2566,10 +2566,10 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/R%C3%B8yrvik%20komm.svg",
       "itemLabel": "Røyrvik",
       "naboer": [
-        "1826",
         "1825",
-        "5044",
-        "5042"
+        "1826",
+        "5042",
+        "5044"
       ],
       "bilde": {
         "image": [
@@ -2583,15 +2583,15 @@
       "article": "https://no.wikipedia.org/wiki/Grong",
       "url": "http://www.grong.kommune.no/",
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Grong%20komm.svg",
-      "osm": "407216",
       "itemLabel": "Grong",
+      "osm": "407216",
       "naboer": [
         "1702",
-        "5046",
+        "1744",
         "5041",
-        "5044",
         "5042",
-        "1744"
+        "5044",
+        "5046"
       ]
     },
     "1744": {
@@ -2603,10 +2603,10 @@
       "osm": "407211",
       "naboer": [
         "1702",
-        "5005",
-        "5046",
         "1742",
+        "5005",
         "5041",
+        "5046",
         "5048"
       ],
       "bilde": {
@@ -2623,11 +2623,11 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/N%C3%A6r%C3%B8y%20komm.svg",
       "itemLabel": "Nærøy",
       "naboer": [
-        "5050",
-        "5046",
+        "1755",
         "1811",
+        "5046",
         "5048",
-        "1755"
+        "5050"
       ]
     },
     "1755": {
@@ -2637,9 +2637,9 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Leka%20komm.svg",
       "itemLabel": "Leka",
       "naboer": [
-        "5050",
         "1751",
-        "1811"
+        "1811",
+        "5050"
       ],
       "bilde": {
         "image": [
@@ -2657,11 +2657,11 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Bod%C3%B8%20komm.svg",
       "itemLabel": "Bodø kommune",
       "naboer": [
-        "1841",
-        "1840",
-        "1845",
         "1838",
-        "1839"
+        "1839",
+        "1840",
+        "1841",
+        "1845"
       ],
       "bilde": {
         "image": [
@@ -2679,10 +2679,10 @@
       "naboer": [
         "1853",
         "1854",
-        "1919",
         "1913",
-        "1922",
-        "1920"
+        "1919",
+        "1920",
+        "1922"
       ],
       "bilde": {
         "image": [
@@ -2698,13 +2698,13 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Bindal%20komm.svg",
       "itemLabel": "Bindal",
       "naboer": [
+        "1751",
+        "1755",
         "1812",
         "1813",
-        "5046",
-        "1751",
         "1825",
         "5044",
-        "1755"
+        "5046"
       ],
       "bilde": {
         "image": [
@@ -2720,8 +2720,8 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/S%C3%B8mna%20komm.svg",
       "itemLabel": "Sømna",
       "naboer": [
-        "1813",
-        "1811"
+        "1811",
+        "1813"
       ]
     },
     "1813": {
@@ -2731,12 +2731,12 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Br%C3%B8nn%C3%B8y%20komm.svg",
       "itemLabel": "Brønnøy",
       "naboer": [
+        "1811",
         "1812",
         "1815",
-        "1811",
-        "1825",
         "1816",
-        "1824"
+        "1824",
+        "1825"
       ],
       "bilde": {
         "image": [
@@ -2753,8 +2753,8 @@
       "itemLabel": "Vega",
       "naboer": [
         "1813",
-        "1820",
-        "1816"
+        "1816",
+        "1820"
       ],
       "bilde": {
         "image": [
@@ -2773,8 +2773,8 @@
       "itemLabel": "Vevelstad",
       "naboer": [
         "1813",
-        "1820",
         "1815",
+        "1820",
         "1824"
       ]
     },
@@ -2802,12 +2802,12 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Alstahaug%20komm.svg",
       "itemLabel": "Alstahaug",
       "naboer": [
-        "1822",
         "1815",
-        "1827",
-        "1818",
         "1816",
-        "1824"
+        "1818",
+        "1822",
+        "1824",
+        "1827"
       ],
       "bilde": {
         "image": [
@@ -2824,11 +2824,11 @@
       "itemLabel": "Leirfjord",
       "naboer": [
         "1820",
-        "1833",
-        "1832",
+        "1824",
         "1827",
         "1828",
-        "1824"
+        "1832",
+        "1833"
       ],
       "bilde": {
         "image": [
@@ -2844,13 +2844,13 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Vefsn%20komm.svg",
       "itemLabel": "Vefsn",
       "naboer": [
-        "1822",
         "1813",
+        "1816",
         "1820",
-        "1826",
-        "1832",
+        "1822",
         "1825",
-        "1816"
+        "1826",
+        "1832"
       ],
       "bilde": {
         "image": [
@@ -2866,12 +2866,12 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Grane%20komm.svg",
       "itemLabel": "Grane",
       "naboer": [
-        "1813",
         "1739",
-        "1826",
         "1811",
-        "5044",
-        "1824"
+        "1813",
+        "1824",
+        "1826",
+        "5044"
       ]
     },
     "1826": {
@@ -2882,9 +2882,9 @@
       "itemLabel": "Hattfjelldal",
       "naboer": [
         "1739",
-        "1832",
+        "1824",
         "1825",
-        "1824"
+        "1832"
       ]
     },
     "1827": {
@@ -2895,12 +2895,12 @@
       "itemLabel": "Dønna",
       "osm": "408219",
       "naboer": [
-        "1834",
-        "1835",
-        "1822",
-        "1820",
         "1818",
-        "1828"
+        "1820",
+        "1822",
+        "1828",
+        "1834",
+        "1835"
       ],
       "bilde": {
         "image": [
@@ -2916,10 +2916,10 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Nesna%20komm.svg",
       "itemLabel": "Nesna",
       "naboer": [
-        "1834",
         "1822",
+        "1827",
         "1833",
-        "1827"
+        "1834"
       ],
       "bilde": {
         "image": [
@@ -2936,9 +2936,9 @@
       "itemLabel": "Hemnes",
       "naboer": [
         "1822",
-        "1833",
+        "1824",
         "1826",
-        "1824"
+        "1833"
       ]
     },
     "1833": {
@@ -2948,14 +2948,14 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Rana%20komm.svg",
       "itemLabel": "Rana",
       "naboer": [
-        "1837",
-        "1834",
         "1822",
-        "1840",
-        "1839",
-        "1836",
+        "1828",
         "1832",
-        "1828"
+        "1834",
+        "1836",
+        "1837",
+        "1839",
+        "1840"
       ]
     },
     "1834": {
@@ -2965,11 +2965,11 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Lur%C3%B8y%20komm.svg",
       "itemLabel": "Lurøy",
       "naboer": [
-        "1835",
-        "1833",
-        "1836",
         "1827",
-        "1828"
+        "1828",
+        "1833",
+        "1835",
+        "1836"
       ]
     },
     "1835": {
@@ -2979,9 +2979,9 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Tr%C3%A6na%20komm.svg",
       "itemLabel": "Træna",
       "naboer": [
+        "1827",
         "1834",
-        "1836",
-        "1827"
+        "1836"
       ],
       "bilde": {
         "image": [
@@ -2997,10 +2997,10 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/R%C3%B8d%C3%B8y%20komm.svg",
       "itemLabel": "Rødøy",
       "naboer": [
-        "1837",
+        "1833",
         "1834",
         "1835",
-        "1833"
+        "1837"
       ]
     },
     "1837": {
@@ -3010,10 +3010,10 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Mel%C3%B8y%20komm.svg",
       "itemLabel": "Meløy",
       "naboer": [
-        "1838",
         "1833",
-        "1839",
-        "1836"
+        "1836",
+        "1838",
+        "1839"
       ],
       "bilde": {
         "image": [
@@ -3029,8 +3029,8 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Gildesk%C3%A5l%20komm.svg",
       "itemLabel": "Gildeskål",
       "naboer": [
-        "1837",
         "1804",
+        "1837",
         "1839"
       ]
     },
@@ -3041,11 +3041,11 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Beiarn%20komm.svg",
       "itemLabel": "Beiarn",
       "naboer": [
-        "1837",
-        "1840",
         "1804",
+        "1833",
+        "1837",
         "1838",
-        "1833"
+        "1840"
       ]
     },
     "1840": {
@@ -3055,10 +3055,10 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Saltdal%20komm.svg",
       "itemLabel": "Saltdal",
       "naboer": [
-        "1841",
         "1804",
         "1833",
-        "1839"
+        "1839",
+        "1841"
       ]
     },
     "1841": {
@@ -3068,8 +3068,8 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Fauske%20komm.svg",
       "itemLabel": "Fauske",
       "naboer": [
-        "1840",
         "1804",
+        "1840",
         "1845"
       ],
       "bilde": {
@@ -3086,13 +3086,13 @@
       "article": "https://no.wikipedia.org/wiki/S%C3%B8rfold",
       "url": "http://www.sorfold.kommune.no/",
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/S%C3%B8rfold%20komm.svg",
-      "itemLabel": "Sørfold",
       "inception": "1887-01-01T00:00:00.000Z",
+      "itemLabel": "Sørfold",
       "naboer": [
-        "1841",
         "1804",
-        "1849",
-        "1848"
+        "1841",
+        "1848",
+        "1849"
       ]
     },
     "1848": {
@@ -3114,8 +3114,8 @@
       "itemLabel": "Hamarøy",
       "naboer": [
         "1845",
-        "1850",
-        "1848"
+        "1848",
+        "1850"
       ],
       "bilde": {
         "image": [
@@ -3131,8 +3131,8 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Tysfjord%20komm.svg",
       "itemLabel": "Tysfjord",
       "naboer": [
-        "1854",
-        "1849"
+        "1849",
+        "1854"
       ]
     },
     "1851": {
@@ -3143,9 +3143,9 @@
       "itemLabel": "Lødingen",
       "naboer": [
         "1852",
-        "1870",
-        "1866",
         "1865",
+        "1866",
+        "1870",
         "1911"
       ]
     },
@@ -3156,12 +3156,12 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Tjeldsund%20komm.svg",
       "itemLabel": "Tjeldsund",
       "naboer": [
-        "1853",
-        "1903",
-        "1854",
         "1851",
-        "1913",
-        "1911"
+        "1853",
+        "1854",
+        "1903",
+        "1911",
+        "1913"
       ]
     },
     "1853": {
@@ -3171,10 +3171,10 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Evenes%20komm.svg",
       "itemLabel": "Evenes",
       "naboer": [
+        "1805",
         "1852",
         "1854",
-        "1913",
-        "1805"
+        "1913"
       ]
     },
     "1854": {
@@ -3184,10 +3184,10 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Ballangen%20komm.svg",
       "itemLabel": "Ballangen",
       "naboer": [
-        "1852",
-        "1853",
+        "1805",
         "1850",
-        "1805"
+        "1852",
+        "1853"
       ]
     },
     "1856": {
@@ -3226,8 +3226,8 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Flakstad%20komm.svg",
       "itemLabel": "Flakstad",
       "naboer": [
-        "1874",
-        "1860"
+        "1860",
+        "1874"
       ]
     },
     "1860": {
@@ -3237,8 +3237,8 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Vestv%C3%A5g%C3%B8y%20komm.svg",
       "itemLabel": "Vestvågøy",
       "naboer": [
-        "1865",
-        "1859"
+        "1859",
+        "1865"
       ],
       "bilde": {
         "image": [
@@ -3254,9 +3254,9 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/V%C3%A5gan%20komm.svg",
       "itemLabel": "Vågan",
       "naboer": [
-        "1866",
         "1851",
-        "1860"
+        "1860",
+        "1866"
       ]
     },
     "1866": {
@@ -3266,9 +3266,9 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Hadsel%20komm.svg",
       "itemLabel": "Hadsel",
       "naboer": [
-        "1870",
         "1851",
-        "1865"
+        "1865",
+        "1870"
       ],
       "bilde": {
         "image": [
@@ -3286,8 +3286,8 @@
       "itemLabel": "Bø",
       "osm": "408482",
       "naboer": [
-        "1870",
-        "1868"
+        "1868",
+        "1870"
       ],
       "bilde": {
         "image": [
@@ -3303,9 +3303,9 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%98ksnes%20komm.svg",
       "itemLabel": "Øksnes",
       "naboer": [
+        "1867",
         "1870",
-        "1871",
-        "1867"
+        "1871"
       ]
     },
     "1870": {
@@ -3315,11 +3315,11 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Sortland%20komm.svg",
       "itemLabel": "Sortland",
       "naboer": [
-        "1871",
-        "1868",
-        "1867",
-        "1866",
         "1851",
+        "1866",
+        "1867",
+        "1868",
+        "1871",
         "1911"
       ]
     },
@@ -3332,10 +3332,10 @@
       "osm": "408160",
       "naboer": [
         "1868",
-        "1928",
-        "1927",
         "1870",
-        "1903"
+        "1903",
+        "1927",
+        "1928"
       ],
       "bilde": {
         "image": [
@@ -3370,11 +3370,11 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Troms%C3%B8%20komm.svg",
       "itemLabel": "Tromsø",
       "naboer": [
-        "1939",
-        "1936",
+        "1931",
         "1933",
+        "1936",
         "1938",
-        "1931"
+        "1939"
       ],
       "bilde": {
         "image": [
@@ -3392,12 +3392,12 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Harstad%20komm2.png",
       "itemLabel": "Harstad",
       "naboer": [
-        "1927",
         "1852",
         "1871",
-        "1917",
+        "1911",
         "1913",
-        "1911"
+        "1917",
+        "1927"
       ],
       "bilde": {
         "image": [
@@ -3415,10 +3415,10 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Kv%C3%A6fjord%20komm.svg",
       "itemLabel": "Kvæfjord",
       "naboer": [
+        "1851",
         "1852",
         "1870",
-        "1903",
-        "1851"
+        "1903"
       ],
       "bilde": {
         "image": [
@@ -3434,12 +3434,12 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Sk%C3%A5nland%20komm.svg",
       "itemLabel": "Skånland",
       "naboer": [
+        "1805",
         "1852",
         "1853",
         "1903",
-        "1919",
         "1917",
-        "1805"
+        "1919"
       ],
       "bilde": {
         "image": [
@@ -3455,13 +3455,13 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Ibestad%20komm.svg",
       "itemLabel": "Ibestad",
       "naboer": [
-        "1927",
         "1903",
-        "1919",
-        "1926",
         "1913",
+        "1919",
+        "1920",
         "1923",
-        "1920"
+        "1926",
+        "1927"
       ],
       "bilde": {
         "image": [
@@ -3475,13 +3475,13 @@
       "article": "https://no.wikipedia.org/wiki/Gratangen",
       "url": "http://www.gratangen.kommune.no/",
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Gratangen%20komm.svg",
-      "osm": "407765",
       "itemLabel": "Gratangen",
+      "osm": "407765",
       "naboer": [
-        "1917",
+        "1805",
         "1913",
-        "1920",
-        "1805"
+        "1917",
+        "1920"
       ],
       "bilde": {
         "image": [
@@ -3498,11 +3498,11 @@
       "itemLabel": "Lavangen",
       "osm": "407764",
       "naboer": [
-        "1919",
+        "1805",
         "1917",
+        "1919",
         "1922",
-        "1923",
-        "1805"
+        "1923"
       ],
       "bilde": {
         "image": [
@@ -3518,11 +3518,11 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Bardu%20komm.svg",
       "itemLabel": "Bardu",
       "naboer": [
-        "1925",
-        "1924",
-        "1923",
+        "1805",
         "1920",
-        "1805"
+        "1923",
+        "1924",
+        "1925"
       ],
       "bilde": {
         "image": [
@@ -3539,11 +3539,11 @@
       "itemLabel": "Salangen",
       "osm": "407763",
       "naboer": [
-        "1925",
-        "1926",
         "1917",
+        "1920",
         "1922",
-        "1920"
+        "1925",
+        "1926"
       ],
       "bilde": {
         "image": [
@@ -3559,11 +3559,11 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/M%C3%A5lselv%20komm.svg",
       "itemLabel": "Målselv",
       "naboer": [
-        "1925",
-        "1939",
-        "1933",
         "1922",
-        "1931"
+        "1925",
+        "1931",
+        "1933",
+        "1939"
       ],
       "bilde": {
         "image": [
@@ -3579,11 +3579,11 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/S%C3%B8rreisa%20komm.svg",
       "itemLabel": "Sørreisa",
       "naboer": [
-        "1926",
-        "1924",
         "1922",
-        "1931",
-        "1923"
+        "1923",
+        "1924",
+        "1926",
+        "1931"
       ]
     },
     "1926": {
@@ -3591,13 +3591,13 @@
       "article": "https://no.wikipedia.org/wiki/Dyr%C3%B8y",
       "url": "http://www.dyroy.kommune.no/",
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Dyr%C3%B8y%20komm.svg",
-      "osm": "407762",
       "itemLabel": "Dyrøy",
+      "osm": "407762",
       "naboer": [
-        "1925",
-        "1927",
         "1917",
-        "1923"
+        "1923",
+        "1925",
+        "1927"
       ],
       "bilde": {
         "image": [
@@ -3613,13 +3613,13 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Tran%C3%B8y%20komm.svg",
       "itemLabel": "Tranøy",
       "naboer": [
-        "1928",
-        "1903",
         "1871",
-        "1926",
+        "1903",
         "1917",
-        "1931",
-        "1929"
+        "1926",
+        "1928",
+        "1929",
+        "1931"
       ],
       "bilde": {
         "image": [
@@ -3635,8 +3635,8 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Torsken%20komm.svg",
       "itemLabel": "Torsken",
       "naboer": [
-        "1927",
         "1871",
+        "1927",
         "1929"
       ],
       "bilde": {
@@ -3653,8 +3653,8 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Berg%20komm.svg",
       "itemLabel": "Berg",
       "naboer": [
-        "1928",
         "1927",
+        "1928",
         "1931"
       ],
       "bilde": {
@@ -3672,11 +3672,11 @@
       "itemLabel": "Lenvik",
       "naboer": [
         "1902",
+        "1924",
         "1925",
         "1927",
-        "1933",
-        "1924",
-        "1929"
+        "1929",
+        "1933"
       ],
       "bilde": {
         "image": [
@@ -3693,9 +3693,9 @@
       "itemLabel": "Balsfjord",
       "naboer": [
         "1902",
-        "1939",
         "1924",
-        "1931"
+        "1931",
+        "1939"
       ],
       "bilde": {
         "image": [
@@ -3712,8 +3712,8 @@
       "itemLabel": "Karlsøy",
       "naboer": [
         "1902",
-        "1941",
-        "1938"
+        "1938",
+        "1941"
       ],
       "bilde": {
         "image": [
@@ -3732,10 +3732,10 @@
       "itemLabel": "Lyngen",
       "naboer": [
         "1902",
-        "1939",
         "1936",
-        "1941",
+        "1939",
         "1940",
+        "1941",
         "1942"
       ],
       "bilde": {
@@ -3755,10 +3755,10 @@
       "itemLabel": "Storfjord",
       "naboer": [
         "1902",
-        "1933",
         "1924",
-        "1940",
-        "1938"
+        "1933",
+        "1938",
+        "1940"
       ],
       "bilde": {
         "image": [
@@ -3774,8 +3774,8 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/K%C3%A5fjord%20komm.svg",
       "itemLabel": "Kåfjord",
       "naboer": [
-        "1939",
         "1938",
+        "1939",
         "1942"
       ],
       "bilde": {
@@ -3793,10 +3793,10 @@
       "itemLabel": "Skjervøy",
       "naboer": [
         "1936",
-        "2014",
-        "1943",
         "1938",
-        "1942"
+        "1942",
+        "1943",
+        "2014"
       ]
     },
     "1942": {
@@ -3806,11 +3806,11 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Nordreisa%20komm.svg",
       "itemLabel": "Nordreisa",
       "naboer": [
-        "2011",
+        "1938",
+        "1940",
         "1941",
         "1943",
-        "1940",
-        "1938"
+        "2011"
       ],
       "bilde": {
         "image": [
@@ -3826,11 +3826,11 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Kv%C3%A6nangen%20komm.svg",
       "itemLabel": "Kvænangen",
       "naboer": [
+        "1941",
+        "1942",
         "2011",
         "2012",
-        "2014",
-        "1941",
-        "1942"
+        "2014"
       ],
       "bilde": {
         "image": [
@@ -3846,8 +3846,8 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Vard%C3%B8%20komm.svg",
       "itemLabel": "Vardø",
       "naboer": [
-        "2028",
-        "2003"
+        "2003",
+        "2028"
       ],
       "bilde": {
         "image": [
@@ -3866,12 +3866,12 @@
       "inception": "1838-01-01T00:00:00.000Z",
       "itemLabel": "Vadsø",
       "naboer": [
-        "2028",
-        "2030",
         "2002",
         "2024",
+        "2025",
         "2027",
-        "2025"
+        "2028",
+        "2030"
       ],
       "bilde": {
         "image": [
@@ -3907,10 +3907,10 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Kautokeino%20komm.svg",
       "itemLabel": "Kautokeino",
       "naboer": [
-        "2021",
-        "2012",
+        "1942",
         "1943",
-        "1942"
+        "2012",
+        "2021"
       ],
       "bilde": {
         "image": [
@@ -3928,14 +3928,14 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Alta%20komm.svg",
       "itemLabel": "Alta",
       "naboer": [
-        "2021",
+        "1943",
+        "2004",
         "2011",
         "2014",
-        "2004",
         "2015",
+        "2017",
         "2020",
-        "1943",
-        "2017"
+        "2021"
       ],
       "bilde": {
         "image": [
@@ -3954,10 +3954,10 @@
       "inception": "1838-01-01T00:00:00.000Z",
       "itemLabel": "Loppa",
       "naboer": [
-        "2012",
-        "2015",
         "1941",
-        "1943"
+        "1943",
+        "2012",
+        "2015"
       ],
       "bilde": {
         "image": [
@@ -3973,9 +3973,9 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Hasvik%20komm.svg",
       "itemLabel": "Hasvik",
       "naboer": [
+        "2004",
         "2012",
-        "2014",
-        "2004"
+        "2014"
       ]
     },
     "2017": {
@@ -3985,8 +3985,8 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Kvalsund%20komm.svg",
       "itemLabel": "Kvalsund",
       "naboer": [
-        "2012",
         "2004",
+        "2012",
         "2018",
         "2020"
       ],
@@ -4005,9 +4005,9 @@
       "itemLabel": "Måsøy",
       "inception": "1838-01-01T00:00:00.000Z",
       "naboer": [
+        "2017",
         "2019",
-        "2020",
-        "2017"
+        "2020"
       ],
       "bilde": {
         "image": [
@@ -4021,12 +4021,12 @@
       "article": "https://no.wikipedia.org/wiki/Nordkapp",
       "url": "http://www.nordkapp.kommune.no/",
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Nordkapp%20komm.svg",
-      "itemLabel": "Nordkapp",
       "inception": "1861-06-01T00:00:00.000Z",
+      "itemLabel": "Nordkapp",
       "naboer": [
-        "2022",
         "2018",
-        "2020"
+        "2020",
+        "2022"
       ],
       "bilde": {
         "image": [
@@ -4043,13 +4043,13 @@
       "inception": "1838-01-01T00:00:00.000Z",
       "itemLabel": "Porsanger",
       "naboer": [
-        "2021",
         "2012",
-        "2022",
-        "2019",
+        "2017",
         "2018",
-        "2025",
-        "2017"
+        "2019",
+        "2021",
+        "2022",
+        "2025"
       ],
       "bilde": {
         "image": [
@@ -4087,8 +4087,8 @@
       "itemLabel": "Lebesby",
       "naboer": [
         "2019",
-        "2023",
         "2020",
+        "2023",
         "2025"
       ],
       "bilde": {
@@ -4122,9 +4122,9 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Berlev%C3%A5g%20komm.svg",
       "itemLabel": "Berlevåg",
       "naboer": [
-        "2028",
         "2003",
-        "2025"
+        "2025",
+        "2028"
       ]
     },
     "2025": {
@@ -4135,14 +4135,14 @@
       "inception": "1864-01-01T00:00:00.000Z",
       "itemLabel": "Tana",
       "naboer": [
+        "2003",
+        "2020",
         "2021",
         "2022",
-        "2028",
-        "2003",
+        "2023",
         "2024",
         "2027",
-        "2023",
-        "2020"
+        "2028"
       ],
       "bilde": {
         "image": [
@@ -4160,9 +4160,9 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Nesseby%20komm.svg",
       "itemLabel": "Nesseby",
       "naboer": [
-        "2030",
         "2003",
-        "2025"
+        "2025",
+        "2030"
       ]
     },
     "2028": {
@@ -4173,8 +4173,8 @@
       "itemLabel": "Båtsfjord",
       "inception": "1838-01-01T00:00:00.000Z",
       "naboer": [
-        "2003",
         "2002",
+        "2003",
         "2024",
         "2025"
       ],
@@ -4211,10 +4211,10 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Trondheim%20komm.svg",
       "itemLabel": "Trondheim kommune",
       "naboer": [
-        "5030",
         "5028",
-        "5031",
         "5029",
+        "5030",
+        "5031",
         "5054"
       ]
     },
@@ -4225,10 +4225,10 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Namsos%20komm.svg",
       "itemLabel": "Namsos",
       "naboer": [
-        "5049",
-        "5048",
         "1744",
-        "5040"
+        "5040",
+        "5048",
+        "5049"
       ],
       "bilde": {
         "image": [
@@ -4246,9 +4246,9 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Snillfjord%20komm.svg",
       "itemLabel": "Snillfjord",
       "naboer": [
+        "1612",
         "5013",
         "5016",
-        "1612",
         "5024"
       ]
     },
@@ -4259,13 +4259,13 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Hitra%20komm.svg",
       "itemLabel": "Hitra",
       "naboer": [
-        "5012",
-        "1621",
-        "5016",
         "1573",
-        "5014",
+        "1576",
         "1612",
-        "1576"
+        "1621",
+        "5012",
+        "5014",
+        "5016"
       ],
       "bilde": {
         "image": [
@@ -4298,9 +4298,9 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Agdenes%20komm.svg",
       "itemLabel": "Agdenes",
       "naboer": [
+        "1621",
         "5012",
         "5013",
-        "1621",
         "5024",
         "5054"
       ]
@@ -4313,9 +4313,9 @@
       "itemLabel": "Bjugn",
       "osm": "405279",
       "naboer": [
-        "5018",
         "1621",
         "5014",
+        "5018",
         "5054"
       ],
       "bilde": {
@@ -4334,9 +4334,9 @@
       "itemLabel": "Åfjord",
       "naboer": [
         "5017",
+        "5019",
         "5039",
         "5040",
-        "5019",
         "5054"
       ],
       "bilde": {
@@ -4353,8 +4353,8 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Roan%20komm.svg",
       "itemLabel": "Roan",
       "naboer": [
-        "5018",
         "1633",
+        "5018",
         "5040"
       ]
     },
@@ -4365,11 +4365,11 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Rennebu%20komm.svg",
       "itemLabel": "Rennebu",
       "naboer": [
+        "0437",
         "1634",
         "5023",
-        "5061",
-        "0437",
-        "5027"
+        "5027",
+        "5061"
       ]
     },
     "5023": {
@@ -4380,10 +4380,10 @@
       "itemLabel": "Meldal",
       "naboer": [
         "5022",
-        "5061",
-        "5028",
+        "5024",
         "5027",
-        "5024"
+        "5028",
+        "5061"
       ]
     },
     "5024": {
@@ -4393,13 +4393,13 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Orkdal%20komm.svg",
       "itemLabel": "Orkdal",
       "naboer": [
+        "1612",
         "5012",
         "5016",
         "5023",
-        "5061",
-        "1612",
         "5028",
-        "5029"
+        "5029",
+        "5061"
       ]
     },
     "5025": {
@@ -4408,12 +4408,12 @@
       "url": "http://www.roros.kommune.no/",
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/R%C3%B8ros%20komm.svg",
       "itemLabel": "Røros",
-      "elevation": "628",
+      "elevation": 628,
       "naboer": [
         "0434",
-        "5026",
+        "0441",
         "1665",
-        "0441"
+        "5026"
       ],
       "bilde": {
         "image": [
@@ -4432,11 +4432,11 @@
       "itemLabel": "Holtålen",
       "osm": "406477",
       "naboer": [
-        "5025",
-        "5032",
-        "5027",
+        "0441",
         "1665",
-        "0441"
+        "5025",
+        "5027",
+        "5032"
       ]
     },
     "5027": {
@@ -4447,13 +4447,13 @@
       "itemLabel": "Midtre Gauldal",
       "osm": "406476",
       "naboer": [
-        "5026",
-        "5023",
-        "5022",
-        "5028",
         "0437",
-        "5032",
-        "0441"
+        "0441",
+        "5022",
+        "5023",
+        "5026",
+        "5028",
+        "5032"
       ]
     },
     "5028": {
@@ -4463,13 +4463,13 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Melhus%20komm.svg",
       "itemLabel": "Melhus",
       "naboer": [
-        "5030",
+        "5001",
         "5023",
-        "5032",
+        "5024",
         "5027",
         "5029",
-        "5024",
-        "5001"
+        "5030",
+        "5032"
       ],
       "bilde": {
         "image": [
@@ -4487,9 +4487,9 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Skaun%20komm.svg",
       "itemLabel": "Skaun",
       "naboer": [
-        "5028",
+        "5001",
         "5024",
-        "5001"
+        "5028"
       ]
     },
     "5030": {
@@ -4499,9 +4499,9 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Kl%C3%A6bu%20komm.svg",
       "itemLabel": "Klæbu",
       "naboer": [
+        "5001",
         "5028",
-        "5032",
-        "5001"
+        "5032"
       ]
     },
     "5031": {
@@ -4512,8 +4512,8 @@
       "itemLabel": "Malvik",
       "naboer": [
         "1714",
-        "5032",
-        "5001"
+        "5001",
+        "5032"
       ],
       "bilde": {
         "image": [
@@ -4529,14 +4529,14 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Selbu%20komm.svg",
       "itemLabel": "Selbu",
       "naboer": [
-        "5034",
+        "1665",
         "1714",
         "5026",
-        "5030",
-        "5028",
         "5027",
+        "5028",
+        "5030",
         "5031",
-        "1665"
+        "5034"
       ]
     },
     "5034": {
@@ -4547,9 +4547,9 @@
       "itemLabel": "Meråker",
       "osm": "407292",
       "naboer": [
+        "1665",
         "1714",
         "5032",
-        "1665",
         "5038"
       ]
     },
@@ -4561,8 +4561,8 @@
       "itemLabel": "Frosta",
       "osm": "407287",
       "naboer": [
-        "5037",
         "1714",
+        "5037",
         "5054"
       ],
       "bilde": {
@@ -4580,9 +4580,9 @@
       "itemLabel": "Levanger",
       "naboer": [
         "1714",
-        "5053",
         "5036",
-        "5038"
+        "5038",
+        "5053"
       ],
       "bilde": {
         "image": [
@@ -4598,11 +4598,11 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Verdal%20komm.svg",
       "itemLabel": "Verdal",
       "naboer": [
-        "5034",
         "1702",
+        "5034",
         "5037",
-        "5053",
-        "5041"
+        "5041",
+        "5053"
       ]
     },
     "5039": {
@@ -4614,8 +4614,8 @@
       "naboer": [
         "1702",
         "5018",
-        "5053",
         "5040",
+        "5053",
         "5054"
       ]
     },
@@ -4627,13 +4627,13 @@
       "itemLabel": "Namdalseid",
       "osm": "407246",
       "naboer": [
-        "5049",
+        "1633",
         "1702",
         "5005",
         "5018",
-        "1633",
+        "5019",
         "5039",
-        "5019"
+        "5049"
       ]
     },
     "5041": {
@@ -4646,9 +4646,9 @@
       "naboer": [
         "1702",
         "1742",
-        "5042",
         "1744",
-        "5038"
+        "5038",
+        "5042"
       ]
     },
     "5042": {
@@ -4658,8 +4658,8 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Lierne%20komm.svg",
       "itemLabel": "Lierne",
       "naboer": [
-        "1742",
         "1739",
+        "1742",
         "5041"
       ]
     },
@@ -4671,11 +4671,11 @@
       "itemLabel": "Namsskogan",
       "osm": "407201",
       "naboer": [
-        "5046",
-        "1742",
         "1739",
+        "1742",
         "1811",
-        "1825"
+        "1825",
+        "5046"
       ]
     },
     "5046": {
@@ -4687,11 +4687,11 @@
       "osm": "407200",
       "naboer": [
         "1742",
+        "1744",
         "1751",
         "1811",
         "5044",
-        "5048",
-        "1744"
+        "5048"
       ]
     },
     "5048": {
@@ -4702,11 +4702,11 @@
       "itemLabel": "Fosnes",
       "osm": "407205",
       "naboer": [
-        "5050",
+        "1744",
+        "1751",
         "5005",
         "5046",
-        "1751",
-        "1744"
+        "5050"
       ],
       "bilde": {
         "image": [
@@ -4723,10 +4723,10 @@
       "itemLabel": "Flatanger",
       "osm": "407245",
       "naboer": [
-        "5050",
-        "5005",
         "1633",
-        "5040"
+        "5005",
+        "5040",
+        "5050"
       ],
       "bilde": {
         "image": [
@@ -4742,10 +4742,10 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Vikna%20komm.svg",
       "itemLabel": "Vikna",
       "naboer": [
-        "5049",
         "1751",
+        "1755",
         "5048",
-        "1755"
+        "5049"
       ]
     },
     "5053": {
@@ -4758,8 +4758,8 @@
       "naboer": [
         "1702",
         "5037",
-        "5039",
         "5038",
+        "5039",
         "5054"
       ]
     },
@@ -4771,13 +4771,13 @@
       "itemLabel": "Indre Fosen",
       "inception": "2018-01-01T00:00:00.000Z",
       "naboer": [
-        "5018",
+        "5001",
         "5016",
         "5017",
-        "5053",
+        "5018",
         "5036",
         "5039",
-        "5001"
+        "5053"
       ]
     },
     "5061": {
@@ -4788,10 +4788,10 @@
       "itemLabel": "Rindal",
       "naboer": [
         "1566",
-        "1634",
-        "5023",
-        "5022",
         "1612",
+        "1634",
+        "5022",
+        "5023",
         "5024"
       ]
     },
@@ -4802,8 +4802,8 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Halden%20komm.svg",
       "itemLabel": "Halden",
       "naboer": [
-        "0118",
         "0105",
+        "0118",
         "0128"
       ],
       "bilde": {
@@ -4822,9 +4822,9 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Moss%20komm.svg",
       "itemLabel": "Moss",
       "naboer": [
-        "0211",
         "0136",
-        "0137"
+        "0137",
+        "0211"
       ],
       "bilde": {
         "image": [
@@ -4841,14 +4841,14 @@
       "url": "http://www.sarpsborg.kommune.no/",
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Sarpsborg%20komm.svg",
       "itemLabel": "Sarpsborg",
-      "elevation": "31",
+      "elevation": 31,
       "naboer": [
-        "0106",
         "0101",
-        "0127",
-        "0135",
-        "0128",
+        "0106",
         "0111",
+        "0127",
+        "0128",
+        "0135",
         "0137"
       ],
       "bilde": {
@@ -4869,8 +4869,8 @@
       "itemLabel": "Fredrikstad",
       "naboer": [
         "0105",
-        "0135",
-        "0111"
+        "0111",
+        "0135"
       ],
       "bilde": {
         "image": [
@@ -4888,8 +4888,8 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Hvaler%20komm.svg",
       "itemLabel": "Hvaler",
       "naboer": [
-        "0106",
-        "0105"
+        "0105",
+        "0106"
       ]
     },
     "0118": {
@@ -4901,8 +4901,8 @@
       "inception": "1837-01-01T00:00:00.000Z",
       "naboer": [
         "0101",
-        "0128",
-        "0119"
+        "0119",
+        "0128"
       ]
     },
     "0119": {
@@ -4913,10 +4913,10 @@
       "itemLabel": "Marker",
       "naboer": [
         "0118",
-        "0221",
         "0121",
         "0125",
-        "0128"
+        "0128",
+        "0221"
       ]
     },
     "0121": {
@@ -4926,8 +4926,8 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/R%C3%B8mskog%20komm.svg",
       "itemLabel": "Rømskog",
       "naboer": [
-        "0221",
-        "0119"
+        "0119",
+        "0221"
       ]
     },
     "0122": {
@@ -4938,11 +4938,11 @@
       "itemLabel": "Trøgstad",
       "naboer": [
         "0123",
-        "0221",
-        "0229",
-        "0227",
         "0124",
-        "0125"
+        "0125",
+        "0221",
+        "0227",
+        "0229"
       ],
       "bilde": {
         "image": [
@@ -4959,11 +4959,11 @@
       "itemLabel": "Spydeberg",
       "naboer": [
         "0122",
-        "0229",
         "0124",
-        "0138",
         "0127",
-        "0137"
+        "0137",
+        "0138",
+        "0229"
       ]
     },
     "0124": {
@@ -4973,8 +4973,8 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Askim%20komm.svg",
       "itemLabel": "Askim",
       "naboer": [
-        "0123",
         "0122",
+        "0123",
         "0125",
         "0127"
       ]
@@ -4986,12 +4986,12 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Eidsberg%20komm.svg",
       "itemLabel": "Eidsberg",
       "naboer": [
+        "0119",
         "0122",
-        "0221",
         "0124",
         "0127",
         "0128",
-        "0119"
+        "0221"
       ]
     },
     "0127": {
@@ -5001,8 +5001,8 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Skiptvet%20komm.svg",
       "itemLabel": "Skiptvet",
       "naboer": [
-        "0123",
         "0105",
+        "0123",
         "0124",
         "0125",
         "0128",
@@ -5016,12 +5016,12 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Rakkestad%20komm.svg",
       "itemLabel": "Rakkestad",
       "naboer": [
-        "0118",
-        "0105",
         "0101",
+        "0105",
+        "0118",
+        "0119",
         "0125",
-        "0127",
-        "0119"
+        "0127"
       ]
     },
     "0135": {
@@ -5031,8 +5031,8 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/R%C3%A5de%20komm.svg",
       "itemLabel": "Råde",
       "naboer": [
-        "0106",
         "0105",
+        "0106",
         "0136",
         "0137"
       ]
@@ -5056,14 +5056,14 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/V%C3%A5ler%20%C3%98stfold%20komm.svg",
       "itemLabel": "Våler",
       "naboer": [
-        "0123",
-        "0211",
-        "0105",
         "0104",
-        "0138",
+        "0105",
+        "0123",
         "0127",
         "0135",
-        "0136"
+        "0136",
+        "0138",
+        "0211"
       ]
     },
     "0138": {
@@ -5074,11 +5074,11 @@
       "itemLabel": "Hobøl",
       "naboer": [
         "0123",
-        "0214",
-        "0229",
-        "0213",
+        "0137",
         "0211",
-        "0137"
+        "0213",
+        "0214",
+        "0229"
       ]
     },
     "0211": {
@@ -5088,11 +5088,11 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Vestby%20komm.svg",
       "itemLabel": "Vestby",
       "naboer": [
-        "0214",
-        "0215",
         "0104",
+        "0137",
         "0138",
-        "0137"
+        "0214",
+        "0215"
       ]
     },
     "0213": {
@@ -5102,11 +5102,11 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Ski%20komm.svg",
       "itemLabel": "Ski",
       "naboer": [
-        "0301",
+        "0138",
         "0214",
-        "0229",
         "0217",
-        "0138"
+        "0229",
+        "0301"
       ]
     },
     "0214": {
@@ -5116,11 +5116,11 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%85s%20komm.svg",
       "itemLabel": "Ås",
       "naboer": [
-        "0215",
-        "0217",
-        "0213",
+        "0138",
         "0211",
-        "0138"
+        "0213",
+        "0215",
+        "0217"
       ],
       "bilde": {
         "image": [
@@ -5138,9 +5138,9 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Frogn%20komm.svg",
       "itemLabel": "Frogn",
       "naboer": [
+        "0211",
         "0214",
-        "0216",
-        "0211"
+        "0216"
       ],
       "bilde": {
         "image": [
@@ -5156,10 +5156,10 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Nesodden%20komm.svg",
       "itemLabel": "Nesodden",
       "naboer": [
-        "0301",
-        "0220",
+        "0215",
         "0219",
-        "0215"
+        "0220",
+        "0301"
       ],
       "bilde": {
         "image": [
@@ -5175,9 +5175,9 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Oppeg%C3%A5rd%20komm.svg",
       "itemLabel": "Oppegård",
       "naboer": [
-        "0301",
+        "0213",
         "0214",
-        "0213"
+        "0301"
       ]
     },
     "0219": {
@@ -5187,12 +5187,12 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/B%C3%A6rum%20komm.svg",
       "itemLabel": "Bærum",
       "naboer": [
-        "0301",
-        "0220",
         "0216",
+        "0220",
+        "0301",
         "0605",
-        "0626",
-        "0612"
+        "0612",
+        "0626"
       ]
     },
     "0220": {
@@ -5202,8 +5202,8 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Asker%20komm.svg",
       "itemLabel": "Asker",
       "naboer": [
-        "0219",
         "0216",
+        "0219",
         "0626",
         "0627"
       ],
@@ -5222,14 +5222,14 @@
       "inception": "1966-01-01T00:00:00.000Z",
       "itemLabel": "Aurskog-Høland",
       "naboer": [
-        "0122",
-        "0420",
-        "0227",
-        "0226",
-        "0121",
-        "0125",
         "0119",
-        "0236"
+        "0121",
+        "0122",
+        "0125",
+        "0226",
+        "0227",
+        "0236",
+        "0420"
       ]
     },
     "0226": {
@@ -5241,8 +5241,8 @@
       "naboer": [
         "0221",
         "0227",
-        "0234",
         "0231",
+        "0234",
         "0235",
         "0236"
       ],
@@ -5262,10 +5262,10 @@
       "naboer": [
         "0122",
         "0221",
-        "0229",
+        "0226",
         "0228",
-        "0231",
-        "0226"
+        "0229",
+        "0231"
       ],
       "bilde": {
         "image": [
@@ -5281,8 +5281,8 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/R%C3%A6lingen%20komm.svg",
       "itemLabel": "Rælingen",
       "naboer": [
-        "0229",
         "0227",
+        "0229",
         "0230",
         "0231"
       ]
@@ -5294,14 +5294,14 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Enebakk%20komm.svg",
       "itemLabel": "Enebakk",
       "naboer": [
-        "0301",
-        "0123",
         "0122",
-        "0227",
-        "0230",
-        "0228",
+        "0123",
+        "0138",
         "0213",
-        "0138"
+        "0227",
+        "0228",
+        "0230",
+        "0301"
       ]
     },
     "0230": {
@@ -5312,10 +5312,10 @@
       "itemLabel": "Lørenskog",
       "osm": "406126",
       "naboer": [
-        "0301",
-        "0229",
         "0228",
-        "0231"
+        "0229",
+        "0231",
+        "0301"
       ],
       "bilde": {
         "image": [
@@ -5332,13 +5332,13 @@
       "itemLabel": "Skedsmo",
       "osm": "406125",
       "naboer": [
-        "0301",
+        "0226",
         "0227",
-        "0234",
+        "0228",
         "0230",
         "0233",
-        "0228",
-        "0226"
+        "0234",
+        "0301"
       ]
     },
     "0233": {
@@ -5348,10 +5348,10 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Nittedal%20komm.svg",
       "itemLabel": "Nittedal",
       "naboer": [
-        "0301",
+        "0231",
         "0234",
         "0238",
-        "0231",
+        "0301",
         "0533"
       ]
     },
@@ -5362,11 +5362,11 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Gjerdrum%20komm.svg",
       "itemLabel": "Gjerdrum",
       "naboer": [
-        "0238",
-        "0233",
-        "0231",
         "0226",
-        "0235"
+        "0231",
+        "0233",
+        "0235",
+        "0238"
       ],
       "bilde": {
         "image": [
@@ -5382,11 +5382,11 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Ullensaker%20komm.svg",
       "itemLabel": "Ullensaker",
       "naboer": [
-        "0237",
-        "0234",
-        "0238",
         "0226",
-        "0236"
+        "0234",
+        "0236",
+        "0237",
+        "0238"
       ],
       "bilde": {
         "image": [
@@ -5403,13 +5403,13 @@
       "itemLabel": "Nes",
       "osm": "406119",
       "naboer": [
-        "0419",
-        "0420",
         "0221",
-        "0237",
         "0226",
         "0235",
-        "0418"
+        "0237",
+        "0418",
+        "0419",
+        "0420"
       ],
       "bilde": {
         "image": [
@@ -5425,13 +5425,13 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Eidsvoll%20komm.svg",
       "itemLabel": "Eidsvoll",
       "naboer": [
-        "0417",
-        "0239",
-        "0238",
         "0235",
-        "0528",
+        "0236",
+        "0238",
+        "0239",
+        "0417",
         "0418",
-        "0236"
+        "0528"
       ],
       "bilde": {
         "image": [
@@ -5449,11 +5449,11 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Nannestad%20komm.svg",
       "itemLabel": "Nannestad",
       "naboer": [
-        "0237",
-        "0234",
-        "0239",
         "0233",
+        "0234",
         "0235",
+        "0237",
+        "0239",
         "0533",
         "0534"
       ],
@@ -5471,10 +5471,10 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Hurdal%20komm.svg",
       "itemLabel": "Hurdal",
       "naboer": [
-        "0529",
         "0237",
         "0238",
         "0528",
+        "0529",
         "0534"
       ],
       "bilde": {
@@ -5491,19 +5491,19 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Oslo%20komm.svg",
       "inception": "1048-01-01T00:00:00.000Z",
       "itemLabel": "Oslo",
+      "elevation": 23,
       "osm": "2775550",
-      "elevation": "23",
       "naboer": [
+        "0213",
+        "0216",
+        "0217",
         "0219",
         "0229",
         "0230",
-        "0216",
-        "0233",
-        "0217",
         "0231",
-        "0213",
-        "0605",
-        "0533"
+        "0233",
+        "0533",
+        "0605"
       ],
       "bilde": {
         "image": [
@@ -5542,10 +5542,10 @@
       "itemLabel": "Hamar",
       "osm": "410882",
       "naboer": [
-        "0417",
         "0412",
-        "0429",
-        "0415"
+        "0415",
+        "0417",
+        "0429"
       ],
       "bilde": {
         "image": [
@@ -5563,14 +5563,14 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Ringsaker%20komm.svg",
       "itemLabel": "Ringsaker",
       "naboer": [
-        "0430",
-        "0417",
-        "0501",
         "0403",
-        "0502",
+        "0417",
         "0429",
-        "0528",
-        "0521"
+        "0430",
+        "0501",
+        "0502",
+        "0521",
+        "0528"
       ]
     },
     "0415": {
@@ -5580,11 +5580,11 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/L%C3%B8ten%20komm.svg",
       "itemLabel": "Løten",
       "naboer": [
-        "0417",
         "0403",
+        "0417",
+        "0426",
         "0427",
-        "0429",
-        "0426"
+        "0429"
       ]
     },
     "0417": {
@@ -5594,14 +5594,14 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Stange%20komm.svg",
       "itemLabel": "Stange",
       "naboer": [
-        "0425",
         "0237",
         "0403",
         "0412",
-        "0528",
-        "0418",
         "0415",
-        "0426"
+        "0418",
+        "0425",
+        "0426",
+        "0528"
       ],
       "bilde": {
         "image": [
@@ -5617,12 +5617,12 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Nord-Odal%20komm.svg",
       "itemLabel": "Nord-Odal",
       "naboer": [
+        "0236",
+        "0237",
         "0417",
         "0419",
-        "0425",
-        "0237",
-        "0236",
-        "0423"
+        "0423",
+        "0425"
       ],
       "bilde": {
         "image": [
@@ -5638,10 +5638,10 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/S%C3%B8r-Odal%20komm.svg",
       "itemLabel": "Sør-Odal",
       "naboer": [
-        "0420",
+        "0236",
         "0402",
         "0418",
-        "0236",
+        "0420",
         "0423"
       ]
     },
@@ -5652,10 +5652,10 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Eidskog%20komm.svg",
       "itemLabel": "Eidskog",
       "naboer": [
-        "0419",
         "0221",
+        "0236",
         "0402",
-        "0236"
+        "0419"
       ]
     },
     "0423": {
@@ -5665,10 +5665,10 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Grue%20komm.svg",
       "itemLabel": "Grue",
       "naboer": [
-        "0419",
-        "0425",
         "0402",
-        "0418"
+        "0418",
+        "0419",
+        "0425"
       ]
     },
     "0425": {
@@ -5691,11 +5691,11 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/V%C3%A5ler%20Hedmark%20komm.svg",
       "itemLabel": "Våler",
       "naboer": [
-        "0428",
+        "0415",
         "0417",
         "0425",
         "0427",
-        "0415"
+        "0428"
       ]
     },
     "0427": {
@@ -5705,10 +5705,10 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Elverum%20komm.svg",
       "itemLabel": "Elverum",
       "naboer": [
-        "0428",
-        "0429",
         "0415",
-        "0426"
+        "0426",
+        "0428",
+        "0429"
       ],
       "bilde": {
         "image": [
@@ -5724,14 +5724,14 @@
       "article": "https://no.wikipedia.org/wiki/Trysil",
       "url": "http://www.trysil.kommune.no/",
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Trysil%20komm.svg",
-      "itemLabel": "Trysil",
       "inception": "1838-01-01T00:00:00.000Z",
+      "itemLabel": "Trysil",
       "naboer": [
-        "0434",
+        "0426",
         "0427",
         "0429",
         "0432",
-        "0426"
+        "0434"
       ]
     },
     "0429": {
@@ -5741,13 +5741,13 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%85mot%20komm.svg",
       "itemLabel": "Åmot",
       "naboer": [
-        "0430",
-        "0428",
         "0403",
-        "0427",
         "0412",
-        "0432",
-        "0415"
+        "0415",
+        "0427",
+        "0428",
+        "0430",
+        "0432"
       ],
       "bilde": {
         "image": [
@@ -5763,14 +5763,14 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Stor-Elvdal%20komm.svg",
       "itemLabel": "Stor-Elvdal",
       "naboer": [
-        "0520",
-        "0438",
         "0412",
         "0429",
-        "0521",
+        "0432",
+        "0438",
         "0439",
         "0519",
-        "0432"
+        "0520",
+        "0521"
       ]
     },
     "0432": {
@@ -5780,13 +5780,13 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Rendalen%20komm.svg",
       "itemLabel": "Rendalen",
       "naboer": [
-        "0430",
         "0428",
-        "0438",
-        "0434",
         "0429",
+        "0430",
+        "0434",
+        "0436",
         "0437",
-        "0436"
+        "0438"
       ]
     },
     "0434": {
@@ -5797,10 +5797,10 @@
       "itemLabel": "Engerdal",
       "naboer": [
         "0428",
-        "5025",
         "0432",
         "0436",
-        "0441"
+        "0441",
+        "5025"
       ]
     },
     "0436": {
@@ -5810,8 +5810,8 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Tolga%20komm.svg",
       "itemLabel": "Tolga",
       "naboer": [
-        "0434",
         "0432",
+        "0434",
         "0437",
         "0441"
       ],
@@ -5829,14 +5829,14 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Tynset%20komm.svg",
       "itemLabel": "Tynset",
       "naboer": [
-        "0438",
-        "1634",
-        "0439",
-        "5022",
         "0432",
-        "5027",
         "0436",
-        "0441"
+        "0438",
+        "0439",
+        "0441",
+        "1634",
+        "5022",
+        "5027"
       ],
       "bilde": {
         "image": [
@@ -5855,9 +5855,9 @@
       "itemLabel": "Alvdal",
       "naboer": [
         "0430",
-        "0439",
         "0432",
-        "0437"
+        "0437",
+        "0439"
       ]
     },
     "0439": {
@@ -5868,12 +5868,12 @@
       "itemLabel": "Folldal",
       "naboer": [
         "0430",
-        "0438",
-        "1634",
-        "0511",
-        "0519",
         "0437",
-        "0517"
+        "0438",
+        "0511",
+        "0517",
+        "0519",
+        "1634"
       ]
     },
     "0441": {
@@ -5884,11 +5884,11 @@
       "itemLabel": "Os",
       "naboer": [
         "0434",
+        "0436",
+        "0437",
         "5025",
         "5026",
-        "0437",
-        "5027",
-        "0436"
+        "5027"
       ]
     },
     "0501": {
@@ -5898,10 +5898,10 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Lillehammer%20komm.svg",
       "inception": "1827-01-01T00:00:00.000Z",
       "itemLabel": "Lillehammer",
-      "elevation": "162",
+      "elevation": 162,
       "naboer": [
-        "0502",
         "0412",
+        "0502",
         "0521",
         "0522",
         "0538"
@@ -5922,10 +5922,10 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Gj%C3%B8vik%20komm.svg",
       "itemLabel": "Gjøvik",
       "naboer": [
-        "0529",
-        "0501",
         "0412",
+        "0501",
         "0528",
+        "0529",
         "0536",
         "0538"
       ],
@@ -5945,11 +5945,11 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Dovre%20komm.svg",
       "itemLabel": "Dovre",
       "naboer": [
-        "0515",
-        "1634",
         "0439",
         "0512",
-        "0517"
+        "0515",
+        "0517",
+        "1634"
       ],
       "bilde": {
         "image": [
@@ -5965,14 +5965,14 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Lesja%20komm.svg",
       "itemLabel": "Lesja",
       "naboer": [
-        "1563",
-        "0515",
-        "1634",
-        "1543",
-        "0513",
         "0511",
+        "0513",
         "0514",
-        "1539"
+        "0515",
+        "1539",
+        "1543",
+        "1563",
+        "1634"
       ]
     },
     "0513": {
@@ -5982,13 +5982,13 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Skj%C3%A5k%20komm.svg",
       "itemLabel": "Skjåk",
       "naboer": [
-        "1449",
-        "1525",
-        "0514",
         "0512",
+        "0514",
+        "1426",
+        "1449",
         "1524",
-        "1539",
-        "1426"
+        "1525",
+        "1539"
       ]
     },
     "0514": {
@@ -5998,11 +5998,11 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Lom%20komm.svg",
       "itemLabel": "Lom",
       "naboer": [
-        "0515",
-        "0513",
         "0512",
-        "1426",
-        "0545"
+        "0513",
+        "0515",
+        "0545",
+        "1426"
       ],
       "bilde": {
         "image": [
@@ -6018,13 +6018,13 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/V%C3%A5g%C3%A5%20komm.svg",
       "itemLabel": "Vågå",
       "naboer": [
-        "0544",
         "0511",
+        "0512",
         "0514",
         "0516",
-        "0512",
-        "0545",
-        "0517"
+        "0517",
+        "0544",
+        "0545"
       ]
     },
     "0516": {
@@ -6035,9 +6035,9 @@
       "itemLabel": "Nord-Fron",
       "naboer": [
         "0515",
-        "0544",
+        "0517",
         "0519",
-        "0517"
+        "0544"
       ]
     },
     "0517": {
@@ -6047,11 +6047,11 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Sel%20komm.svg",
       "itemLabel": "Sel",
       "naboer": [
-        "0515",
         "0439",
         "0511",
-        "0519",
-        "0516"
+        "0515",
+        "0516",
+        "0519"
       ]
     },
     "0519": {
@@ -6062,12 +6062,12 @@
       "itemLabel": "Sør-Fron",
       "naboer": [
         "0430",
-        "0520",
-        "0544",
         "0439",
-        "0522",
         "0516",
-        "0517"
+        "0517",
+        "0520",
+        "0522",
+        "0544"
       ],
       "bilde": {
         "image": [
@@ -6084,9 +6084,9 @@
       "itemLabel": "Ringebu",
       "naboer": [
         "0430",
+        "0519",
         "0521",
-        "0522",
-        "0519"
+        "0522"
       ]
     },
     "0521": {
@@ -6096,10 +6096,10 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%98yer%20komm.svg",
       "itemLabel": "Øyer",
       "naboer": [
-        "0430",
-        "0520",
-        "0501",
         "0412",
+        "0430",
+        "0501",
+        "0520",
         "0522"
       ],
       "bilde": {
@@ -6116,13 +6116,13 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Gausdal%20komm.svg",
       "itemLabel": "Gausdal",
       "naboer": [
-        "0520",
         "0501",
+        "0519",
+        "0520",
         "0521",
-        "0544",
-        "0542",
         "0538",
-        "0519"
+        "0542",
+        "0544"
       ]
     },
     "0528": {
@@ -6132,12 +6132,12 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%98stre%20Toten%20komm.svg",
       "itemLabel": "Østre Toten",
       "naboer": [
-        "0417",
-        "0529",
         "0237",
         "0239",
+        "0412",
+        "0417",
         "0502",
-        "0412"
+        "0529"
       ],
       "bilde": {
         "image": [
@@ -6156,8 +6156,8 @@
         "0239",
         "0502",
         "0528",
-        "0536",
-        "0534"
+        "0534",
+        "0536"
       ],
       "bilde": {
         "image": [
@@ -6173,9 +6173,9 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Jevnaker%20komm.svg",
       "itemLabel": "Jevnaker",
       "naboer": [
-        "0605",
         "0533",
-        "0534"
+        "0534",
+        "0605"
       ]
     },
     "0533": {
@@ -6185,12 +6185,12 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Lunner%20komm.svg",
       "itemLabel": "Lunner",
       "naboer": [
-        "0301",
-        "0238",
         "0233",
-        "0605",
+        "0238",
+        "0301",
         "0532",
-        "0534"
+        "0534",
+        "0605"
       ]
     },
     "0534": {
@@ -6200,13 +6200,13 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Gran%20komm.svg",
       "itemLabel": "Gran",
       "naboer": [
-        "0529",
-        "0239",
         "0238",
-        "0605",
-        "0536",
+        "0239",
+        "0529",
         "0532",
-        "0533"
+        "0533",
+        "0536",
+        "0605"
       ],
       "bilde": {
         "image": [
@@ -6222,12 +6222,12 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/S%C3%B8ndre%20Land%20komm.svg",
       "itemLabel": "Søndre Land",
       "naboer": [
-        "0540",
-        "0529",
         "0502",
-        "0605",
+        "0529",
+        "0534",
         "0538",
-        "0534"
+        "0540",
+        "0605"
       ]
     },
     "0538": {
@@ -6237,13 +6237,13 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Nordre%20Land%20komm.svg",
       "itemLabel": "Nordre Land",
       "naboer": [
-        "0540",
         "0501",
         "0502",
-        "0542",
-        "0536",
         "0522",
-        "0541"
+        "0536",
+        "0540",
+        "0541",
+        "0542"
       ]
     },
     "0540": {
@@ -6253,13 +6253,13 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/S%C3%B8r-Aurdal%20komm.svg",
       "itemLabel": "Sør-Aurdal",
       "naboer": [
-        "0615",
-        "0605",
-        "0616",
-        "0542",
         "0536",
         "0538",
         "0541",
+        "0542",
+        "0605",
+        "0615",
+        "0616",
         "0617"
       ]
     },
@@ -6270,9 +6270,9 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Etnedal%20komm.svg",
       "itemLabel": "Etnedal",
       "naboer": [
+        "0538",
         "0540",
-        "0542",
-        "0538"
+        "0542"
       ]
     },
     "0542": {
@@ -6282,12 +6282,12 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Nord-Aurdal%20komm.svg",
       "itemLabel": "Nord-Aurdal",
       "naboer": [
-        "0540",
-        "0544",
         "0522",
         "0538",
+        "0540",
         "0541",
         "0543",
+        "0544",
         "0617",
         "0618"
       ]
@@ -6299,10 +6299,10 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Vestre%20Slidre%20komm.svg",
       "itemLabel": "Vestre Slidre",
       "naboer": [
-        "0544",
         "0542",
-        "0618",
-        "0545"
+        "0544",
+        "0545",
+        "0618"
       ]
     },
     "0544": {
@@ -6313,10 +6313,10 @@
       "itemLabel": "Øystre Slidre",
       "naboer": [
         "0515",
-        "0542",
-        "0522",
-        "0519",
         "0516",
+        "0519",
+        "0522",
+        "0542",
         "0543",
         "0545"
       ]
@@ -6329,13 +6329,13 @@
       "itemLabel": "Vang",
       "inception": "1838-01-01T00:00:00.000Z",
       "naboer": [
-        "0515",
-        "1424",
-        "0544",
         "0514",
+        "0515",
         "0543",
-        "1422",
+        "0544",
         "0618",
+        "1422",
+        "1424",
         "1426"
       ]
     },
@@ -6346,11 +6346,11 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Drammen%20komm.svg",
       "itemLabel": "Drammen",
       "naboer": [
-        "0711",
         "0625",
+        "0626",
+        "0711",
         "0713",
-        "0715",
-        "0626"
+        "0715"
       ],
       "bilde": {
         "image": [
@@ -6366,17 +6366,17 @@
       "article": "https://no.wikipedia.org/wiki/Kongsberg",
       "url": "http://www.kongsberg.kommune.no/",
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Kongsberg%20komm.svg",
-      "itemLabel": "Kongsberg",
       "inception": "1624-01-01T00:00:00.000Z",
+      "itemLabel": "Kongsberg",
       "naboer": [
-        "0806",
-        "0811",
-        "0807",
-        "0822",
-        "0631",
         "0624",
+        "0631",
         "0712",
-        "0715"
+        "0715",
+        "0806",
+        "0807",
+        "0811",
+        "0822"
       ],
       "bilde": {
         "image": [
@@ -6394,17 +6394,17 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Ringerike%20komm.svg",
       "itemLabel": "Ringerike",
       "naboer": [
-        "0301",
-        "0540",
-        "0622",
         "0219",
-        "0615",
-        "0623",
-        "0536",
+        "0301",
         "0532",
         "0533",
+        "0534",
+        "0536",
+        "0540",
         "0612",
-        "0534"
+        "0615",
+        "0622",
+        "0623"
       ],
       "bilde": {
         "image": [
@@ -6442,11 +6442,11 @@
       "itemLabel": "Flå",
       "naboer": [
         "0540",
-        "0622",
-        "0633",
         "0605",
         "0616",
-        "0621"
+        "0621",
+        "0622",
+        "0633"
       ]
     },
     "0616": {
@@ -6457,10 +6457,10 @@
       "itemLabel": "Nes",
       "naboer": [
         "0540",
-        "0633",
         "0615",
+        "0617",
         "0619",
-        "0617"
+        "0633"
       ],
       "bilde": {
         "image": [
@@ -6477,10 +6477,10 @@
       "itemLabel": "Gol",
       "naboer": [
         "0540",
-        "0619",
-        "0616",
         "0542",
-        "0618"
+        "0616",
+        "0618",
+        "0619"
       ]
     },
     "0618": {
@@ -6490,12 +6490,12 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Hemsedal%20komm.svg",
       "itemLabel": "Hemsedal",
       "naboer": [
-        "0619",
         "0542",
         "0543",
-        "1422",
+        "0545",
         "0617",
-        "0545"
+        "0619",
+        "1422"
       ]
     },
     "0619": {
@@ -6505,12 +6505,12 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%85l%20komm.svg",
       "itemLabel": "Ål",
       "naboer": [
-        "0633",
         "0616",
-        "0620",
-        "1422",
         "0617",
-        "0618"
+        "0618",
+        "0620",
+        "0633",
+        "1422"
       ],
       "bilde": {
         "image": [
@@ -6526,11 +6526,11 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Hol%20komm.svg",
       "itemLabel": "Hol",
       "naboer": [
-        "0633",
         "0619",
+        "0633",
         "1232",
-        "1421",
         "1233",
+        "1421",
         "1422"
       ]
     },
@@ -6541,13 +6541,13 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Sigdal%20komm.svg",
       "itemLabel": "Sigdal",
       "naboer": [
-        "0622",
-        "0633",
-        "0631",
         "0615",
+        "0622",
+        "0623",
         "0624",
+        "0631",
         "0632",
-        "0623"
+        "0633"
       ]
     },
     "0622": {
@@ -6557,10 +6557,10 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Kr%C3%B8dsherad%20komm.svg",
       "itemLabel": "Krødsherad",
       "naboer": [
-        "0615",
         "0605",
-        "0623",
-        "0621"
+        "0615",
+        "0621",
+        "0623"
       ],
       "bilde": {
         "image": [
@@ -6576,13 +6576,13 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Modum%20komm.svg",
       "itemLabel": "Modum",
       "naboer": [
-        "0622",
-        "0625",
-        "0624",
         "0605",
+        "0612",
         "0621",
-        "0626",
-        "0612"
+        "0622",
+        "0624",
+        "0625",
+        "0626"
       ]
     },
     "0624": {
@@ -6592,13 +6592,13 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%98vre%20Eiker%20komm.svg",
       "itemLabel": "Øvre Eiker",
       "naboer": [
-        "0631",
         "0604",
-        "0625",
-        "0715",
-        "0623",
         "0621",
-        "0626"
+        "0623",
+        "0625",
+        "0626",
+        "0631",
+        "0715"
       ],
       "bilde": {
         "image": [
@@ -6615,10 +6615,10 @@
       "itemLabel": "Nedre Eiker",
       "naboer": [
         "0602",
-        "0624",
-        "0715",
         "0623",
-        "0626"
+        "0624",
+        "0626",
+        "0715"
       ]
     },
     "0626": {
@@ -6628,13 +6628,13 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Lier%20komm.svg",
       "itemLabel": "Lier",
       "naboer": [
-        "0602",
-        "0220",
         "0219",
-        "0625",
-        "0624",
-        "0623",
+        "0220",
+        "0602",
         "0612",
+        "0623",
+        "0624",
+        "0625",
         "0627"
       ]
     },
@@ -6673,12 +6673,12 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Flesberg%20komm.svg",
       "itemLabel": "Flesberg",
       "naboer": [
-        "0807",
-        "0826",
         "0604",
+        "0621",
         "0624",
         "0632",
-        "0621"
+        "0807",
+        "0826"
       ]
     },
     "0632": {
@@ -6688,10 +6688,10 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Rollag%20komm.svg",
       "itemLabel": "Rollag",
       "naboer": [
-        "0826",
-        "0633",
+        "0621",
         "0631",
-        "0621"
+        "0633",
+        "0826"
       ]
     },
     "0633": {
@@ -6701,15 +6701,15 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Nore%20og%20Uvdal%20komm.svg",
       "itemLabel": "Nore og Uvdal",
       "naboer": [
-        "0834",
-        "0826",
         "0615",
-        "0619",
-        "0632",
-        "1232",
         "0616",
+        "0619",
         "0620",
-        "0621"
+        "0621",
+        "0632",
+        "0826",
+        "0834",
+        "1232"
       ]
     },
     "0701": {
@@ -6739,8 +6739,8 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/T%C3%B8nsberg%20komm.svg",
       "itemLabel": "Tønsberg",
       "naboer": [
-        "0710",
         "0701",
+        "0710",
         "0716",
         "0729"
       ],
@@ -6800,12 +6800,12 @@
       "osm": "404591",
       "inception": "1671-01-01T00:00:00.000Z",
       "naboer": [
-        "0805",
-        "0811",
         "0604",
         "0710",
         "0715",
-        "0716"
+        "0716",
+        "0805",
+        "0811"
       ],
       "bilde": {
         "image": [
@@ -6837,8 +6837,8 @@
       "naboer": [
         "0602",
         "0604",
-        "0625",
         "0624",
+        "0625",
         "0712",
         "0713",
         "0716"
@@ -6860,9 +6860,9 @@
       "itemLabel": "Re",
       "inception": "2002-01-01T00:00:00.000Z",
       "naboer": [
+        "0701",
         "0704",
         "0710",
-        "0701",
         "0712",
         "0715"
       ],
@@ -6898,9 +6898,9 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Porsgrunn%20komm.svg",
       "itemLabel": "Porsgrunn",
       "naboer": [
+        "0712",
         "0806",
         "0811",
-        "0712",
         "0814"
       ],
       "bilde": {
@@ -6919,13 +6919,13 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Skien%20komm.svg",
       "itemLabel": "Skien",
       "naboer": [
+        "0604",
         "0805",
         "0811",
+        "0814",
         "0817",
         "0819",
-        "0822",
-        "0604",
-        "0814"
+        "0822"
       ],
       "bilde": {
         "image": [
@@ -6943,13 +6943,13 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Notodden%20komm.svg",
       "itemLabel": "Notodden",
       "naboer": [
-        "0828",
-        "0827",
-        "0826",
-        "0822",
-        "0631",
         "0604",
-        "0821"
+        "0631",
+        "0821",
+        "0822",
+        "0826",
+        "0827",
+        "0828"
       ],
       "bilde": {
         "image": [
@@ -6967,10 +6967,10 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Siljan%20komm.svg",
       "itemLabel": "Siljan",
       "naboer": [
-        "0806",
-        "0805",
         "0604",
-        "0712"
+        "0712",
+        "0805",
+        "0806"
       ]
     },
     "0814": {
@@ -6980,10 +6980,10 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Bamble%20komm.svg",
       "itemLabel": "Bamble",
       "naboer": [
-        "0806",
         "0805",
-        "0817",
-        "0815"
+        "0806",
+        "0815",
+        "0817"
       ]
     },
     "0815": {
@@ -6993,10 +6993,10 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Krager%C3%B8%20komm.svg",
       "itemLabel": "Kragerø",
       "naboer": [
+        "0814",
         "0817",
-        "0911",
         "0901",
-        "0814"
+        "0911"
       ],
       "bilde": {
         "image": [
@@ -7012,13 +7012,13 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Drangedal%20komm.svg",
       "itemLabel": "Drangedal",
       "naboer": [
-        "0830",
-        "0829",
         "0806",
+        "0814",
         "0815",
         "0819",
-        "0911",
-        "0814"
+        "0829",
+        "0830",
+        "0911"
       ]
     },
     "0819": {
@@ -7028,11 +7028,11 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Nome%20komm.svg",
       "itemLabel": "Nome",
       "naboer": [
-        "0829",
         "0806",
         "0817",
+        "0821",
         "0822",
-        "0821"
+        "0829"
       ],
       "bilde": {
         "image": [
@@ -7048,11 +7048,11 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/B%C3%B8%20Telemark%20komm.svg",
       "itemLabel": "Bø",
       "naboer": [
-        "0829",
-        "0828",
         "0807",
         "0819",
-        "0822"
+        "0822",
+        "0828",
+        "0829"
       ]
     },
     "0822": {
@@ -7062,10 +7062,10 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Sauherad%20komm.svg",
       "itemLabel": "Sauherad",
       "naboer": [
+        "0604",
         "0806",
         "0807",
         "0819",
-        "0604",
         "0821"
       ]
     },
@@ -7076,13 +7076,13 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Tinn%20komm.svg",
       "itemLabel": "Tinn",
       "naboer": [
-        "0828",
-        "0834",
+        "0631",
+        "0632",
+        "0633",
         "0807",
         "0827",
-        "0633",
-        "0631",
-        "0632"
+        "0828",
+        "0834"
       ],
       "bilde": {
         "image": [
@@ -7098,9 +7098,9 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Hjartdal%20komm.svg",
       "itemLabel": "Hjartdal",
       "naboer": [
-        "0828",
         "0807",
-        "0826"
+        "0826",
+        "0828"
       ]
     },
     "0828": {
@@ -7110,13 +7110,13 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Seljord%20komm.svg",
       "itemLabel": "Seljord",
       "naboer": [
+        "0807",
+        "0821",
+        "0826",
+        "0827",
         "0829",
         "0833",
-        "0834",
-        "0807",
-        "0827",
-        "0826",
-        "0821"
+        "0834"
       ]
     },
     "0829": {
@@ -7126,13 +7126,13 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Kviteseid%20komm.svg",
       "itemLabel": "Kviteseid",
       "naboer": [
-        "0831",
-        "0830",
-        "0828",
-        "0833",
         "0817",
         "0819",
-        "0821"
+        "0821",
+        "0828",
+        "0830",
+        "0831",
+        "0833"
       ]
     },
     "0830": {
@@ -7142,9 +7142,9 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Nissedal%20komm.svg",
       "itemLabel": "Nissedal",
       "naboer": [
-        "0831",
-        "0829",
         "0817",
+        "0829",
+        "0831",
         "0911",
         "0912",
         "0929"
@@ -7157,12 +7157,12 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Fyresdal%20komm.svg",
       "itemLabel": "Fyresdal",
       "naboer": [
-        "0830",
         "0829",
+        "0830",
         "0833",
+        "0929",
         "0938",
-        "0940",
-        "0929"
+        "0940"
       ]
     },
     "0833": {
@@ -7172,12 +7172,12 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Tokke%20komm.svg",
       "itemLabel": "Tokke",
       "naboer": [
-        "0831",
-        "0829",
         "0828",
+        "0829",
+        "0831",
         "0834",
-        "0941",
-        "0940"
+        "0940",
+        "0941"
       ]
     },
     "0834": {
@@ -7187,12 +7187,12 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Vinje%20komm.svg",
       "itemLabel": "Vinje",
       "naboer": [
+        "0633",
+        "0826",
         "0828",
         "0833",
-        "0826",
-        "1134",
-        "0633",
         "0941",
+        "1134",
         "1228",
         "1231"
       ]
@@ -7206,8 +7206,8 @@
       "naboer": [
         "0815",
         "0911",
-        "0914",
-        "0912"
+        "0912",
+        "0914"
       ],
       "bilde": {
         "image": [
@@ -7226,9 +7226,9 @@
       "itemLabel": "Grimstad",
       "naboer": [
         "0906",
-        "0928",
         "0919",
-        "0926"
+        "0926",
+        "0928"
       ],
       "bilde": {
         "image": [
@@ -7244,9 +7244,9 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Arendal%20komm.svg",
       "itemLabel": "Arendal",
       "naboer": [
-        "0919",
         "0904",
-        "0914"
+        "0914",
+        "0919"
       ],
       "bilde": {
         "image": [
@@ -7264,9 +7264,9 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Gjerstad%20komm.svg",
       "itemLabel": "Gjerstad",
       "naboer": [
-        "0830",
-        "0817",
         "0815",
+        "0817",
+        "0830",
         "0901",
         "0912"
       ]
@@ -7279,8 +7279,8 @@
       "itemLabel": "Vegårshei",
       "naboer": [
         "0830",
-        "0911",
         "0901",
+        "0911",
         "0914",
         "0929"
       ]
@@ -7292,10 +7292,10 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Tvedestrand%20komm.svg",
       "itemLabel": "Tvedestrand",
       "naboer": [
-        "0906",
-        "0919",
         "0901",
+        "0906",
         "0912",
+        "0919",
         "0929"
       ],
       "bilde": {
@@ -7312,13 +7312,13 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Froland%20komm.svg",
       "itemLabel": "Froland",
       "naboer": [
-        "0906",
-        "0928",
-        "0938",
-        "0937",
         "0904",
+        "0906",
         "0914",
-        "0929"
+        "0928",
+        "0929",
+        "0937",
+        "0938"
       ],
       "bilde": {
         "image": [
@@ -7335,9 +7335,9 @@
       "itemLabel": "Lillesand",
       "osm": "406034",
       "naboer": [
-        "1001",
+        "0904",
         "0928",
-        "0904"
+        "1001"
       ],
       "bilde": {
         "image": [
@@ -7356,12 +7356,12 @@
       "inception": "1838-01-01T00:00:00.000Z",
       "itemLabel": "Birkenes",
       "naboer": [
-        "1001",
-        "0937",
-        "0919",
         "0904",
-        "0935",
+        "0919",
         "0926",
+        "0935",
+        "0937",
+        "1001",
         "1014"
       ]
     },
@@ -7372,12 +7372,12 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%85mli%20komm.svg",
       "itemLabel": "Åmli",
       "naboer": [
-        "0831",
         "0830",
-        "0938",
-        "0919",
+        "0831",
+        "0912",
         "0914",
-        "0912"
+        "0919",
+        "0938"
       ]
     },
     "0935": {
@@ -7401,14 +7401,14 @@
       "inception": "1960-01-01T00:00:00.000Z",
       "itemLabel": "Evje og Hornnes",
       "naboer": [
-        "0928",
-        "0938",
         "0919",
+        "0928",
         "0935",
-        "1026",
+        "0938",
+        "1014",
         "1021",
-        "1027",
-        "1014"
+        "1026",
+        "1027"
       ]
     },
     "0938": {
@@ -7419,13 +7419,13 @@
       "itemLabel": "Bygland",
       "naboer": [
         "0831",
-        "0937",
         "0919",
-        "0940",
         "0929",
+        "0937",
+        "0940",
         "1026",
-        "1046",
-        "1037"
+        "1037",
+        "1046"
       ]
     },
     "0940": {
@@ -7457,17 +7457,17 @@
       "naboer": [
         "0833",
         "0834",
-        "1134",
         "0940",
-        "1133",
         "1046",
-        "1129"
+        "1129",
+        "1133",
+        "1134"
       ]
     }
   },
   "meta": {
     "tittel": "Kommune",
-    "produsertUtc": "2019-04-20T15:37:16.664Z",
+    "produsertUtc": "2019-04-20T15:57:31.882Z",
     "utgiver": "Artsdatabanken",
     "url": "https://github.com/Artsdatabanken/kommune-data/blob/master/kommune.json",
     "tool": {
