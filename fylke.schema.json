@@ -1,0 +1,110 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "items": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "item": {
+            "type": "string"
+          },
+          "article": {
+            "type": "string"
+          },
+          "code": {
+            "type": "string"
+          },
+          "url": {
+            "type": "string"
+          },
+          "coa": {
+            "type": "string"
+          },
+          "banner": {
+            "type": "string"
+          },
+          "flag": {
+            "type": "string"
+          },
+          "itemLabel": {
+            "type": "string"
+          },
+          "naboer": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "images": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "banners": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "osm": {
+            "type": "string"
+          },
+          "inception": {
+            "type": "string"
+          },
+          "elevation": {
+            "type": "number"
+          }
+        },
+        "required": [
+          "item",
+          "article",
+          "code",
+          "url",
+          "coa",
+          "banner",
+          "flag",
+          "itemLabel",
+          "naboer",
+          "images",
+          "banners",
+          "osm"
+        ]
+      }
+    },
+    "meta": {
+      "type": "object",
+      "properties": {
+        "tittel": {
+          "type": "string"
+        },
+        "produsertUtc": {
+          "type": "string"
+        },
+        "utgiver": {
+          "type": "string"
+        },
+        "url": {
+          "type": "string"
+        },
+        "tool": {
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": "string"
+            },
+            "url": {
+              "type": "string"
+            }
+          }
+        },
+        "elementer": {
+          "type": "number"
+        }
+      }
+    }
+  }
+}
