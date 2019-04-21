@@ -52,7 +52,7 @@
       "images": [
         "http://commons.wikimedia.org/wiki/Special:FilePath/Oslo%20city%20in%2010%20images.jpg"
       ],
-      "inception": {},
+      "inception": "1048-01-01T00:00:00.000Z",
       "item": "http://www.wikidata.org/entity/Q585",
       "itemLabel": "Oslo",
       "naboer": [
@@ -86,9 +86,13 @@
     },
     {
       "article": "https://no.wikipedia.org/wiki/Oppland",
+      "banners": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Oppland%20banner.jpg"
+      ],
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Oppland%20v%C3%A5pen.svg",
       "code": "NO-05",
       "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Oppland.svg",
+      "images": [],
       "item": "http://www.wikidata.org/entity/Q50617",
       "itemLabel": "Oppland",
       "naboer": [
@@ -372,7 +376,7 @@
   ],
   "meta": {
     "tittel": "Fylke",
-    "produsertUtc": "2019-04-21T09:48:56.104Z",
+    "produsertUtc": "2019-04-21T10:17:48.653Z",
     "utgiver": "Artsdatabanken",
     "url": "https://github.com/Artsdatabanken/kommune-data/blob/master/fylke.json",
     "tool": {
