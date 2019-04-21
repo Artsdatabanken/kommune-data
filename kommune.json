@@ -7455,7 +7455,7 @@
   ],
   "meta": {
     "tittel": "Kommune",
-    "produsertUtc": "2019-04-21T08:00:46.004Z",
+    "produsertUtc": "2019-04-21T09:48:56.249Z",
     "utgiver": "Artsdatabanken",
     "url": "https://github.com/Artsdatabanken/kommune-data/blob/master/kommune.json",
     "tool": {
@@ -7463,5 +7463,6 @@
       "url": "https://github.com/Artsdatabanken/kverna/"
     },
     "elementer": 422
-  }
+  },
+  "$schema": "https://raw.githubusercontent.com/Artsdatabanken/kommune-data/master/kommune.schema.json#"
 }
