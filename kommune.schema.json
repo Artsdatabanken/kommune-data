@@ -61,11 +61,7 @@
           "itemLabel",
           "code",
           "naboer",
-          "images",
-          "banners",
-          "inception",
-          "osm",
-          "elevation"
+          "inception"
         ]
       }
     },

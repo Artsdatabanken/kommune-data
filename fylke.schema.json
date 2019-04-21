@@ -64,14 +64,11 @@
           "article",
           "code",
           "url",
-          "coa",
-          "banner",
           "flag",
           "itemLabel",
           "naboer",
           "images",
-          "banners",
-          "osm"
+          "banners"
         ]
       }
     },
