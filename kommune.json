@@ -3210,14 +3210,12 @@
     {
       "article": "https://no.wikipedia.org/wiki/Stavanger",
       "banners": [
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Stavanger%20banner%20Domkirke%20detail.jpg",
         "http://commons.wikimedia.org/wiki/Special:FilePath/Stavanger%20banner%20Domkirke%20detail.jpg"
       ],
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Stavanger%20komm.svg",
       "code": "1103",
       "elevation": 1,
       "images": [
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Stavanger%2C%20Norway.jpg",
         "http://commons.wikimedia.org/wiki/Special:FilePath/Vaagen-modf.jpg"
       ],
       "item": "http://www.wikidata.org/entity/Q25416",
@@ -5306,7 +5304,9 @@
       "banners": [],
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Gjemnes%20komm.svg",
       "code": "1557",
-      "images": [],
+      "images": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Batnfjorden-Gjemnes-Batnfjords%C3%B8ra.jpg"
+      ],
       "item": "http://www.wikidata.org/entity/Q493283",
       "itemLabel": "Gjemnes",
       "naboer": [
@@ -5669,7 +5669,7 @@
         "http://commons.wikimedia.org/wiki/Special:FilePath/Bod%C3%B8%202006.jpg"
       ],
       "item": "http://www.wikidata.org/entity/Q221119",
-      "itemLabel": "Bodø kommune",
+      "itemLabel": "Bodø",
       "naboer": [
         "1838",
         "1839",
@@ -7893,12 +7893,12 @@
   ],
   "meta": {
     "tittel": "Kommune",
-    "produsertUtc": "2019-04-21T10:17:48.797Z",
+    "produsertUtc": "2019-04-28T10:00:53.154Z",
     "utgiver": "Artsdatabanken",
     "url": "https://github.com/Artsdatabanken/kommune-data/blob/master/kommune.json",
     "tool": {
-      "name": "kverna",
-      "url": "https://github.com/Artsdatabanken/kverna/"
+      "name": "kommune-lastejobb",
+      "url": "https://github.com/Artsdatabanken/kommune-lastejobb"
     },
     "elementer": 422
   },

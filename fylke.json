@@ -376,12 +376,12 @@
   ],
   "meta": {
     "tittel": "Fylke",
-    "produsertUtc": "2019-04-21T10:17:48.653Z",
+    "produsertUtc": "2019-04-28T10:00:52.984Z",
     "utgiver": "Artsdatabanken",
     "url": "https://github.com/Artsdatabanken/kommune-data/blob/master/fylke.json",
     "tool": {
-      "name": "kverna",
-      "url": "https://github.com/Artsdatabanken/kverna/"
+      "name": "kommune-lastejobb",
+      "url": "https://github.com/Artsdatabanken/kommune-lastejobb"
     },
     "elementer": 18
   },
