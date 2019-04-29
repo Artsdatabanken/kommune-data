@@ -5326,6 +5326,7 @@
       "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Tingvoll%20komm.svg",
       "code": "1560",
       "images": [],
+      "inception": "1838-01-01T00:00:00.000Z",
       "item": "http://www.wikidata.org/entity/Q488252",
       "itemLabel": "Tingvoll",
       "naboer": [
@@ -7893,7 +7894,7 @@
   ],
   "meta": {
     "tittel": "Kommune",
-    "produsertUtc": "2019-04-28T10:00:53.154Z",
+    "produsertUtc": "2019-04-29T07:21:47.955Z",
     "utgiver": "Artsdatabanken",
     "url": "https://github.com/Artsdatabanken/kommune-data/blob/master/kommune.json",
     "tool": {
