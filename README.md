@@ -7,7 +7,7 @@ Utdata fra lastejobb for Norske fylker og kommuner med egenskaper. Rene kartdata
 
 ## Dataflyt
 
-![Flytdiagram](./flytdiagram.svg)
+![Flytdiagram](./doc/flytdiagram.svg)
 
 ### Datakilder (takk til)
 
