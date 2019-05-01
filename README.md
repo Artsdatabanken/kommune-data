@@ -3,32 +3,28 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md#pull-requests)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
-Utdata fra lastejobb for Norske fylker og kommuner ikke inklusive kartdata.
+Utdata fra lastejobb for Norske fylker og kommuner med egenskaper. Rene kartdata ligger i [kommune-kart](https://github.com/Artsdatabanken/kommune-kart).
 
-## Diagram
+## Dataflyt
 
-![Flytdiagram](./diagram.svg)
+![Flytdiagram](./flytdiagram.svg)
 
-## Kilde og bruk
+### Datakilder (takk til)
 
-### Dataene brukes blant annet av
-
-- [Natur i Norge kart](https://github.com/Artsdatabanken/nin-kart-frontend)
-- [Artsdatabanken åpne data](https://data.artsdatabanken.no/)
-- [Egenskapsdata lastejobb](https://github.com/Artsdatabanken/nin-egenskapsdata-lastejobb-kverna)
-
-### Baserer seg på åpne data fra (takk til)
-
+- [Kartverket](https://kartverket.no)
 - [Statistisk sentralbyrå](https://ssb.no)
 - [Wikipedia](https://no.wikipedia.org)
 
-### Bygges av
+### Lastejobb
 
-- [kommune-lastejobb](https://github.com/Artsdatabanken/kommune-lastejobb) (lastejobb)
+- [kommune-lastejobb](https://github.com/Artsdatabanken/kommune-lastejobb)
+
+### Bruk i sluttprodukter
+
+- [Natur i Norge kart](https://github.com/Artsdatabanken/nin-kart-frontend)
+- [Artsdatabanken åpne data](https://data.artsdatabanken.no/)
 
 ## Om datasettet
-
-Eksempel på innhold i utdata
 
 ### Kommune
 
