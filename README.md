@@ -5,27 +5,33 @@
 
 Utdata fra lastejobb for Norske fylker og kommuner ikke inklusive kartdata.
 
+## Diagram
+
+![Flytdiagram](./diagram.svg)
+
 ## Kilde og bruk
+
 ### Dataene brukes blant annet av
 
-* [Natur i Norge kart](https://github.com/Artsdatabanken/nin-kart-frontend)
-* [Artsdatabanken åpne data](https://data.artsdatabanken.no/)
-* [Egenskapsdata lastejobb](https://github.com/Artsdatabanken/nin-egenskapsdata-lastejobb-kverna)
+- [Natur i Norge kart](https://github.com/Artsdatabanken/nin-kart-frontend)
+- [Artsdatabanken åpne data](https://data.artsdatabanken.no/)
+- [Egenskapsdata lastejobb](https://github.com/Artsdatabanken/nin-egenskapsdata-lastejobb-kverna)
 
 ### Baserer seg på åpne data fra (takk til)
 
-* [Statistisk sentralbyrå](https://ssb.no)
-* [Wikipedia](https://no.wikipedia.org)
+- [Statistisk sentralbyrå](https://ssb.no)
+- [Wikipedia](https://no.wikipedia.org)
 
 ### Bygges av
 
-* [kommune-lastejobb](https://github.com/Artsdatabanken/kommune-lastejobb) (lastejobb)
+- [kommune-lastejobb](https://github.com/Artsdatabanken/kommune-lastejobb) (lastejobb)
 
 ## Om datasettet
 
 Eksempel på innhold i utdata
 
 ### Kommune
+
 ```json
 {
   "item": "http://www.wikidata.org/entity/Q2415",
@@ -68,4 +74,3 @@ Eksempel på innhold i utdata
   ]
 }
 ```
-
