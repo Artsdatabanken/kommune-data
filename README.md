@@ -19,6 +19,10 @@ Utdata fra lastejobb for Norske fylker og kommuner med egenskaper. Rene kartdata
 
 - [kommune-lastejobb](https://github.com/Artsdatabanken/kommune-lastejobb)
 
+### Leses av
+
+- [nin-data-lastejobb](https://github.com/Artsdatabanken/nin-data-lastejobb)
+
 ### Bruk i sluttprodukter
 
 - [Natur i Norge kart](https://github.com/Artsdatabanken/nin-kart-frontend)
