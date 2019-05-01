@@ -1,40 +1,40 @@
-<svg id="mermaid-1556709589122" width="100%" xmlns="http://www.w3.org/2000/svg" style="max-width: 1069.71875px;" viewBox="0 0 1069.71875 648"><style>
+<svg id="mermaid-1556710703279" width="100%" xmlns="http://www.w3.org/2000/svg" style="max-width: 1069.71875px;" viewBox="0 0 1069.71875 648"><style>
 
 
-#mermaid-1556709589122 .label {
+#mermaid-1556710703279 .label {
   font-family: 'trebuchet ms', verdana, arial;
   color: #333; }
 
-#mermaid-1556709589122 .node rect,
-#mermaid-1556709589122 .node circle,
-#mermaid-1556709589122 .node ellipse,
-#mermaid-1556709589122 .node polygon {
+#mermaid-1556710703279 .node rect,
+#mermaid-1556710703279 .node circle,
+#mermaid-1556710703279 .node ellipse,
+#mermaid-1556710703279 .node polygon {
   fill: #eee;
   stroke: #999;
   stroke-width: 1px; }
 
-#mermaid-1556709589122 .node.clickable {
+#mermaid-1556710703279 .node.clickable {
   cursor: pointer; }
 
-#mermaid-1556709589122 .arrowheadPath {
+#mermaid-1556710703279 .arrowheadPath {
   fill: #333333; }
 
-#mermaid-1556709589122 .edgePath .path {
+#mermaid-1556710703279 .edgePath .path {
   stroke: #666;
   stroke-width: 1.5px; }
 
-#mermaid-1556709589122 .edgeLabel {
+#mermaid-1556710703279 .edgeLabel {
   background-color: white; }
 
-#mermaid-1556709589122 .cluster rect {
+#mermaid-1556710703279 .cluster rect {
   fill: #eaf2fb !important;
   stroke: #26a !important;
   stroke-width: 1px !important; }
 
-#mermaid-1556709589122 .cluster text {
+#mermaid-1556710703279 .cluster text {
   fill: #333; }
 
-#mermaid-1556709589122 div.mermaidTooltip {
+#mermaid-1556710703279 div.mermaidTooltip {
   position: absolute;
   text-align: center;
   max-width: 200px;
@@ -47,320 +47,320 @@
   pointer-events: none;
   z-index: 100; }
 
-#mermaid-1556709589122 .actor {
+#mermaid-1556710703279 .actor {
   stroke: #999;
   fill: #eee; }
 
-#mermaid-1556709589122 text.actor {
+#mermaid-1556710703279 text.actor {
   fill: #333;
   stroke: none; }
 
-#mermaid-1556709589122 .actor-line {
+#mermaid-1556710703279 .actor-line {
   stroke: #666; }
 
-#mermaid-1556709589122 .messageLine0 {
+#mermaid-1556710703279 .messageLine0 {
   stroke-width: 1.5;
   stroke-dasharray: '2 2';
   stroke: #333; }
 
-#mermaid-1556709589122 .messageLine1 {
+#mermaid-1556710703279 .messageLine1 {
   stroke-width: 1.5;
   stroke-dasharray: '2 2';
   stroke: #333; }
 
-#mermaid-1556709589122 #arrowhead {
+#mermaid-1556710703279 #arrowhead {
   fill: #333; }
 
-#mermaid-1556709589122 #crosshead path {
+#mermaid-1556710703279 #crosshead path {
   fill: #333 !important;
   stroke: #333 !important; }
 
-#mermaid-1556709589122 .messageText {
+#mermaid-1556710703279 .messageText {
   fill: #333;
   stroke: none; }
 
-#mermaid-1556709589122 .labelBox {
+#mermaid-1556710703279 .labelBox {
   stroke: #999;
   fill: #eee; }
 
-#mermaid-1556709589122 .labelText {
+#mermaid-1556710703279 .labelText {
   fill: white;
   stroke: none; }
 
-#mermaid-1556709589122 .loopText {
+#mermaid-1556710703279 .loopText {
   fill: white;
   stroke: none; }
 
-#mermaid-1556709589122 .loopLine {
+#mermaid-1556710703279 .loopLine {
   stroke-width: 2;
   stroke-dasharray: '2 2';
   stroke: #999; }
 
-#mermaid-1556709589122 .note {
+#mermaid-1556710703279 .note {
   stroke: #777700;
   fill: #ffa; }
 
-#mermaid-1556709589122 .noteText {
+#mermaid-1556710703279 .noteText {
   fill: black;
   stroke: none;
   font-family: 'trebuchet ms', verdana, arial;
   font-size: 14px; }
 
-#mermaid-1556709589122 .activation0 {
+#mermaid-1556710703279 .activation0 {
   fill: #f4f4f4;
   stroke: #666; }
 
-#mermaid-1556709589122 .activation1 {
+#mermaid-1556710703279 .activation1 {
   fill: #f4f4f4;
   stroke: #666; }
 
-#mermaid-1556709589122 .activation2 {
+#mermaid-1556710703279 .activation2 {
   fill: #f4f4f4;
   stroke: #666; }
 
 
-#mermaid-1556709589122 .section {
+#mermaid-1556710703279 .section {
   stroke: none;
   opacity: 0.2; }
 
-#mermaid-1556709589122 .section0 {
+#mermaid-1556710703279 .section0 {
   fill: #80b3e6; }
 
-#mermaid-1556709589122 .section2 {
+#mermaid-1556710703279 .section2 {
   fill: #80b3e6; }
 
-#mermaid-1556709589122 .section1,
-#mermaid-1556709589122 .section3 {
+#mermaid-1556710703279 .section1,
+#mermaid-1556710703279 .section3 {
   fill: white;
   opacity: 0.2; }
 
-#mermaid-1556709589122 .sectionTitle0 {
+#mermaid-1556710703279 .sectionTitle0 {
   fill: #333; }
 
-#mermaid-1556709589122 .sectionTitle1 {
+#mermaid-1556710703279 .sectionTitle1 {
   fill: #333; }
 
-#mermaid-1556709589122 .sectionTitle2 {
+#mermaid-1556710703279 .sectionTitle2 {
   fill: #333; }
 
-#mermaid-1556709589122 .sectionTitle3 {
+#mermaid-1556710703279 .sectionTitle3 {
   fill: #333; }
 
-#mermaid-1556709589122 .sectionTitle {
+#mermaid-1556710703279 .sectionTitle {
   text-anchor: start;
   font-size: 11px;
   text-height: 14px; }
 
 
-#mermaid-1556709589122 .grid .tick {
+#mermaid-1556710703279 .grid .tick {
   stroke: #e6e6e6;
   opacity: 0.3;
   shape-rendering: crispEdges; }
 
-#mermaid-1556709589122 .grid path {
+#mermaid-1556710703279 .grid path {
   stroke-width: 0; }
 
 
-#mermaid-1556709589122 .today {
+#mermaid-1556710703279 .today {
   fill: none;
   stroke: #d42;
   stroke-width: 2px; }
 
 
 
-#mermaid-1556709589122 .task {
+#mermaid-1556710703279 .task {
   stroke-width: 2; }
 
-#mermaid-1556709589122 .taskText {
+#mermaid-1556710703279 .taskText {
   text-anchor: middle;
   font-size: 11px; }
 
-#mermaid-1556709589122 .taskTextOutsideRight {
+#mermaid-1556710703279 .taskTextOutsideRight {
   fill: #333;
   text-anchor: start;
   font-size: 11px; }
 
-#mermaid-1556709589122 .taskTextOutsideLeft {
+#mermaid-1556710703279 .taskTextOutsideLeft {
   fill: #333;
   text-anchor: end;
   font-size: 11px; }
 
 
-#mermaid-1556709589122 .taskText0,
-#mermaid-1556709589122 .taskText1,
-#mermaid-1556709589122 .taskText2,
-#mermaid-1556709589122 .taskText3 {
+#mermaid-1556710703279 .taskText0,
+#mermaid-1556710703279 .taskText1,
+#mermaid-1556710703279 .taskText2,
+#mermaid-1556710703279 .taskText3 {
   fill: white; }
 
-#mermaid-1556709589122 .task0,
-#mermaid-1556709589122 .task1,
-#mermaid-1556709589122 .task2,
-#mermaid-1556709589122 .task3 {
+#mermaid-1556710703279 .task0,
+#mermaid-1556710703279 .task1,
+#mermaid-1556710703279 .task2,
+#mermaid-1556710703279 .task3 {
   fill: #26a;
   stroke: #1a4d80; }
 
-#mermaid-1556709589122 .taskTextOutside0,
-#mermaid-1556709589122 .taskTextOutside2 {
+#mermaid-1556710703279 .taskTextOutside0,
+#mermaid-1556710703279 .taskTextOutside2 {
   fill: #333; }
 
-#mermaid-1556709589122 .taskTextOutside1,
-#mermaid-1556709589122 .taskTextOutside3 {
+#mermaid-1556710703279 .taskTextOutside1,
+#mermaid-1556710703279 .taskTextOutside3 {
   fill: #333; }
 
 
-#mermaid-1556709589122 .active0,
-#mermaid-1556709589122 .active1,
-#mermaid-1556709589122 .active2,
-#mermaid-1556709589122 .active3 {
+#mermaid-1556710703279 .active0,
+#mermaid-1556710703279 .active1,
+#mermaid-1556710703279 .active2,
+#mermaid-1556710703279 .active3 {
   fill: #eee;
   stroke: #1a4d80; }
 
-#mermaid-1556709589122 .activeText0,
-#mermaid-1556709589122 .activeText1,
-#mermaid-1556709589122 .activeText2,
-#mermaid-1556709589122 .activeText3 {
+#mermaid-1556710703279 .activeText0,
+#mermaid-1556710703279 .activeText1,
+#mermaid-1556710703279 .activeText2,
+#mermaid-1556710703279 .activeText3 {
   fill: #333 !important; }
 
 
-#mermaid-1556709589122 .done0,
-#mermaid-1556709589122 .done1,
-#mermaid-1556709589122 .done2,
-#mermaid-1556709589122 .done3 {
+#mermaid-1556710703279 .done0,
+#mermaid-1556710703279 .done1,
+#mermaid-1556710703279 .done2,
+#mermaid-1556710703279 .done3 {
   stroke: #666;
   fill: #bbb;
   stroke-width: 2; }
 
-#mermaid-1556709589122 .doneText0,
-#mermaid-1556709589122 .doneText1,
-#mermaid-1556709589122 .doneText2,
-#mermaid-1556709589122 .doneText3 {
+#mermaid-1556710703279 .doneText0,
+#mermaid-1556710703279 .doneText1,
+#mermaid-1556710703279 .doneText2,
+#mermaid-1556710703279 .doneText3 {
   fill: #333 !important; }
 
 
-#mermaid-1556709589122 .crit0,
-#mermaid-1556709589122 .crit1,
-#mermaid-1556709589122 .crit2,
-#mermaid-1556709589122 .crit3 {
+#mermaid-1556710703279 .crit0,
+#mermaid-1556710703279 .crit1,
+#mermaid-1556710703279 .crit2,
+#mermaid-1556710703279 .crit3 {
   stroke: #b1361b;
   fill: #d42;
   stroke-width: 2; }
 
-#mermaid-1556709589122 .activeCrit0,
-#mermaid-1556709589122 .activeCrit1,
-#mermaid-1556709589122 .activeCrit2,
-#mermaid-1556709589122 .activeCrit3 {
+#mermaid-1556710703279 .activeCrit0,
+#mermaid-1556710703279 .activeCrit1,
+#mermaid-1556710703279 .activeCrit2,
+#mermaid-1556710703279 .activeCrit3 {
   stroke: #b1361b;
   fill: #eee;
   stroke-width: 2; }
 
-#mermaid-1556709589122 .doneCrit0,
-#mermaid-1556709589122 .doneCrit1,
-#mermaid-1556709589122 .doneCrit2,
-#mermaid-1556709589122 .doneCrit3 {
+#mermaid-1556710703279 .doneCrit0,
+#mermaid-1556710703279 .doneCrit1,
+#mermaid-1556710703279 .doneCrit2,
+#mermaid-1556710703279 .doneCrit3 {
   stroke: #b1361b;
   fill: #bbb;
   stroke-width: 2;
   cursor: pointer;
   shape-rendering: crispEdges; }
 
-#mermaid-1556709589122 .doneCritText0,
-#mermaid-1556709589122 .doneCritText1,
-#mermaid-1556709589122 .doneCritText2,
-#mermaid-1556709589122 .doneCritText3 {
+#mermaid-1556710703279 .doneCritText0,
+#mermaid-1556710703279 .doneCritText1,
+#mermaid-1556710703279 .doneCritText2,
+#mermaid-1556710703279 .doneCritText3 {
   fill: #333 !important; }
 
-#mermaid-1556709589122 .activeCritText0,
-#mermaid-1556709589122 .activeCritText1,
-#mermaid-1556709589122 .activeCritText2,
-#mermaid-1556709589122 .activeCritText3 {
+#mermaid-1556710703279 .activeCritText0,
+#mermaid-1556710703279 .activeCritText1,
+#mermaid-1556710703279 .activeCritText2,
+#mermaid-1556710703279 .activeCritText3 {
   fill: #333 !important; }
 
-#mermaid-1556709589122 .titleText {
+#mermaid-1556710703279 .titleText {
   text-anchor: middle;
   font-size: 18px;
   fill: #333; }
 
-#mermaid-1556709589122 g.classGroup text {
+#mermaid-1556710703279 g.classGroup text {
   fill: #999;
   stroke: none;
   font-family: 'trebuchet ms', verdana, arial;
   font-size: 10px; }
 
-#mermaid-1556709589122 g.classGroup rect {
+#mermaid-1556710703279 g.classGroup rect {
   fill: #eee;
   stroke: #999; }
 
-#mermaid-1556709589122 g.classGroup line {
+#mermaid-1556710703279 g.classGroup line {
   stroke: #999;
   stroke-width: 1; }
 
-#mermaid-1556709589122 .classLabel .box {
+#mermaid-1556710703279 .classLabel .box {
   stroke: none;
   stroke-width: 0;
   fill: #eee;
   opacity: 0.5; }
 
-#mermaid-1556709589122 .classLabel .label {
+#mermaid-1556710703279 .classLabel .label {
   fill: #999;
   font-size: 10px; }
 
-#mermaid-1556709589122 .relation {
+#mermaid-1556710703279 .relation {
   stroke: #999;
   stroke-width: 1;
   fill: none; }
 
-#mermaid-1556709589122 #compositionStart {
+#mermaid-1556710703279 #compositionStart {
   fill: #999;
   stroke: #999;
   stroke-width: 1; }
 
-#mermaid-1556709589122 #compositionEnd {
+#mermaid-1556710703279 #compositionEnd {
   fill: #999;
   stroke: #999;
   stroke-width: 1; }
 
-#mermaid-1556709589122 #aggregationStart {
+#mermaid-1556710703279 #aggregationStart {
   fill: #eee;
   stroke: #999;
   stroke-width: 1; }
 
-#mermaid-1556709589122 #aggregationEnd {
+#mermaid-1556710703279 #aggregationEnd {
   fill: #eee;
   stroke: #999;
   stroke-width: 1; }
 
-#mermaid-1556709589122 #dependencyStart {
+#mermaid-1556710703279 #dependencyStart {
   fill: #999;
   stroke: #999;
   stroke-width: 1; }
 
-#mermaid-1556709589122 #dependencyEnd {
+#mermaid-1556710703279 #dependencyEnd {
   fill: #999;
   stroke: #999;
   stroke-width: 1; }
 
-#mermaid-1556709589122 #extensionStart {
+#mermaid-1556710703279 #extensionStart {
   fill: #999;
   stroke: #999;
   stroke-width: 1; }
 
-#mermaid-1556709589122 #extensionEnd {
+#mermaid-1556710703279 #extensionEnd {
   fill: #999;
   stroke: #999;
   stroke-width: 1; }
 
-#mermaid-1556709589122 .commit-id,
-#mermaid-1556709589122 .commit-msg,
-#mermaid-1556709589122 .branch-label {
+#mermaid-1556710703279 .commit-id,
+#mermaid-1556710703279 .commit-msg,
+#mermaid-1556710703279 .branch-label {
   fill: lightgrey;
   color: lightgrey; }
 
-#mermaid-1556709589122 .focusx &gt; * { stroke:#888 !important; stroke-width:3px !important; font-weight:600 !important; }
-#mermaid-1556709589122 .focus &gt; * { color:#000 !important; fill:#ffdede !important; stroke:#888 !important; stroke-widthx:3px !important; font-weight:600 !important; }
-#mermaid-1556709589122 .data &gt; * { fillx:#ffd !important; }
-#mermaid-1556709589122 .lastejobb &gt; * { fillx:#fff !important; stroke:#888 !important; }
-#mermaid-1556709589122 .utdata &gt; * { fillx:#ffa !important; stroke:#000 !important; }
-#mermaid-1556709589122 .next &gt; * { fill:#eee !important; stroke-dasharray: 2 !important;  2 !important; }</style><style>#mermaid-1556709589122 {
+#mermaid-1556710703279 .focusx &gt; * { stroke:#888 !important; stroke-width:3px !important; font-weight:600 !important; }
+#mermaid-1556710703279 .focus &gt; * { color:#000 !important; fill:#ffdede !important; stroke:#888 !important; stroke-widthx:3px !important; font-weight:600 !important; }
+#mermaid-1556710703279 .data &gt; * { fillx:#ffd !important; }
+#mermaid-1556710703279 .lastejobb &gt; * { fillx:#fff !important; stroke:#888 !important; }
+#mermaid-1556710703279 .utdata &gt; * { fillx:#ffa !important; stroke:#000 !important; }
+#mermaid-1556710703279 .next &gt; * { fill:#eee !important; stroke-dasharray: 2 !important;  2 !important; }</style><style>#mermaid-1556710703279 {
     color: rgba(0, 0, 0, 0.65);
     font: ;
-  }</style><g transform="translate(-12, -12)"><g class="output"><g class="clusters"><g class="cluster" id="subGraph2" transform="translate(519.34375,484)" style="opacity: 1;"><rect width="913.4375" height="112" x="-456.71875" y="-56"></rect><g class="label"><g transform="translate(0,0)"><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"></div></foreignObject></g></g><text x="0" y="-42" fill="black" stroke="none" id="mermaid-1556709589122Text" style="text-anchor: middle;">Utdatasett</text></g><g class="cluster" id="subGraph1" transform="translate(570.4453125,280)" style="opacity: 1;"><rect width="927.859375" height="112" x="-463.9296875" y="-56"></rect><g class="label"><g transform="translate(0,0)"><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"></div></foreignObject></g></g><text x="0" y="-42" fill="black" stroke="none" id="mermaid-1556709589122Text" style="text-anchor: middle;">Lastejobb</text></g><g class="cluster" id="subGraph0" transform="translate(650.8828125,76)" style="opacity: 1;"><rect width="845.671875" height="112" x="-422.8359375" y="-56"></rect><g class="label"><g transform="translate(0,0)"><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"></div></foreignObject></g></g><text x="0" y="-42" fill="black" stroke="none" id="mermaid-1556709589122Text" style="text-anchor: middle;">Inndata</text></g></g><g class="edgePaths"><g class="edgePath" style="opacity: 1;"><path class="path" d="M334.63950892857144,107C323.65550595238096,111.16666666666667,312.6715029761905,115.33333333333333,301.6875,132C301.6875,132,301.6875,178,301.6875,178C301.6875,178,301.6875,224,301.6875,224C301.6875,224,301.6875,249,301.6875,249" marker-end="url(#arrowhead344)" style="fill:none"></path><defs><marker id="arrowhead344" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M447.78125,89.96302484773352C520.3177083333334,96.96918737311127,592.8541666666666,103.97534989848901,665.390625,132C665.390625,132,665.390625,178,665.390625,178C665.390625,178,665.390625,224,665.390625,224C695.0851004464286,240.66666666666666,724.7795758928571,244.83333333333334,754.4740513392857,249" marker-end="url(#arrowhead345)" style="fill:none"></path><defs><marker id="arrowhead345" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M823.328125,107C823.328125,107,823.328125,132,823.328125,132C823.328125,132,823.328125,178,823.328125,178C823.328125,178,823.328125,224,823.328125,224C829.5199962797619,240.66666666666666,835.7118675595237,244.83333333333334,841.9037388392857,249" marker-end="url(#arrowhead346)" style="fill:none"></path><defs><marker id="arrowhead346" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M975.03125,107C975.03125,107,975.03125,132,975.03125,132C975.03125,132,975.03125,178,975.03125,178C975.03125,178,975.03125,224,975.03125,224C958.6482514880952,240.66666666666666,942.2652529761905,244.83333333333334,925.8822544642857,249" marker-end="url(#arrowhead347)" style="fill:none"></path><defs><marker id="arrowhead347" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M301.6875,311C301.6875,311,301.6875,336,301.6875,336C301.6875,336,301.6875,382,301.6875,382C301.6875,382,301.6875,428,301.6875,428C301.6875,428,301.6875,453,301.6875,453" marker-end="url(#arrowhead348)" style="fill:none"></path><defs><marker id="arrowhead348" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M864.9375,311C864.9375,311,864.9375,336,864.9375,336C864.9375,336,864.9375,382,864.9375,382C864.9375,382,864.9375,428,864.9375,428C864.9375,428,864.9375,453,864.9375,453" marker-end="url(#arrowhead349)" style="fill:none"></path><defs><marker id="arrowhead349" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M217.63978794642856,515C195.0463169642857,519.1666666666666,172.45284598214286,523.3333333333334,149.859375,540C149.859375,540,149.859375,565,149.859375,565C149.859375,565,149.859375,590,149.859375,590" marker-end="url(#arrowhead350)" style="fill:none"></path><defs><marker id="arrowhead350" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M401.15625,513.965201311255C429.9635416666667,518.3043344260458,458.7708333333333,522.6434675408367,487.578125,540C487.578125,540,487.578125,565,487.578125,565C487.578125,565,487.578125,590,487.578125,590" marker-end="url(#arrowhead351)" style="fill:none"></path><defs><marker id="arrowhead351" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M864.9375,515C864.9375,515,864.9375,540,864.9375,540C864.9375,540,864.9375,565,864.9375,565C864.9375,565,864.9375,590,864.9375,590" marker-end="url(#arrowhead352)" style="fill:none"></path><defs><marker id="arrowhead352" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g></g><g class="edgeLabels"><g class="edgeLabel" style="opacity: 1;" transform="translate(301.6875,178)"><g transform="translate(-63.8125,-21)" class="label"><foreignObject width="127.625" height="42"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel">GeoJSON</span></div></foreignObject></g></g><g class="edgeLabel" style="opacity: 1;" transform="translate(665.390625,178)"><g transform="translate(-63.8125,-21)" class="label"><foreignObject width="127.625" height="42"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel">GeoJSON</span></div></foreignObject></g></g><g class="edgeLabel" style="opacity: 1;" transform="translate(823.328125,178)"><g transform="translate(-37.34375,-21)" class="label"><foreignObject width="74.6875" height="42"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel">JSON</span></div></foreignObject></g></g><g class="edgeLabel" style="opacity: 1;" transform="translate(975.03125,178)"><g transform="translate(-55.765625,-21)" class="label"><foreignObject width="111.53125" height="42"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel">SPARQL</span></div></foreignObject></g></g><g class="edgeLabel" style="opacity: 1;" transform="translate(301.6875,382)"><g transform="translate(-63.8125,-21)" class="label"><foreignObject width="127.625" height="42"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel">GeoJSON</span></div></foreignObject></g></g><g class="edgeLabel" style="opacity: 1;" transform="translate(864.9375,382)"><g transform="translate(-37.34375,-21)" class="label"><foreignObject width="74.6875" height="42"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel">JSON</span></div></foreignObject></g></g><g class="edgeLabel" style="opacity: 1;" transform=""><g transform="translate(0,0)" class="label"><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel"></span></div></foreignObject></g></g><g class="edgeLabel" style="opacity: 1;" transform=""><g transform="translate(0,0)" class="label"><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel"></span></div></foreignObject></g></g><g class="edgeLabel" style="opacity: 1;" transform=""><g transform="translate(0,0)" class="label"><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel"></span></div></foreignObject></g></g></g><g class="nodes"><g class="node clickable utdata" id="kommune-kart" transform="translate(301.6875,484)" style="opacity: 1;" title="_"><rect rx="0" ry="0" x="-99.46875" y="-31" width="198.9375" height="62"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-89.46875,-21)"><foreignObject width="178.9375" height="42"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><a href="https://github.com/Artsdatabanken/kommune-kart" rel="noopener">kommune-kart</a></div></foreignObject></g></g></g><g class="node focus" style="opacity: 1;" id="kommune" transform="translate(864.9375,484)"><rect rx="0" ry="0" x="-76.125" y="-31" width="152.25" height="62"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-66.125,-21)"><foreignObject width="132.25" height="42"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">kommune</div></foreignObject></g></g></g><g class="node clickable lastejobb" style="opacity: 1;" id="kommune-kart-lastejobb" transform="translate(301.6875,280)" title="_"><rect rx="5" ry="5" x="-160.171875" y="-31" width="320.34375" height="62"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-150.171875,-21)"><foreignObject width="300.34375" height="42"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><a href="https://github.com/Artsdatabanken/kommune-kart-lastejobb" rel="noopener">kommune-kart-lastejobb</a></div></foreignObject></g></g></g><g class="node clickable lastejobb" style="opacity: 1;" id="kommune-lastejobb" transform="translate(864.9375,280)" title="_"><rect rx="5" ry="5" x="-132.171875" y="-31" width="264.34375" height="62"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-122.171875,-21)"><foreignObject width="244.34375" height="42"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><a href="https://github.com/Artsdatabanken/kommune-lastejobb" rel="noopener">kommune-lastejobb</a></div></foreignObject></g></g></g><g class="node clickable data" style="opacity: 1;" id="geonorge" transform="translate(375.5,76)" title="_"><rect rx="0" ry="0" x="-72.28125" y="-31" width="144.5625" height="62"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-62.28125,-21)"><foreignObject width="124.5625" height="42"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><a href="https://geonorge.no" rel="noopener">Geonorge</a></div></foreignObject></g></g></g><g class="node clickable data" style="opacity: 1;" id="wikidata" transform="translate(975.03125,76)" title="_"><rect rx="0" ry="0" x="-63.6875" y="-31" width="127.375" height="62"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-53.6875,-21)"><foreignObject width="107.375" height="42"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><a href="https://www.wikidata.org/wiki/Q15284" rel="noopener">Wikidata</a></div></foreignObject></g></g></g><g class="node clickable data" style="opacity: 1;" id="ssb" transform="translate(823.328125,76)" title="_"><rect rx="0" ry="0" x="-38.015625" y="-31" width="76.03125" height="62"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-28.015625,-21)"><foreignObject width="56.03125" height="42"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><a href="https://www.ssb.no" rel="noopener">SSB</a></div></foreignObject></g></g></g><g class="node next" style="opacity: 1;" id="naturvern-lastejobb" transform="translate(149.859375,621)"><rect rx="5" ry="5" x="-129.859375" y="-31" width="259.71875" height="62"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-119.859375,-21)"><foreignObject width="239.71875" height="42"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">naturvern-lastejobb</div></foreignObject></g></g></g><g class="node next" style="opacity: 1;" id="naturvern-kart-lastejobb" transform="translate(487.578125,621)"><rect rx="5" ry="5" x="-157.859375" y="-31" width="315.71875" height="62"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-147.859375,-21)"><foreignObject width="295.71875" height="42"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">naturvern-kart-lastejobb</div></foreignObject></g></g></g><g class="node" style="opacity: 1;" id="nin-data-lastejobb" transform="translate(864.9375,621)"><rect rx="5" ry="5" x="-121.296875" y="-31" width="242.59375" height="62"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-111.296875,-21)"><foreignObject width="222.59375" height="42"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">nin-data-lastejobb</div></foreignObject></g></g></g></g></g></g></svg>
+  }</style><g transform="translate(-12, -12)"><g class="output"><g class="clusters"><g class="cluster" id="subGraph2" transform="translate(519.34375,484)" style="opacity: 1;"><rect width="913.4375" height="112" x="-456.71875" y="-56"></rect><g class="label"><g transform="translate(0,0)"><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"></div></foreignObject></g></g><text x="0" y="-42" fill="black" stroke="none" id="mermaid-1556710703279Text" style="text-anchor: middle;">Utdatasett</text></g><g class="cluster" id="subGraph1" transform="translate(570.0625,280)" style="opacity: 1;"><rect width="928.625" height="112" x="-464.3125" y="-56"></rect><g class="label"><g transform="translate(0,0)"><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"></div></foreignObject></g></g><text x="0" y="-42" fill="black" stroke="none" id="mermaid-1556710703279Text" style="text-anchor: middle;">Lastejobb</text></g><g class="cluster" id="subGraph0" transform="translate(650.1171875,76)" style="opacity: 1;"><rect width="847.203125" height="112" x="-423.6015625" y="-56"></rect><g class="label"><g transform="translate(0,0)"><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"></div></foreignObject></g></g><text x="0" y="-42" fill="black" stroke="none" id="mermaid-1556710703279Text" style="text-anchor: middle;">Inndata</text></g></g><g class="edgePaths"><g class="edgePath" style="opacity: 1;"><path class="path" d="M333.87388392857144,107C322.88988095238096,111.16666666666667,311.9058779761905,115.33333333333333,300.921875,132C300.921875,132,300.921875,178,300.921875,178C300.921875,178,300.921875,224,300.921875,224C300.921875,224,300.921875,249,300.921875,249" marker-end="url(#arrowhead608)" style="fill:none"></path><defs><marker id="arrowhead608" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M448.546875,90.22126653048059C520.828125,97.18438877540049,593.109375,104.1475110203204,665.390625,132C665.390625,132,665.390625,178,665.390625,178C665.390625,178,665.390625,224,665.390625,224C695.0851004464286,240.66666666666666,724.7795758928571,244.83333333333334,754.4740513392857,249" marker-end="url(#arrowhead609)" style="fill:none"></path><defs><marker id="arrowhead609" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M823.328125,107C823.328125,107,823.328125,132,823.328125,132C823.328125,132,823.328125,178,823.328125,178C823.328125,178,823.328125,224,823.328125,224C829.5199962797619,240.66666666666666,835.7118675595237,244.83333333333334,841.9037388392857,249" marker-end="url(#arrowhead610)" style="fill:none"></path><defs><marker id="arrowhead610" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M975.03125,107C975.03125,107,975.03125,132,975.03125,132C975.03125,132,975.03125,178,975.03125,178C975.03125,178,975.03125,224,975.03125,224C958.6482514880952,240.66666666666666,942.2652529761905,244.83333333333334,925.8822544642857,249" marker-end="url(#arrowhead611)" style="fill:none"></path><defs><marker id="arrowhead611" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M300.921875,311C300.921875,311,300.921875,336,300.921875,336C300.921875,336,300.921875,382,300.921875,382C300.921875,382,300.921875,428,300.921875,428C300.921875,428,300.921875,453,300.921875,453" marker-end="url(#arrowhead612)" style="fill:none"></path><defs><marker id="arrowhead612" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M864.9375,311C864.9375,311,864.9375,336,864.9375,336C864.9375,336,864.9375,382,864.9375,382C864.9375,382,864.9375,428,864.9375,428C864.9375,428,864.9375,453,864.9375,453" marker-end="url(#arrowhead613)" style="fill:none"></path><defs><marker id="arrowhead613" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M217.29799107142856,515C194.81845238095238,519.1666666666666,172.33891369047618,523.3333333333334,149.859375,540C149.859375,540,149.859375,565,149.859375,565C149.859375,565,149.859375,590,149.859375,590" marker-end="url(#arrowhead614)" style="fill:none"></path><defs><marker id="arrowhead614" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M400.390625,513.8422903063787C429.453125,518.2019085886488,458.515625,522.5615268709191,487.578125,540C487.578125,540,487.578125,565,487.578125,565C487.578125,565,487.578125,590,487.578125,590" marker-end="url(#arrowhead615)" style="fill:none"></path><defs><marker id="arrowhead615" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M864.9375,515C864.9375,515,864.9375,540,864.9375,540C864.9375,540,864.9375,565,864.9375,565C864.9375,565,864.9375,590,864.9375,590" marker-end="url(#arrowhead616)" style="fill:none"></path><defs><marker id="arrowhead616" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g></g><g class="edgeLabels"><g class="edgeLabel" style="opacity: 1;" transform="translate(300.921875,178)"><g transform="translate(-63.8125,-21)" class="label"><foreignObject width="127.625" height="42"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel">GeoJSON</span></div></foreignObject></g></g><g class="edgeLabel" style="opacity: 1;" transform="translate(665.390625,178)"><g transform="translate(-63.8125,-21)" class="label"><foreignObject width="127.625" height="42"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel">GeoJSON</span></div></foreignObject></g></g><g class="edgeLabel" style="opacity: 1;" transform="translate(823.328125,178)"><g transform="translate(-37.34375,-21)" class="label"><foreignObject width="74.6875" height="42"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel">JSON</span></div></foreignObject></g></g><g class="edgeLabel" style="opacity: 1;" transform="translate(975.03125,178)"><g transform="translate(-55.765625,-21)" class="label"><foreignObject width="111.53125" height="42"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel">SPARQL</span></div></foreignObject></g></g><g class="edgeLabel" style="opacity: 1;" transform="translate(300.921875,382)"><g transform="translate(-63.8125,-21)" class="label"><foreignObject width="127.625" height="42"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel">GeoJSON</span></div></foreignObject></g></g><g class="edgeLabel" style="opacity: 1;" transform="translate(864.9375,382)"><g transform="translate(-37.34375,-21)" class="label"><foreignObject width="74.6875" height="42"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel">JSON</span></div></foreignObject></g></g><g class="edgeLabel" style="opacity: 1;" transform=""><g transform="translate(0,0)" class="label"><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel"></span></div></foreignObject></g></g><g class="edgeLabel" style="opacity: 1;" transform=""><g transform="translate(0,0)" class="label"><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel"></span></div></foreignObject></g></g><g class="edgeLabel" style="opacity: 1;" transform=""><g transform="translate(0,0)" class="label"><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel"></span></div></foreignObject></g></g></g><g class="nodes"><g class="node clickable utdata" id="kommune-kart" transform="translate(300.921875,484)" style="opacity: 1;" title="_"><rect rx="0" ry="0" x="-99.46875" y="-31" width="198.9375" height="62"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-89.46875,-21)"><foreignObject width="178.9375" height="42"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><a href="https://github.com/Artsdatabanken/kommune-kart" rel="noopener">kommune-kart</a></div></foreignObject></g></g></g><g class="node focus" style="opacity: 1;" id="kommune" transform="translate(864.9375,484)"><rect rx="0" ry="0" x="-76.125" y="-31" width="152.25" height="62"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-66.125,-21)"><foreignObject width="132.25" height="42"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">kommune</div></foreignObject></g></g></g><g class="node clickable lastejobb" style="opacity: 1;" id="kommune-kart-lastejobb" transform="translate(300.921875,280)" title="_"><rect rx="5" ry="5" x="-160.171875" y="-31" width="320.34375" height="62"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-150.171875,-21)"><foreignObject width="300.34375" height="42"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><a href="https://github.com/Artsdatabanken/kommune-kart-lastejobb" rel="noopener">kommune-kart-lastejobb</a></div></foreignObject></g></g></g><g class="node clickable lastejobb" style="opacity: 1;" id="kommune-lastejobb" transform="translate(864.9375,280)" title="_"><rect rx="5" ry="5" x="-132.171875" y="-31" width="264.34375" height="62"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-122.171875,-21)"><foreignObject width="244.34375" height="42"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><a href="https://github.com/Artsdatabanken/kommune-lastejobb" rel="noopener">kommune-lastejobb</a></div></foreignObject></g></g></g><g class="node clickable data" style="opacity: 1;" id="kartverket" transform="translate(374.734375,76)" title="_"><rect rx="0" ry="0" x="-73.8125" y="-31" width="147.625" height="62"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-63.8125,-21)"><foreignObject width="127.625" height="42"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><a href="https://kartverket.no" rel="noopener">Kartverket</a></div></foreignObject></g></g></g><g class="node clickable data" style="opacity: 1;" id="wikidata" transform="translate(975.03125,76)" title="_"><rect rx="0" ry="0" x="-63.6875" y="-31" width="127.375" height="62"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-53.6875,-21)"><foreignObject width="107.375" height="42"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><a href="https://www.wikidata.org/wiki/Q15284" rel="noopener">Wikidata</a></div></foreignObject></g></g></g><g class="node clickable data" style="opacity: 1;" id="ssb" transform="translate(823.328125,76)" title="_"><rect rx="0" ry="0" x="-38.015625" y="-31" width="76.03125" height="62"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-28.015625,-21)"><foreignObject width="56.03125" height="42"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><a href="https://www.ssb.no" rel="noopener">SSB</a></div></foreignObject></g></g></g><g class="node next" style="opacity: 1;" id="naturvern-lastejobb" transform="translate(149.859375,621)"><rect rx="5" ry="5" x="-129.859375" y="-31" width="259.71875" height="62"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-119.859375,-21)"><foreignObject width="239.71875" height="42"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">naturvern-lastejobb</div></foreignObject></g></g></g><g class="node next" style="opacity: 1;" id="naturvern-kart-lastejobb" transform="translate(487.578125,621)"><rect rx="5" ry="5" x="-157.859375" y="-31" width="315.71875" height="62"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-147.859375,-21)"><foreignObject width="295.71875" height="42"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">naturvern-kart-lastejobb</div></foreignObject></g></g></g><g class="node" style="opacity: 1;" id="nin-data-lastejobb" transform="translate(864.9375,621)"><rect rx="5" ry="5" x="-121.296875" y="-31" width="242.59375" height="62"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-111.296875,-21)"><foreignObject width="222.59375" height="42"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">nin-data-lastejobb</div></foreignObject></g></g></g></g></g></g></svg>
