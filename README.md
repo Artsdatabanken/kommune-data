@@ -11,7 +11,7 @@ Utdata fra lastejobb for Norske fylker og kommuner med egenskaper. Rene kartdata
 
 ### Datakilder (takk til)
 
-- [Kartverket](https://kartverket.no)
+- [Kartverket](https://kartkatalog.geonorge.no/metadata/kartverket/administrative-enheter-kommuner/041f1e6e-bdbc-4091-b48f-8a5990f3cc5b)
 - [Statistisk sentralbyrå](https://ssb.no)
 - [Wikipedia](https://no.wikipedia.org)
 
