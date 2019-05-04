@@ -23,7 +23,7 @@
         "AO-01-28"
       ],
       "navn": {
-        "nor": "Halden"
+        "nob": "Halden"
       }
     },
     {
@@ -49,7 +49,7 @@
         "AO-02-11"
       ],
       "navn": {
-        "nor": "Moss"
+        "nob": "Moss"
       }
     },
     {
@@ -80,7 +80,7 @@
         "AO-01-37"
       ],
       "navn": {
-        "nor": "Sarpsborg"
+        "nob": "Sarpsborg"
       }
     },
     {
@@ -107,7 +107,7 @@
         "AO-01-35"
       ],
       "navn": {
-        "nor": "Fredrikstad"
+        "nob": "Fredrikstad"
       }
     },
     {
@@ -130,7 +130,7 @@
         "AO-01-06"
       ],
       "navn": {
-        "nor": "Hvaler"
+        "nob": "Hvaler"
       }
     },
     {
@@ -155,7 +155,7 @@
         "AO-01-28"
       ],
       "navn": {
-        "nor": "Aremark"
+        "nob": "Aremark"
       }
     },
     {
@@ -181,7 +181,7 @@
         "AO-02-21"
       ],
       "navn": {
-        "nor": "Marker"
+        "nob": "Marker"
       }
     },
     {
@@ -202,7 +202,7 @@
         "AO-02-21"
       ],
       "navn": {
-        "nor": "Rømskog"
+        "nob": "Rømskog"
       }
     },
     {
@@ -229,7 +229,7 @@
         "AO-02-29"
       ],
       "navn": {
-        "nor": "Trøgstad"
+        "nob": "Trøgstad"
       }
     },
     {
@@ -254,7 +254,7 @@
         "AO-02-29"
       ],
       "navn": {
-        "nor": "Spydeberg"
+        "nob": "Spydeberg"
       }
     },
     {
@@ -279,7 +279,7 @@
         "AO-01-27"
       ],
       "navn": {
-        "nor": "Askim"
+        "nob": "Askim"
       }
     },
     {
@@ -304,7 +304,7 @@
         "AO-02-21"
       ],
       "navn": {
-        "nor": "Eidsberg"
+        "nob": "Eidsberg"
       }
     },
     {
@@ -329,7 +329,7 @@
         "AO-01-37"
       ],
       "navn": {
-        "nor": "Skiptvet"
+        "nob": "Skiptvet"
       }
     },
     {
@@ -354,7 +354,7 @@
         "AO-01-27"
       ],
       "navn": {
-        "nor": "Rakkestad"
+        "nob": "Rakkestad"
       }
     },
     {
@@ -377,7 +377,7 @@
         "AO-01-37"
       ],
       "navn": {
-        "nor": "Råde"
+        "nob": "Råde"
       }
     },
     {
@@ -399,7 +399,7 @@
         "AO-01-37"
       ],
       "navn": {
-        "nor": "Rygge"
+        "nob": "Rygge"
       }
     },
     {
@@ -426,7 +426,7 @@
         "AO-02-11"
       ],
       "navn": {
-        "nor": "Våler"
+        "nob": "Våler"
       }
     },
     {
@@ -451,7 +451,7 @@
         "AO-02-29"
       ],
       "navn": {
-        "nor": "Hobøl"
+        "nob": "Hobøl"
       }
     },
     {
@@ -475,7 +475,7 @@
         "AO-02-15"
       ],
       "navn": {
-        "nor": "Vestby"
+        "nob": "Vestby"
       }
     },
     {
@@ -501,7 +501,7 @@
         "AO-03-01"
       ],
       "navn": {
-        "nor": "Ski"
+        "nob": "Ski"
       }
     },
     {
@@ -529,7 +529,7 @@
         "AO-02-17"
       ],
       "navn": {
-        "nor": "Ås"
+        "nob": "Ås"
       }
     },
     {
@@ -553,7 +553,7 @@
         "AO-02-16"
       ],
       "navn": {
-        "nor": "Frogn"
+        "nob": "Frogn"
       }
     },
     {
@@ -578,7 +578,7 @@
         "AO-03-01"
       ],
       "navn": {
-        "nor": "Nesodden"
+        "nob": "Nesodden"
       }
     },
     {
@@ -600,7 +600,7 @@
         "AO-03-01"
       ],
       "navn": {
-        "nor": "Oppegård"
+        "nob": "Oppegård"
       }
     },
     {
@@ -625,7 +625,7 @@
         "AO-06-26"
       ],
       "navn": {
-        "nor": "Bærum"
+        "nob": "Bærum"
       }
     },
     {
@@ -650,7 +650,7 @@
         "AO-06-27"
       ],
       "navn": {
-        "nor": "Asker"
+        "nob": "Asker"
       }
     },
     {
@@ -678,7 +678,7 @@
         "AO-04-20"
       ],
       "navn": {
-        "nor": "Aurskog-Høland"
+        "nob": "Aurskog-Høland"
       }
     },
     {
@@ -705,7 +705,7 @@
         "AO-02-36"
       ],
       "navn": {
-        "nor": "Sørum"
+        "nob": "Sørum"
       }
     },
     {
@@ -732,7 +732,7 @@
         "AO-02-31"
       ],
       "navn": {
-        "nor": "Fet"
+        "nob": "Fet"
       }
     },
     {
@@ -755,7 +755,7 @@
         "AO-02-31"
       ],
       "navn": {
-        "nor": "Rælingen"
+        "nob": "Rælingen"
       }
     },
     {
@@ -782,7 +782,7 @@
         "AO-03-01"
       ],
       "navn": {
-        "nor": "Enebakk"
+        "nob": "Enebakk"
       }
     },
     {
@@ -807,7 +807,7 @@
         "AO-03-01"
       ],
       "navn": {
-        "nor": "Lørenskog"
+        "nob": "Lørenskog"
       },
       "osm": "406126"
     },
@@ -834,7 +834,7 @@
         "AO-03-01"
       ],
       "navn": {
-        "nor": "Skedsmo"
+        "nob": "Skedsmo"
       },
       "osm": "406125"
     },
@@ -859,7 +859,7 @@
         "AO-05-33"
       ],
       "navn": {
-        "nor": "Nittedal"
+        "nob": "Nittedal"
       }
     },
     {
@@ -885,7 +885,7 @@
         "AO-02-38"
       ],
       "navn": {
-        "nor": "Gjerdrum"
+        "nob": "Gjerdrum"
       }
     },
     {
@@ -911,7 +911,7 @@
         "AO-02-38"
       ],
       "navn": {
-        "nor": "Ullensaker"
+        "nob": "Ullensaker"
       }
     },
     {
@@ -939,7 +939,7 @@
         "AO-04-20"
       ],
       "navn": {
-        "nor": "Nes"
+        "nob": "Nes"
       },
       "osm": "406119"
     },
@@ -970,7 +970,7 @@
         "AO-05-28"
       ],
       "navn": {
-        "nor": "Eidsvoll"
+        "nob": "Eidsvoll"
       }
     },
     {
@@ -998,7 +998,7 @@
         "AO-05-34"
       ],
       "navn": {
-        "nor": "Nannestad"
+        "nob": "Nannestad"
       }
     },
     {
@@ -1024,7 +1024,7 @@
         "AO-05-34"
       ],
       "navn": {
-        "nor": "Hurdal"
+        "nob": "Hurdal"
       }
     },
     {
@@ -1059,7 +1059,7 @@
         "AO-06-05"
       ],
       "navn": {
-        "nor": "Oslo"
+        "nob": "Oslo"
       },
       "osm": "2775550"
     },
@@ -1086,7 +1086,7 @@
         "AO-04-23"
       ],
       "navn": {
-        "nor": "Kongsvinger"
+        "nob": "Kongsvinger"
       }
     },
     {
@@ -1113,7 +1113,7 @@
         "AO-04-29"
       ],
       "navn": {
-        "nor": "Hamar"
+        "nob": "Hamar"
       },
       "osm": "410882"
     },
@@ -1141,7 +1141,7 @@
         "AO-05-28"
       ],
       "navn": {
-        "nor": "Ringsaker"
+        "nob": "Ringsaker"
       }
     },
     {
@@ -1165,7 +1165,7 @@
         "AO-04-29"
       ],
       "navn": {
-        "nor": "Løten"
+        "nob": "Løten"
       }
     },
     {
@@ -1194,7 +1194,7 @@
         "AO-05-28"
       ],
       "navn": {
-        "nor": "Stange"
+        "nob": "Stange"
       }
     },
     {
@@ -1221,7 +1221,7 @@
         "AO-04-25"
       ],
       "navn": {
-        "nor": "Nord-Odal"
+        "nob": "Nord-Odal"
       }
     },
     {
@@ -1245,7 +1245,7 @@
         "AO-04-23"
       ],
       "navn": {
-        "nor": "Sør-Odal"
+        "nob": "Sør-Odal"
       }
     },
     {
@@ -1268,7 +1268,7 @@
         "AO-04-19"
       ],
       "navn": {
-        "nor": "Eidskog"
+        "nob": "Eidskog"
       }
     },
     {
@@ -1291,7 +1291,7 @@
         "AO-04-25"
       ],
       "navn": {
-        "nor": "Grue"
+        "nob": "Grue"
       }
     },
     {
@@ -1314,7 +1314,7 @@
         "AO-04-26"
       ],
       "navn": {
-        "nor": "Åsnes"
+        "nob": "Åsnes"
       }
     },
     {
@@ -1338,7 +1338,7 @@
         "AO-04-28"
       ],
       "navn": {
-        "nor": "Våler"
+        "nob": "Våler"
       }
     },
     {
@@ -1365,7 +1365,7 @@
         "AO-04-29"
       ],
       "navn": {
-        "nor": "Elverum"
+        "nob": "Elverum"
       }
     },
     {
@@ -1392,7 +1392,7 @@
         "AO-04-34"
       ],
       "navn": {
-        "nor": "Trysil"
+        "nob": "Trysil"
       }
     },
     {
@@ -1420,7 +1420,7 @@
         "AO-04-32"
       ],
       "navn": {
-        "nor": "Åmot"
+        "nob": "Åmot"
       }
     },
     {
@@ -1447,7 +1447,7 @@
         "AO-05-21"
       ],
       "navn": {
-        "nor": "Stor-Elvdal"
+        "nob": "Stor-Elvdal"
       }
     },
     {
@@ -1473,7 +1473,7 @@
         "AO-04-38"
       ],
       "navn": {
-        "nor": "Rendalen"
+        "nob": "Rendalen"
       }
     },
     {
@@ -1497,7 +1497,7 @@
         "AO-50-25"
       ],
       "navn": {
-        "nor": "Engerdal"
+        "nob": "Engerdal"
       }
     },
     {
@@ -1522,7 +1522,7 @@
         "AO-04-41"
       ],
       "navn": {
-        "nor": "Tolga"
+        "nob": "Tolga"
       }
     },
     {
@@ -1553,7 +1553,7 @@
         "AO-50-27"
       ],
       "navn": {
-        "nor": "Tynset"
+        "nob": "Tynset"
       }
     },
     {
@@ -1576,7 +1576,7 @@
         "AO-04-39"
       ],
       "navn": {
-        "nor": "Alvdal"
+        "nob": "Alvdal"
       }
     },
     {
@@ -1602,7 +1602,7 @@
         "AO-16-34"
       ],
       "navn": {
-        "nor": "Folldal"
+        "nob": "Folldal"
       }
     },
     {
@@ -1627,7 +1627,7 @@
         "AO-50-27"
       ],
       "navn": {
-        "nor": "Os"
+        "nob": "Os"
       }
     },
     {
@@ -1657,7 +1657,7 @@
         "AO-05-38"
       ],
       "navn": {
-        "nor": "Lillehammer"
+        "nob": "Lillehammer"
       }
     },
     {
@@ -1686,7 +1686,7 @@
         "AO-05-38"
       ],
       "navn": {
-        "nor": "Gjøvik"
+        "nob": "Gjøvik"
       }
     },
     {
@@ -1712,7 +1712,7 @@
         "AO-16-34"
       ],
       "navn": {
-        "nor": "Dovre"
+        "nob": "Dovre"
       }
     },
     {
@@ -1739,7 +1739,7 @@
         "AO-16-34"
       ],
       "navn": {
-        "nor": "Lesja"
+        "nob": "Lesja"
       }
     },
     {
@@ -1765,7 +1765,7 @@
         "AO-15-39"
       ],
       "navn": {
-        "nor": "Skjåk"
+        "nob": "Skjåk"
       }
     },
     {
@@ -1791,7 +1791,7 @@
         "AO-14-26"
       ],
       "navn": {
-        "nor": "Lom"
+        "nob": "Lom"
       }
     },
     {
@@ -1817,7 +1817,7 @@
         "AO-05-45"
       ],
       "navn": {
-        "nor": "Vågå"
+        "nob": "Vågå"
       }
     },
     {
@@ -1840,7 +1840,7 @@
         "AO-05-44"
       ],
       "navn": {
-        "nor": "Nord-Fron"
+        "nob": "Nord-Fron"
       }
     },
     {
@@ -1864,7 +1864,7 @@
         "AO-05-19"
       ],
       "navn": {
-        "nor": "Sel"
+        "nob": "Sel"
       }
     },
     {
@@ -1892,7 +1892,7 @@
         "AO-05-44"
       ],
       "navn": {
-        "nor": "Sør-Fron"
+        "nob": "Sør-Fron"
       }
     },
     {
@@ -1915,7 +1915,7 @@
         "AO-05-22"
       ],
       "navn": {
-        "nor": "Ringebu"
+        "nob": "Ringebu"
       }
     },
     {
@@ -1941,7 +1941,7 @@
         "AO-05-22"
       ],
       "navn": {
-        "nor": "Øyer"
+        "nob": "Øyer"
       }
     },
     {
@@ -1967,7 +1967,7 @@
         "AO-05-44"
       ],
       "navn": {
-        "nor": "Gausdal"
+        "nob": "Gausdal"
       }
     },
     {
@@ -1994,7 +1994,7 @@
         "AO-05-29"
       ],
       "navn": {
-        "nor": "Østre Toten"
+        "nob": "Østre Toten"
       }
     },
     {
@@ -2020,7 +2020,7 @@
         "AO-05-36"
       ],
       "navn": {
-        "nor": "Vestre Toten"
+        "nob": "Vestre Toten"
       }
     },
     {
@@ -2042,7 +2042,7 @@
         "AO-06-05"
       ],
       "navn": {
-        "nor": "Jevnaker"
+        "nob": "Jevnaker"
       }
     },
     {
@@ -2067,7 +2067,7 @@
         "AO-06-05"
       ],
       "navn": {
-        "nor": "Lunner"
+        "nob": "Lunner"
       }
     },
     {
@@ -2095,7 +2095,7 @@
         "AO-06-05"
       ],
       "navn": {
-        "nor": "Gran"
+        "nob": "Gran"
       }
     },
     {
@@ -2120,7 +2120,7 @@
         "AO-06-05"
       ],
       "navn": {
-        "nor": "Søndre Land"
+        "nob": "Søndre Land"
       }
     },
     {
@@ -2146,7 +2146,7 @@
         "AO-05-42"
       ],
       "navn": {
-        "nor": "Nordre Land"
+        "nob": "Nordre Land"
       }
     },
     {
@@ -2173,7 +2173,7 @@
         "AO-06-17"
       ],
       "navn": {
-        "nor": "Sør-Aurdal"
+        "nob": "Sør-Aurdal"
       }
     },
     {
@@ -2195,7 +2195,7 @@
         "AO-05-42"
       ],
       "navn": {
-        "nor": "Etnedal"
+        "nob": "Etnedal"
       }
     },
     {
@@ -2222,7 +2222,7 @@
         "AO-06-18"
       ],
       "navn": {
-        "nor": "Nord-Aurdal"
+        "nob": "Nord-Aurdal"
       }
     },
     {
@@ -2245,7 +2245,7 @@
         "AO-06-18"
       ],
       "navn": {
-        "nor": "Vestre Slidre"
+        "nob": "Vestre Slidre"
       }
     },
     {
@@ -2271,7 +2271,7 @@
         "AO-05-45"
       ],
       "navn": {
-        "nor": "Øystre Slidre"
+        "nob": "Øystre Slidre"
       }
     },
     {
@@ -2299,7 +2299,7 @@
         "AO-14-26"
       ],
       "navn": {
-        "nor": "Vang"
+        "nob": "Vang"
       }
     },
     {
@@ -2327,7 +2327,7 @@
         "AO-07-15"
       ],
       "navn": {
-        "nor": "Drammen"
+        "nob": "Drammen"
       }
     },
     {
@@ -2359,7 +2359,7 @@
         "AO-08-22"
       ],
       "navn": {
-        "nor": "Kongsberg"
+        "nob": "Kongsberg"
       }
     },
     {
@@ -2393,7 +2393,7 @@
         "AO-06-23"
       ],
       "navn": {
-        "nor": "Ringerike"
+        "nob": "Ringerike"
       }
     },
     {
@@ -2418,7 +2418,7 @@
         "AO-06-26"
       ],
       "navn": {
-        "nor": "Hole"
+        "nob": "Hole"
       }
     },
     {
@@ -2443,7 +2443,7 @@
         "AO-06-33"
       ],
       "navn": {
-        "nor": "Flå"
+        "nob": "Flå"
       }
     },
     {
@@ -2469,7 +2469,7 @@
         "AO-06-33"
       ],
       "navn": {
-        "nor": "Nes"
+        "nob": "Nes"
       }
     },
     {
@@ -2493,7 +2493,7 @@
         "AO-06-19"
       ],
       "navn": {
-        "nor": "Gol"
+        "nob": "Gol"
       }
     },
     {
@@ -2520,7 +2520,7 @@
         "AO-14-22"
       ],
       "navn": {
-        "nor": "Hemsedal"
+        "nob": "Hemsedal"
       }
     },
     {
@@ -2547,7 +2547,7 @@
         "AO-14-22"
       ],
       "navn": {
-        "nor": "Ål"
+        "nob": "Ål"
       }
     },
     {
@@ -2572,7 +2572,7 @@
         "AO-14-22"
       ],
       "navn": {
-        "nor": "Hol"
+        "nob": "Hol"
       }
     },
     {
@@ -2598,7 +2598,7 @@
         "AO-06-33"
       ],
       "navn": {
-        "nor": "Sigdal"
+        "nob": "Sigdal"
       }
     },
     {
@@ -2623,7 +2623,7 @@
         "AO-06-23"
       ],
       "navn": {
-        "nor": "Krødsherad"
+        "nob": "Krødsherad"
       }
     },
     {
@@ -2649,7 +2649,7 @@
         "AO-06-26"
       ],
       "navn": {
-        "nor": "Modum"
+        "nob": "Modum"
       }
     },
     {
@@ -2677,7 +2677,7 @@
         "AO-07-15"
       ],
       "navn": {
-        "nor": "Øvre Eiker"
+        "nob": "Øvre Eiker"
       }
     },
     {
@@ -2701,7 +2701,7 @@
         "AO-07-15"
       ],
       "navn": {
-        "nor": "Nedre Eiker"
+        "nob": "Nedre Eiker"
       }
     },
     {
@@ -2728,7 +2728,7 @@
         "AO-06-27"
       ],
       "navn": {
-        "nor": "Lier"
+        "nob": "Lier"
       }
     },
     {
@@ -2750,7 +2750,7 @@
         "AO-06-28"
       ],
       "navn": {
-        "nor": "Røyken"
+        "nob": "Røyken"
       }
     },
     {
@@ -2772,7 +2772,7 @@
         "AO-06-27"
       ],
       "navn": {
-        "nor": "Hurum"
+        "nob": "Hurum"
       }
     },
     {
@@ -2797,7 +2797,7 @@
         "AO-08-26"
       ],
       "navn": {
-        "nor": "Flesberg"
+        "nob": "Flesberg"
       }
     },
     {
@@ -2820,7 +2820,7 @@
         "AO-08-26"
       ],
       "navn": {
-        "nor": "Rollag"
+        "nob": "Rollag"
       }
     },
     {
@@ -2848,7 +2848,7 @@
         "AO-12-32"
       ],
       "navn": {
-        "nor": "Nore og Uvdal"
+        "nob": "Nore og Uvdal"
       }
     },
     {
@@ -2874,7 +2874,7 @@
         "AO-07-16"
       ],
       "navn": {
-        "nor": "Horten"
+        "nob": "Horten"
       }
     },
     {
@@ -2901,7 +2901,7 @@
         "AO-07-29"
       ],
       "navn": {
-        "nor": "Tønsberg"
+        "nob": "Tønsberg"
       }
     },
     {
@@ -2928,7 +2928,7 @@
         "AO-07-29"
       ],
       "navn": {
-        "nor": "Sandefjord"
+        "nob": "Sandefjord"
       }
     },
     {
@@ -2951,7 +2951,7 @@
         "AO-07-13"
       ],
       "navn": {
-        "nor": "Svelvik"
+        "nob": "Svelvik"
       }
     },
     {
@@ -2981,7 +2981,7 @@
         "AO-08-11"
       ],
       "navn": {
-        "nor": "Larvik"
+        "nob": "Larvik"
       },
       "osm": "404591"
     },
@@ -3004,7 +3004,7 @@
         "AO-07-15"
       ],
       "navn": {
-        "nor": "Sande"
+        "nob": "Sande"
       }
     },
     {
@@ -3034,7 +3034,7 @@
         "AO-07-16"
       ],
       "navn": {
-        "nor": "Holmestrand"
+        "nob": "Holmestrand"
       }
     },
     {
@@ -3068,7 +3068,7 @@
         "AO-07-15"
       ],
       "navn": {
-        "nor": "Re"
+        "nob": "Re"
       }
     },
     {
@@ -3089,7 +3089,7 @@
         "AO-07-10"
       ],
       "navn": {
-        "nor": "Færder"
+        "nob": "Færder"
       }
     },
     {
@@ -3116,7 +3116,7 @@
         "AO-08-14"
       ],
       "navn": {
-        "nor": "Porsgrunn"
+        "nob": "Porsgrunn"
       }
     },
     {
@@ -3146,7 +3146,7 @@
         "AO-08-22"
       ],
       "navn": {
-        "nor": "Skien"
+        "nob": "Skien"
       }
     },
     {
@@ -3176,7 +3176,7 @@
         "AO-08-28"
       ],
       "navn": {
-        "nor": "Notodden"
+        "nob": "Notodden"
       }
     },
     {
@@ -3199,7 +3199,7 @@
         "AO-08-06"
       ],
       "navn": {
-        "nor": "Siljan"
+        "nob": "Siljan"
       }
     },
     {
@@ -3222,7 +3222,7 @@
         "AO-08-17"
       ],
       "navn": {
-        "nor": "Bamble"
+        "nob": "Bamble"
       }
     },
     {
@@ -3247,7 +3247,7 @@
         "AO-09-11"
       ],
       "navn": {
-        "nor": "Kragerø"
+        "nob": "Kragerø"
       }
     },
     {
@@ -3273,7 +3273,7 @@
         "AO-09-11"
       ],
       "navn": {
-        "nor": "Drangedal"
+        "nob": "Drangedal"
       }
     },
     {
@@ -3299,7 +3299,7 @@
         "AO-08-29"
       ],
       "navn": {
-        "nor": "Nome"
+        "nob": "Nome"
       }
     },
     {
@@ -3323,7 +3323,7 @@
         "AO-08-29"
       ],
       "navn": {
-        "nor": "Bø"
+        "nob": "Bø"
       }
     },
     {
@@ -3347,7 +3347,7 @@
         "AO-08-21"
       ],
       "navn": {
-        "nor": "Sauherad"
+        "nob": "Sauherad"
       }
     },
     {
@@ -3375,7 +3375,7 @@
         "AO-08-34"
       ],
       "navn": {
-        "nor": "Tinn"
+        "nob": "Tinn"
       }
     },
     {
@@ -3397,7 +3397,7 @@
         "AO-08-28"
       ],
       "navn": {
-        "nor": "Hjartdal"
+        "nob": "Hjartdal"
       }
     },
     {
@@ -3423,7 +3423,7 @@
         "AO-08-34"
       ],
       "navn": {
-        "nor": "Seljord"
+        "nob": "Seljord"
       }
     },
     {
@@ -3449,7 +3449,7 @@
         "AO-08-33"
       ],
       "navn": {
-        "nor": "Kviteseid"
+        "nob": "Kviteseid"
       }
     },
     {
@@ -3474,7 +3474,7 @@
         "AO-09-29"
       ],
       "navn": {
-        "nor": "Nissedal"
+        "nob": "Nissedal"
       }
     },
     {
@@ -3499,7 +3499,7 @@
         "AO-09-40"
       ],
       "navn": {
-        "nor": "Fyresdal"
+        "nob": "Fyresdal"
       }
     },
     {
@@ -3524,7 +3524,7 @@
         "AO-09-41"
       ],
       "navn": {
-        "nor": "Tokke"
+        "nob": "Tokke"
       }
     },
     {
@@ -3551,7 +3551,7 @@
         "AO-12-31"
       ],
       "navn": {
-        "nor": "Vinje"
+        "nob": "Vinje"
       }
     },
     {
@@ -3578,7 +3578,7 @@
         "AO-09-14"
       ],
       "navn": {
-        "nor": "Risør"
+        "nob": "Risør"
       }
     },
     {
@@ -3603,7 +3603,7 @@
         "AO-09-28"
       ],
       "navn": {
-        "nor": "Grimstad"
+        "nob": "Grimstad"
       }
     },
     {
@@ -3629,7 +3629,7 @@
         "AO-09-19"
       ],
       "navn": {
-        "nor": "Arendal"
+        "nob": "Arendal"
       }
     },
     {
@@ -3653,7 +3653,7 @@
         "AO-09-12"
       ],
       "navn": {
-        "nor": "Gjerstad"
+        "nob": "Gjerstad"
       }
     },
     {
@@ -3677,7 +3677,7 @@
         "AO-09-29"
       ],
       "navn": {
-        "nor": "Vegårshei"
+        "nob": "Vegårshei"
       }
     },
     {
@@ -3703,7 +3703,7 @@
         "AO-09-29"
       ],
       "navn": {
-        "nor": "Tvedestrand"
+        "nob": "Tvedestrand"
       }
     },
     {
@@ -3731,7 +3731,7 @@
         "AO-09-38"
       ],
       "navn": {
-        "nor": "Froland"
+        "nob": "Froland"
       }
     },
     {
@@ -3757,7 +3757,7 @@
         "AO-10-01"
       ],
       "navn": {
-        "nor": "Lillesand"
+        "nob": "Lillesand"
       },
       "osm": "406034"
     },
@@ -3785,7 +3785,7 @@
         "AO-10-14"
       ],
       "navn": {
-        "nor": "Birkenes"
+        "nob": "Birkenes"
       }
     },
     {
@@ -3810,7 +3810,7 @@
         "AO-09-38"
       ],
       "navn": {
-        "nor": "Åmli"
+        "nob": "Åmli"
       }
     },
     {
@@ -3833,7 +3833,7 @@
         "AO-10-14"
       ],
       "navn": {
-        "nor": "Iveland"
+        "nob": "Iveland"
       }
     },
     {
@@ -3861,7 +3861,7 @@
         "AO-10-27"
       ],
       "navn": {
-        "nor": "Evje og Hornnes"
+        "nob": "Evje og Hornnes"
       }
     },
     {
@@ -3888,7 +3888,7 @@
         "AO-10-46"
       ],
       "navn": {
-        "nor": "Bygland"
+        "nob": "Bygland"
       }
     },
     {
@@ -3914,7 +3914,7 @@
         "AO-10-46"
       ],
       "navn": {
-        "nor": "Valle"
+        "nob": "Valle"
       }
     },
     {
@@ -3940,7 +3940,7 @@
         "AO-11-34"
       ],
       "navn": {
-        "nor": "Bykle"
+        "nob": "Bykle"
       }
     },
     {
@@ -3968,7 +3968,7 @@
         "AO-10-18"
       ],
       "navn": {
-        "nor": "Kristiansand"
+        "nob": "Kristiansand"
       }
     },
     {
@@ -3994,7 +3994,7 @@
         "AO-10-29"
       ],
       "navn": {
-        "nor": "Mandal"
+        "nob": "Mandal"
       }
     },
     {
@@ -4017,7 +4017,7 @@
         "AO-10-37"
       ],
       "navn": {
-        "nor": "Farsund"
+        "nob": "Farsund"
       }
     },
     {
@@ -4044,7 +4044,7 @@
         "AO-11-12"
       ],
       "navn": {
-        "nor": "Flekkefjord"
+        "nob": "Flekkefjord"
       }
     },
     {
@@ -4072,7 +4072,7 @@
         "AO-10-21"
       ],
       "navn": {
-        "nor": "Vennesla"
+        "nob": "Vennesla"
       }
     },
     {
@@ -4097,7 +4097,7 @@
         "AO-10-21"
       ],
       "navn": {
-        "nor": "Songdalen"
+        "nob": "Songdalen"
       }
     },
     {
@@ -4122,7 +4122,7 @@
         "AO-10-21"
       ],
       "navn": {
-        "nor": "Søgne"
+        "nob": "Søgne"
       }
     },
     {
@@ -4148,7 +4148,7 @@
         "AO-10-29"
       ],
       "navn": {
-        "nor": "Marnardal"
+        "nob": "Marnardal"
       }
     },
     {
@@ -4172,7 +4172,7 @@
         "AO-10-37"
       ],
       "navn": {
-        "nor": "Åseral"
+        "nob": "Åseral"
       }
     },
     {
@@ -4197,7 +4197,7 @@
         "AO-10-34"
       ],
       "navn": {
-        "nor": "Audnedal"
+        "nob": "Audnedal"
       }
     },
     {
@@ -4222,7 +4222,7 @@
         "AO-10-32"
       ],
       "navn": {
-        "nor": "Lindesnes"
+        "nob": "Lindesnes"
       }
     },
     {
@@ -4248,7 +4248,7 @@
         "AO-10-37"
       ],
       "navn": {
-        "nor": "Lyngdal"
+        "nob": "Lyngdal"
       }
     },
     {
@@ -4271,7 +4271,7 @@
         "AO-10-37"
       ],
       "navn": {
-        "nor": "Hægebostad"
+        "nob": "Hægebostad"
       }
     },
     {
@@ -4302,7 +4302,7 @@
         "AO-10-46"
       ],
       "navn": {
-        "nor": "Kvinesdal"
+        "nob": "Kvinesdal"
       }
     },
     {
@@ -4331,7 +4331,7 @@
         "AO-11-29"
       ],
       "navn": {
-        "nor": "Sirdal"
+        "nob": "Sirdal"
       }
     },
     {
@@ -4357,7 +4357,7 @@
         "AO-11-19"
       ],
       "navn": {
-        "nor": "Eigersund"
+        "nob": "Eigersund"
       }
     },
     {
@@ -4387,7 +4387,7 @@
         "AO-11-29"
       ],
       "navn": {
-        "nor": "Sandnes"
+        "nob": "Sandnes"
       }
     },
     {
@@ -4415,7 +4415,7 @@
         "AO-11-42"
       ],
       "navn": {
-        "nor": "Stavanger"
+        "nob": "Stavanger"
       }
     },
     {
@@ -4442,7 +4442,7 @@
         "AO-12-19"
       ],
       "navn": {
-        "nor": "Haugesund"
+        "nob": "Haugesund"
       },
       "osm": "405834"
     },
@@ -4465,7 +4465,7 @@
         "AO-11-12"
       ],
       "navn": {
-        "nor": "Sokndal"
+        "nob": "Sokndal"
       }
     },
     {
@@ -4488,7 +4488,7 @@
         "AO-11-11"
       ],
       "navn": {
-        "nor": "Lund"
+        "nob": "Lund"
       }
     },
     {
@@ -4512,7 +4512,7 @@
         "AO-11-22"
       ],
       "navn": {
-        "nor": "Bjerkreim"
+        "nob": "Bjerkreim"
       }
     },
     {
@@ -4539,7 +4539,7 @@
         "AO-11-21"
       ],
       "navn": {
-        "nor": "Hå"
+        "nob": "Hå"
       }
     },
     {
@@ -4562,7 +4562,7 @@
         "AO-11-24"
       ],
       "navn": {
-        "nor": "Klepp"
+        "nob": "Klepp"
       }
     },
     {
@@ -4588,7 +4588,7 @@
         "AO-11-22"
       ],
       "navn": {
-        "nor": "Time"
+        "nob": "Time"
       }
     },
     {
@@ -4614,7 +4614,7 @@
         "AO-11-29"
       ],
       "navn": {
-        "nor": "Gjesdal"
+        "nob": "Gjesdal"
       }
     },
     {
@@ -4637,7 +4637,7 @@
         "AO-11-27"
       ],
       "navn": {
-        "nor": "Sola"
+        "nob": "Sola"
       }
     },
     {
@@ -4662,7 +4662,7 @@
         "AO-11-44"
       ],
       "navn": {
-        "nor": "Randaberg"
+        "nob": "Randaberg"
       }
     },
     {
@@ -4692,7 +4692,7 @@
         "AO-11-33"
       ],
       "navn": {
-        "nor": "Forsand"
+        "nob": "Forsand"
       }
     },
     {
@@ -4716,7 +4716,7 @@
         "AO-11-41"
       ],
       "navn": {
-        "nor": "Strand"
+        "nob": "Strand"
       }
     },
     {
@@ -4740,7 +4740,7 @@
         "AO-11-41"
       ],
       "navn": {
-        "nor": "Hjelmeland"
+        "nob": "Hjelmeland"
       }
     },
     {
@@ -4769,7 +4769,7 @@
         "AO-12-28"
       ],
       "navn": {
-        "nor": "Suldal"
+        "nob": "Suldal"
       }
     },
     {
@@ -4793,7 +4793,7 @@
         "AO-12-28"
       ],
       "navn": {
-        "nor": "Sauda"
+        "nob": "Sauda"
       }
     },
     {
@@ -4821,7 +4821,7 @@
         "AO-11-46"
       ],
       "navn": {
-        "nor": "Finnøy"
+        "nob": "Finnøy"
       }
     },
     {
@@ -4847,7 +4847,7 @@
         "AO-11-45"
       ],
       "navn": {
-        "nor": "Rennesøy"
+        "nob": "Rennesøy"
       },
       "osm": "6148112"
     },
@@ -4873,7 +4873,7 @@
         "AO-11-49"
       ],
       "navn": {
-        "nor": "Kvitsøy"
+        "nob": "Kvitsøy"
       }
     },
     {
@@ -4899,7 +4899,7 @@
         "AO-11-49"
       ],
       "navn": {
-        "nor": "Bokn"
+        "nob": "Bokn"
       }
     },
     {
@@ -4924,7 +4924,7 @@
         "AO-12-16"
       ],
       "navn": {
-        "nor": "Tysvær"
+        "nob": "Tysvær"
       }
     },
     {
@@ -4950,7 +4950,7 @@
         "AO-11-51"
       ],
       "navn": {
-        "nor": "Karmøy"
+        "nob": "Karmøy"
       },
       "osm": "6144371"
     },
@@ -4971,7 +4971,7 @@
         "AO-11-49"
       ],
       "navn": {
-        "nor": "Utsira"
+        "nob": "Utsira"
       }
     },
     {
@@ -4996,7 +4996,7 @@
         "AO-12-24"
       ],
       "navn": {
-        "nor": "Vindafjord"
+        "nob": "Vindafjord"
       }
     },
     {
@@ -5028,7 +5028,7 @@
         "AO-12-63"
       ],
       "navn": {
-        "nor": "Bergen"
+        "nob": "Bergen"
       },
       "osm": "404159"
     },
@@ -5053,7 +5053,7 @@
         "AO-12-28"
       ],
       "navn": {
-        "nor": "Etne"
+        "nob": "Etne"
       }
     },
     {
@@ -5079,7 +5079,7 @@
         "AO-12-21"
       ],
       "navn": {
-        "nor": "Sveio"
+        "nob": "Sveio"
       }
     },
     {
@@ -5103,7 +5103,7 @@
         "AO-12-44"
       ],
       "navn": {
-        "nor": "Bømlo"
+        "nob": "Bømlo"
       }
     },
     {
@@ -5128,7 +5128,7 @@
         "AO-12-24"
       ],
       "navn": {
-        "nor": "Stord"
+        "nob": "Stord"
       }
     },
     {
@@ -5151,7 +5151,7 @@
         "AO-12-44"
       ],
       "navn": {
-        "nor": "Fitjar"
+        "nob": "Fitjar"
       }
     },
     {
@@ -5176,7 +5176,7 @@
         "AO-12-44"
       ],
       "navn": {
-        "nor": "Tysnes"
+        "nob": "Tysnes"
       }
     },
     {
@@ -5208,7 +5208,7 @@
         "AO-12-41"
       ],
       "navn": {
-        "nor": "Kvinnherad"
+        "nob": "Kvinnherad"
       }
     },
     {
@@ -5232,7 +5232,7 @@
         "AO-12-38"
       ],
       "navn": {
-        "nor": "Jondal"
+        "nob": "Jondal"
       }
     },
     {
@@ -5261,7 +5261,7 @@
         "AO-12-31"
       ],
       "navn": {
-        "nor": "Odda"
+        "nob": "Odda"
       }
     },
     {
@@ -5288,7 +5288,7 @@
         "AO-12-38"
       ],
       "navn": {
-        "nor": "Ullensvang"
+        "nob": "Ullensvang"
       }
     },
     {
@@ -5315,7 +5315,7 @@
         "AO-12-33"
       ],
       "navn": {
-        "nor": "Eidfjord"
+        "nob": "Eidfjord"
       }
     },
     {
@@ -5344,7 +5344,7 @@
         "AO-14-21"
       ],
       "navn": {
-        "nor": "Ulvik"
+        "nob": "Ulvik"
       }
     },
     {
@@ -5369,7 +5369,7 @@
         "AO-12-38"
       ],
       "navn": {
-        "nor": "Granvin"
+        "nob": "Granvin"
       }
     },
     {
@@ -5398,7 +5398,7 @@
         "AO-14-21"
       ],
       "navn": {
-        "nor": "Voss"
+        "nob": "Voss"
       },
       "osm": "404138"
     },
@@ -5426,7 +5426,7 @@
         "AO-12-51"
       ],
       "navn": {
-        "nor": "Kvam"
+        "nob": "Kvam"
       }
     },
     {
@@ -5450,7 +5450,7 @@
         "AO-12-43"
       ],
       "navn": {
-        "nor": "Fusa"
+        "nob": "Fusa"
       }
     },
     {
@@ -5476,7 +5476,7 @@
         "AO-12-51"
       ],
       "navn": {
-        "nor": "Samnanger"
+        "nob": "Samnanger"
       }
     },
     {
@@ -5502,7 +5502,7 @@
         "AO-12-44"
       ],
       "navn": {
-        "nor": "Os"
+        "nob": "Os"
       }
     },
     {
@@ -5531,7 +5531,7 @@
         "AO-12-45"
       ],
       "navn": {
-        "nor": "Austevoll"
+        "nob": "Austevoll"
       }
     },
     {
@@ -5555,7 +5555,7 @@
         "AO-12-46"
       ],
       "navn": {
-        "nor": "Sund"
+        "nob": "Sund"
       }
     },
     {
@@ -5579,7 +5579,7 @@
         "AO-12-59"
       ],
       "navn": {
-        "nor": "Fjell"
+        "nob": "Fjell"
       }
     },
     {
@@ -5607,7 +5607,7 @@
         "AO-12-60"
       ],
       "navn": {
-        "nor": "Askøy"
+        "nob": "Askøy"
       }
     },
     {
@@ -5634,7 +5634,7 @@
         "AO-14-17"
       ],
       "navn": {
-        "nor": "Vaksdal"
+        "nob": "Vaksdal"
       }
     },
     {
@@ -5660,7 +5660,7 @@
         "AO-14-17"
       ],
       "navn": {
-        "nor": "Modalen"
+        "nob": "Modalen"
       }
     },
     {
@@ -5683,7 +5683,7 @@
         "AO-12-63"
       ],
       "navn": {
-        "nor": "Osterøy"
+        "nob": "Osterøy"
       }
     },
     {
@@ -5706,7 +5706,7 @@
         "AO-12-63"
       ],
       "navn": {
-        "nor": "Meland"
+        "nob": "Meland"
       }
     },
     {
@@ -5729,7 +5729,7 @@
         "AO-12-65"
       ],
       "navn": {
-        "nor": "Øygarden"
+        "nob": "Øygarden"
       }
     },
     {
@@ -5756,7 +5756,7 @@
         "AO-12-65"
       ],
       "navn": {
-        "nor": "Radøy"
+        "nob": "Radøy"
       }
     },
     {
@@ -5788,7 +5788,7 @@
         "AO-14-11"
       ],
       "navn": {
-        "nor": "Lindås"
+        "nob": "Lindås"
       }
     },
     {
@@ -5813,7 +5813,7 @@
         "AO-14-11"
       ],
       "navn": {
-        "nor": "Austrheim"
+        "nob": "Austrheim"
       }
     },
     {
@@ -5839,7 +5839,7 @@
         "AO-14-11"
       ],
       "navn": {
-        "nor": "Fedje"
+        "nob": "Fedje"
       }
     },
     {
@@ -5862,7 +5862,7 @@
         "AO-14-16"
       ],
       "navn": {
-        "nor": "Masfjorden"
+        "nob": "Masfjorden"
       }
     },
     {
@@ -5885,7 +5885,7 @@
         "AO-14-45"
       ],
       "navn": {
-        "nor": "Flora"
+        "nob": "Flora"
       }
     },
     {
@@ -5911,7 +5911,7 @@
         "AO-14-16"
       ],
       "navn": {
-        "nor": "Gulen"
+        "nob": "Gulen"
       }
     },
     {
@@ -5934,7 +5934,7 @@
         "AO-14-29"
       ],
       "navn": {
-        "nor": "Solund"
+        "nob": "Solund"
       }
     },
     {
@@ -5959,7 +5959,7 @@
         "AO-14-29"
       ],
       "navn": {
-        "nor": "Hyllestad"
+        "nob": "Hyllestad"
       }
     },
     {
@@ -5990,7 +5990,7 @@
         "AO-14-30"
       ],
       "navn": {
-        "nor": "Høyanger"
+        "nob": "Høyanger"
       },
       "osm": "409073"
     },
@@ -6021,7 +6021,7 @@
         "AO-14-22"
       ],
       "navn": {
-        "nor": "Vik"
+        "nob": "Vik"
       }
     },
     {
@@ -6050,7 +6050,7 @@
         "AO-14-32"
       ],
       "navn": {
-        "nor": "Balestrand"
+        "nob": "Balestrand"
       }
     },
     {
@@ -6074,7 +6074,7 @@
         "AO-14-20"
       ],
       "navn": {
-        "nor": "Leikanger"
+        "nob": "Leikanger"
       }
     },
     {
@@ -6102,7 +6102,7 @@
         "AO-14-32"
       ],
       "navn": {
-        "nor": "Sogndal"
+        "nob": "Sogndal"
       }
     },
     {
@@ -6128,7 +6128,7 @@
         "AO-14-22"
       ],
       "navn": {
-        "nor": "Aurland"
+        "nob": "Aurland"
       }
     },
     {
@@ -6159,7 +6159,7 @@
         "AO-14-24"
       ],
       "navn": {
-        "nor": "Lærdal"
+        "nob": "Lærdal"
       }
     },
     {
@@ -6183,7 +6183,7 @@
         "AO-14-26"
       ],
       "navn": {
-        "nor": "Årdal"
+        "nob": "Årdal"
       }
     },
     {
@@ -6211,7 +6211,7 @@
         "AO-14-49"
       ],
       "navn": {
-        "nor": "Luster"
+        "nob": "Luster"
       }
     },
     {
@@ -6238,7 +6238,7 @@
         "AO-14-33"
       ],
       "navn": {
-        "nor": "Askvoll"
+        "nob": "Askvoll"
       }
     },
     {
@@ -6262,7 +6262,7 @@
         "AO-14-30"
       ],
       "navn": {
-        "nor": "Fjaler"
+        "nob": "Fjaler"
       }
     },
     {
@@ -6288,7 +6288,7 @@
         "AO-14-32"
       ],
       "navn": {
-        "nor": "Gaular"
+        "nob": "Gaular"
       }
     },
     {
@@ -6313,7 +6313,7 @@
         "AO-14-49"
       ],
       "navn": {
-        "nor": "Jølster"
+        "nob": "Jølster"
       }
     },
     {
@@ -6342,7 +6342,7 @@
         "AO-14-33"
       ],
       "navn": {
-        "nor": "Førde"
+        "nob": "Førde"
       },
       "osm": "404491"
     },
@@ -6369,7 +6369,7 @@
         "AO-14-45"
       ],
       "navn": {
-        "nor": "Naustdal"
+        "nob": "Naustdal"
       }
     },
     {
@@ -6392,7 +6392,7 @@
         "AO-14-45"
       ],
       "navn": {
-        "nor": "Bremanger"
+        "nob": "Bremanger"
       }
     },
     {
@@ -6415,7 +6415,7 @@
         "AO-15-11"
       ],
       "navn": {
-        "nor": "Vågsøy"
+        "nob": "Vågsøy"
       }
     },
     {
@@ -6439,7 +6439,7 @@
         "AO-15-14"
       ],
       "navn": {
-        "nor": "Selje"
+        "nob": "Selje"
       }
     },
     {
@@ -6465,7 +6465,7 @@
         "AO-15-19"
       ],
       "navn": {
-        "nor": "Eid"
+        "nob": "Eid"
       }
     },
     {
@@ -6489,7 +6489,7 @@
         "AO-15-25"
       ],
       "navn": {
-        "nor": "Hornindal"
+        "nob": "Hornindal"
       }
     },
     {
@@ -6514,7 +6514,7 @@
         "AO-14-49"
       ],
       "navn": {
-        "nor": "Gloppen"
+        "nob": "Gloppen"
       }
     },
     {
@@ -6544,7 +6544,7 @@
         "AO-15-25"
       ],
       "navn": {
-        "nor": "Stryn"
+        "nob": "Stryn"
       }
     },
     {
@@ -6575,7 +6575,7 @@
         "AO-15-57"
       ],
       "navn": {
-        "nor": "Molde kommune"
+        "nob": "Molde kommune"
       }
     },
     {
@@ -6604,7 +6604,7 @@
         "AO-15-34"
       ],
       "navn": {
-        "nor": "Ålesund"
+        "nob": "Ålesund"
       },
       "osm": "406858"
     },
@@ -6633,7 +6633,7 @@
         "AO-15-76"
       ],
       "navn": {
-        "nor": "Kristiansund"
+        "nob": "Kristiansund"
       },
       "osm": "406837"
     },
@@ -6659,7 +6659,7 @@
         "AO-15-19"
       ],
       "navn": {
-        "nor": "Vanylven"
+        "nob": "Vanylven"
       }
     },
     {
@@ -6683,7 +6683,7 @@
         "AO-15-15"
       ],
       "navn": {
-        "nor": "Sande"
+        "nob": "Sande"
       }
     },
     {
@@ -6706,7 +6706,7 @@
         "AO-15-19"
       ],
       "navn": {
-        "nor": "Herøy"
+        "nob": "Herøy"
       }
     },
     {
@@ -6728,7 +6728,7 @@
         "AO-15-32"
       ],
       "navn": {
-        "nor": "Ulstein"
+        "nob": "Ulstein"
       }
     },
     {
@@ -6751,7 +6751,7 @@
         "AO-15-32"
       ],
       "navn": {
-        "nor": "Hareid"
+        "nob": "Hareid"
       }
     },
     {
@@ -6775,7 +6775,7 @@
         "AO-15-20"
       ],
       "navn": {
-        "nor": "Volda"
+        "nob": "Volda"
       }
     },
     {
@@ -6802,7 +6802,7 @@
         "AO-15-31"
       ],
       "navn": {
-        "nor": "Ørsta"
+        "nob": "Ørsta"
       }
     },
     {
@@ -6828,7 +6828,7 @@
         "AO-15-35"
       ],
       "navn": {
-        "nor": "Ørskog"
+        "nob": "Ørskog"
       }
     },
     {
@@ -6851,7 +6851,7 @@
         "AO-15-39"
       ],
       "navn": {
-        "nor": "Norddal"
+        "nob": "Norddal"
       }
     },
     {
@@ -6879,7 +6879,7 @@
         "AO-15-28"
       ],
       "navn": {
-        "nor": "Stranda"
+        "nob": "Stranda"
       }
     },
     {
@@ -6905,7 +6905,7 @@
         "AO-15-39"
       ],
       "navn": {
-        "nor": "Stordal"
+        "nob": "Stordal"
       }
     },
     {
@@ -6932,7 +6932,7 @@
         "AO-15-29"
       ],
       "navn": {
-        "nor": "Sykkylven"
+        "nob": "Sykkylven"
       }
     },
     {
@@ -6958,7 +6958,7 @@
         "AO-15-35"
       ],
       "navn": {
-        "nor": "Skodje"
+        "nob": "Skodje"
       }
     },
     {
@@ -6981,7 +6981,7 @@
         "AO-15-32"
       ],
       "navn": {
-        "nor": "Sula"
+        "nob": "Sula"
       }
     },
     {
@@ -7007,7 +7007,7 @@
         "AO-15-34"
       ],
       "navn": {
-        "nor": "Giske"
+        "nob": "Giske"
       }
     },
     {
@@ -7032,7 +7032,7 @@
         "AO-15-46"
       ],
       "navn": {
-        "nor": "Haram"
+        "nob": "Haram"
       }
     },
     {
@@ -7058,7 +7058,7 @@
         "AO-15-45"
       ],
       "navn": {
-        "nor": "Vestnes"
+        "nob": "Vestnes"
       }
     },
     {
@@ -7084,7 +7084,7 @@
         "AO-15-43"
       ],
       "navn": {
-        "nor": "Rauma"
+        "nob": "Rauma"
       }
     },
     {
@@ -7109,7 +7109,7 @@
         "AO-15-63"
       ],
       "navn": {
-        "nor": "Nesset"
+        "nob": "Nesset"
       }
     },
     {
@@ -7135,7 +7135,7 @@
         "AO-15-47"
       ],
       "navn": {
-        "nor": "Midsund"
+        "nob": "Midsund"
       }
     },
     {
@@ -7160,7 +7160,7 @@
         "AO-15-47"
       ],
       "navn": {
-        "nor": "Sandøy"
+        "nob": "Sandøy"
       }
     },
     {
@@ -7185,7 +7185,7 @@
         "AO-15-48"
       ],
       "navn": {
-        "nor": "Aukra"
+        "nob": "Aukra"
       }
     },
     {
@@ -7208,7 +7208,7 @@
         "AO-15-57"
       ],
       "navn": {
-        "nor": "Fræna"
+        "nob": "Fræna"
       }
     },
     {
@@ -7230,7 +7230,7 @@
         "AO-15-57"
       ],
       "navn": {
-        "nor": "Eide"
+        "nob": "Eide"
       }
     },
     {
@@ -7256,7 +7256,7 @@
         "AO-15-57"
       ],
       "navn": {
-        "nor": "Averøy"
+        "nob": "Averøy"
       }
     },
     {
@@ -7284,7 +7284,7 @@
         "AO-15-60"
       ],
       "navn": {
-        "nor": "Gjemnes"
+        "nob": "Gjemnes"
       }
     },
     {
@@ -7311,7 +7311,7 @@
         "AO-15-76"
       ],
       "navn": {
-        "nor": "Tingvoll"
+        "nob": "Tingvoll"
       }
     },
     {
@@ -7337,7 +7337,7 @@
         "AO-16-34"
       ],
       "navn": {
-        "nor": "Sunndal"
+        "nob": "Sunndal"
       }
     },
     {
@@ -7362,7 +7362,7 @@
         "AO-50-61"
       ],
       "navn": {
-        "nor": "Surnadal"
+        "nob": "Surnadal"
       }
     },
     {
@@ -7388,7 +7388,7 @@
         "AO-16-12"
       ],
       "navn": {
-        "nor": "Halsa"
+        "nob": "Halsa"
       }
     },
     {
@@ -7411,7 +7411,7 @@
         "AO-50-13"
       ],
       "navn": {
-        "nor": "Smøla"
+        "nob": "Smøla"
       }
     },
     {
@@ -7441,7 +7441,7 @@
         "AO-50-13"
       ],
       "navn": {
-        "nor": "Aure"
+        "nob": "Aure"
       }
     },
     {
@@ -7467,7 +7467,7 @@
         "AO-50-61"
       ],
       "navn": {
-        "nor": "Hemne"
+        "nob": "Hemne"
       },
       "osm": "406438"
     },
@@ -7490,7 +7490,7 @@
         "AO-50-17"
       ],
       "navn": {
-        "nor": "Ørland"
+        "nob": "Ørland"
       }
     },
     {
@@ -7512,7 +7512,7 @@
         "AO-50-49"
       ],
       "navn": {
-        "nor": "Osen"
+        "nob": "Osen"
       }
     },
     {
@@ -7543,7 +7543,7 @@
         "AO-50-61"
       ],
       "navn": {
-        "nor": "Oppdal"
+        "nob": "Oppdal"
       }
     },
     {
@@ -7566,7 +7566,7 @@
         "AO-50-34"
       ],
       "navn": {
-        "nor": "Tydal"
+        "nob": "Tydal"
       }
     },
     {
@@ -7594,7 +7594,7 @@
         "AO-50-53"
       ],
       "navn": {
-        "nor": "Steinkjer"
+        "nob": "Steinkjer"
       }
     },
     {
@@ -7620,7 +7620,7 @@
         "AO-50-37"
       ],
       "navn": {
-        "nor": "Stjørdal"
+        "nob": "Stjørdal"
       }
     },
     {
@@ -7645,7 +7645,7 @@
         "AO-50-44"
       ],
       "navn": {
-        "nor": "Røyrvik"
+        "nob": "Røyrvik"
       }
     },
     {
@@ -7670,7 +7670,7 @@
         "AO-50-46"
       ],
       "navn": {
-        "nor": "Grong"
+        "nob": "Grong"
       },
       "osm": "407216"
     },
@@ -7698,7 +7698,7 @@
         "AO-50-48"
       ],
       "navn": {
-        "nor": "Overhalla"
+        "nob": "Overhalla"
       },
       "osm": "407211"
     },
@@ -7723,7 +7723,7 @@
         "AO-50-50"
       ],
       "navn": {
-        "nor": "Nærøy"
+        "nob": "Nærøy"
       }
     },
     {
@@ -7749,7 +7749,7 @@
         "AO-50-50"
       ],
       "navn": {
-        "nor": "Leka"
+        "nob": "Leka"
       }
     },
     {
@@ -7777,7 +7777,7 @@
         "AO-18-45"
       ],
       "navn": {
-        "nor": "Bodø"
+        "nob": "Bodø"
       }
     },
     {
@@ -7802,7 +7802,7 @@
         "AO-19-22"
       ],
       "navn": {
-        "nor": "Narvik kommune"
+        "nob": "Narvik kommune"
       }
     },
     {
@@ -7830,7 +7830,7 @@
         "AO-50-46"
       ],
       "navn": {
-        "nor": "Bindal"
+        "nob": "Bindal"
       }
     },
     {
@@ -7851,7 +7851,7 @@
         "AO-18-13"
       ],
       "navn": {
-        "nor": "Sømna"
+        "nob": "Sømna"
       }
     },
     {
@@ -7878,7 +7878,7 @@
         "AO-18-25"
       ],
       "navn": {
-        "nor": "Brønnøy"
+        "nob": "Brønnøy"
       }
     },
     {
@@ -7904,7 +7904,7 @@
         "AO-18-20"
       ],
       "navn": {
-        "nor": "Vega"
+        "nob": "Vega"
       }
     },
     {
@@ -7927,7 +7927,7 @@
         "AO-18-24"
       ],
       "navn": {
-        "nor": "Vevelstad"
+        "nob": "Vevelstad"
       }
     },
     {
@@ -7950,7 +7950,7 @@
         "AO-18-27"
       ],
       "navn": {
-        "nor": "Herøy"
+        "nob": "Herøy"
       }
     },
     {
@@ -7977,7 +7977,7 @@
         "AO-18-27"
       ],
       "navn": {
-        "nor": "Alstahaug"
+        "nob": "Alstahaug"
       }
     },
     {
@@ -8004,7 +8004,7 @@
         "AO-18-33"
       ],
       "navn": {
-        "nor": "Leirfjord"
+        "nob": "Leirfjord"
       }
     },
     {
@@ -8032,7 +8032,7 @@
         "AO-18-32"
       ],
       "navn": {
-        "nor": "Vefsn"
+        "nob": "Vefsn"
       }
     },
     {
@@ -8057,7 +8057,7 @@
         "AO-50-44"
       ],
       "navn": {
-        "nor": "Grane"
+        "nob": "Grane"
       }
     },
     {
@@ -8080,7 +8080,7 @@
         "AO-18-32"
       ],
       "navn": {
-        "nor": "Hattfjelldal"
+        "nob": "Hattfjelldal"
       }
     },
     {
@@ -8107,7 +8107,7 @@
         "AO-18-35"
       ],
       "navn": {
-        "nor": "Dønna"
+        "nob": "Dønna"
       },
       "osm": "408219"
     },
@@ -8133,7 +8133,7 @@
         "AO-18-34"
       ],
       "navn": {
-        "nor": "Nesna"
+        "nob": "Nesna"
       }
     },
     {
@@ -8156,7 +8156,7 @@
         "AO-18-33"
       ],
       "navn": {
-        "nor": "Hemnes"
+        "nob": "Hemnes"
       }
     },
     {
@@ -8183,7 +8183,7 @@
         "AO-18-40"
       ],
       "navn": {
-        "nor": "Rana"
+        "nob": "Rana"
       }
     },
     {
@@ -8207,7 +8207,7 @@
         "AO-18-36"
       ],
       "navn": {
-        "nor": "Lurøy"
+        "nob": "Lurøy"
       }
     },
     {
@@ -8231,7 +8231,7 @@
         "AO-18-36"
       ],
       "navn": {
-        "nor": "Træna"
+        "nob": "Træna"
       }
     },
     {
@@ -8254,7 +8254,7 @@
         "AO-18-37"
       ],
       "navn": {
-        "nor": "Rødøy"
+        "nob": "Rødøy"
       }
     },
     {
@@ -8279,7 +8279,7 @@
         "AO-18-39"
       ],
       "navn": {
-        "nor": "Meløy"
+        "nob": "Meløy"
       }
     },
     {
@@ -8301,7 +8301,7 @@
         "AO-18-39"
       ],
       "navn": {
-        "nor": "Gildeskål"
+        "nob": "Gildeskål"
       }
     },
     {
@@ -8325,7 +8325,7 @@
         "AO-18-40"
       ],
       "navn": {
-        "nor": "Beiarn"
+        "nob": "Beiarn"
       }
     },
     {
@@ -8348,7 +8348,7 @@
         "AO-18-41"
       ],
       "navn": {
-        "nor": "Saltdal"
+        "nob": "Saltdal"
       }
     },
     {
@@ -8374,7 +8374,7 @@
         "AO-18-45"
       ],
       "navn": {
-        "nor": "Fauske"
+        "nob": "Fauske"
       }
     },
     {
@@ -8398,7 +8398,7 @@
         "AO-18-49"
       ],
       "navn": {
-        "nor": "Sørfold"
+        "nob": "Sørfold"
       }
     },
     {
@@ -8419,7 +8419,7 @@
         "AO-18-49"
       ],
       "navn": {
-        "nor": "Steigen"
+        "nob": "Steigen"
       }
     },
     {
@@ -8443,7 +8443,7 @@
         "AO-18-50"
       ],
       "navn": {
-        "nor": "Hamarøy"
+        "nob": "Hamarøy"
       }
     },
     {
@@ -8464,7 +8464,7 @@
         "AO-18-54"
       ],
       "navn": {
-        "nor": "Tysfjord"
+        "nob": "Tysfjord"
       }
     },
     {
@@ -8488,7 +8488,7 @@
         "AO-19-11"
       ],
       "navn": {
-        "nor": "Lødingen"
+        "nob": "Lødingen"
       }
     },
     {
@@ -8513,7 +8513,7 @@
         "AO-19-13"
       ],
       "navn": {
-        "nor": "Tjeldsund"
+        "nob": "Tjeldsund"
       }
     },
     {
@@ -8536,7 +8536,7 @@
         "AO-19-13"
       ],
       "navn": {
-        "nor": "Evenes"
+        "nob": "Evenes"
       }
     },
     {
@@ -8559,7 +8559,7 @@
         "AO-18-53"
       ],
       "navn": {
-        "nor": "Ballangen"
+        "nob": "Ballangen"
       }
     },
     {
@@ -8583,7 +8583,7 @@
         "AO-18-57"
       ],
       "navn": {
-        "nor": "Røst"
+        "nob": "Røst"
       }
     },
     {
@@ -8606,7 +8606,7 @@
         "AO-18-74"
       ],
       "navn": {
-        "nor": "Værøy"
+        "nob": "Værøy"
       }
     },
     {
@@ -8627,7 +8627,7 @@
         "AO-18-74"
       ],
       "navn": {
-        "nor": "Flakstad"
+        "nob": "Flakstad"
       }
     },
     {
@@ -8650,7 +8650,7 @@
         "AO-18-65"
       ],
       "navn": {
-        "nor": "Vestvågøy"
+        "nob": "Vestvågøy"
       }
     },
     {
@@ -8672,7 +8672,7 @@
         "AO-18-66"
       ],
       "navn": {
-        "nor": "Vågan"
+        "nob": "Vågan"
       }
     },
     {
@@ -8697,7 +8697,7 @@
         "AO-18-70"
       ],
       "navn": {
-        "nor": "Hadsel"
+        "nob": "Hadsel"
       }
     },
     {
@@ -8720,7 +8720,7 @@
         "AO-18-70"
       ],
       "navn": {
-        "nor": "Bø"
+        "nob": "Bø"
       },
       "osm": "408482"
     },
@@ -8743,7 +8743,7 @@
         "AO-18-71"
       ],
       "navn": {
-        "nor": "Øksnes"
+        "nob": "Øksnes"
       }
     },
     {
@@ -8768,7 +8768,7 @@
         "AO-19-11"
       ],
       "navn": {
-        "nor": "Sortland"
+        "nob": "Sortland"
       }
     },
     {
@@ -8794,7 +8794,7 @@
         "AO-19-28"
       ],
       "navn": {
-        "nor": "Andøy"
+        "nob": "Andøy"
       },
       "osm": "408160"
     },
@@ -8820,7 +8820,7 @@
         "AO-18-59"
       ],
       "navn": {
-        "nor": "Moskenes"
+        "nob": "Moskenes"
       }
     },
     {
@@ -8848,7 +8848,7 @@
         "AO-19-39"
       ],
       "navn": {
-        "nor": "Tromsø"
+        "nob": "Tromsø"
       }
     },
     {
@@ -8877,7 +8877,7 @@
         "AO-19-27"
       ],
       "navn": {
-        "nor": "Harstad"
+        "nob": "Harstad"
       }
     },
     {
@@ -8902,7 +8902,7 @@
         "AO-19-03"
       ],
       "navn": {
-        "nor": "Kvæfjord"
+        "nob": "Kvæfjord"
       }
     },
     {
@@ -8929,7 +8929,7 @@
         "AO-19-19"
       ],
       "navn": {
-        "nor": "Skånland"
+        "nob": "Skånland"
       }
     },
     {
@@ -8957,7 +8957,7 @@
         "AO-19-27"
       ],
       "navn": {
-        "nor": "Ibestad"
+        "nob": "Ibestad"
       }
     },
     {
@@ -8982,7 +8982,7 @@
         "AO-19-20"
       ],
       "navn": {
-        "nor": "Gratangen"
+        "nob": "Gratangen"
       },
       "osm": "407765"
     },
@@ -9009,7 +9009,7 @@
         "AO-19-23"
       ],
       "navn": {
-        "nor": "Lavangen"
+        "nob": "Lavangen"
       },
       "osm": "407764"
     },
@@ -9036,7 +9036,7 @@
         "AO-19-25"
       ],
       "navn": {
-        "nor": "Bardu"
+        "nob": "Bardu"
       }
     },
     {
@@ -9062,7 +9062,7 @@
         "AO-19-26"
       ],
       "navn": {
-        "nor": "Salangen"
+        "nob": "Salangen"
       },
       "osm": "407763"
     },
@@ -9089,7 +9089,7 @@
         "AO-19-39"
       ],
       "navn": {
-        "nor": "Målselv"
+        "nob": "Målselv"
       }
     },
     {
@@ -9113,7 +9113,7 @@
         "AO-19-31"
       ],
       "navn": {
-        "nor": "Sørreisa"
+        "nob": "Sørreisa"
       }
     },
     {
@@ -9138,7 +9138,7 @@
         "AO-19-27"
       ],
       "navn": {
-        "nor": "Dyrøy"
+        "nob": "Dyrøy"
       },
       "osm": "407762"
     },
@@ -9167,7 +9167,7 @@
         "AO-19-31"
       ],
       "navn": {
-        "nor": "Tranøy"
+        "nob": "Tranøy"
       }
     },
     {
@@ -9191,7 +9191,7 @@
         "AO-19-29"
       ],
       "navn": {
-        "nor": "Torsken"
+        "nob": "Torsken"
       }
     },
     {
@@ -9215,7 +9215,7 @@
         "AO-19-31"
       ],
       "navn": {
-        "nor": "Berg"
+        "nob": "Berg"
       }
     },
     {
@@ -9242,7 +9242,7 @@
         "AO-19-33"
       ],
       "navn": {
-        "nor": "Lenvik"
+        "nob": "Lenvik"
       }
     },
     {
@@ -9267,7 +9267,7 @@
         "AO-19-39"
       ],
       "navn": {
-        "nor": "Balsfjord"
+        "nob": "Balsfjord"
       }
     },
     {
@@ -9293,7 +9293,7 @@
         "AO-19-41"
       ],
       "navn": {
-        "nor": "Karlsøy"
+        "nob": "Karlsøy"
       }
     },
     {
@@ -9322,7 +9322,7 @@
         "AO-19-42"
       ],
       "navn": {
-        "nor": "Lyngen"
+        "nob": "Lyngen"
       }
     },
     {
@@ -9348,7 +9348,7 @@
         "AO-19-40"
       ],
       "navn": {
-        "nor": "Storfjord"
+        "nob": "Storfjord"
       }
     },
     {
@@ -9372,7 +9372,7 @@
         "AO-19-42"
       ],
       "navn": {
-        "nor": "Kåfjord"
+        "nob": "Kåfjord"
       }
     },
     {
@@ -9396,7 +9396,7 @@
         "AO-20-14"
       ],
       "navn": {
-        "nor": "Skjervøy"
+        "nob": "Skjervøy"
       }
     },
     {
@@ -9422,7 +9422,7 @@
         "AO-20-11"
       ],
       "navn": {
-        "nor": "Nordreisa"
+        "nob": "Nordreisa"
       }
     },
     {
@@ -9448,7 +9448,7 @@
         "AO-20-14"
       ],
       "navn": {
-        "nor": "Kvænangen"
+        "nob": "Kvænangen"
       }
     },
     {
@@ -9473,7 +9473,7 @@
         "AO-20-28"
       ],
       "navn": {
-        "nor": "Vardø"
+        "nob": "Vardø"
       }
     },
     {
@@ -9503,7 +9503,7 @@
         "AO-20-30"
       ],
       "navn": {
-        "nor": "Vadsø"
+        "nob": "Vadsø"
       }
     },
     {
@@ -9527,7 +9527,7 @@
         "AO-20-17"
       ],
       "navn": {
-        "nor": "Hammerfest"
+        "nob": "Hammerfest"
       }
     },
     {
@@ -9554,7 +9554,7 @@
         "AO-20-21"
       ],
       "navn": {
-        "nor": "Kautokeino"
+        "nob": "Kautokeino"
       }
     },
     {
@@ -9585,7 +9585,7 @@
         "AO-20-21"
       ],
       "navn": {
-        "nor": "Alta"
+        "nob": "Alta"
       }
     },
     {
@@ -9611,7 +9611,7 @@
         "AO-20-15"
       ],
       "navn": {
-        "nor": "Loppa"
+        "nob": "Loppa"
       }
     },
     {
@@ -9633,7 +9633,7 @@
         "AO-20-14"
       ],
       "navn": {
-        "nor": "Hasvik"
+        "nob": "Hasvik"
       }
     },
     {
@@ -9658,7 +9658,7 @@
         "AO-20-20"
       ],
       "navn": {
-        "nor": "Kvalsund"
+        "nob": "Kvalsund"
       }
     },
     {
@@ -9683,7 +9683,7 @@
         "AO-20-20"
       ],
       "navn": {
-        "nor": "Måsøy"
+        "nob": "Måsøy"
       }
     },
     {
@@ -9708,7 +9708,7 @@
         "AO-20-22"
       ],
       "navn": {
-        "nor": "Nordkapp"
+        "nob": "Nordkapp"
       }
     },
     {
@@ -9737,7 +9737,7 @@
         "AO-20-25"
       ],
       "navn": {
-        "nor": "Porsanger"
+        "nob": "Porsanger"
       }
     },
     {
@@ -9764,7 +9764,7 @@
         "AO-20-25"
       ],
       "navn": {
-        "nor": "Karasjok"
+        "nob": "Karasjok"
       }
     },
     {
@@ -9789,7 +9789,7 @@
         "AO-20-25"
       ],
       "navn": {
-        "nor": "Lebesby"
+        "nob": "Lebesby"
       }
     },
     {
@@ -9812,7 +9812,7 @@
         "AO-20-25"
       ],
       "navn": {
-        "nor": "Gamvik"
+        "nob": "Gamvik"
       }
     },
     {
@@ -9834,7 +9834,7 @@
         "AO-20-28"
       ],
       "navn": {
-        "nor": "Berlevåg"
+        "nob": "Berlevåg"
       }
     },
     {
@@ -9866,7 +9866,7 @@
         "AO-20-28"
       ],
       "navn": {
-        "nor": "Tana"
+        "nob": "Tana"
       }
     },
     {
@@ -9888,7 +9888,7 @@
         "AO-20-30"
       ],
       "navn": {
-        "nor": "Nesseby"
+        "nob": "Nesseby"
       }
     },
     {
@@ -9916,7 +9916,7 @@
         "AO-20-25"
       ],
       "navn": {
-        "nor": "Båtsfjord"
+        "nob": "Båtsfjord"
       }
     },
     {
@@ -9940,7 +9940,7 @@
         "AO-20-27"
       ],
       "navn": {
-        "nor": "Sør-Varanger"
+        "nob": "Sør-Varanger"
       }
     },
     {
@@ -9963,7 +9963,7 @@
         "AO-50-54"
       ],
       "navn": {
-        "nor": "Trondheim kommune"
+        "nob": "Trondheim kommune"
       }
     },
     {
@@ -9990,7 +9990,7 @@
         "AO-50-49"
       ],
       "navn": {
-        "nor": "Namsos"
+        "nob": "Namsos"
       }
     },
     {
@@ -10013,7 +10013,7 @@
         "AO-50-24"
       ],
       "navn": {
-        "nor": "Snillfjord"
+        "nob": "Snillfjord"
       }
     },
     {
@@ -10041,7 +10041,7 @@
         "AO-50-16"
       ],
       "navn": {
-        "nor": "Hitra"
+        "nob": "Hitra"
       }
     },
     {
@@ -10064,7 +10064,7 @@
         "AO-50-17"
       ],
       "navn": {
-        "nor": "Frøya"
+        "nob": "Frøya"
       }
     },
     {
@@ -10088,7 +10088,7 @@
         "AO-50-54"
       ],
       "navn": {
-        "nor": "Agdenes"
+        "nob": "Agdenes"
       }
     },
     {
@@ -10113,7 +10113,7 @@
         "AO-50-54"
       ],
       "navn": {
-        "nor": "Bjugn"
+        "nob": "Bjugn"
       },
       "osm": "405279"
     },
@@ -10140,7 +10140,7 @@
         "AO-50-54"
       ],
       "navn": {
-        "nor": "Åfjord"
+        "nob": "Åfjord"
       },
       "osm": "405298"
     },
@@ -10163,7 +10163,7 @@
         "AO-50-40"
       ],
       "navn": {
-        "nor": "Roan"
+        "nob": "Roan"
       }
     },
     {
@@ -10187,7 +10187,7 @@
         "AO-50-61"
       ],
       "navn": {
-        "nor": "Rennebu"
+        "nob": "Rennebu"
       }
     },
     {
@@ -10211,7 +10211,7 @@
         "AO-50-61"
       ],
       "navn": {
-        "nor": "Meldal"
+        "nob": "Meldal"
       }
     },
     {
@@ -10237,7 +10237,7 @@
         "AO-50-61"
       ],
       "navn": {
-        "nor": "Orkdal"
+        "nob": "Orkdal"
       }
     },
     {
@@ -10265,7 +10265,7 @@
         "AO-50-26"
       ],
       "navn": {
-        "nor": "Røros"
+        "nob": "Røros"
       }
     },
     {
@@ -10289,7 +10289,7 @@
         "AO-50-32"
       ],
       "navn": {
-        "nor": "Holtålen"
+        "nob": "Holtålen"
       },
       "osm": "406477"
     },
@@ -10316,7 +10316,7 @@
         "AO-50-32"
       ],
       "navn": {
-        "nor": "Midtre Gauldal"
+        "nob": "Midtre Gauldal"
       },
       "osm": "406476"
     },
@@ -10347,7 +10347,7 @@
         "AO-50-32"
       ],
       "navn": {
-        "nor": "Melhus"
+        "nob": "Melhus"
       }
     },
     {
@@ -10369,7 +10369,7 @@
         "AO-50-28"
       ],
       "navn": {
-        "nor": "Skaun"
+        "nob": "Skaun"
       }
     },
     {
@@ -10391,7 +10391,7 @@
         "AO-50-32"
       ],
       "navn": {
-        "nor": "Klæbu"
+        "nob": "Klæbu"
       }
     },
     {
@@ -10415,7 +10415,7 @@
         "AO-50-32"
       ],
       "navn": {
-        "nor": "Malvik"
+        "nob": "Malvik"
       }
     },
     {
@@ -10442,7 +10442,7 @@
         "AO-50-34"
       ],
       "navn": {
-        "nor": "Selbu"
+        "nob": "Selbu"
       }
     },
     {
@@ -10465,7 +10465,7 @@
         "AO-50-38"
       ],
       "navn": {
-        "nor": "Meråker"
+        "nob": "Meråker"
       },
       "osm": "407292"
     },
@@ -10490,7 +10490,7 @@
         "AO-50-54"
       ],
       "navn": {
-        "nor": "Frosta"
+        "nob": "Frosta"
       },
       "osm": "407287"
     },
@@ -10516,7 +10516,7 @@
         "AO-50-53"
       ],
       "navn": {
-        "nor": "Levanger"
+        "nob": "Levanger"
       }
     },
     {
@@ -10540,7 +10540,7 @@
         "AO-50-53"
       ],
       "navn": {
-        "nor": "Verdal"
+        "nob": "Verdal"
       }
     },
     {
@@ -10564,7 +10564,7 @@
         "AO-50-54"
       ],
       "navn": {
-        "nor": "Verran"
+        "nob": "Verran"
       }
     },
     {
@@ -10590,7 +10590,7 @@
         "AO-50-49"
       ],
       "navn": {
-        "nor": "Namdalseid"
+        "nob": "Namdalseid"
       },
       "osm": "407246"
     },
@@ -10615,7 +10615,7 @@
         "AO-50-42"
       ],
       "navn": {
-        "nor": "Snåsa"
+        "nob": "Snåsa"
       },
       "osm": "407273"
     },
@@ -10638,7 +10638,7 @@
         "AO-50-41"
       ],
       "navn": {
-        "nor": "Lierne"
+        "nob": "Lierne"
       }
     },
     {
@@ -10662,7 +10662,7 @@
         "AO-50-46"
       ],
       "navn": {
-        "nor": "Namsskogan"
+        "nob": "Namsskogan"
       },
       "osm": "407201"
     },
@@ -10688,7 +10688,7 @@
         "AO-50-48"
       ],
       "navn": {
-        "nor": "Høylandet"
+        "nob": "Høylandet"
       },
       "osm": "407200"
     },
@@ -10715,7 +10715,7 @@
         "AO-50-50"
       ],
       "navn": {
-        "nor": "Fosnes"
+        "nob": "Fosnes"
       },
       "osm": "407205"
     },
@@ -10741,7 +10741,7 @@
         "AO-50-50"
       ],
       "navn": {
-        "nor": "Flatanger"
+        "nob": "Flatanger"
       },
       "osm": "407245"
     },
@@ -10765,7 +10765,7 @@
         "AO-50-49"
       ],
       "navn": {
-        "nor": "Vikna"
+        "nob": "Vikna"
       }
     },
     {
@@ -10789,7 +10789,7 @@
         "AO-50-54"
       ],
       "navn": {
-        "nor": "Inderøy"
+        "nob": "Inderøy"
       },
       "osm": "2167163"
     },
@@ -10817,7 +10817,7 @@
         "AO-50-53"
       ],
       "navn": {
-        "nor": "Indre Fosen"
+        "nob": "Indre Fosen"
       }
     },
     {
@@ -10842,13 +10842,13 @@
         "AO-50-24"
       ],
       "navn": {
-        "nor": "Rindal"
+        "nob": "Rindal"
       }
     }
   ],
   "meta": {
     "tittel": "Kommune",
-    "produsertUtc": "2019-05-03T14:45:37.064Z",
+    "produsertUtc": "2019-05-04T07:35:51.168Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/kommune-data/master/kommune.json",
     "tool": {
