@@ -2,16 +2,6 @@
   "items": [
     {
       "autorkode": "01",
-      "bilde": {
-        "banner": [
-          "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%98stfold%20banner.jpg"
-        ],
-        "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%98stfold%20v%C3%A5pen.svg",
-        "foto": [
-          "http://commons.wikimedia.org/wiki/Special:FilePath/R%C3%B8denes%202006.jpg"
-        ]
-      },
-      "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20%C3%98stfold.svg",
       "geografi": {
         "areal": 5079000516,
         "bbox": [
@@ -30,22 +20,22 @@
         "wikidata": "http://www.wikidata.org/entity/Q50614",
         "wikipedia": "https://no.wikipedia.org/wiki/%C3%98stfold"
       },
+      "mediakilde": {
+        "banner": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%98stfold%20banner.jpg"
+        ],
+        "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%98stfold%20v%C3%A5pen.svg",
+        "flagg": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20%C3%98stfold.svg",
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/R%C3%B8denes%202006.jpg"
+        ]
+      },
       "navn": {
         "nob": "Østfold"
       }
     },
     {
       "autorkode": "02",
-      "bilde": {
-        "banner": [
-          "http://commons.wikimedia.org/wiki/Special:FilePath/Akershus%20banner.JPG"
-        ],
-        "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Akershus%20v%C3%A5pen.svg",
-        "foto": [
-          "http://commons.wikimedia.org/wiki/Special:FilePath/LKS%20Foto%20Anders%20Rodem.jpg"
-        ]
-      },
-      "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Akershus.svg",
       "geografi": {
         "areal": 5086076673,
         "bbox": [
@@ -68,23 +58,23 @@
         "wikidata": "http://www.wikidata.org/entity/Q50615",
         "wikipedia": "https://no.wikipedia.org/wiki/Akershus"
       },
+      "mediakilde": {
+        "banner": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Akershus%20banner.JPG"
+        ],
+        "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Akershus%20v%C3%A5pen.svg",
+        "flagg": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Akershus.svg",
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/LKS%20Foto%20Anders%20Rodem.jpg"
+        ]
+      },
       "navn": {
         "nob": "Akershus"
       }
     },
     {
       "autorkode": "03",
-      "bilde": {
-        "banner": [
-          "http://commons.wikimedia.org/wiki/Special:FilePath/Oslo%20banner%20Akershus%20castle.jpg"
-        ],
-        "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Oslo%20komm.svg",
-        "foto": [
-          "http://commons.wikimedia.org/wiki/Special:FilePath/Oslo%20city%20in%2010%20images.jpg"
-        ]
-      },
       "elevation": 23,
-      "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Oslo.svg",
       "geografi": {
         "areal": 481034629,
         "bbox": [
@@ -106,6 +96,16 @@
         "wikidata": "http://www.wikidata.org/entity/Q585",
         "wikipedia": "https://no.wikipedia.org/wiki/Oslo"
       },
+      "mediakilde": {
+        "banner": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Oslo%20banner%20Akershus%20castle.jpg"
+        ],
+        "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Oslo%20komm.svg",
+        "flagg": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Oslo.svg",
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Oslo%20city%20in%2010%20images.jpg"
+        ]
+      },
       "navn": {
         "nob": "Oslo"
       },
@@ -113,16 +113,6 @@
     },
     {
       "autorkode": "04",
-      "bilde": {
-        "banner": [
-          "http://commons.wikimedia.org/wiki/Special:FilePath/Skibladner%20Moelv%20brygge%20banner.jpg"
-        ],
-        "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Hedmark%20v%C3%A5pen.svg",
-        "foto": [
-          "http://commons.wikimedia.org/wiki/Special:FilePath/Fjellandskap%20Os%20%28896500191%29.jpg"
-        ]
-      },
-      "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Hedmark.svg",
       "geografi": {
         "areal": 27401108100,
         "bbox": [
@@ -144,20 +134,22 @@
         "wikidata": "http://www.wikidata.org/entity/Q50616",
         "wikipedia": "https://no.wikipedia.org/wiki/Hedmark"
       },
+      "mediakilde": {
+        "banner": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Skibladner%20Moelv%20brygge%20banner.jpg"
+        ],
+        "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Hedmark%20v%C3%A5pen.svg",
+        "flagg": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Hedmark.svg",
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Fjellandskap%20Os%20%28896500191%29.jpg"
+        ]
+      },
       "navn": {
         "nob": "Hedmark"
       }
     },
     {
       "autorkode": "05",
-      "bilde": {
-        "banner": [
-          "http://commons.wikimedia.org/wiki/Special:FilePath/Oppland%20banner.jpg"
-        ],
-        "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Oppland%20v%C3%A5pen.svg",
-        "foto": []
-      },
-      "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Oppland.svg",
       "geografi": {
         "areal": 25228797402,
         "bbox": [
@@ -183,22 +175,20 @@
         "wikidata": "http://www.wikidata.org/entity/Q50617",
         "wikipedia": "https://no.wikipedia.org/wiki/Oppland"
       },
+      "mediakilde": {
+        "banner": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Oppland%20banner.jpg"
+        ],
+        "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Oppland%20v%C3%A5pen.svg",
+        "flagg": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Oppland.svg",
+        "foto": []
+      },
       "navn": {
         "nob": "Oppland"
       }
     },
     {
       "autorkode": "06",
-      "bilde": {
-        "banner": [
-          "http://commons.wikimedia.org/wiki/Special:FilePath/Uvdal%20stavkirke%20banner.jpg"
-        ],
-        "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Buskerud%20v%C3%A5pen.svg",
-        "foto": [
-          "http://commons.wikimedia.org/wiki/Special:FilePath/Villa%20Fridheim%2C%20Kr%C3%B8deren%2C%202.jpg"
-        ]
-      },
-      "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Buskerud.svg",
       "geografi": {
         "areal": 15081268447,
         "bbox": [
@@ -223,22 +213,22 @@
         "wikidata": "http://www.wikidata.org/entity/Q50618",
         "wikipedia": "https://no.wikipedia.org/wiki/Buskerud"
       },
+      "mediakilde": {
+        "banner": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Uvdal%20stavkirke%20banner.jpg"
+        ],
+        "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Buskerud%20v%C3%A5pen.svg",
+        "flagg": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Buskerud.svg",
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Villa%20Fridheim%2C%20Kr%C3%B8deren%2C%202.jpg"
+        ]
+      },
       "navn": {
         "nob": "Buskerud"
       }
     },
     {
       "autorkode": "07",
-      "bilde": {
-        "banner": [
-          "http://commons.wikimedia.org/wiki/Special:FilePath/Vestfold%20banner.jpg"
-        ],
-        "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Vestfold%20v%C3%A5pen.svg",
-        "foto": [
-          "http://commons.wikimedia.org/wiki/Special:FilePath/N%C3%B8tter%C3%B8y%20jordbrukslandskap%202.JPG"
-        ]
-      },
-      "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Vestfold.svg",
       "geografi": {
         "areal": 4123263579,
         "bbox": [
@@ -258,22 +248,22 @@
         "wikidata": "http://www.wikidata.org/entity/Q50619",
         "wikipedia": "https://no.wikipedia.org/wiki/Vestfold"
       },
+      "mediakilde": {
+        "banner": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Vestfold%20banner.jpg"
+        ],
+        "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Vestfold%20v%C3%A5pen.svg",
+        "flagg": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Vestfold.svg",
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/N%C3%B8tter%C3%B8y%20jordbrukslandskap%202.JPG"
+        ]
+      },
       "navn": {
         "nob": "Vestfold"
       }
     },
     {
       "autorkode": "08",
-      "bilde": {
-        "banner": [
-          "http://commons.wikimedia.org/wiki/Special:FilePath/Telemark%20banner.jpg"
-        ],
-        "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Telemark%20v%C3%A5pen.svg",
-        "foto": [
-          "http://commons.wikimedia.org/wiki/Special:FilePath/Rjukan%20Gaustatoppen.jpg"
-        ]
-      },
-      "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Telemark.svg",
       "geografi": {
         "areal": 16197565186,
         "bbox": [
@@ -296,22 +286,22 @@
         "wikidata": "http://www.wikidata.org/entity/Q2254",
         "wikipedia": "https://no.wikipedia.org/wiki/Telemark"
       },
+      "mediakilde": {
+        "banner": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Telemark%20banner.jpg"
+        ],
+        "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Telemark%20v%C3%A5pen.svg",
+        "flagg": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Telemark.svg",
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Rjukan%20Gaustatoppen.jpg"
+        ]
+      },
       "navn": {
         "nob": "Telemark"
       }
     },
     {
       "autorkode": "09",
-      "bilde": {
-        "banner": [
-          "http://commons.wikimedia.org/wiki/Special:FilePath/Aust-Agder%20banner.jpg"
-        ],
-        "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Aust-Agder%20v%C3%A5pen.svg",
-        "foto": [
-          "http://commons.wikimedia.org/wiki/Special:FilePath/MyrVannSkog.jpg"
-        ]
-      },
-      "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Aust-Agder.svg",
       "geografi": {
         "areal": 11925099072,
         "bbox": [
@@ -332,22 +322,22 @@
         "wikidata": "http://www.wikidata.org/entity/Q50621",
         "wikipedia": "https://no.wikipedia.org/wiki/Aust-Agder"
       },
+      "mediakilde": {
+        "banner": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Aust-Agder%20banner.jpg"
+        ],
+        "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Aust-Agder%20v%C3%A5pen.svg",
+        "flagg": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Aust-Agder.svg",
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/MyrVannSkog.jpg"
+        ]
+      },
       "navn": {
         "nob": "Aust-Agder"
       }
     },
     {
       "autorkode": "10",
-      "bilde": {
-        "banner": [
-          "http://commons.wikimedia.org/wiki/Special:FilePath/Vest-Agder%20banner.jpg"
-        ],
-        "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Vest-Agder%20v%C3%A5pen.svg",
-        "foto": [
-          "http://commons.wikimedia.org/wiki/Special:FilePath/Lindesnes%20Fyr.jpg"
-        ]
-      },
-      "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Vest-Agder.svg",
       "geografi": {
         "areal": 11132202791,
         "bbox": [
@@ -367,22 +357,22 @@
         "wikidata": "http://www.wikidata.org/entity/Q50623",
         "wikipedia": "https://no.wikipedia.org/wiki/Vest-Agder"
       },
+      "mediakilde": {
+        "banner": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Vest-Agder%20banner.jpg"
+        ],
+        "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Vest-Agder%20v%C3%A5pen.svg",
+        "flagg": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Vest-Agder.svg",
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Lindesnes%20Fyr.jpg"
+        ]
+      },
       "navn": {
         "nob": "Vest-Agder"
       }
     },
     {
       "autorkode": "11",
-      "bilde": {
-        "banner": [
-          "http://commons.wikimedia.org/wiki/Special:FilePath/Preikestolen%20banner.jpg"
-        ],
-        "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Rogaland%20v%C3%A5pen.svg",
-        "foto": [
-          "http://commons.wikimedia.org/wiki/Special:FilePath/Obrestad%20fyr%20utsiktspunkt%20%28light%20house%29.jpg"
-        ]
-      },
-      "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Rogaland.svg",
       "geografi": {
         "areal": 16630501635,
         "bbox": [
@@ -404,22 +394,22 @@
         "wikidata": "http://www.wikidata.org/entity/Q50624",
         "wikipedia": "https://no.wikipedia.org/wiki/Rogaland"
       },
+      "mediakilde": {
+        "banner": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Preikestolen%20banner.jpg"
+        ],
+        "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Rogaland%20v%C3%A5pen.svg",
+        "flagg": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Rogaland.svg",
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Obrestad%20fyr%20utsiktspunkt%20%28light%20house%29.jpg"
+        ]
+      },
       "navn": {
         "nob": "Rogaland"
       }
     },
     {
       "autorkode": "12",
-      "bilde": {
-        "banner": [
-          "http://commons.wikimedia.org/wiki/Special:FilePath/UlvikfjordMountains%20banner.jpg"
-        ],
-        "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Hordaland%20v%C3%A5pen.svg",
-        "foto": [
-          "http://commons.wikimedia.org/wiki/Special:FilePath/Ulvik%20March%202009.jpg"
-        ]
-      },
-      "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Hordaland.svg",
       "geografi": {
         "areal": 22810783588,
         "bbox": [
@@ -441,22 +431,22 @@
         "wikidata": "http://www.wikidata.org/entity/Q50625",
         "wikipedia": "https://no.wikipedia.org/wiki/Hordaland"
       },
+      "mediakilde": {
+        "banner": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/UlvikfjordMountains%20banner.jpg"
+        ],
+        "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Hordaland%20v%C3%A5pen.svg",
+        "flagg": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Hordaland.svg",
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Ulvik%20March%202009.jpg"
+        ]
+      },
       "navn": {
         "nob": "Hordaland"
       }
     },
     {
       "autorkode": "14",
-      "bilde": {
-        "banner": [
-          "http://commons.wikimedia.org/wiki/Special:FilePath/Oppstrynsvatnet%20banner.jpg"
-        ],
-        "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Sogn%20og%20Fjordane%20v%C3%A5pen.svg",
-        "foto": [
-          "http://commons.wikimedia.org/wiki/Special:FilePath/Frahafstadfjellet.jpg"
-        ]
-      },
-      "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Sogn%20og%20Fjordane.svg",
       "geografi": {
         "areal": 27241951895,
         "bbox": [
@@ -478,22 +468,22 @@
         "wikidata": "http://www.wikidata.org/entity/Q50626",
         "wikipedia": "https://no.wikipedia.org/wiki/Sogn_og_Fjordane"
       },
+      "mediakilde": {
+        "banner": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Oppstrynsvatnet%20banner.jpg"
+        ],
+        "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Sogn%20og%20Fjordane%20v%C3%A5pen.svg",
+        "flagg": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Sogn%20og%20Fjordane.svg",
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Frahafstadfjellet.jpg"
+        ]
+      },
       "navn": {
         "nob": "Sogn og Fjordane"
       }
     },
     {
       "autorkode": "15",
-      "bilde": {
-        "banner": [
-          "http://commons.wikimedia.org/wiki/Special:FilePath/Romsdalsfjorden%20banner.jpg"
-        ],
-        "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/M%C3%B8re%20og%20Romsdal%20v%C3%A5pen.svg",
-        "foto": [
-          "http://commons.wikimedia.org/wiki/Special:FilePath/Vartdal.jpg"
-        ]
-      },
-      "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20M%C3%B8re%20og%20Romsdal.svg",
       "geografi": {
         "areal": 25745269023,
         "bbox": [
@@ -515,22 +505,22 @@
         "wikidata": "http://www.wikidata.org/entity/Q50627",
         "wikipedia": "https://no.wikipedia.org/wiki/M%C3%B8re_og_Romsdal"
       },
+      "mediakilde": {
+        "banner": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Romsdalsfjorden%20banner.jpg"
+        ],
+        "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/M%C3%B8re%20og%20Romsdal%20v%C3%A5pen.svg",
+        "flagg": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20M%C3%B8re%20og%20Romsdal.svg",
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Vartdal.jpg"
+        ]
+      },
       "navn": {
         "nob": "Møre og Romsdal"
       }
     },
     {
       "autorkode": "18",
-      "bilde": {
-        "banner": [
-          "http://commons.wikimedia.org/wiki/Special:FilePath/Norrland%20Wikivoyage%20banner.jpg"
-        ],
-        "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Nordland%20v%C3%A5pen.svg",
-        "foto": [
-          "http://commons.wikimedia.org/wiki/Special:FilePath/Berge%20Sieben%20Schwestern%20Norwegen.jpg"
-        ]
-      },
-      "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Nordland.svg",
       "geografi": {
         "areal": 80951741763,
         "bbox": [
@@ -551,22 +541,22 @@
         "wikidata": "http://www.wikidata.org/entity/Q50630",
         "wikipedia": "https://no.wikipedia.org/wiki/Nordland"
       },
+      "mediakilde": {
+        "banner": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Norrland%20Wikivoyage%20banner.jpg"
+        ],
+        "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Nordland%20v%C3%A5pen.svg",
+        "flagg": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Nordland.svg",
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Berge%20Sieben%20Schwestern%20Norwegen.jpg"
+        ]
+      },
       "navn": {
         "nob": "Nordland"
       }
     },
     {
       "autorkode": "19",
-      "bilde": {
-        "banner": [
-          "http://commons.wikimedia.org/wiki/Special:FilePath/Havnnes%20banner.jpg"
-        ],
-        "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Troms%20v%C3%A5pen.svg",
-        "foto": [
-          "http://commons.wikimedia.org/wiki/Special:FilePath/Arn%C3%B8yh%C3%B8gda%2C%20Laukslettinden%2C%20Tjuvtinden%20%26%20R%C3%B8dhetta%2C%202012%20March.jpg"
-        ]
-      },
-      "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Troms.svg",
       "geografi": {
         "areal": 41130934281,
         "bbox": [
@@ -586,6 +576,16 @@
         "wikidata": "http://www.wikidata.org/entity/Q50631",
         "wikipedia": "https://no.wikipedia.org/wiki/Troms"
       },
+      "mediakilde": {
+        "banner": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Havnnes%20banner.jpg"
+        ],
+        "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Troms%20v%C3%A5pen.svg",
+        "flagg": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Troms.svg",
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Arn%C3%B8yh%C3%B8gda%2C%20Laukslettinden%2C%20Tjuvtinden%20%26%20R%C3%B8dhetta%2C%202012%20March.jpg"
+        ]
+      },
       "navn": {
         "nob": "Troms",
         "sme": "Romsa"
@@ -593,16 +593,6 @@
     },
     {
       "autorkode": "20",
-      "bilde": {
-        "banner": [
-          "http://commons.wikimedia.org/wiki/Special:FilePath/NordkapPanoramaHDR%20banner.jpg"
-        ],
-        "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Finnmark%20v%C3%A5pen.svg",
-        "foto": [
-          "http://commons.wikimedia.org/wiki/Special:FilePath/Locator%20map%20of%20municipalities%20in%20Finnmark%2C%20Norway%20numbered.svg"
-        ]
-      },
-      "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Finnmark.svg",
       "geografi": {
         "areal": 74557298048,
         "bbox": [
@@ -621,6 +611,16 @@
         "wikidata": "http://www.wikidata.org/entity/Q50632",
         "wikipedia": "https://no.wikipedia.org/wiki/Finnmark"
       },
+      "mediakilde": {
+        "banner": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/NordkapPanoramaHDR%20banner.jpg"
+        ],
+        "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Finnmark%20v%C3%A5pen.svg",
+        "flagg": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Finnmark.svg",
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Locator%20map%20of%20municipalities%20in%20Finnmark%2C%20Norway%20numbered.svg"
+        ]
+      },
       "navn": {
         "nob": "Finnmark",
         "sme": "Finnmárku"
@@ -628,15 +628,6 @@
     },
     {
       "autorkode": "50",
-      "bilde": {
-        "banner": [
-          "http://commons.wikimedia.org/wiki/Special:FilePath/Langnes%20small%20craft%20harbor.jpg"
-        ],
-        "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Tr%C3%B8ndelag%20v%C3%A5pen.svg",
-        "foto": [
-          "http://commons.wikimedia.org/wiki/Special:FilePath/Seierstad%20J%C3%B8a.jpg"
-        ]
-      },
       "geografi": {
         "areal": 59302894006,
         "bbox": [
@@ -658,6 +649,15 @@
         "wikidata": "http://www.wikidata.org/entity/Q127676",
         "wikipedia": "https://no.wikipedia.org/wiki/Tr%C3%B8ndelag"
       },
+      "mediakilde": {
+        "banner": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Langnes%20small%20craft%20harbor.jpg"
+        ],
+        "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Tr%C3%B8ndelag%20v%C3%A5pen.svg",
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Seierstad%20J%C3%B8a.jpg"
+        ]
+      },
       "navn": {
         "nob": "Trøndelag"
       },
@@ -666,7 +666,7 @@
   ],
   "meta": {
     "tittel": "Fylke",
-    "produsertUtc": "2019-05-05T09:29:21.636Z",
+    "produsertUtc": "2019-05-05T23:47:44.962Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/kommune-data/master/fylke.json",
     "tool": {
