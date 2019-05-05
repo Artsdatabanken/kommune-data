@@ -1,6 +1,7 @@
 {
   "items": [
     {
+      "autorkode": "01",
       "bilde": {
         "banner": [
           "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%98stfold%20banner.jpg"
@@ -11,21 +12,30 @@
         ]
       },
       "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20%C3%98stfold.svg",
+      "geografi": {
+        "areal": 5079000516,
+        "bbox": [
+          10.536678568641781,
+          58.76096038494994,
+          11.946004480780068,
+          59.79058572250834
+        ],
+        "nabo": [
+          "AO-02"
+        ]
+      },
       "kode": "AO-01",
-      "kodeautor": "NO-01",
       "lenke": {
         "offisiell": "http://www.ostfold-f.kommune.no/",
         "wikidata": "http://www.wikidata.org/entity/Q50614",
         "wikipedia": "https://no.wikipedia.org/wiki/%C3%98stfold"
       },
-      "nabo": [
-        "AO-02"
-      ],
       "navn": {
         "nob": "Østfold"
       }
     },
     {
+      "autorkode": "02",
       "bilde": {
         "banner": [
           "http://commons.wikimedia.org/wiki/Special:FilePath/Akershus%20banner.JPG"
@@ -36,25 +46,34 @@
         ]
       },
       "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Akershus.svg",
+      "geografi": {
+        "areal": 5086076673,
+        "bbox": [
+          10.328466620920812,
+          59.47188209269761,
+          11.926977599425618,
+          60.60514775059484
+        ],
+        "nabo": [
+          "AO-01",
+          "AO-03",
+          "AO-04",
+          "AO-05",
+          "AO-06"
+        ]
+      },
       "kode": "AO-02",
-      "kodeautor": "NO-02",
       "lenke": {
         "offisiell": "http://www.akershus.no/",
         "wikidata": "http://www.wikidata.org/entity/Q50615",
         "wikipedia": "https://no.wikipedia.org/wiki/Akershus"
       },
-      "nabo": [
-        "AO-01",
-        "AO-03",
-        "AO-04",
-        "AO-05",
-        "AO-06"
-      ],
       "navn": {
         "nob": "Akershus"
       }
     },
     {
+      "autorkode": "03",
       "bilde": {
         "banner": [
           "http://commons.wikimedia.org/wiki/Special:FilePath/Oslo%20banner%20Akershus%20castle.jpg"
@@ -66,25 +85,34 @@
       },
       "elevation": 23,
       "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Oslo.svg",
+      "geografi": {
+        "areal": 481034629,
+        "bbox": [
+          10.489165173205746,
+          59.80931131804326,
+          10.95138944198644,
+          60.135106374869764
+        ],
+        "nabo": [
+          "AO-02",
+          "AO-05",
+          "AO-06"
+        ]
+      },
       "inception": "1048-01-01T00:00:00.000Z",
       "kode": "AO-03",
-      "kodeautor": "NO-03",
       "lenke": {
         "offisiell": "http://www.oslo.kommune.no/",
         "wikidata": "http://www.wikidata.org/entity/Q585",
         "wikipedia": "https://no.wikipedia.org/wiki/Oslo"
       },
-      "nabo": [
-        "AO-02",
-        "AO-05",
-        "AO-06"
-      ],
       "navn": {
         "nob": "Oslo"
       },
       "osm": "2775550"
     },
     {
+      "autorkode": "04",
       "bilde": {
         "banner": [
           "http://commons.wikimedia.org/wiki/Special:FilePath/Skibladner%20Moelv%20brygge%20banner.jpg"
@@ -95,24 +123,33 @@
         ]
       },
       "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Hedmark.svg",
+      "geografi": {
+        "areal": 27401108100,
+        "bbox": [
+          9.583826785893253,
+          59.84078459876961,
+          12.870848559833556,
+          62.6969279398166
+        ],
+        "nabo": [
+          "AO-02",
+          "AO-05",
+          "AO-16",
+          "AO-50"
+        ]
+      },
       "kode": "AO-04",
-      "kodeautor": "NO-04",
       "lenke": {
         "offisiell": "http://www.hedmark.org/",
         "wikidata": "http://www.wikidata.org/entity/Q50616",
         "wikipedia": "https://no.wikipedia.org/wiki/Hedmark"
       },
-      "nabo": [
-        "AO-02",
-        "AO-05",
-        "AO-16",
-        "AO-50"
-      ],
       "navn": {
         "nob": "Hedmark"
       }
     },
     {
+      "autorkode": "05",
       "bilde": {
         "banner": [
           "http://commons.wikimedia.org/wiki/Special:FilePath/Oppland%20banner.jpg"
@@ -121,28 +158,37 @@
         "foto": []
       },
       "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Oppland.svg",
+      "geografi": {
+        "areal": 25228797402,
+        "bbox": [
+          7.34253046005717,
+          60.1316098179793,
+          11.15398600296989,
+          62.3784023893859
+        ],
+        "nabo": [
+          "AO-02",
+          "AO-03",
+          "AO-04",
+          "AO-06",
+          "AO-14",
+          "AO-15",
+          "AO-16",
+          "AO-50"
+        ]
+      },
       "kode": "AO-05",
-      "kodeautor": "NO-05",
       "lenke": {
         "offisiell": "http://www.oppland.no/",
         "wikidata": "http://www.wikidata.org/entity/Q50617",
         "wikipedia": "https://no.wikipedia.org/wiki/Oppland"
       },
-      "nabo": [
-        "AO-02",
-        "AO-03",
-        "AO-04",
-        "AO-06",
-        "AO-14",
-        "AO-15",
-        "AO-16",
-        "AO-50"
-      ],
       "navn": {
         "nob": "Oppland"
       }
     },
     {
+      "autorkode": "06",
       "bilde": {
         "banner": [
           "http://commons.wikimedia.org/wiki/Special:FilePath/Uvdal%20stavkirke%20banner.jpg"
@@ -153,27 +199,36 @@
         ]
       },
       "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Buskerud.svg",
+      "geografi": {
+        "areal": 15081268447,
+        "bbox": [
+          7.438842445452539,
+          59.40787092583843,
+          10.634994075451683,
+          61.09172046834548
+        ],
+        "nabo": [
+          "AO-02",
+          "AO-03",
+          "AO-05",
+          "AO-07",
+          "AO-08",
+          "AO-12",
+          "AO-14"
+        ]
+      },
       "kode": "AO-06",
-      "kodeautor": "NO-06",
       "lenke": {
         "offisiell": "http://www.bfk.no",
         "wikidata": "http://www.wikidata.org/entity/Q50618",
         "wikipedia": "https://no.wikipedia.org/wiki/Buskerud"
       },
-      "nabo": [
-        "AO-02",
-        "AO-03",
-        "AO-05",
-        "AO-07",
-        "AO-08",
-        "AO-12",
-        "AO-14"
-      ],
       "navn": {
         "nob": "Buskerud"
       }
     },
     {
+      "autorkode": "07",
       "bilde": {
         "banner": [
           "http://commons.wikimedia.org/wiki/Special:FilePath/Vestfold%20banner.jpg"
@@ -184,22 +239,31 @@
         ]
       },
       "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Vestfold.svg",
+      "geografi": {
+        "areal": 4123263579,
+        "bbox": [
+          9.755335684949564,
+          58.720454986850775,
+          10.675019828086716,
+          59.70193802065795
+        ],
+        "nabo": [
+          "AO-06",
+          "AO-08"
+        ]
+      },
       "kode": "AO-07",
-      "kodeautor": "NO-07",
       "lenke": {
         "offisiell": "http://www.vfk.no/",
         "wikidata": "http://www.wikidata.org/entity/Q50619",
         "wikipedia": "https://no.wikipedia.org/wiki/Vestfold"
       },
-      "nabo": [
-        "AO-06",
-        "AO-08"
-      ],
       "navn": {
         "nob": "Vestfold"
       }
     },
     {
+      "autorkode": "08",
       "bilde": {
         "banner": [
           "http://commons.wikimedia.org/wiki/Special:FilePath/Telemark%20banner.jpg"
@@ -210,25 +274,34 @@
         ]
       },
       "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Telemark.svg",
+      "geografi": {
+        "areal": 16197565186,
+        "bbox": [
+          7.0962874773399,
+          58.603310835205775,
+          9.969764604266343,
+          60.188271781160175
+        ],
+        "nabo": [
+          "AO-06",
+          "AO-07",
+          "AO-09",
+          "AO-11",
+          "AO-12"
+        ]
+      },
       "kode": "AO-08",
-      "kodeautor": "NO-08",
       "lenke": {
         "offisiell": "http://www.telemark-fk.no/",
         "wikidata": "http://www.wikidata.org/entity/Q2254",
         "wikipedia": "https://no.wikipedia.org/wiki/Telemark"
       },
-      "nabo": [
-        "AO-06",
-        "AO-07",
-        "AO-09",
-        "AO-11",
-        "AO-12"
-      ],
       "navn": {
         "nob": "Telemark"
       }
     },
     {
+      "autorkode": "09",
       "bilde": {
         "banner": [
           "http://commons.wikimedia.org/wiki/Special:FilePath/Aust-Agder%20banner.jpg"
@@ -239,23 +312,32 @@
         ]
       },
       "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Aust-Agder.svg",
+      "geografi": {
+        "areal": 11925099072,
+        "bbox": [
+          6.824533179974821,
+          57.917234046970634,
+          9.668876554830126,
+          59.6726868736413
+        ],
+        "nabo": [
+          "AO-08",
+          "AO-10",
+          "AO-11"
+        ]
+      },
       "kode": "AO-09",
-      "kodeautor": "NO-09",
       "lenke": {
         "offisiell": "http://www.aa-f.kommune.no/",
         "wikidata": "http://www.wikidata.org/entity/Q50621",
         "wikipedia": "https://no.wikipedia.org/wiki/Aust-Agder"
       },
-      "nabo": [
-        "AO-08",
-        "AO-10",
-        "AO-11"
-      ],
       "navn": {
         "nob": "Aust-Agder"
       }
     },
     {
+      "autorkode": "10",
       "bilde": {
         "banner": [
           "http://commons.wikimedia.org/wiki/Special:FilePath/Vest-Agder%20banner.jpg"
@@ -266,22 +348,31 @@
         ]
       },
       "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Vest-Agder.svg",
+      "geografi": {
+        "areal": 11132202791,
+        "bbox": [
+          6.149705108935787,
+          57.759005210519454,
+          8.371680277103588,
+          59.18968669392016
+        ],
+        "nabo": [
+          "AO-09",
+          "AO-11"
+        ]
+      },
       "kode": "AO-10",
-      "kodeautor": "NO-10",
       "lenke": {
         "offisiell": "http://www.vaf.no",
         "wikidata": "http://www.wikidata.org/entity/Q50623",
         "wikipedia": "https://no.wikipedia.org/wiki/Vest-Agder"
       },
-      "nabo": [
-        "AO-09",
-        "AO-11"
-      ],
       "navn": {
         "nob": "Vest-Agder"
       }
     },
     {
+      "autorkode": "11",
       "bilde": {
         "banner": [
           "http://commons.wikimedia.org/wiki/Special:FilePath/Preikestolen%20banner.jpg"
@@ -292,24 +383,33 @@
         ]
       },
       "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Rogaland.svg",
+      "geografi": {
+        "areal": 16630501635,
+        "bbox": [
+          4.454273468296224,
+          58.02785054346965,
+          7.214666718162753,
+          59.844574205093565
+        ],
+        "nabo": [
+          "AO-08",
+          "AO-09",
+          "AO-10",
+          "AO-12"
+        ]
+      },
       "kode": "AO-11",
-      "kodeautor": "NO-11",
       "lenke": {
         "offisiell": "http://www.rogfk.no/",
         "wikidata": "http://www.wikidata.org/entity/Q50624",
         "wikipedia": "https://no.wikipedia.org/wiki/Rogaland"
       },
-      "nabo": [
-        "AO-08",
-        "AO-09",
-        "AO-10",
-        "AO-12"
-      ],
       "navn": {
         "nob": "Rogaland"
       }
     },
     {
+      "autorkode": "12",
       "bilde": {
         "banner": [
           "http://commons.wikimedia.org/wiki/Special:FilePath/UlvikfjordMountains%20banner.jpg"
@@ -320,24 +420,33 @@
         ]
       },
       "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Hordaland.svg",
+      "geografi": {
+        "areal": 22810783588,
+        "bbox": [
+          4.184770721752469,
+          59.47542020768427,
+          7.732114726368586,
+          61.035237664538556
+        ],
+        "nabo": [
+          "AO-06",
+          "AO-08",
+          "AO-11",
+          "AO-14"
+        ]
+      },
       "kode": "AO-12",
-      "kodeautor": "NO-12",
       "lenke": {
         "offisiell": "http://www.hordaland.no/",
         "wikidata": "http://www.wikidata.org/entity/Q50625",
         "wikipedia": "https://no.wikipedia.org/wiki/Hordaland"
       },
-      "nabo": [
-        "AO-06",
-        "AO-08",
-        "AO-11",
-        "AO-14"
-      ],
       "navn": {
         "nob": "Hordaland"
       }
     },
     {
+      "autorkode": "14",
       "bilde": {
         "banner": [
           "http://commons.wikimedia.org/wiki/Special:FilePath/Oppstrynsvatnet%20banner.jpg"
@@ -348,24 +457,33 @@
         ]
       },
       "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Sogn%20og%20Fjordane.svg",
+      "geografi": {
+        "areal": 27241951895,
+        "bbox": [
+          4.087525912840687,
+          60.67554761245395,
+          8.32205298924852,
+          62.38239486643223
+        ],
+        "nabo": [
+          "AO-05",
+          "AO-06",
+          "AO-12",
+          "AO-15"
+        ]
+      },
       "kode": "AO-14",
-      "kodeautor": "NO-14",
       "lenke": {
         "offisiell": "http://www.sfj.no/",
         "wikidata": "http://www.wikidata.org/entity/Q50626",
         "wikipedia": "https://no.wikipedia.org/wiki/Sogn_og_Fjordane"
       },
-      "nabo": [
-        "AO-05",
-        "AO-06",
-        "AO-12",
-        "AO-15"
-      ],
       "navn": {
         "nob": "Sogn og Fjordane"
       }
     },
     {
+      "autorkode": "15",
       "bilde": {
         "banner": [
           "http://commons.wikimedia.org/wiki/Special:FilePath/Romsdalsfjorden%20banner.jpg"
@@ -376,24 +494,33 @@
         ]
       },
       "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20M%C3%B8re%20og%20Romsdal.svg",
+      "geografi": {
+        "areal": 25745269023,
+        "bbox": [
+          4.816602003331189,
+          61.95658328470503,
+          9.364831474648097,
+          63.768167664147704
+        ],
+        "nabo": [
+          "AO-05",
+          "AO-14",
+          "AO-16",
+          "AO-50"
+        ]
+      },
       "kode": "AO-15",
-      "kodeautor": "NO-15",
       "lenke": {
         "offisiell": "http://www.mrfylke.no/",
         "wikidata": "http://www.wikidata.org/entity/Q50627",
         "wikipedia": "https://no.wikipedia.org/wiki/M%C3%B8re_og_Romsdal"
       },
-      "nabo": [
-        "AO-05",
-        "AO-14",
-        "AO-16",
-        "AO-50"
-      ],
       "navn": {
         "nob": "Møre og Romsdal"
       }
     },
     {
+      "autorkode": "18",
       "bilde": {
         "banner": [
           "http://commons.wikimedia.org/wiki/Special:FilePath/Norrland%20Wikivoyage%20banner.jpg"
@@ -404,23 +531,32 @@
         ]
       },
       "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Nordland.svg",
+      "geografi": {
+        "areal": 80951741763,
+        "bbox": [
+          10.57806031158291,
+          64.93949726724532,
+          18.151354895259402,
+          69.59670059381648
+        ],
+        "nabo": [
+          "AO-17",
+          "AO-19",
+          "AO-50"
+        ]
+      },
       "kode": "AO-18",
-      "kodeautor": "NO-18",
       "lenke": {
         "offisiell": "http://www.nfk.no/",
         "wikidata": "http://www.wikidata.org/entity/Q50630",
         "wikipedia": "https://no.wikipedia.org/wiki/Nordland"
       },
-      "nabo": [
-        "AO-17",
-        "AO-19",
-        "AO-50"
-      ],
       "navn": {
         "nob": "Nordland"
       }
     },
     {
+      "autorkode": "19",
       "bilde": {
         "banner": [
           "http://commons.wikimedia.org/wiki/Special:FilePath/Havnnes%20banner.jpg"
@@ -431,22 +567,32 @@
         ]
       },
       "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Troms.svg",
+      "geografi": {
+        "areal": 41130934281,
+        "bbox": [
+          15.592541618359503,
+          68.3560138011818,
+          22.894465893887816,
+          70.70361634219516
+        ],
+        "nabo": [
+          "AO-18",
+          "AO-20"
+        ]
+      },
       "kode": "AO-19",
-      "kodeautor": "NO-19",
       "lenke": {
         "offisiell": "http://www.troms-f.kommune.no/",
         "wikidata": "http://www.wikidata.org/entity/Q50631",
         "wikipedia": "https://no.wikipedia.org/wiki/Troms"
       },
-      "nabo": [
-        "AO-18",
-        "AO-20"
-      ],
       "navn": {
-        "nob": "Troms"
+        "nob": "Troms",
+        "sme": "Romsa"
       }
     },
     {
+      "autorkode": "20",
       "bilde": {
         "banner": [
           "http://commons.wikimedia.org/wiki/Special:FilePath/NordkapPanoramaHDR%20banner.jpg"
@@ -457,21 +603,31 @@
         ]
       },
       "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Finnmark.svg",
+      "geografi": {
+        "areal": 74557298048,
+        "bbox": [
+          20.479732520849318,
+          68.55459123800684,
+          31.76149058337735,
+          71.38487774566083
+        ],
+        "nabo": [
+          "AO-19"
+        ]
+      },
       "kode": "AO-20",
-      "kodeautor": "NO-20",
       "lenke": {
         "offisiell": "http://www.ffk.no/",
         "wikidata": "http://www.wikidata.org/entity/Q50632",
         "wikipedia": "https://no.wikipedia.org/wiki/Finnmark"
       },
-      "nabo": [
-        "AO-19"
-      ],
       "navn": {
-        "nob": "Finnmark"
+        "nob": "Finnmark",
+        "sme": "Finnmárku"
       }
     },
     {
+      "autorkode": "50",
       "bilde": {
         "banner": [
           "http://commons.wikimedia.org/wiki/Special:FilePath/Langnes%20small%20craft%20harbor.jpg"
@@ -481,19 +637,27 @@
           "http://commons.wikimedia.org/wiki/Special:FilePath/Seierstad%20J%C3%B8a.jpg"
         ]
       },
+      "geografi": {
+        "areal": 59302894006,
+        "bbox": [
+          7.648093936388754,
+          62.25572672427251,
+          14.325985837435745,
+          65.4701749999175
+        ],
+        "nabo": [
+          "AO-04",
+          "AO-05",
+          "AO-15",
+          "AO-18"
+        ]
+      },
       "kode": "AO-50",
-      "kodeautor": "NO-50",
       "lenke": {
         "offisiell": "http://www.trondelag.com",
         "wikidata": "http://www.wikidata.org/entity/Q127676",
         "wikipedia": "https://no.wikipedia.org/wiki/Tr%C3%B8ndelag"
       },
-      "nabo": [
-        "AO-04",
-        "AO-05",
-        "AO-15",
-        "AO-18"
-      ],
       "navn": {
         "nob": "Trøndelag"
       },
@@ -502,7 +666,7 @@
   ],
   "meta": {
     "tittel": "Fylke",
-    "produsertUtc": "2019-05-04T07:35:51.177Z",
+    "produsertUtc": "2019-05-05T09:29:21.636Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/kommune-data/master/fylke.json",
     "tool": {

@@ -7,67 +7,99 @@
       "items": {
         "type": "object",
         "properties": {
-          "item": {
+          "autorkode": {
             "type": "string"
           },
-          "article": {
-            "type": "string"
-          },
-          "code": {
-            "type": "string"
-          },
-          "url": {
-            "type": "string"
-          },
-          "coa": {
-            "type": "string"
-          },
-          "banner": {
-            "type": "string"
+          "bilde": {
+            "type": "object",
+            "properties": {
+              "banner": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "coa": {
+                "type": "string"
+              },
+              "foto": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              }
+            }
           },
           "flag": {
             "type": "string"
           },
-          "itemLabel": {
+          "geografi": {
+            "type": "object",
+            "properties": {
+              "areal": {
+                "type": "number"
+              },
+              "bbox": {
+                "type": "array",
+                "items": {
+                  "type": "number"
+                }
+              },
+              "nabo": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              }
+            }
+          },
+          "kode": {
             "type": "string"
           },
-          "naboer": {
-            "type": "array",
-            "items": {
-              "type": "string"
+          "lenke": {
+            "type": "object",
+            "properties": {
+              "offisiell": {
+                "type": "string"
+              },
+              "wikidata": {
+                "type": "string"
+              },
+              "wikipedia": {
+                "type": "string"
+              }
             }
           },
-          "images": {
-            "type": "array",
-            "items": {
-              "type": "string"
+          "navn": {
+            "type": "object",
+            "properties": {
+              "nob": {
+                "type": "string"
+              },
+              "sme": {
+                "type": "string"
+              }
             }
           },
-          "banners": {
-            "type": "array",
-            "items": {
-              "type": "string"
-            }
-          },
-          "osm": {
-            "type": "string"
+          "elevation": {
+            "type": "number"
           },
           "inception": {
             "type": "string"
           },
-          "elevation": {
-            "type": "number"
+          "osm": {
+            "type": "string"
           }
         },
         "required": [
-          "item",
-          "article",
-          "code",
-          "url",
-          "itemLabel",
-          "naboer",
-          "images",
-          "banners"
+          "autorkode",
+          "bilde",
+          "flag",
+          "geografi",
+          "kode",
+          "lenke",
+          "navn",
+          "osm"
         ]
       }
     },
@@ -101,6 +133,9 @@
           "type": "number"
         }
       }
+    },
+    "$schema": {
+      "type": "string"
     }
   }
 }

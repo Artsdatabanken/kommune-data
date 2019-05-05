@@ -7,40 +7,84 @@
       "items": {
         "type": "object",
         "properties": {
-          "item": {
+          "autorkode": {
             "type": "string"
           },
-          "article": {
-            "type": "string"
-          },
-          "url": {
-            "type": "string"
-          },
-          "coa": {
-            "type": "string"
-          },
-          "itemLabel": {
-            "type": "string"
-          },
-          "code": {
-            "type": "string"
-          },
-          "naboer": {
-            "type": "array",
-            "items": {
-              "type": "string"
+          "bilde": {
+            "type": "object",
+            "properties": {
+              "banner": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "coa": {
+                "type": "string"
+              },
+              "foto": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              }
             }
           },
-          "images": {
-            "type": "array",
-            "items": {
-              "type": "string"
+          "geografi": {
+            "type": "object",
+            "properties": {
+              "areal": {
+                "type": "number"
+              },
+              "bbox": {
+                "type": "array",
+                "items": {
+                  "type": "number"
+                }
+              },
+              "nabo": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              }
             }
           },
-          "banners": {
-            "type": "array",
-            "items": {
-              "type": "string"
+          "kode": {
+            "type": "string"
+          },
+          "lenke": {
+            "type": "object",
+            "properties": {
+              "offisiell": {
+                "type": "string"
+              },
+              "wikidata": {
+                "type": "string"
+              },
+              "wikipedia": {
+                "type": "string"
+              }
+            }
+          },
+          "navn": {
+            "type": "object",
+            "properties": {
+              "nob": {
+                "type": "string"
+              },
+              "smj": {
+                "type": "string"
+              },
+              "sme": {
+                "type": "string"
+              },
+              "fkv": {
+                "type": "string"
+              },
+              "sma": {
+                "type": "string"
+              }
             }
           },
           "elevation": {
@@ -54,13 +98,15 @@
           }
         },
         "required": [
-          "item",
-          "article",
-          "url",
-          "coa",
-          "itemLabel",
-          "code",
-          "naboer"
+          "autorkode",
+          "bilde",
+          "geografi",
+          "kode",
+          "lenke",
+          "navn",
+          "inception",
+          "osm",
+          "elevation"
         ]
       }
     },
@@ -94,6 +140,9 @@
           "type": "number"
         }
       }
+    },
+    "$schema": {
+      "type": "string"
     }
   }
 }
