@@ -1548,7 +1548,7 @@
         "AO-04-38",
         "AO-04-39",
         "AO-04-41",
-        "AO-16-34",
+        "AO-50-21",
         "AO-50-22",
         "AO-50-27"
       ],
@@ -1599,7 +1599,7 @@
         "AO-05-11",
         "AO-05-17",
         "AO-05-19",
-        "AO-16-34"
+        "AO-50-21"
       ],
       "navn": {
         "nob": "Folldal"
@@ -1709,7 +1709,7 @@
         "AO-05-12",
         "AO-05-15",
         "AO-05-17",
-        "AO-16-34"
+        "AO-50-21"
       ],
       "navn": {
         "nob": "Dovre"
@@ -1736,7 +1736,7 @@
         "AO-15-39",
         "AO-15-43",
         "AO-15-63",
-        "AO-16-34"
+        "AO-50-21"
       ],
       "navn": {
         "nob": "Lesja"
@@ -7334,7 +7334,7 @@
         "AO-15-43",
         "AO-15-60",
         "AO-15-66",
-        "AO-16-34"
+        "AO-50-21"
       ],
       "navn": {
         "nob": "Sunndal"
@@ -7357,8 +7357,8 @@
         "AO-15-60",
         "AO-15-63",
         "AO-15-71",
-        "AO-16-12",
-        "AO-16-34",
+        "AO-50-11",
+        "AO-50-21",
         "AO-50-61"
       ],
       "navn": {
@@ -7385,7 +7385,7 @@
         "AO-15-60",
         "AO-15-66",
         "AO-15-76",
-        "AO-16-12"
+        "AO-50-11"
       ],
       "navn": {
         "nob": "Halsa"
@@ -7437,319 +7437,11 @@
         "AO-15-60",
         "AO-15-71",
         "AO-15-73",
-        "AO-16-12",
+        "AO-50-11",
         "AO-50-13"
       ],
       "navn": {
         "nob": "Aure"
-      }
-    },
-    {
-      "bilde": {
-        "banner": [],
-        "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Hemne%20komm.svg",
-        "foto": []
-      },
-      "kode": "AO-16-12",
-      "kodeautor": "1612",
-      "lenke": {
-        "offisiell": "http://www.hemne.kommune.no/",
-        "wikidata": "http://www.wikidata.org/entity/Q488388",
-        "wikipedia": "https://no.wikipedia.org/wiki/Hemne"
-      },
-      "nabo": [
-        "AO-15-66",
-        "AO-15-71",
-        "AO-15-76",
-        "AO-50-12",
-        "AO-50-13",
-        "AO-50-24",
-        "AO-50-61"
-      ],
-      "navn": {
-        "nob": "Hemne"
-      },
-      "osm": "406438"
-    },
-    {
-      "bilde": {
-        "banner": [],
-        "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%98rland%20komm.svg",
-        "foto": []
-      },
-      "kode": "AO-16-21",
-      "kodeautor": "1621",
-      "lenke": {
-        "offisiell": "http://www.orland.kommune.no",
-        "wikidata": "http://www.wikidata.org/entity/Q308245",
-        "wikipedia": "https://no.wikipedia.org/wiki/%C3%98rland"
-      },
-      "nabo": [
-        "AO-50-13",
-        "AO-50-16",
-        "AO-50-17"
-      ],
-      "navn": {
-        "nob": "Ørland"
-      }
-    },
-    {
-      "bilde": {
-        "banner": [],
-        "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Osen%20komm.svg",
-        "foto": []
-      },
-      "kode": "AO-16-33",
-      "kodeautor": "1633",
-      "lenke": {
-        "offisiell": "http://www.osen.kommune.no/",
-        "wikidata": "http://www.wikidata.org/entity/Q484257",
-        "wikipedia": "https://no.wikipedia.org/wiki/Osen"
-      },
-      "nabo": [
-        "AO-50-19",
-        "AO-50-40",
-        "AO-50-49"
-      ],
-      "navn": {
-        "nob": "Osen"
-      }
-    },
-    {
-      "bilde": {
-        "banner": [
-          "http://commons.wikimedia.org/wiki/Special:FilePath/Skarvatnet%20banner.jpg"
-        ],
-        "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Oppdal%20komm.svg",
-        "foto": [
-          "http://commons.wikimedia.org/wiki/Special:FilePath/OppdalFromAlmannberget.jpg"
-        ]
-      },
-      "kode": "AO-16-34",
-      "kodeautor": "1634",
-      "lenke": {
-        "offisiell": "http://www.oppdal.kommune.no/",
-        "wikidata": "http://www.wikidata.org/entity/Q113595",
-        "wikipedia": "https://no.wikipedia.org/wiki/Oppdal"
-      },
-      "nabo": [
-        "AO-04-37",
-        "AO-04-39",
-        "AO-05-11",
-        "AO-05-12",
-        "AO-15-63",
-        "AO-15-66",
-        "AO-50-22",
-        "AO-50-61"
-      ],
-      "navn": {
-        "nob": "Oppdal"
-      }
-    },
-    {
-      "bilde": {
-        "banner": [],
-        "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Tydal%20komm.svg",
-        "foto": []
-      },
-      "kode": "AO-16-65",
-      "kodeautor": "1665",
-      "lenke": {
-        "offisiell": "http://www.tydal.kommune.no/",
-        "wikidata": "http://www.wikidata.org/entity/Q494053",
-        "wikipedia": "https://no.wikipedia.org/wiki/Tydal"
-      },
-      "nabo": [
-        "AO-50-25",
-        "AO-50-26",
-        "AO-50-32",
-        "AO-50-34"
-      ],
-      "navn": {
-        "nob": "Tydal"
-      }
-    },
-    {
-      "bilde": {
-        "banner": [],
-        "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Steinkjer%20komm.svg",
-        "foto": [
-          "http://commons.wikimedia.org/wiki/Special:FilePath/Steinkjer.jpg"
-        ]
-      },
-      "kode": "AO-17-02",
-      "kodeautor": "1702",
-      "lenke": {
-        "offisiell": "http://www.steinkjer.kommune.no/",
-        "wikidata": "http://www.wikidata.org/entity/Q110431",
-        "wikipedia": "https://no.wikipedia.org/wiki/Steinkjer"
-      },
-      "nabo": [
-        "AO-17-42",
-        "AO-17-44",
-        "AO-50-38",
-        "AO-50-39",
-        "AO-50-40",
-        "AO-50-41",
-        "AO-50-53"
-      ],
-      "navn": {
-        "nob": "Steinkjer"
-      }
-    },
-    {
-      "bilde": {
-        "banner": [],
-        "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Stj%C3%B8rdal%20komm.svg",
-        "foto": [
-          "http://commons.wikimedia.org/wiki/Special:FilePath/Mot%20Stjoerdal.jpg"
-        ]
-      },
-      "kode": "AO-17-14",
-      "kodeautor": "1714",
-      "lenke": {
-        "offisiell": "http://www.stjordal.kommune.no/",
-        "wikidata": "http://www.wikidata.org/entity/Q217802",
-        "wikipedia": "https://no.wikipedia.org/wiki/Stj%C3%B8rdal"
-      },
-      "nabo": [
-        "AO-50-31",
-        "AO-50-32",
-        "AO-50-34",
-        "AO-50-36",
-        "AO-50-37"
-      ],
-      "navn": {
-        "nob": "Stjørdal"
-      }
-    },
-    {
-      "bilde": {
-        "banner": [],
-        "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/R%C3%B8yrvik%20komm.svg",
-        "foto": [
-          "http://commons.wikimedia.org/wiki/Special:FilePath/Royrvik.jpg"
-        ]
-      },
-      "kode": "AO-17-39",
-      "kodeautor": "1739",
-      "lenke": {
-        "offisiell": "http://www.royrvik.kommune.no/",
-        "wikidata": "http://www.wikidata.org/entity/Q484088",
-        "wikipedia": "https://no.wikipedia.org/wiki/R%C3%B8yrvik"
-      },
-      "nabo": [
-        "AO-18-25",
-        "AO-18-26",
-        "AO-50-42",
-        "AO-50-44"
-      ],
-      "navn": {
-        "nob": "Røyrvik"
-      }
-    },
-    {
-      "bilde": {
-        "banner": [],
-        "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Grong%20komm.svg",
-        "foto": []
-      },
-      "kode": "AO-17-42",
-      "kodeautor": "1742",
-      "lenke": {
-        "offisiell": "http://www.grong.kommune.no/",
-        "wikidata": "http://www.wikidata.org/entity/Q258084",
-        "wikipedia": "https://no.wikipedia.org/wiki/Grong"
-      },
-      "nabo": [
-        "AO-17-02",
-        "AO-17-44",
-        "AO-50-41",
-        "AO-50-42",
-        "AO-50-44",
-        "AO-50-46"
-      ],
-      "navn": {
-        "nob": "Grong"
-      },
-      "osm": "407216"
-    },
-    {
-      "bilde": {
-        "banner": [],
-        "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Overhalla%20komm.svg",
-        "foto": [
-          "http://commons.wikimedia.org/wiki/Special:FilePath/Ranem%20Church.jpg"
-        ]
-      },
-      "kode": "AO-17-44",
-      "kodeautor": "1744",
-      "lenke": {
-        "offisiell": "http://www.overhalla.kommune.no",
-        "wikidata": "http://www.wikidata.org/entity/Q499761",
-        "wikipedia": "https://no.wikipedia.org/wiki/Overhalla"
-      },
-      "nabo": [
-        "AO-17-02",
-        "AO-17-42",
-        "AO-50-05",
-        "AO-50-41",
-        "AO-50-46",
-        "AO-50-48"
-      ],
-      "navn": {
-        "nob": "Overhalla"
-      },
-      "osm": "407211"
-    },
-    {
-      "bilde": {
-        "banner": [],
-        "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/N%C3%A6r%C3%B8y%20komm.svg",
-        "foto": []
-      },
-      "kode": "AO-17-51",
-      "kodeautor": "1751",
-      "lenke": {
-        "offisiell": "http://www.naroy.kommune.no/",
-        "wikidata": "http://www.wikidata.org/entity/Q488979",
-        "wikipedia": "https://no.wikipedia.org/wiki/N%C3%A6r%C3%B8y"
-      },
-      "nabo": [
-        "AO-17-55",
-        "AO-18-11",
-        "AO-50-46",
-        "AO-50-48",
-        "AO-50-50"
-      ],
-      "navn": {
-        "nob": "Nærøy"
-      }
-    },
-    {
-      "bilde": {
-        "banner": [
-          "http://commons.wikimedia.org/wiki/Special:FilePath/Leka%20banner.jpg"
-        ],
-        "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Leka%20komm.svg",
-        "foto": [
-          "http://commons.wikimedia.org/wiki/Special:FilePath/Steinstid%20sommer.JPG"
-        ]
-      },
-      "kode": "AO-17-55",
-      "kodeautor": "1755",
-      "lenke": {
-        "offisiell": "http://www.leka.kommune.no/",
-        "wikidata": "http://www.wikidata.org/entity/Q503591",
-        "wikipedia": "https://no.wikipedia.org/wiki/Leka"
-      },
-      "nabo": [
-        "AO-17-51",
-        "AO-18-11",
-        "AO-50-50"
-      ],
-      "navn": {
-        "nob": "Leka"
       }
     },
     {
@@ -7821,13 +7513,13 @@
         "wikipedia": "https://no.wikipedia.org/wiki/Bindal"
       },
       "nabo": [
-        "AO-17-51",
-        "AO-17-55",
         "AO-18-12",
         "AO-18-13",
         "AO-18-25",
         "AO-50-44",
-        "AO-50-46"
+        "AO-50-46",
+        "AO-50-51",
+        "AO-50-52"
       ],
       "navn": {
         "nob": "Bindal"
@@ -8049,11 +7741,11 @@
         "wikipedia": "https://no.wikipedia.org/wiki/Grane"
       },
       "nabo": [
-        "AO-17-39",
         "AO-18-11",
         "AO-18-13",
         "AO-18-24",
         "AO-18-26",
+        "AO-50-43",
         "AO-50-44"
       ],
       "navn": {
@@ -8074,10 +7766,10 @@
         "wikipedia": "https://no.wikipedia.org/wiki/Hattfjelldal"
       },
       "nabo": [
-        "AO-17-39",
         "AO-18-24",
         "AO-18-25",
-        "AO-18-32"
+        "AO-18-32",
+        "AO-50-43"
       ],
       "navn": {
         "nob": "Hattfjelldal"
@@ -9968,6 +9660,34 @@
     },
     {
       "bilde": {
+        "banner": [],
+        "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Steinkjer%20komm.svg",
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Steinkjer.jpg"
+        ]
+      },
+      "kode": "AO-50-04",
+      "kodeautor": "5004",
+      "lenke": {
+        "offisiell": "http://www.steinkjer.kommune.no/",
+        "wikidata": "http://www.wikidata.org/entity/Q110431",
+        "wikipedia": "https://no.wikipedia.org/wiki/Steinkjer"
+      },
+      "nabo": [
+        "AO-50-38",
+        "AO-50-39",
+        "AO-50-40",
+        "AO-50-41",
+        "AO-50-45",
+        "AO-50-47",
+        "AO-50-53"
+      ],
+      "navn": {
+        "nob": "Steinkjer"
+      }
+    },
+    {
+      "bilde": {
         "banner": [
           "http://commons.wikimedia.org/wiki/Special:FilePath/Namsos%20banner%20Rock%20city.jpg"
         ],
@@ -9984,14 +9704,41 @@
         "wikipedia": "https://no.wikipedia.org/wiki/Namsos"
       },
       "nabo": [
-        "AO-17-44",
         "AO-50-40",
+        "AO-50-47",
         "AO-50-48",
         "AO-50-49"
       ],
       "navn": {
         "nob": "Namsos"
       }
+    },
+    {
+      "bilde": {
+        "banner": [],
+        "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Hemne%20komm.svg",
+        "foto": []
+      },
+      "kode": "AO-50-11",
+      "kodeautor": "5011",
+      "lenke": {
+        "offisiell": "http://www.hemne.kommune.no/",
+        "wikidata": "http://www.wikidata.org/entity/Q488388",
+        "wikipedia": "https://no.wikipedia.org/wiki/Hemne"
+      },
+      "nabo": [
+        "AO-15-66",
+        "AO-15-71",
+        "AO-15-76",
+        "AO-50-12",
+        "AO-50-13",
+        "AO-50-24",
+        "AO-50-61"
+      ],
+      "navn": {
+        "nob": "Hemne"
+      },
+      "osm": "406438"
     },
     {
       "bilde": {
@@ -10007,7 +9754,7 @@
         "wikipedia": "https://no.wikipedia.org/wiki/Snillfjord"
       },
       "nabo": [
-        "AO-16-12",
+        "AO-50-11",
         "AO-50-13",
         "AO-50-16",
         "AO-50-24"
@@ -10034,10 +9781,10 @@
       "nabo": [
         "AO-15-73",
         "AO-15-76",
-        "AO-16-12",
-        "AO-16-21",
+        "AO-50-11",
         "AO-50-12",
         "AO-50-14",
+        "AO-50-15",
         "AO-50-16"
       ],
       "navn": {
@@ -10070,6 +9817,28 @@
     {
       "bilde": {
         "banner": [],
+        "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%98rland%20komm.svg",
+        "foto": []
+      },
+      "kode": "AO-50-15",
+      "kodeautor": "5015",
+      "lenke": {
+        "offisiell": "http://www.orland.kommune.no",
+        "wikidata": "http://www.wikidata.org/entity/Q308245",
+        "wikipedia": "https://no.wikipedia.org/wiki/%C3%98rland"
+      },
+      "nabo": [
+        "AO-50-13",
+        "AO-50-16",
+        "AO-50-17"
+      ],
+      "navn": {
+        "nob": "Ørland"
+      }
+    },
+    {
+      "bilde": {
+        "banner": [],
         "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Agdenes%20komm.svg",
         "foto": []
       },
@@ -10081,9 +9850,9 @@
         "wikipedia": "https://no.wikipedia.org/wiki/Agdenes"
       },
       "nabo": [
-        "AO-16-21",
         "AO-50-12",
         "AO-50-13",
+        "AO-50-15",
         "AO-50-24",
         "AO-50-54"
       ],
@@ -10107,8 +9876,8 @@
         "wikipedia": "https://no.wikipedia.org/wiki/Bjugn"
       },
       "nabo": [
-        "AO-16-21",
         "AO-50-14",
+        "AO-50-15",
         "AO-50-18",
         "AO-50-54"
       ],
@@ -10158,12 +9927,65 @@
         "wikipedia": "https://no.wikipedia.org/wiki/Roan"
       },
       "nabo": [
-        "AO-16-33",
         "AO-50-18",
+        "AO-50-20",
         "AO-50-40"
       ],
       "navn": {
         "nob": "Roan"
+      }
+    },
+    {
+      "bilde": {
+        "banner": [],
+        "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Osen%20komm.svg",
+        "foto": []
+      },
+      "kode": "AO-50-20",
+      "kodeautor": "5020",
+      "lenke": {
+        "offisiell": "http://www.osen.kommune.no/",
+        "wikidata": "http://www.wikidata.org/entity/Q484257",
+        "wikipedia": "https://no.wikipedia.org/wiki/Osen"
+      },
+      "nabo": [
+        "AO-50-19",
+        "AO-50-40",
+        "AO-50-49"
+      ],
+      "navn": {
+        "nob": "Osen"
+      }
+    },
+    {
+      "bilde": {
+        "banner": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Skarvatnet%20banner.jpg"
+        ],
+        "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Oppdal%20komm.svg",
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/OppdalFromAlmannberget.jpg"
+        ]
+      },
+      "kode": "AO-50-21",
+      "kodeautor": "5021",
+      "lenke": {
+        "offisiell": "http://www.oppdal.kommune.no/",
+        "wikidata": "http://www.wikidata.org/entity/Q113595",
+        "wikipedia": "https://no.wikipedia.org/wiki/Oppdal"
+      },
+      "nabo": [
+        "AO-04-37",
+        "AO-04-39",
+        "AO-05-11",
+        "AO-05-12",
+        "AO-15-63",
+        "AO-15-66",
+        "AO-50-22",
+        "AO-50-61"
+      ],
+      "navn": {
+        "nob": "Oppdal"
       }
     },
     {
@@ -10181,7 +10003,7 @@
       },
       "nabo": [
         "AO-04-37",
-        "AO-16-34",
+        "AO-50-21",
         "AO-50-23",
         "AO-50-27",
         "AO-50-61"
@@ -10228,7 +10050,7 @@
         "wikipedia": "https://no.wikipedia.org/wiki/Orkdal"
       },
       "nabo": [
-        "AO-16-12",
+        "AO-50-11",
         "AO-50-12",
         "AO-50-16",
         "AO-50-23",
@@ -10261,8 +10083,8 @@
       "nabo": [
         "AO-04-34",
         "AO-04-41",
-        "AO-16-65",
-        "AO-50-26"
+        "AO-50-26",
+        "AO-50-33"
       ],
       "navn": {
         "nob": "Røros"
@@ -10283,10 +10105,10 @@
       },
       "nabo": [
         "AO-04-41",
-        "AO-16-65",
         "AO-50-25",
         "AO-50-27",
-        "AO-50-32"
+        "AO-50-32",
+        "AO-50-33"
       ],
       "navn": {
         "nob": "Holtålen"
@@ -10410,9 +10232,9 @@
         "wikipedia": "https://no.wikipedia.org/wiki/Malvik"
       },
       "nabo": [
-        "AO-17-14",
         "AO-50-01",
-        "AO-50-32"
+        "AO-50-32",
+        "AO-50-35"
       ],
       "navn": {
         "nob": "Malvik"
@@ -10432,17 +10254,40 @@
         "wikipedia": "https://no.wikipedia.org/wiki/Selbu"
       },
       "nabo": [
-        "AO-16-65",
-        "AO-17-14",
         "AO-50-26",
         "AO-50-27",
         "AO-50-28",
         "AO-50-30",
         "AO-50-31",
-        "AO-50-34"
+        "AO-50-33",
+        "AO-50-34",
+        "AO-50-35"
       ],
       "navn": {
         "nob": "Selbu"
+      }
+    },
+    {
+      "bilde": {
+        "banner": [],
+        "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Tydal%20komm.svg",
+        "foto": []
+      },
+      "kode": "AO-50-33",
+      "kodeautor": "5033",
+      "lenke": {
+        "offisiell": "http://www.tydal.kommune.no/",
+        "wikidata": "http://www.wikidata.org/entity/Q494053",
+        "wikipedia": "https://no.wikipedia.org/wiki/Tydal"
+      },
+      "nabo": [
+        "AO-50-25",
+        "AO-50-26",
+        "AO-50-32",
+        "AO-50-34"
+      ],
+      "navn": {
+        "nob": "Tydal"
       }
     },
     {
@@ -10459,15 +10304,41 @@
         "wikipedia": "https://no.wikipedia.org/wiki/Mer%C3%A5ker"
       },
       "nabo": [
-        "AO-16-65",
-        "AO-17-14",
         "AO-50-32",
+        "AO-50-33",
+        "AO-50-35",
         "AO-50-38"
       ],
       "navn": {
         "nob": "Meråker"
       },
       "osm": "407292"
+    },
+    {
+      "bilde": {
+        "banner": [],
+        "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Stj%C3%B8rdal%20komm.svg",
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Mot%20Stjoerdal.jpg"
+        ]
+      },
+      "kode": "AO-50-35",
+      "kodeautor": "5035",
+      "lenke": {
+        "offisiell": "http://www.stjordal.kommune.no/",
+        "wikidata": "http://www.wikidata.org/entity/Q217802",
+        "wikipedia": "https://no.wikipedia.org/wiki/Stj%C3%B8rdal"
+      },
+      "nabo": [
+        "AO-50-31",
+        "AO-50-32",
+        "AO-50-34",
+        "AO-50-36",
+        "AO-50-37"
+      ],
+      "navn": {
+        "nob": "Stjørdal"
+      }
     },
     {
       "bilde": {
@@ -10485,7 +10356,7 @@
         "wikipedia": "https://no.wikipedia.org/wiki/Frosta"
       },
       "nabo": [
-        "AO-17-14",
+        "AO-50-35",
         "AO-50-37",
         "AO-50-54"
       ],
@@ -10510,7 +10381,7 @@
         "wikipedia": "https://no.wikipedia.org/wiki/Levanger"
       },
       "nabo": [
-        "AO-17-14",
+        "AO-50-35",
         "AO-50-36",
         "AO-50-38",
         "AO-50-53"
@@ -10533,7 +10404,7 @@
         "wikipedia": "https://no.wikipedia.org/wiki/Verdal"
       },
       "nabo": [
-        "AO-17-02",
+        "AO-50-04",
         "AO-50-34",
         "AO-50-37",
         "AO-50-41",
@@ -10557,7 +10428,7 @@
         "wikipedia": "https://no.wikipedia.org/wiki/Verran"
       },
       "nabo": [
-        "AO-17-02",
+        "AO-50-04",
         "AO-50-18",
         "AO-50-40",
         "AO-50-53",
@@ -10581,11 +10452,11 @@
         "wikipedia": "https://no.wikipedia.org/wiki/Namdalseid"
       },
       "nabo": [
-        "AO-16-33",
-        "AO-17-02",
+        "AO-50-04",
         "AO-50-05",
         "AO-50-18",
         "AO-50-19",
+        "AO-50-20",
         "AO-50-39",
         "AO-50-49"
       ],
@@ -10608,11 +10479,11 @@
         "wikipedia": "https://no.wikipedia.org/wiki/Sn%C3%A5sa"
       },
       "nabo": [
-        "AO-17-02",
-        "AO-17-42",
-        "AO-17-44",
+        "AO-50-04",
         "AO-50-38",
-        "AO-50-42"
+        "AO-50-42",
+        "AO-50-45",
+        "AO-50-47"
       ],
       "navn": {
         "nob": "Snåsa"
@@ -10633,12 +10504,37 @@
         "wikipedia": "https://no.wikipedia.org/wiki/Lierne"
       },
       "nabo": [
-        "AO-17-39",
-        "AO-17-42",
-        "AO-50-41"
+        "AO-50-41",
+        "AO-50-43",
+        "AO-50-45"
       ],
       "navn": {
         "nob": "Lierne"
+      }
+    },
+    {
+      "bilde": {
+        "banner": [],
+        "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/R%C3%B8yrvik%20komm.svg",
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Royrvik.jpg"
+        ]
+      },
+      "kode": "AO-50-43",
+      "kodeautor": "5043",
+      "lenke": {
+        "offisiell": "http://www.royrvik.kommune.no/",
+        "wikidata": "http://www.wikidata.org/entity/Q484088",
+        "wikipedia": "https://no.wikipedia.org/wiki/R%C3%B8yrvik"
+      },
+      "nabo": [
+        "AO-18-25",
+        "AO-18-26",
+        "AO-50-42",
+        "AO-50-44"
+      ],
+      "navn": {
+        "nob": "Røyrvik"
       }
     },
     {
@@ -10655,16 +10551,42 @@
         "wikipedia": "https://no.wikipedia.org/wiki/Namsskogan"
       },
       "nabo": [
-        "AO-17-39",
-        "AO-17-42",
         "AO-18-11",
         "AO-18-25",
+        "AO-50-43",
+        "AO-50-45",
         "AO-50-46"
       ],
       "navn": {
         "nob": "Namsskogan"
       },
       "osm": "407201"
+    },
+    {
+      "bilde": {
+        "banner": [],
+        "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Grong%20komm.svg",
+        "foto": []
+      },
+      "kode": "AO-50-45",
+      "kodeautor": "5045",
+      "lenke": {
+        "offisiell": "http://www.grong.kommune.no/",
+        "wikidata": "http://www.wikidata.org/entity/Q258084",
+        "wikipedia": "https://no.wikipedia.org/wiki/Grong"
+      },
+      "nabo": [
+        "AO-50-04",
+        "AO-50-41",
+        "AO-50-42",
+        "AO-50-44",
+        "AO-50-46",
+        "AO-50-47"
+      ],
+      "navn": {
+        "nob": "Grong"
+      },
+      "osm": "407216"
     },
     {
       "bilde": {
@@ -10680,17 +10602,45 @@
         "wikipedia": "https://no.wikipedia.org/wiki/H%C3%B8ylandet"
       },
       "nabo": [
-        "AO-17-42",
-        "AO-17-44",
-        "AO-17-51",
         "AO-18-11",
         "AO-50-44",
-        "AO-50-48"
+        "AO-50-45",
+        "AO-50-47",
+        "AO-50-48",
+        "AO-50-51"
       ],
       "navn": {
         "nob": "Høylandet"
       },
       "osm": "407200"
+    },
+    {
+      "bilde": {
+        "banner": [],
+        "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Overhalla%20komm.svg",
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Ranem%20Church.jpg"
+        ]
+      },
+      "kode": "AO-50-47",
+      "kodeautor": "5047",
+      "lenke": {
+        "offisiell": "http://www.overhalla.kommune.no",
+        "wikidata": "http://www.wikidata.org/entity/Q499761",
+        "wikipedia": "https://no.wikipedia.org/wiki/Overhalla"
+      },
+      "nabo": [
+        "AO-50-04",
+        "AO-50-05",
+        "AO-50-41",
+        "AO-50-45",
+        "AO-50-46",
+        "AO-50-48"
+      ],
+      "navn": {
+        "nob": "Overhalla"
+      },
+      "osm": "407211"
     },
     {
       "bilde": {
@@ -10708,11 +10658,11 @@
         "wikipedia": "https://no.wikipedia.org/wiki/Fosnes"
       },
       "nabo": [
-        "AO-17-44",
-        "AO-17-51",
         "AO-50-05",
         "AO-50-46",
-        "AO-50-50"
+        "AO-50-47",
+        "AO-50-50",
+        "AO-50-51"
       ],
       "navn": {
         "nob": "Fosnes"
@@ -10735,8 +10685,8 @@
         "wikipedia": "https://no.wikipedia.org/wiki/Flatanger"
       },
       "nabo": [
-        "AO-16-33",
         "AO-50-05",
+        "AO-50-20",
         "AO-50-40",
         "AO-50-50"
       ],
@@ -10759,13 +10709,63 @@
         "wikipedia": "https://no.wikipedia.org/wiki/Vikna"
       },
       "nabo": [
-        "AO-17-51",
-        "AO-17-55",
         "AO-50-48",
-        "AO-50-49"
+        "AO-50-49",
+        "AO-50-51",
+        "AO-50-52"
       ],
       "navn": {
         "nob": "Vikna"
+      }
+    },
+    {
+      "bilde": {
+        "banner": [],
+        "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/N%C3%A6r%C3%B8y%20komm.svg",
+        "foto": []
+      },
+      "kode": "AO-50-51",
+      "kodeautor": "5051",
+      "lenke": {
+        "offisiell": "http://www.naroy.kommune.no/",
+        "wikidata": "http://www.wikidata.org/entity/Q488979",
+        "wikipedia": "https://no.wikipedia.org/wiki/N%C3%A6r%C3%B8y"
+      },
+      "nabo": [
+        "AO-18-11",
+        "AO-50-46",
+        "AO-50-48",
+        "AO-50-50",
+        "AO-50-52"
+      ],
+      "navn": {
+        "nob": "Nærøy"
+      }
+    },
+    {
+      "bilde": {
+        "banner": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Leka%20banner.jpg"
+        ],
+        "coa": "http://commons.wikimedia.org/wiki/Special:FilePath/Leka%20komm.svg",
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Steinstid%20sommer.JPG"
+        ]
+      },
+      "kode": "AO-50-52",
+      "kodeautor": "5052",
+      "lenke": {
+        "offisiell": "http://www.leka.kommune.no/",
+        "wikidata": "http://www.wikidata.org/entity/Q503591",
+        "wikipedia": "https://no.wikipedia.org/wiki/Leka"
+      },
+      "nabo": [
+        "AO-18-11",
+        "AO-50-50",
+        "AO-50-51"
+      ],
+      "navn": {
+        "nob": "Leka"
       }
     },
     {
@@ -10782,7 +10782,7 @@
         "wikipedia": "https://no.wikipedia.org/wiki/Inder%C3%B8y"
       },
       "nabo": [
-        "AO-17-02",
+        "AO-50-04",
         "AO-50-37",
         "AO-50-38",
         "AO-50-39",
@@ -10835,8 +10835,8 @@
       },
       "nabo": [
         "AO-15-66",
-        "AO-16-12",
-        "AO-16-34",
+        "AO-50-11",
+        "AO-50-21",
         "AO-50-22",
         "AO-50-23",
         "AO-50-24"
@@ -10848,7 +10848,7 @@
   ],
   "meta": {
     "tittel": "Kommune",
-    "produsertUtc": "2019-05-04T07:35:51.168Z",
+    "produsertUtc": "2019-05-05T08:30:02.287Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/kommune-data/master/kommune.json",
     "tool": {
