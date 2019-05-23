@@ -687,7 +687,7 @@
     {
       "autorkode": "0214",
       "geografi": {
-        "areal": 104729398,
+        "areal": 104729386,
         "bbox": [
           10.674112818783657,
           59.59228390943381,
@@ -3983,7 +3983,7 @@
     {
       "autorkode": "0712",
       "geografi": {
-        "areal": 1564109873,
+        "areal": 1564109887,
         "bbox": [
           9.755335684949564,
           58.720454986850775,
@@ -4093,7 +4093,7 @@
     {
       "autorkode": "0716",
       "geografi": {
-        "areal": 249933604,
+        "areal": 249933602,
         "bbox": [
           10.042613977953277,
           59.303968063324426,
@@ -4202,7 +4202,7 @@
     {
       "autorkode": "0806",
       "geografi": {
-        "areal": 790520947,
+        "areal": 790521182,
         "bbox": [
           9.227646991862635,
           59.045256468612756,
@@ -5491,7 +5491,7 @@
     {
       "autorkode": "1017",
       "geografi": {
-        "areal": 216649980,
+        "areal": 217433139,
         "bbox": [
           7.527298574861346,
           58.108469581477124,
@@ -5559,7 +5559,7 @@
     {
       "autorkode": "1021",
       "geografi": {
-        "areal": 396541499,
+        "areal": 395758341,
         "bbox": [
           7.385883029299205,
           58.136040716225494,
@@ -13944,7 +13944,7 @@
     {
       "autorkode": "5035",
       "geografi": {
-        "areal": 1002763134,
+        "areal": 1002763132,
         "bbox": [
           10.653928751365564,
           63.32623369899899,
@@ -14666,7 +14666,7 @@
   ],
   "meta": {
     "tittel": "Kommune",
-    "produsertUtc": "2019-05-07T12:33:35.041Z",
+    "produsertUtc": "2019-05-23T18:01:22.587Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/kommune-data/master/kommune.json",
     "tool": {
