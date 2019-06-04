@@ -9715,6 +9715,7 @@
     },
     {
       "autorkode": "1551",
+      "dissolved": "2019-12-31T00:00:00.000Z",
       "geografi": {
         "areal": 446469701,
         "bbox": [
@@ -14666,7 +14667,7 @@
   ],
   "meta": {
     "tittel": "Kommune",
-    "produsertUtc": "2019-05-23T18:01:22.587Z",
+    "produsertUtc": "2019-06-04T22:13:29.504Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/kommune-data/master/kommune.json",
     "tool": {
