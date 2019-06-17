@@ -3946,7 +3946,8 @@
       },
       "navn": {
         "nob": "Sandefjord"
-      }
+      },
+      "osm": "404592"
     },
     {
       "autorkode": "0711",
@@ -14667,7 +14668,7 @@
   ],
   "meta": {
     "tittel": "Kommune",
-    "produsertUtc": "2019-06-04T22:13:29.504Z",
+    "produsertUtc": "2019-06-17T07:35:19.540Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/kommune-data/master/kommune.json",
     "tool": {
