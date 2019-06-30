@@ -10255,6 +10255,7 @@
           "AO-18-24"
         ]
       },
+      "inception": "1916-01-01T00:00:00.000Z",
       "kode": "AO-18-16",
       "lenke": {
         "offisiell": "http://www.vevelstad.kommune.no",
@@ -10430,6 +10431,7 @@
           "AO-50-44"
         ]
       },
+      "inception": "1927-01-01T00:00:00.000Z",
       "kode": "AO-18-25",
       "lenke": {
         "offisiell": "http://www.grane.kommune.no/",
@@ -10496,6 +10498,7 @@
           "AO-18-35"
         ]
       },
+      "inception": "1962-01-01T00:00:00.000Z",
       "kode": "AO-18-27",
       "lenke": {
         "offisiell": "http://www.donna.kommune.no/",
@@ -11124,6 +11127,7 @@
           "AO-18-53"
         ]
       },
+      "inception": "1925-01-01T00:00:00.000Z",
       "kode": "AO-18-54",
       "lenke": {
         "offisiell": "http://www.ballangen.kommune.no/",
@@ -11414,6 +11418,7 @@
           "AO-19-11"
         ]
       },
+      "inception": "1841-01-01T00:00:00.000Z",
       "kode": "AO-18-70",
       "lenke": {
         "offisiell": "http://www.sortland.kommune.no/",
@@ -11481,6 +11486,7 @@
           "AO-18-59"
         ]
       },
+      "inception": "1916-01-01T00:00:00.000Z",
       "kode": "AO-18-74",
       "lenke": {
         "offisiell": "http://www.moskenes.kommune.no/",
@@ -11844,6 +11850,7 @@
           "AO-19-39"
         ]
       },
+      "inception": "1848-01-01T00:00:00.000Z",
       "kode": "AO-19-24",
       "lenke": {
         "offisiell": "http://www.malselv.kommune.no/",
@@ -12475,6 +12482,7 @@
           "AO-20-21"
         ]
       },
+      "inception": "1851-01-01T00:00:00.000Z",
       "kode": "AO-20-11",
       "lenke": {
         "offisiell": "http://www.kautokeino.kommune.no/",
@@ -13107,6 +13115,7 @@
           "AO-50-49"
         ]
       },
+      "inception": "1846-01-01T00:00:00.000Z",
       "kode": "AO-50-05",
       "lenke": {
         "offisiell": "http://www.namsos.kommune.no/",
@@ -13179,6 +13188,7 @@
           "AO-50-24"
         ]
       },
+      "inception": "1924-01-01T00:00:00.000Z",
       "kode": "AO-50-12",
       "lenke": {
         "offisiell": "http://www.snillfjord.kommune.no/",
@@ -13414,6 +13424,7 @@
           "AO-50-40"
         ]
       },
+      "inception": "1892-01-01T00:00:00.000Z",
       "kode": "AO-50-19",
       "lenke": {
         "offisiell": "http://www.roan.kommune.no/",
@@ -13445,6 +13456,7 @@
           "AO-50-49"
         ]
       },
+      "inception": "1892-01-01T00:00:00.000Z",
       "kode": "AO-50-20",
       "lenke": {
         "offisiell": "http://www.osen.kommune.no/",
@@ -13961,6 +13973,7 @@
           "AO-50-37"
         ]
       },
+      "inception": "1962-01-01T00:00:00.000Z",
       "kode": "AO-50-35",
       "lenke": {
         "offisiell": "http://www.stjordal.kommune.no/",
@@ -14668,7 +14681,7 @@
   ],
   "meta": {
     "tittel": "Kommune",
-    "produsertUtc": "2019-06-21T13:56:58.416Z",
+    "produsertUtc": "2019-06-30T12:22:55.023Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/kommune-data/master/kommune.json",
     "tool": {
