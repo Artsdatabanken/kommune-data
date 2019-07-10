@@ -4608,7 +4608,9 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": [],
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Seljord-telemark-norway.jpg"
+        ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Seljord%20komm.svg"
       },
       "navn": {
@@ -5719,7 +5721,7 @@
       },
       "mediakilde": {
         "banner": [
-          "http://commons.wikimedia.org/wiki/Special:FilePath/Lyngdal%20panorama.jpg"
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Lyngdal%20panorama%20%28cropped%29.jpg"
         ],
         "foto": [],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Lyngdal%20komm.svg"
@@ -9530,6 +9532,7 @@
           "AO-15-43"
         ]
       },
+      "inception": "1964-01-01T00:00:00.000Z",
       "kode": "AO-15-39",
       "lenke": {
         "offisiell": "http://www.rauma.kommune.no/",
@@ -9731,6 +9734,7 @@
           "AO-15-57"
         ]
       },
+      "inception": "1897-01-01T00:00:00.000Z",
       "kode": "AO-15-51",
       "lenke": {
         "offisiell": "http://www.eide.kommune.no/",
@@ -10358,6 +10362,7 @@
           "AO-18-33"
         ]
       },
+      "inception": "1915-01-01T00:00:00.000Z",
       "kode": "AO-18-22",
       "lenke": {
         "offisiell": "http://www.leirfjord.kommune.no/",
@@ -10863,6 +10868,7 @@
           "AO-18-45"
         ]
       },
+      "inception": "1905-01-01T00:00:00.000Z",
       "kode": "AO-18-41",
       "lenke": {
         "offisiell": "http://www.fauske.kommune.no/",
@@ -11063,6 +11069,7 @@
           "AO-19-13"
         ]
       },
+      "inception": "1909-01-01T00:00:00.000Z",
       "kode": "AO-18-52",
       "lenke": {
         "offisiell": "http://www.tjeldsund.kommune.no/",
@@ -11157,6 +11164,7 @@
           "AO-18-57"
         ]
       },
+      "inception": "1928-01-01T00:00:00.000Z",
       "kode": "AO-18-56",
       "lenke": {
         "offisiell": "http://www.rost.kommune.no/",
@@ -11223,6 +11231,7 @@
           "AO-18-74"
         ]
       },
+      "inception": "1976-01-01T00:00:00.000Z",
       "kode": "AO-18-59",
       "lenke": {
         "offisiell": "http://www.flakstad.kommune.no/",
@@ -11253,6 +11262,7 @@
           "AO-18-65"
         ]
       },
+      "inception": "1963-01-01T00:00:00.000Z",
       "kode": "AO-18-60",
       "lenke": {
         "offisiell": "http://www.vestvagoy.kommune.no/",
@@ -11562,6 +11572,7 @@
           "AO-19-27"
         ]
       },
+      "inception": "1904-01-01T00:00:00.000Z",
       "kode": "AO-19-03",
       "lenke": {
         "offisiell": "http://www.harstad.kommune.no/",
@@ -11635,6 +11646,7 @@
           "AO-19-19"
         ]
       },
+      "inception": "1926-01-01T00:00:00.000Z",
       "kode": "AO-19-13",
       "lenke": {
         "offisiell": "http://www.skanland.kommune.no/",
@@ -11706,6 +11718,7 @@
           "AO-19-20"
         ]
       },
+      "inception": "1926-01-01T00:00:00.000Z",
       "kode": "AO-19-19",
       "lenke": {
         "offisiell": "http://www.gratangen.kommune.no/",
@@ -12200,6 +12213,7 @@
           "AO-19-40"
         ]
       },
+      "inception": "1929-01-01T00:00:00.000Z",
       "kode": "AO-19-39",
       "lenke": {
         "offisiell": "http://www.storfjord.kommune.no/",
@@ -12235,6 +12249,7 @@
           "AO-19-42"
         ]
       },
+      "inception": "1929-01-01T00:00:00.000Z",
       "kode": "AO-19-40",
       "lenke": {
         "offisiell": "http://www.kafjord.kommune.no/",
@@ -12837,6 +12852,7 @@
           "AO-20-25"
         ]
       },
+      "inception": "1914-01-01T00:00:00.000Z",
       "kode": "AO-20-23",
       "lenke": {
         "offisiell": "http://www.gamvik.kommune.no/",
@@ -12870,6 +12886,7 @@
           "AO-20-28"
         ]
       },
+      "inception": "1914-01-01T00:00:00.000Z",
       "kode": "AO-20-24",
       "lenke": {
         "offisiell": "http://www.berlevag.kommune.no/",
@@ -13837,6 +13854,7 @@
           "AO-50-35"
         ]
       },
+      "inception": "1891-01-01T00:00:00.000Z",
       "kode": "AO-50-31",
       "lenke": {
         "offisiell": "http://www.malvik.kommune.no/",
@@ -14244,6 +14262,7 @@
           "AO-50-44"
         ]
       },
+      "inception": "1923-01-01T00:00:00.000Z",
       "kode": "AO-50-43",
       "lenke": {
         "offisiell": "http://www.royrvik.kommune.no/",
@@ -14280,6 +14299,7 @@
           "AO-50-46"
         ]
       },
+      "inception": "1923-01-01T00:00:00.000Z",
       "kode": "AO-50-44",
       "lenke": {
         "offisiell": "http://www.namsskogan.kommune.no/",
@@ -14681,7 +14701,7 @@
   ],
   "meta": {
     "tittel": "Kommune",
-    "produsertUtc": "2019-06-30T12:22:55.023Z",
+    "produsertUtc": "2019-07-10T09:54:29.744Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/kommune-data/master/kommune.json",
     "tool": {
