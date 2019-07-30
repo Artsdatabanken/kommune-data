@@ -32,7 +32,8 @@
       },
       "navn": {
         "nob": "Østfold"
-      }
+      },
+      "osm": "406060"
     },
     {
       "autorkode": "02",
@@ -70,7 +71,8 @@
       },
       "navn": {
         "nob": "Akershus"
-      }
+      },
+      "osm": "406106"
     },
     {
       "autorkode": "03",
@@ -146,7 +148,8 @@
       },
       "navn": {
         "nob": "Hedmark"
-      }
+      },
+      "osm": "412436"
     },
     {
       "autorkode": "05",
@@ -185,7 +188,8 @@
       },
       "navn": {
         "nob": "Oppland"
-      }
+      },
+      "osm": "412377"
     },
     {
       "autorkode": "06",
@@ -225,7 +229,8 @@
       },
       "navn": {
         "nob": "Buskerud"
-      }
+      },
+      "osm": "412297"
     },
     {
       "autorkode": "07",
@@ -260,7 +265,8 @@
       },
       "navn": {
         "nob": "Vestfold"
-      }
+      },
+      "osm": "404589"
     },
     {
       "autorkode": "08",
@@ -298,7 +304,8 @@
       },
       "navn": {
         "nob": "Telemark"
-      }
+      },
+      "osm": "405156"
     },
     {
       "autorkode": "09",
@@ -334,7 +341,8 @@
       },
       "navn": {
         "nob": "Aust-Agder"
-      }
+      },
+      "osm": "406015"
     },
     {
       "autorkode": "10",
@@ -369,7 +377,8 @@
       },
       "navn": {
         "nob": "Vest-Agder"
-      }
+      },
+      "osm": "405929"
     },
     {
       "autorkode": "11",
@@ -406,7 +415,8 @@
       },
       "navn": {
         "nob": "Rogaland"
-      }
+      },
+      "osm": "405836"
     },
     {
       "autorkode": "12",
@@ -443,7 +453,8 @@
       },
       "navn": {
         "nob": "Hordaland"
-      }
+      },
+      "osm": "404144"
     },
     {
       "autorkode": "14",
@@ -480,7 +491,8 @@
       },
       "navn": {
         "nob": "Sogn og Fjordane"
-      }
+      },
+      "osm": "407787"
     },
     {
       "autorkode": "15",
@@ -517,7 +529,8 @@
       },
       "navn": {
         "nob": "Møre og Romsdal"
-      }
+      },
+      "osm": "406868"
     },
     {
       "autorkode": "18",
@@ -553,7 +566,8 @@
       },
       "navn": {
         "nob": "Nordland"
-      }
+      },
+      "osm": "408105"
     },
     {
       "autorkode": "19",
@@ -589,7 +603,8 @@
       "navn": {
         "nob": "Troms",
         "sme": "Romsa"
-      }
+      },
+      "osm": "407717"
     },
     {
       "autorkode": "20",
@@ -624,7 +639,8 @@
       "navn": {
         "nob": "Finnmark",
         "sme": "Finnmárku"
-      }
+      },
+      "osm": "406389"
     },
     {
       "autorkode": "50",
@@ -666,7 +682,7 @@
   ],
   "meta": {
     "tittel": "Fylke",
-    "produsertUtc": "2019-06-04T22:13:29.486Z",
+    "produsertUtc": "2019-07-30T17:05:43.482Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/kommune-data/master/fylke.json",
     "tool": {

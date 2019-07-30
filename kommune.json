@@ -33,7 +33,8 @@
       },
       "navn": {
         "nob": "Halden"
-      }
+      },
+      "osm": "406075"
     },
     {
       "autorkode": "0104",
@@ -68,7 +69,8 @@
       },
       "navn": {
         "nob": "Moss"
-      }
+      },
+      "osm": "406087"
     },
     {
       "autorkode": "0105",
@@ -108,7 +110,8 @@
       },
       "navn": {
         "nob": "Sarpsborg"
-      }
+      },
+      "osm": "406078"
     },
     {
       "autorkode": "0106",
@@ -144,7 +147,8 @@
       },
       "navn": {
         "nob": "Fredrikstad"
-      }
+      },
+      "osm": "406077"
     },
     {
       "autorkode": "0111",
@@ -176,7 +180,8 @@
       },
       "navn": {
         "nob": "Hvaler"
-      }
+      },
+      "osm": "406076"
     },
     {
       "autorkode": "0118",
@@ -210,7 +215,8 @@
       },
       "navn": {
         "nob": "Aremark"
-      }
+      },
+      "osm": "406074"
     },
     {
       "autorkode": "0119",
@@ -245,7 +251,8 @@
       },
       "navn": {
         "nob": "Marker"
-      }
+      },
+      "osm": "406073"
     },
     {
       "autorkode": "0121",
@@ -275,7 +282,8 @@
       },
       "navn": {
         "nob": "Rømskog"
-      }
+      },
+      "osm": "406072"
     },
     {
       "autorkode": "0122",
@@ -311,7 +319,8 @@
       },
       "navn": {
         "nob": "Trøgstad"
-      }
+      },
+      "osm": "406081"
     },
     {
       "autorkode": "0123",
@@ -345,7 +354,8 @@
       },
       "navn": {
         "nob": "Spydeberg"
-      }
+      },
+      "osm": "406084"
     },
     {
       "autorkode": "0124",
@@ -379,7 +389,8 @@
       },
       "navn": {
         "nob": "Askim"
-      }
+      },
+      "osm": "406082"
     },
     {
       "autorkode": "0125",
@@ -413,7 +424,8 @@
       },
       "navn": {
         "nob": "Eidsberg"
-      }
+      },
+      "osm": "406080"
     },
     {
       "autorkode": "0127",
@@ -447,7 +459,8 @@
       },
       "navn": {
         "nob": "Skiptvet"
-      }
+      },
+      "osm": "406083"
     },
     {
       "autorkode": "0128",
@@ -481,7 +494,8 @@
       },
       "navn": {
         "nob": "Rakkestad"
-      }
+      },
+      "osm": "406079"
     },
     {
       "autorkode": "0135",
@@ -513,7 +527,8 @@
       },
       "navn": {
         "nob": "Råde"
-      }
+      },
+      "osm": "406089"
     },
     {
       "autorkode": "0136",
@@ -544,7 +559,8 @@
       },
       "navn": {
         "nob": "Rygge"
-      }
+      },
+      "osm": "406088"
     },
     {
       "autorkode": "0137",
@@ -580,7 +596,8 @@
       },
       "navn": {
         "nob": "Våler"
-      }
+      },
+      "osm": "406086"
     },
     {
       "autorkode": "0138",
@@ -614,7 +631,8 @@
       },
       "navn": {
         "nob": "Hobøl"
-      }
+      },
+      "osm": "406085"
     },
     {
       "autorkode": "0211",
@@ -647,7 +665,8 @@
       },
       "navn": {
         "nob": "Vestby"
-      }
+      },
+      "osm": "406133"
     },
     {
       "autorkode": "0213",
@@ -682,7 +701,8 @@
       },
       "navn": {
         "nob": "Ski"
-      }
+      },
+      "osm": "406130"
     },
     {
       "autorkode": "0214",
@@ -719,7 +739,8 @@
       },
       "navn": {
         "nob": "Ås"
-      }
+      },
+      "osm": "409940"
     },
     {
       "autorkode": "0215",
@@ -752,7 +773,8 @@
       },
       "navn": {
         "nob": "Frogn"
-      }
+      },
+      "osm": "406134"
     },
     {
       "autorkode": "0216",
@@ -786,7 +808,8 @@
       },
       "navn": {
         "nob": "Nesodden"
-      }
+      },
+      "osm": "406135"
     },
     {
       "autorkode": "0217",
@@ -817,7 +840,8 @@
       },
       "navn": {
         "nob": "Oppegård"
-      }
+      },
+      "osm": "406131"
     },
     {
       "autorkode": "0219",
@@ -851,7 +875,8 @@
       },
       "navn": {
         "nob": "Bærum"
-      }
+      },
+      "osm": "406136"
     },
     {
       "autorkode": "0220",
@@ -885,7 +910,8 @@
       },
       "navn": {
         "nob": "Asker"
-      }
+      },
+      "osm": "406137"
     },
     {
       "autorkode": "0221",
@@ -922,7 +948,8 @@
       },
       "navn": {
         "nob": "Aurskog-Høland"
-      }
+      },
+      "osm": "406120"
     },
     {
       "autorkode": "0226",
@@ -958,7 +985,8 @@
       },
       "navn": {
         "nob": "Sørum"
-      }
+      },
+      "osm": "406124"
     },
     {
       "autorkode": "0227",
@@ -994,7 +1022,8 @@
       },
       "navn": {
         "nob": "Fet"
-      }
+      },
+      "osm": "406128"
     },
     {
       "autorkode": "0228",
@@ -1026,7 +1055,8 @@
       },
       "navn": {
         "nob": "Rælingen"
-      }
+      },
+      "osm": "406127"
     },
     {
       "autorkode": "0229",
@@ -1062,7 +1092,8 @@
       },
       "navn": {
         "nob": "Enebakk"
-      }
+      },
+      "osm": "406129"
     },
     {
       "autorkode": "0230",
@@ -1166,7 +1197,8 @@
       },
       "navn": {
         "nob": "Nittedal"
-      }
+      },
+      "osm": "406122"
     },
     {
       "autorkode": "0234",
@@ -1201,7 +1233,8 @@
       },
       "navn": {
         "nob": "Gjerdrum"
-      }
+      },
+      "osm": "406123"
     },
     {
       "autorkode": "0235",
@@ -1236,7 +1269,8 @@
       },
       "navn": {
         "nob": "Ullensaker"
-      }
+      },
+      "osm": "406118"
     },
     {
       "autorkode": "0236",
@@ -1313,7 +1347,8 @@
       },
       "navn": {
         "nob": "Eidsvoll"
-      }
+      },
+      "osm": "406117"
     },
     {
       "autorkode": "0238",
@@ -1350,7 +1385,8 @@
       },
       "navn": {
         "nob": "Nannestad"
-      }
+      },
+      "osm": "406121"
     },
     {
       "autorkode": "0239",
@@ -1385,7 +1421,8 @@
       },
       "navn": {
         "nob": "Hurdal"
-      }
+      },
+      "osm": "406116"
     },
     {
       "autorkode": "0301",
@@ -1465,7 +1502,8 @@
       },
       "navn": {
         "nob": "Kongsvinger"
-      }
+      },
+      "osm": "412534"
     },
     {
       "autorkode": "0403",
@@ -1538,7 +1576,8 @@
       },
       "navn": {
         "nob": "Ringsaker"
-      }
+      },
+      "osm": "411313"
     },
     {
       "autorkode": "0415",
@@ -1571,7 +1610,8 @@
       },
       "navn": {
         "nob": "Løten"
-      }
+      },
+      "osm": "410880"
     },
     {
       "autorkode": "0417",
@@ -1609,7 +1649,8 @@
       },
       "navn": {
         "nob": "Stange"
-      }
+      },
+      "osm": "410883"
     },
     {
       "autorkode": "0418",
@@ -1645,7 +1686,8 @@
       },
       "navn": {
         "nob": "Nord-Odal"
-      }
+      },
+      "osm": "412536"
     },
     {
       "autorkode": "0419",
@@ -1678,7 +1720,8 @@
       },
       "navn": {
         "nob": "Sør-Odal"
-      }
+      },
+      "osm": "412535"
     },
     {
       "autorkode": "0420",
@@ -1710,7 +1753,8 @@
       },
       "navn": {
         "nob": "Eidskog"
-      }
+      },
+      "osm": "412533"
     },
     {
       "autorkode": "0423",
@@ -1742,7 +1786,8 @@
       },
       "navn": {
         "nob": "Grue"
-      }
+      },
+      "osm": "412537"
     },
     {
       "autorkode": "0425",
@@ -1774,7 +1819,8 @@
       },
       "navn": {
         "nob": "Åsnes"
-      }
+      },
+      "osm": "412538"
     },
     {
       "autorkode": "0426",
@@ -1807,7 +1853,8 @@
       },
       "navn": {
         "nob": "Våler"
-      }
+      },
+      "osm": "410884"
     },
     {
       "autorkode": "0427",
@@ -1843,7 +1890,8 @@
       },
       "navn": {
         "nob": "Elverum"
-      }
+      },
+      "osm": "410881"
     },
     {
       "autorkode": "0428",
@@ -1879,7 +1927,8 @@
       },
       "navn": {
         "nob": "Trysil"
-      }
+      },
+      "osm": "412539"
     },
     {
       "autorkode": "0429",
@@ -1916,7 +1965,8 @@
       },
       "navn": {
         "nob": "Åmot"
-      }
+      },
+      "osm": "410885"
     },
     {
       "autorkode": "0430",
@@ -1952,7 +2002,8 @@
       },
       "navn": {
         "nob": "Stor-Elvdal"
-      }
+      },
+      "osm": "412540"
     },
     {
       "autorkode": "0432",
@@ -1987,7 +2038,8 @@
       },
       "navn": {
         "nob": "Rendalen"
-      }
+      },
+      "osm": "412541"
     },
     {
       "autorkode": "0434",
@@ -2020,7 +2072,8 @@
       },
       "navn": {
         "nob": "Engerdal"
-      }
+      },
+      "osm": "412542"
     },
     {
       "autorkode": "0436",
@@ -2054,7 +2107,8 @@
       },
       "navn": {
         "nob": "Tolga"
-      }
+      },
+      "osm": "412544"
     },
     {
       "autorkode": "0437",
@@ -2094,7 +2148,8 @@
       },
       "navn": {
         "nob": "Tynset"
-      }
+      },
+      "osm": "412545"
     },
     {
       "autorkode": "0438",
@@ -2126,7 +2181,8 @@
       },
       "navn": {
         "nob": "Alvdal"
-      }
+      },
+      "osm": "412546"
     },
     {
       "autorkode": "0439",
@@ -2161,7 +2217,8 @@
       },
       "navn": {
         "nob": "Folldal"
-      }
+      },
+      "osm": "412547"
     },
     {
       "autorkode": "0441",
@@ -2195,7 +2252,8 @@
       },
       "navn": {
         "nob": "Os"
-      }
+      },
+      "osm": "412543"
     },
     {
       "autorkode": "0501",
@@ -2234,7 +2292,8 @@
       },
       "navn": {
         "nob": "Lillehammer"
-      }
+      },
+      "osm": "412416"
     },
     {
       "autorkode": "0502",
@@ -2272,7 +2331,8 @@
       },
       "navn": {
         "nob": "Gjøvik"
-      }
+      },
+      "osm": "412418"
     },
     {
       "autorkode": "0511",
@@ -2307,7 +2367,8 @@
       },
       "navn": {
         "nob": "Dovre"
-      }
+      },
+      "osm": "412408"
     },
     {
       "autorkode": "0512",
@@ -2343,7 +2404,8 @@
       },
       "navn": {
         "nob": "Lesja"
-      }
+      },
+      "osm": "412407"
     },
     {
       "autorkode": "0513",
@@ -2378,7 +2440,8 @@
       },
       "navn": {
         "nob": "Skjåk"
-      }
+      },
+      "osm": "412406"
     },
     {
       "autorkode": "0514",
@@ -2413,7 +2476,8 @@
       },
       "navn": {
         "nob": "Lom"
-      }
+      },
+      "osm": "412409"
     },
     {
       "autorkode": "0515",
@@ -2448,7 +2512,8 @@
       },
       "navn": {
         "nob": "Vågå"
-      }
+      },
+      "osm": "412410"
     },
     {
       "autorkode": "0516",
@@ -2480,7 +2545,8 @@
       },
       "navn": {
         "nob": "Nord-Fron"
-      }
+      },
+      "osm": "412412"
     },
     {
       "autorkode": "0517",
@@ -2513,7 +2579,8 @@
       },
       "navn": {
         "nob": "Sel"
-      }
+      },
+      "osm": "412411"
     },
     {
       "autorkode": "0519",
@@ -2550,7 +2617,8 @@
       },
       "navn": {
         "nob": "Sør-Fron"
-      }
+      },
+      "osm": "412413"
     },
     {
       "autorkode": "0520",
@@ -2582,7 +2650,8 @@
       },
       "navn": {
         "nob": "Ringebu"
-      }
+      },
+      "osm": "412414"
     },
     {
       "autorkode": "0521",
@@ -2617,7 +2686,8 @@
       },
       "navn": {
         "nob": "Øyer"
-      }
+      },
+      "osm": "412415"
     },
     {
       "autorkode": "0522",
@@ -2652,7 +2722,8 @@
       },
       "navn": {
         "nob": "Gausdal"
-      }
+      },
+      "osm": "412417"
     },
     {
       "autorkode": "0528",
@@ -2688,7 +2759,8 @@
       },
       "navn": {
         "nob": "Østre Toten"
-      }
+      },
+      "osm": "412419"
     },
     {
       "autorkode": "0529",
@@ -2716,14 +2788,13 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": [
-          "http://commons.wikimedia.org/wiki/Special:FilePath/Vestre%20Toten%20kart.png"
-        ],
+        "foto": [],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Vestre%20Toten%20komm.svg"
       },
       "navn": {
         "nob": "Vestre Toten"
-      }
+      },
+      "osm": "412420"
     },
     {
       "autorkode": "0532",
@@ -2754,7 +2825,8 @@
       },
       "navn": {
         "nob": "Jevnaker"
-      }
+      },
+      "osm": "412429"
     },
     {
       "autorkode": "0533",
@@ -2788,7 +2860,8 @@
       },
       "navn": {
         "nob": "Lunner"
-      }
+      },
+      "osm": "412430"
     },
     {
       "autorkode": "0534",
@@ -2825,7 +2898,8 @@
       },
       "navn": {
         "nob": "Gran"
-      }
+      },
+      "osm": "412421"
     },
     {
       "autorkode": "0536",
@@ -2859,7 +2933,8 @@
       },
       "navn": {
         "nob": "Søndre Land"
-      }
+      },
+      "osm": "412422"
     },
     {
       "autorkode": "0538",
@@ -2894,7 +2969,8 @@
       },
       "navn": {
         "nob": "Nordre Land"
-      }
+      },
+      "osm": "412423"
     },
     {
       "autorkode": "0540",
@@ -2930,7 +3006,8 @@
       },
       "navn": {
         "nob": "Sør-Aurdal"
-      }
+      },
+      "osm": "412424"
     },
     {
       "autorkode": "0541",
@@ -2961,7 +3038,8 @@
       },
       "navn": {
         "nob": "Etnedal"
-      }
+      },
+      "osm": "412428"
     },
     {
       "autorkode": "0542",
@@ -2997,7 +3075,8 @@
       },
       "navn": {
         "nob": "Nord-Aurdal"
-      }
+      },
+      "osm": "412425"
     },
     {
       "autorkode": "0543",
@@ -3029,7 +3108,8 @@
       },
       "navn": {
         "nob": "Vestre Slidre"
-      }
+      },
+      "osm": "412426"
     },
     {
       "autorkode": "0544",
@@ -3064,7 +3144,8 @@
       },
       "navn": {
         "nob": "Øystre Slidre"
-      }
+      },
+      "osm": "412431"
     },
     {
       "autorkode": "0545",
@@ -3101,7 +3182,8 @@
       },
       "navn": {
         "nob": "Vang"
-      }
+      },
+      "osm": "412427"
     },
     {
       "autorkode": "0602",
@@ -3138,7 +3220,8 @@
       },
       "navn": {
         "nob": "Drammen"
-      }
+      },
+      "osm": "407953"
     },
     {
       "autorkode": "0604",
@@ -3179,7 +3262,8 @@
       },
       "navn": {
         "nob": "Kongsberg"
-      }
+      },
+      "osm": "412349"
     },
     {
       "autorkode": "0605",
@@ -3222,7 +3306,8 @@
       },
       "navn": {
         "nob": "Ringerike"
-      }
+      },
+      "osm": "412360"
     },
     {
       "autorkode": "0612",
@@ -3256,7 +3341,8 @@
       },
       "navn": {
         "nob": "Hole"
-      }
+      },
+      "osm": "411384"
     },
     {
       "autorkode": "0615",
@@ -3290,7 +3376,8 @@
       },
       "navn": {
         "nob": "Flå"
-      }
+      },
+      "osm": "412359"
     },
     {
       "autorkode": "0616",
@@ -3325,7 +3412,8 @@
       },
       "navn": {
         "nob": "Nes"
-      }
+      },
+      "osm": "412358"
     },
     {
       "autorkode": "0617",
@@ -3358,7 +3446,8 @@
       },
       "navn": {
         "nob": "Gol"
-      }
+      },
+      "osm": "412357"
     },
     {
       "autorkode": "0618",
@@ -3394,7 +3483,8 @@
       },
       "navn": {
         "nob": "Hemsedal"
-      }
+      },
+      "osm": "412356"
     },
     {
       "autorkode": "0619",
@@ -3430,7 +3520,8 @@
       },
       "navn": {
         "nob": "Ål"
-      }
+      },
+      "osm": "412355"
     },
     {
       "autorkode": "0620",
@@ -3464,7 +3555,8 @@
       },
       "navn": {
         "nob": "Hol"
-      }
+      },
+      "osm": "412354"
     },
     {
       "autorkode": "0621",
@@ -3499,7 +3591,8 @@
       },
       "navn": {
         "nob": "Sigdal"
-      }
+      },
+      "osm": "412362"
     },
     {
       "autorkode": "0622",
@@ -3533,7 +3626,8 @@
       },
       "navn": {
         "nob": "Krødsherad"
-      }
+      },
+      "osm": "412361"
     },
     {
       "autorkode": "0623",
@@ -3568,7 +3662,8 @@
       },
       "navn": {
         "nob": "Modum"
-      }
+      },
+      "osm": "412363"
     },
     {
       "autorkode": "0624",
@@ -3605,7 +3700,8 @@
       },
       "navn": {
         "nob": "Øvre Eiker"
-      }
+      },
+      "osm": "412350"
     },
     {
       "autorkode": "0625",
@@ -3638,7 +3734,8 @@
       },
       "navn": {
         "nob": "Nedre Eiker"
-      }
+      },
+      "osm": "407928"
     },
     {
       "autorkode": "0626",
@@ -3674,7 +3771,8 @@
       },
       "navn": {
         "nob": "Lier"
-      }
+      },
+      "osm": "411383"
     },
     {
       "autorkode": "0627",
@@ -3705,7 +3803,8 @@
       },
       "navn": {
         "nob": "Røyken"
-      }
+      },
+      "osm": "407793"
     },
     {
       "autorkode": "0628",
@@ -3736,7 +3835,8 @@
       },
       "navn": {
         "nob": "Hurum"
-      }
+      },
+      "osm": "412364"
     },
     {
       "autorkode": "0631",
@@ -3770,7 +3870,8 @@
       },
       "navn": {
         "nob": "Flesberg"
-      }
+      },
+      "osm": "412351"
     },
     {
       "autorkode": "0632",
@@ -3802,7 +3903,8 @@
       },
       "navn": {
         "nob": "Rollag"
-      }
+      },
+      "osm": "412352"
     },
     {
       "autorkode": "0633",
@@ -3839,7 +3941,8 @@
       },
       "navn": {
         "nob": "Nore og Uvdal"
-      }
+      },
+      "osm": "412353"
     },
     {
       "autorkode": "0701",
@@ -3874,7 +3977,8 @@
       },
       "navn": {
         "nob": "Horten"
-      }
+      },
+      "osm": "404590"
     },
     {
       "autorkode": "0704",
@@ -3910,7 +4014,8 @@
       },
       "navn": {
         "nob": "Tønsberg"
-      }
+      },
+      "osm": "404598"
     },
     {
       "autorkode": "0710",
@@ -3979,7 +4084,8 @@
       },
       "navn": {
         "nob": "Svelvik"
-      }
+      },
+      "osm": "404603"
     },
     {
       "autorkode": "0712",
@@ -4050,7 +4156,8 @@
       },
       "navn": {
         "nob": "Sande"
-      }
+      },
+      "osm": "404602"
     },
     {
       "autorkode": "0715",
@@ -4089,7 +4196,8 @@
       },
       "navn": {
         "nob": "Holmestrand"
-      }
+      },
+      "osm": "404600"
     },
     {
       "autorkode": "0716",
@@ -4132,7 +4240,8 @@
       },
       "navn": {
         "nob": "Re"
-      }
+      },
+      "osm": "404599"
     },
     {
       "autorkode": "0729",
@@ -4162,7 +4271,8 @@
       },
       "navn": {
         "nob": "Færder"
-      }
+      },
+      "osm": "404594"
     },
     {
       "autorkode": "0805",
@@ -4198,7 +4308,8 @@
       },
       "navn": {
         "nob": "Porsgrunn"
-      }
+      },
+      "osm": "405171"
     },
     {
       "autorkode": "0806",
@@ -4237,7 +4348,8 @@
       },
       "navn": {
         "nob": "Skien"
-      }
+      },
+      "osm": "405166"
     },
     {
       "autorkode": "0807",
@@ -4276,7 +4388,8 @@
       },
       "navn": {
         "nob": "Notodden"
-      }
+      },
+      "osm": "405159"
     },
     {
       "autorkode": "0811",
@@ -4308,7 +4421,8 @@
       },
       "navn": {
         "nob": "Siljan"
-      }
+      },
+      "osm": "405170"
     },
     {
       "autorkode": "0814",
@@ -4340,7 +4454,8 @@
       },
       "navn": {
         "nob": "Bamble"
-      }
+      },
+      "osm": "405172"
     },
     {
       "autorkode": "0815",
@@ -4374,7 +4489,8 @@
       },
       "navn": {
         "nob": "Kragerø"
-      }
+      },
+      "osm": "405173"
     },
     {
       "autorkode": "0817",
@@ -4409,7 +4525,8 @@
       },
       "navn": {
         "nob": "Drangedal"
-      }
+      },
+      "osm": "405167"
     },
     {
       "autorkode": "0819",
@@ -4444,7 +4561,8 @@
       },
       "navn": {
         "nob": "Nome"
-      }
+      },
+      "osm": "405164"
     },
     {
       "autorkode": "0821",
@@ -4477,7 +4595,8 @@
       },
       "navn": {
         "nob": "Bø"
-      }
+      },
+      "osm": "405162"
     },
     {
       "autorkode": "0822",
@@ -4510,7 +4629,8 @@
       },
       "navn": {
         "nob": "Sauherad"
-      }
+      },
+      "osm": "405165"
     },
     {
       "autorkode": "0826",
@@ -4547,7 +4667,8 @@
       },
       "navn": {
         "nob": "Tinn"
-      }
+      },
+      "osm": "405158"
     },
     {
       "autorkode": "0827",
@@ -4578,7 +4699,8 @@
       },
       "navn": {
         "nob": "Hjartdal"
-      }
+      },
+      "osm": "405160"
     },
     {
       "autorkode": "0828",
@@ -4615,7 +4737,8 @@
       },
       "navn": {
         "nob": "Seljord"
-      }
+      },
+      "osm": "405161"
     },
     {
       "autorkode": "0829",
@@ -4650,7 +4773,8 @@
       },
       "navn": {
         "nob": "Kviteseid"
-      }
+      },
+      "osm": "405163"
     },
     {
       "autorkode": "0830",
@@ -4684,7 +4808,8 @@
       },
       "navn": {
         "nob": "Nissedal"
-      }
+      },
+      "osm": "405174"
     },
     {
       "autorkode": "0831",
@@ -4718,7 +4843,8 @@
       },
       "navn": {
         "nob": "Fyresdal"
-      }
+      },
+      "osm": "405168"
     },
     {
       "autorkode": "0833",
@@ -4752,7 +4878,8 @@
       },
       "navn": {
         "nob": "Tokke"
-      }
+      },
+      "osm": "405169"
     },
     {
       "autorkode": "0834",
@@ -4788,7 +4915,8 @@
       },
       "navn": {
         "nob": "Vinje"
-      }
+      },
+      "osm": "405157"
     },
     {
       "autorkode": "0901",
@@ -4824,7 +4952,8 @@
       },
       "navn": {
         "nob": "Risør"
-      }
+      },
+      "osm": "406025"
     },
     {
       "autorkode": "0904",
@@ -4858,7 +4987,8 @@
       },
       "navn": {
         "nob": "Grimstad"
-      }
+      },
+      "osm": "406035"
     },
     {
       "autorkode": "0906",
@@ -4893,7 +5023,8 @@
       },
       "navn": {
         "nob": "Arendal"
-      }
+      },
+      "osm": "406036"
     },
     {
       "autorkode": "0911",
@@ -4926,7 +5057,8 @@
       },
       "navn": {
         "nob": "Gjerstad"
-      }
+      },
+      "osm": "406038"
     },
     {
       "autorkode": "0912",
@@ -4959,7 +5091,8 @@
       },
       "navn": {
         "nob": "Vegårshei"
-      }
+      },
+      "osm": "406037"
     },
     {
       "autorkode": "0914",
@@ -4994,7 +5127,8 @@
       },
       "navn": {
         "nob": "Tvedestrand"
-      }
+      },
+      "osm": "406026"
     },
     {
       "autorkode": "0919",
@@ -5031,7 +5165,8 @@
       },
       "navn": {
         "nob": "Froland"
-      }
+      },
+      "osm": "407595"
     },
     {
       "autorkode": "0926",
@@ -5103,7 +5238,8 @@
       },
       "navn": {
         "nob": "Birkenes"
-      }
+      },
+      "osm": "406033"
     },
     {
       "autorkode": "0929",
@@ -5137,7 +5273,8 @@
       },
       "navn": {
         "nob": "Åmli"
-      }
+      },
+      "osm": "406030"
     },
     {
       "autorkode": "0935",
@@ -5169,7 +5306,8 @@
       },
       "navn": {
         "nob": "Iveland"
-      }
+      },
+      "osm": "406032"
     },
     {
       "autorkode": "0937",
@@ -5206,7 +5344,8 @@
       },
       "navn": {
         "nob": "Evje og Hornnes"
-      }
+      },
+      "osm": "406031"
     },
     {
       "autorkode": "0938",
@@ -5242,7 +5381,8 @@
       },
       "navn": {
         "nob": "Bygland"
-      }
+      },
+      "osm": "406029"
     },
     {
       "autorkode": "0940",
@@ -5277,7 +5417,8 @@
       },
       "navn": {
         "nob": "Valle"
-      }
+      },
+      "osm": "406028"
     },
     {
       "autorkode": "0941",
@@ -5312,7 +5453,8 @@
       },
       "navn": {
         "nob": "Bykle"
-      }
+      },
+      "osm": "406027"
     },
     {
       "autorkode": "1001",
@@ -5349,7 +5491,8 @@
       },
       "navn": {
         "nob": "Kristiansand"
-      }
+      },
+      "osm": "405981"
     },
     {
       "autorkode": "1002",
@@ -5384,7 +5527,8 @@
       },
       "navn": {
         "nob": "Mandal"
-      }
+      },
+      "osm": "405983"
     },
     {
       "autorkode": "1003",
@@ -5416,7 +5560,8 @@
       },
       "navn": {
         "nob": "Farsund"
-      }
+      },
+      "osm": "405986"
     },
     {
       "autorkode": "1004",
@@ -5452,7 +5597,8 @@
       },
       "navn": {
         "nob": "Flekkefjord"
-      }
+      },
+      "osm": "405973"
     },
     {
       "autorkode": "1014",
@@ -5489,7 +5635,8 @@
       },
       "navn": {
         "nob": "Vennesla"
-      }
+      },
+      "osm": "405980"
     },
     {
       "autorkode": "1017",
@@ -5523,7 +5670,8 @@
       },
       "navn": {
         "nob": "Songdalen"
-      }
+      },
+      "osm": "405979"
     },
     {
       "autorkode": "1018",
@@ -5557,7 +5705,8 @@
       },
       "navn": {
         "nob": "Søgne"
-      }
+      },
+      "osm": "405982"
     },
     {
       "autorkode": "1021",
@@ -5592,7 +5741,8 @@
       },
       "navn": {
         "nob": "Marnardal"
-      }
+      },
+      "osm": "405978"
     },
     {
       "autorkode": "1026",
@@ -5625,7 +5775,8 @@
       },
       "navn": {
         "nob": "Åseral"
-      }
+      },
+      "osm": "405976"
     },
     {
       "autorkode": "1027",
@@ -5659,7 +5810,8 @@
       },
       "navn": {
         "nob": "Audnedal"
-      }
+      },
+      "osm": "405977"
     },
     {
       "autorkode": "1029",
@@ -5693,7 +5845,8 @@
       },
       "navn": {
         "nob": "Lindesnes"
-      }
+      },
+      "osm": "405984"
     },
     {
       "autorkode": "1032",
@@ -5728,7 +5881,8 @@
       },
       "navn": {
         "nob": "Lyngdal"
-      }
+      },
+      "osm": "405985"
     },
     {
       "autorkode": "1034",
@@ -5760,7 +5914,8 @@
       },
       "navn": {
         "nob": "Hægebostad"
-      }
+      },
+      "osm": "405987"
     },
     {
       "autorkode": "1037",
@@ -5800,7 +5955,8 @@
       },
       "navn": {
         "nob": "Kvinesdal"
-      }
+      },
+      "osm": "405975"
     },
     {
       "autorkode": "1046",
@@ -5838,7 +5994,8 @@
       },
       "navn": {
         "nob": "Sirdal"
-      }
+      },
+      "osm": "405974"
     },
     {
       "autorkode": "1101",
@@ -5873,7 +6030,8 @@
       },
       "navn": {
         "nob": "Eigersund"
-      }
+      },
+      "osm": "405825"
     },
     {
       "autorkode": "1102",
@@ -5912,7 +6070,8 @@
       },
       "navn": {
         "nob": "Sandnes"
-      }
+      },
+      "osm": "405654"
     },
     {
       "autorkode": "1103",
@@ -5949,7 +6108,8 @@
       },
       "navn": {
         "nob": "Stavanger"
-      }
+      },
+      "osm": "384615"
     },
     {
       "autorkode": "1106",
@@ -6017,7 +6177,8 @@
       },
       "navn": {
         "nob": "Sokndal"
-      }
+      },
+      "osm": "405788"
     },
     {
       "autorkode": "1112",
@@ -6049,7 +6210,8 @@
       },
       "navn": {
         "nob": "Lund"
-      }
+      },
+      "osm": "405824"
     },
     {
       "autorkode": "1114",
@@ -6082,7 +6244,8 @@
       },
       "navn": {
         "nob": "Bjerkreim"
-      }
+      },
+      "osm": "405826"
     },
     {
       "autorkode": "1119",
@@ -6118,7 +6281,8 @@
       },
       "navn": {
         "nob": "Hå"
-      }
+      },
+      "osm": "405787"
     },
     {
       "autorkode": "1120",
@@ -6150,7 +6314,8 @@
       },
       "navn": {
         "nob": "Klepp"
-      }
+      },
+      "osm": "405655"
     },
     {
       "autorkode": "1121",
@@ -6185,7 +6350,8 @@
       },
       "navn": {
         "nob": "Time"
-      }
+      },
+      "osm": "405786"
     },
     {
       "autorkode": "1122",
@@ -6220,7 +6386,8 @@
       },
       "navn": {
         "nob": "Gjesdal"
-      }
+      },
+      "osm": "405827"
     },
     {
       "autorkode": "1124",
@@ -6252,7 +6419,8 @@
       },
       "navn": {
         "nob": "Sola"
-      }
+      },
+      "osm": "405653"
     },
     {
       "autorkode": "1127",
@@ -6286,7 +6454,8 @@
       },
       "navn": {
         "nob": "Randaberg"
-      }
+      },
+      "osm": "405652"
     },
     {
       "autorkode": "1129",
@@ -6325,7 +6494,8 @@
       },
       "navn": {
         "nob": "Forsand"
-      }
+      },
+      "osm": "405828"
     },
     {
       "autorkode": "1130",
@@ -6358,7 +6528,8 @@
       },
       "navn": {
         "nob": "Strand"
-      }
+      },
+      "osm": "405657"
     },
     {
       "autorkode": "1133",
@@ -6391,7 +6562,8 @@
       },
       "navn": {
         "nob": "Hjelmeland"
-      }
+      },
+      "osm": "405829"
     },
     {
       "autorkode": "1134",
@@ -6429,7 +6601,8 @@
       },
       "navn": {
         "nob": "Suldal"
-      }
+      },
+      "osm": "405830"
     },
     {
       "autorkode": "1135",
@@ -6462,7 +6635,8 @@
       },
       "navn": {
         "nob": "Sauda"
-      }
+      },
+      "osm": "405837"
     },
     {
       "autorkode": "1141",
@@ -6499,7 +6673,8 @@
       },
       "navn": {
         "nob": "Finnøy"
-      }
+      },
+      "osm": "409899"
     },
     {
       "autorkode": "1142",
@@ -6535,7 +6710,7 @@
       "navn": {
         "nob": "Rennesøy"
       },
-      "osm": "6148112"
+      "osm": "405679"
     },
     {
       "autorkode": "1144",
@@ -6569,7 +6744,8 @@
       },
       "navn": {
         "nob": "Kvitsøy"
-      }
+      },
+      "osm": "405658"
     },
     {
       "autorkode": "1145",
@@ -6604,7 +6780,8 @@
       },
       "navn": {
         "nob": "Bokn"
-      }
+      },
+      "osm": "405833"
     },
     {
       "autorkode": "1146",
@@ -6638,7 +6815,8 @@
       },
       "navn": {
         "nob": "Tysvær"
-      }
+      },
+      "osm": "405835"
     },
     {
       "autorkode": "1149",
@@ -6674,7 +6852,7 @@
       "navn": {
         "nob": "Karmøy"
       },
-      "osm": "6144371"
+      "osm": "405832"
     },
     {
       "autorkode": "1151",
@@ -6703,7 +6881,8 @@
       },
       "navn": {
         "nob": "Utsira"
-      }
+      },
+      "osm": "405831"
     },
     {
       "autorkode": "1160",
@@ -6737,7 +6916,8 @@
       },
       "navn": {
         "nob": "Vindafjord"
-      }
+      },
+      "osm": "405845"
     },
     {
       "autorkode": "1201",
@@ -6812,7 +6992,8 @@
       },
       "navn": {
         "nob": "Etne"
-      }
+      },
+      "osm": "404168"
     },
     {
       "autorkode": "1216",
@@ -6847,7 +7028,8 @@
       },
       "navn": {
         "nob": "Sveio"
-      }
+      },
+      "osm": "404171"
     },
     {
       "autorkode": "1219",
@@ -6880,7 +7062,8 @@
       },
       "navn": {
         "nob": "Bømlo"
-      }
+      },
+      "osm": "404170"
     },
     {
       "autorkode": "1221",
@@ -6914,7 +7097,8 @@
       },
       "navn": {
         "nob": "Stord"
-      }
+      },
+      "osm": "404169"
     },
     {
       "autorkode": "1222",
@@ -6946,7 +7130,8 @@
       },
       "navn": {
         "nob": "Fitjar"
-      }
+      },
+      "osm": "404166"
     },
     {
       "autorkode": "1223",
@@ -6980,7 +7165,8 @@
       },
       "navn": {
         "nob": "Tysnes"
-      }
+      },
+      "osm": "404165"
     },
     {
       "autorkode": "1224",
@@ -7021,7 +7207,8 @@
       },
       "navn": {
         "nob": "Kvinnherad"
-      }
+      },
+      "osm": "404167"
     },
     {
       "autorkode": "1227",
@@ -7054,7 +7241,8 @@
       },
       "navn": {
         "nob": "Jondal"
-      }
+      },
+      "osm": "404154"
     },
     {
       "autorkode": "1228",
@@ -7092,7 +7280,8 @@
       },
       "navn": {
         "nob": "Odda"
-      }
+      },
+      "osm": "404153"
     },
     {
       "autorkode": "1231",
@@ -7128,7 +7317,8 @@
       },
       "navn": {
         "nob": "Ullensvang"
-      }
+      },
+      "osm": "404152"
     },
     {
       "autorkode": "1232",
@@ -7164,7 +7354,8 @@
       },
       "navn": {
         "nob": "Eidfjord"
-      }
+      },
+      "osm": "404151"
     },
     {
       "autorkode": "1233",
@@ -7202,7 +7393,8 @@
       },
       "navn": {
         "nob": "Ulvik"
-      }
+      },
+      "osm": "404149"
     },
     {
       "autorkode": "1234",
@@ -7236,7 +7428,8 @@
       },
       "navn": {
         "nob": "Granvin"
-      }
+      },
+      "osm": "404150"
     },
     {
       "autorkode": "1235",
@@ -7311,7 +7504,8 @@
       },
       "navn": {
         "nob": "Kvam"
-      }
+      },
+      "osm": "404155"
     },
     {
       "autorkode": "1241",
@@ -7344,7 +7538,8 @@
       },
       "navn": {
         "nob": "Fusa"
-      }
+      },
+      "osm": "404161"
     },
     {
       "autorkode": "1242",
@@ -7379,7 +7574,8 @@
       },
       "navn": {
         "nob": "Samnanger"
-      }
+      },
+      "osm": "404160"
     },
     {
       "autorkode": "1243",
@@ -7414,7 +7610,8 @@
       },
       "navn": {
         "nob": "Os"
-      }
+      },
+      "osm": "404162"
     },
     {
       "autorkode": "1244",
@@ -7452,7 +7649,8 @@
       },
       "navn": {
         "nob": "Austevoll"
-      }
+      },
+      "osm": "404164"
     },
     {
       "autorkode": "1245",
@@ -7485,7 +7683,8 @@
       },
       "navn": {
         "nob": "Sund"
-      }
+      },
+      "osm": "404163"
     },
     {
       "autorkode": "1246",
@@ -7518,7 +7717,8 @@
       },
       "navn": {
         "nob": "Fjell"
-      }
+      },
+      "osm": "404158"
     },
     {
       "autorkode": "1247",
@@ -7555,7 +7755,8 @@
       },
       "navn": {
         "nob": "Askøy"
-      }
+      },
+      "osm": "404157"
     },
     {
       "autorkode": "1251",
@@ -7591,7 +7792,8 @@
       },
       "navn": {
         "nob": "Vaksdal"
-      }
+      },
+      "osm": "404139"
     },
     {
       "autorkode": "1252",
@@ -7626,7 +7828,8 @@
       },
       "navn": {
         "nob": "Modalen"
-      }
+      },
+      "osm": "404140"
     },
     {
       "autorkode": "1253",
@@ -7658,7 +7861,8 @@
       },
       "navn": {
         "nob": "Osterøy"
-      }
+      },
+      "osm": "404141"
     },
     {
       "autorkode": "1256",
@@ -7690,7 +7894,8 @@
       },
       "navn": {
         "nob": "Meland"
-      }
+      },
+      "osm": "404148"
     },
     {
       "autorkode": "1259",
@@ -7722,7 +7927,8 @@
       },
       "navn": {
         "nob": "Øygarden"
-      }
+      },
+      "osm": "404156"
     },
     {
       "autorkode": "1260",
@@ -7758,7 +7964,8 @@
       },
       "navn": {
         "nob": "Radøy"
-      }
+      },
+      "osm": "404147"
     },
     {
       "autorkode": "1263",
@@ -7799,7 +8006,8 @@
       },
       "navn": {
         "nob": "Lindås"
-      }
+      },
+      "osm": "404142"
     },
     {
       "autorkode": "1264",
@@ -7833,7 +8041,8 @@
       },
       "navn": {
         "nob": "Austrheim"
-      }
+      },
+      "osm": "404145"
     },
     {
       "autorkode": "1265",
@@ -7868,7 +8077,8 @@
       },
       "navn": {
         "nob": "Fedje"
-      }
+      },
+      "osm": "404146"
     },
     {
       "autorkode": "1266",
@@ -7900,7 +8110,8 @@
       },
       "navn": {
         "nob": "Masfjorden"
-      }
+      },
+      "osm": "404143"
     },
     {
       "autorkode": "1401",
@@ -7932,7 +8143,8 @@
       },
       "navn": {
         "nob": "Flora"
-      }
+      },
+      "osm": "404545"
     },
     {
       "autorkode": "1411",
@@ -7967,7 +8179,8 @@
       },
       "navn": {
         "nob": "Gulen"
-      }
+      },
+      "osm": "405322"
     },
     {
       "autorkode": "1412",
@@ -7999,7 +8212,8 @@
       },
       "navn": {
         "nob": "Solund"
-      }
+      },
+      "osm": "404731"
     },
     {
       "autorkode": "1413",
@@ -8033,7 +8247,8 @@
       },
       "navn": {
         "nob": "Hyllestad"
-      }
+      },
+      "osm": "404674"
     },
     {
       "autorkode": "1416",
@@ -8113,7 +8328,8 @@
       },
       "navn": {
         "nob": "Vik"
-      }
+      },
+      "osm": "409074"
     },
     {
       "autorkode": "1418",
@@ -8151,7 +8367,8 @@
       },
       "navn": {
         "nob": "Balestrand"
-      }
+      },
+      "osm": "404675"
     },
     {
       "autorkode": "1419",
@@ -8184,7 +8401,8 @@
       },
       "navn": {
         "nob": "Leikanger"
-      }
+      },
+      "osm": "409084"
     },
     {
       "autorkode": "1420",
@@ -8221,7 +8439,8 @@
       },
       "navn": {
         "nob": "Sogndal"
-      }
+      },
+      "osm": "409085"
     },
     {
       "autorkode": "1421",
@@ -8256,7 +8475,8 @@
       },
       "navn": {
         "nob": "Aurland"
-      }
+      },
+      "osm": "409075"
     },
     {
       "autorkode": "1422",
@@ -8296,7 +8516,8 @@
       },
       "navn": {
         "nob": "Lærdal"
-      }
+      },
+      "osm": "409076"
     },
     {
       "autorkode": "1424",
@@ -8329,7 +8550,8 @@
       },
       "navn": {
         "nob": "Årdal"
-      }
+      },
+      "osm": "409077"
     },
     {
       "autorkode": "1426",
@@ -8366,7 +8588,8 @@
       },
       "navn": {
         "nob": "Luster"
-      }
+      },
+      "osm": "409078"
     },
     {
       "autorkode": "1428",
@@ -8402,7 +8625,8 @@
       },
       "navn": {
         "nob": "Askvoll"
-      }
+      },
+      "osm": "404673"
     },
     {
       "autorkode": "1429",
@@ -8435,7 +8659,8 @@
       },
       "navn": {
         "nob": "Fjaler"
-      }
+      },
+      "osm": "404672"
     },
     {
       "autorkode": "1430",
@@ -8470,7 +8695,8 @@
       },
       "navn": {
         "nob": "Gaular"
-      }
+      },
+      "osm": "404671"
     },
     {
       "autorkode": "1431",
@@ -8504,7 +8730,8 @@
       },
       "navn": {
         "nob": "Jølster"
-      }
+      },
+      "osm": "404670"
     },
     {
       "autorkode": "1432",
@@ -8578,7 +8805,8 @@
       },
       "navn": {
         "nob": "Naustdal"
-      }
+      },
+      "osm": "404544"
     },
     {
       "autorkode": "1438",
@@ -8610,7 +8838,8 @@
       },
       "navn": {
         "nob": "Bremanger"
-      }
+      },
+      "osm": "409083"
     },
     {
       "autorkode": "1439",
@@ -8642,7 +8871,8 @@
       },
       "navn": {
         "nob": "Vågsøy"
-      }
+      },
+      "osm": "409086"
     },
     {
       "autorkode": "1441",
@@ -8675,7 +8905,8 @@
       },
       "navn": {
         "nob": "Selje"
-      }
+      },
+      "osm": "409087"
     },
     {
       "autorkode": "1443",
@@ -8710,7 +8941,8 @@
       },
       "navn": {
         "nob": "Eid"
-      }
+      },
+      "osm": "409081"
     },
     {
       "autorkode": "1444",
@@ -8743,7 +8975,8 @@
       },
       "navn": {
         "nob": "Hornindal"
-      }
+      },
+      "osm": "409080"
     },
     {
       "autorkode": "1445",
@@ -8777,7 +9010,8 @@
       },
       "navn": {
         "nob": "Gloppen"
-      }
+      },
+      "osm": "409082"
     },
     {
       "autorkode": "1449",
@@ -8816,7 +9050,8 @@
       },
       "navn": {
         "nob": "Stryn"
-      }
+      },
+      "osm": "409079"
     },
     {
       "autorkode": "1502",
@@ -8856,7 +9091,8 @@
       },
       "navn": {
         "nob": "Molde"
-      }
+      },
+      "osm": "406845"
     },
     {
       "autorkode": "1504",
@@ -8967,7 +9203,8 @@
       },
       "navn": {
         "nob": "Vanylven"
-      }
+      },
+      "osm": "406862"
     },
     {
       "autorkode": "1514",
@@ -9000,7 +9237,8 @@
       },
       "navn": {
         "nob": "Sande"
-      }
+      },
+      "osm": "406867"
     },
     {
       "autorkode": "1515",
@@ -9032,7 +9270,8 @@
       },
       "navn": {
         "nob": "Herøy"
-      }
+      },
+      "osm": "406866"
     },
     {
       "autorkode": "1516",
@@ -9063,7 +9302,8 @@
       },
       "navn": {
         "nob": "Ulstein"
-      }
+      },
+      "osm": "406865"
     },
     {
       "autorkode": "1517",
@@ -9095,7 +9335,8 @@
       },
       "navn": {
         "nob": "Hareid"
-      }
+      },
+      "osm": "406864"
     },
     {
       "autorkode": "1519",
@@ -9128,7 +9369,8 @@
       },
       "navn": {
         "nob": "Volda"
-      }
+      },
+      "osm": "406861"
     },
     {
       "autorkode": "1520",
@@ -9164,7 +9406,8 @@
       },
       "navn": {
         "nob": "Ørsta"
-      }
+      },
+      "osm": "406860"
     },
     {
       "autorkode": "1523",
@@ -9199,7 +9442,8 @@
       },
       "navn": {
         "nob": "Ørskog"
-      }
+      },
+      "osm": "406854"
     },
     {
       "autorkode": "1524",
@@ -9231,7 +9475,8 @@
       },
       "navn": {
         "nob": "Norddal"
-      }
+      },
+      "osm": "406851"
     },
     {
       "autorkode": "1525",
@@ -9268,7 +9513,8 @@
       },
       "navn": {
         "nob": "Stranda"
-      }
+      },
+      "osm": "406852"
     },
     {
       "autorkode": "1526",
@@ -9303,7 +9549,8 @@
       },
       "navn": {
         "nob": "Stordal"
-      }
+      },
+      "osm": "406853"
     },
     {
       "autorkode": "1528",
@@ -9339,7 +9586,8 @@
       },
       "navn": {
         "nob": "Sykkylven"
-      }
+      },
+      "osm": "406857"
     },
     {
       "autorkode": "1529",
@@ -9374,7 +9622,8 @@
       },
       "navn": {
         "nob": "Skodje"
-      }
+      },
+      "osm": "406855"
     },
     {
       "autorkode": "1531",
@@ -9406,7 +9655,8 @@
       },
       "navn": {
         "nob": "Sula"
-      }
+      },
+      "osm": "406863"
     },
     {
       "autorkode": "1532",
@@ -9441,7 +9691,8 @@
       },
       "navn": {
         "nob": "Giske"
-      }
+      },
+      "osm": "406859"
     },
     {
       "autorkode": "1534",
@@ -9475,7 +9726,8 @@
       },
       "navn": {
         "nob": "Haram"
-      }
+      },
+      "osm": "406856"
     },
     {
       "autorkode": "1535",
@@ -9510,7 +9762,8 @@
       },
       "navn": {
         "nob": "Vestnes"
-      }
+      },
+      "osm": "406850"
     },
     {
       "autorkode": "1539",
@@ -9546,7 +9799,8 @@
       },
       "navn": {
         "nob": "Rauma"
-      }
+      },
+      "osm": "406844"
     },
     {
       "autorkode": "1543",
@@ -9580,7 +9834,8 @@
       },
       "navn": {
         "nob": "Nesset"
-      }
+      },
+      "osm": "406843"
     },
     {
       "autorkode": "1545",
@@ -9615,7 +9870,8 @@
       },
       "navn": {
         "nob": "Midsund"
-      }
+      },
+      "osm": "406849"
     },
     {
       "autorkode": "1546",
@@ -9649,7 +9905,8 @@
       },
       "navn": {
         "nob": "Sandøy"
-      }
+      },
+      "osm": "406848"
     },
     {
       "autorkode": "1547",
@@ -9683,7 +9940,8 @@
       },
       "navn": {
         "nob": "Aukra"
-      }
+      },
+      "osm": "406847"
     },
     {
       "autorkode": "1548",
@@ -9715,7 +9973,8 @@
       },
       "navn": {
         "nob": "Fræna"
-      }
+      },
+      "osm": "406846"
     },
     {
       "autorkode": "1551",
@@ -9748,7 +10007,8 @@
       },
       "navn": {
         "nob": "Eide"
-      }
+      },
+      "osm": "406842"
     },
     {
       "autorkode": "1554",
@@ -9783,7 +10043,8 @@
       },
       "navn": {
         "nob": "Averøy"
-      }
+      },
+      "osm": "406840"
     },
     {
       "autorkode": "1557",
@@ -9820,7 +10081,8 @@
       },
       "navn": {
         "nob": "Gjemnes"
-      }
+      },
+      "osm": "406841"
     },
     {
       "autorkode": "1560",
@@ -9856,7 +10118,8 @@
       },
       "navn": {
         "nob": "Tingvoll"
-      }
+      },
+      "osm": "406838"
     },
     {
       "autorkode": "1563",
@@ -9891,7 +10154,8 @@
       },
       "navn": {
         "nob": "Sunndal"
-      }
+      },
+      "osm": "406839"
     },
     {
       "autorkode": "1566",
@@ -9925,7 +10189,8 @@
       },
       "navn": {
         "nob": "Surnadal"
-      }
+      },
+      "osm": "406836"
     },
     {
       "autorkode": "1571",
@@ -9960,7 +10225,8 @@
       },
       "navn": {
         "nob": "Halsa"
-      }
+      },
+      "osm": "406834"
     },
     {
       "autorkode": "1573",
@@ -9992,7 +10258,8 @@
       },
       "navn": {
         "nob": "Smøla"
-      }
+      },
+      "osm": "405267"
     },
     {
       "autorkode": "1576",
@@ -10031,7 +10298,8 @@
       },
       "navn": {
         "nob": "Aure"
-      }
+      },
+      "osm": "406833"
     },
     {
       "autorkode": "1804",
@@ -10068,7 +10336,8 @@
       },
       "navn": {
         "nob": "Bodø"
-      }
+      },
+      "osm": "409037"
     },
     {
       "autorkode": "1805",
@@ -10102,7 +10371,8 @@
       },
       "navn": {
         "nob": "Narvik"
-      }
+      },
+      "osm": "408166"
     },
     {
       "autorkode": "1811",
@@ -10139,7 +10409,8 @@
       },
       "navn": {
         "nob": "Bindal"
-      }
+      },
+      "osm": "408210"
     },
     {
       "autorkode": "1812",
@@ -10169,7 +10440,8 @@
       },
       "navn": {
         "nob": "Sømna"
-      }
+      },
+      "osm": "408211"
     },
     {
       "autorkode": "1813",
@@ -10205,7 +10477,8 @@
       },
       "navn": {
         "nob": "Brønnøy"
-      }
+      },
+      "osm": "408212"
     },
     {
       "autorkode": "1815",
@@ -10240,7 +10513,8 @@
       },
       "navn": {
         "nob": "Vega"
-      }
+      },
+      "osm": "408215"
     },
     {
       "autorkode": "1816",
@@ -10273,7 +10547,8 @@
       },
       "navn": {
         "nob": "Vevelstad"
-      }
+      },
+      "osm": "408214"
     },
     {
       "autorkode": "1818",
@@ -10305,7 +10580,8 @@
       },
       "navn": {
         "nob": "Herøy"
-      }
+      },
+      "osm": "408217"
     },
     {
       "autorkode": "1820",
@@ -10341,7 +10617,8 @@
       },
       "navn": {
         "nob": "Alstahaug"
-      }
+      },
+      "osm": "408216"
     },
     {
       "autorkode": "1822",
@@ -10371,14 +10648,13 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": [
-          "http://commons.wikimedia.org/wiki/Special:FilePath/NO%201822%20Leirfjord.svg"
-        ],
+        "foto": [],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Leirfjord%20komm.svg"
       },
       "navn": {
         "nob": "Leirfjord"
-      }
+      },
+      "osm": "408218"
     },
     {
       "autorkode": "1824",
@@ -10415,7 +10691,8 @@
       },
       "navn": {
         "nob": "Vefsn"
-      }
+      },
+      "osm": "408213"
     },
     {
       "autorkode": "1825",
@@ -10450,7 +10727,8 @@
       },
       "navn": {
         "nob": "Grane"
-      }
+      },
+      "osm": "408209"
     },
     {
       "autorkode": "1826",
@@ -10482,7 +10760,8 @@
       },
       "navn": {
         "nob": "Hattfjelldal"
-      }
+      },
+      "osm": "408200"
     },
     {
       "autorkode": "1827",
@@ -10554,7 +10833,8 @@
       },
       "navn": {
         "nob": "Nesna"
-      }
+      },
+      "osm": "408220"
     },
     {
       "autorkode": "1832",
@@ -10586,7 +10866,8 @@
       },
       "navn": {
         "nob": "Hemnes"
-      }
+      },
+      "osm": "408201"
     },
     {
       "autorkode": "1833",
@@ -10622,7 +10903,8 @@
       },
       "navn": {
         "nob": "Rana"
-      }
+      },
+      "osm": "408202"
     },
     {
       "autorkode": "1834",
@@ -10655,7 +10937,8 @@
       },
       "navn": {
         "nob": "Lurøy"
-      }
+      },
+      "osm": "408221"
     },
     {
       "autorkode": "1835",
@@ -10688,7 +10971,8 @@
       },
       "navn": {
         "nob": "Træna"
-      }
+      },
+      "osm": "408222"
     },
     {
       "autorkode": "1836",
@@ -10720,7 +11004,8 @@
       },
       "navn": {
         "nob": "Rødøy"
-      }
+      },
+      "osm": "408223"
     },
     {
       "autorkode": "1837",
@@ -10754,7 +11039,8 @@
       },
       "navn": {
         "nob": "Meløy"
-      }
+      },
+      "osm": "409040"
     },
     {
       "autorkode": "1838",
@@ -10785,7 +11071,8 @@
       },
       "navn": {
         "nob": "Gildeskål"
-      }
+      },
+      "osm": "409038"
     },
     {
       "autorkode": "1839",
@@ -10818,7 +11105,8 @@
       },
       "navn": {
         "nob": "Beiarn"
-      }
+      },
+      "osm": "409039"
     },
     {
       "autorkode": "1840",
@@ -10850,7 +11138,8 @@
       },
       "navn": {
         "nob": "Saltdal"
-      }
+      },
+      "osm": "408203"
     },
     {
       "autorkode": "1841",
@@ -10887,7 +11176,8 @@
       "navn": {
         "nob": "Fauske",
         "smj": "Fuossko"
-      }
+      },
+      "osm": "408204"
     },
     {
       "autorkode": "1845",
@@ -10920,7 +11210,8 @@
       },
       "navn": {
         "nob": "Sørfold"
-      }
+      },
+      "osm": "408205"
     },
     {
       "autorkode": "1848",
@@ -10950,7 +11241,8 @@
       },
       "navn": {
         "nob": "Steigen"
-      }
+      },
+      "osm": "408208"
     },
     {
       "autorkode": "1849",
@@ -10984,7 +11276,8 @@
       "navn": {
         "nob": "Hamarøy",
         "smj": "Hábmer"
-      }
+      },
+      "osm": "408206"
     },
     {
       "autorkode": "1850",
@@ -11015,7 +11308,8 @@
       "navn": {
         "nob": "Tysfjord",
         "smj": "Divtasvuodna"
-      }
+      },
+      "osm": "408207"
     },
     {
       "autorkode": "1851",
@@ -11048,7 +11342,8 @@
       },
       "navn": {
         "nob": "Lødingen"
-      }
+      },
+      "osm": "409041"
     },
     {
       "autorkode": "1852",
@@ -11083,7 +11378,8 @@
       },
       "navn": {
         "nob": "Tjeldsund"
-      }
+      },
+      "osm": "409035"
     },
     {
       "autorkode": "1853",
@@ -11115,7 +11411,8 @@
       },
       "navn": {
         "nob": "Evenes"
-      }
+      },
+      "osm": "409036"
     },
     {
       "autorkode": "1854",
@@ -11148,7 +11445,8 @@
       },
       "navn": {
         "nob": "Ballangen"
-      }
+      },
+      "osm": "408167"
     },
     {
       "autorkode": "1856",
@@ -11182,7 +11480,8 @@
       },
       "navn": {
         "nob": "Røst"
-      }
+      },
+      "osm": "409032"
     },
     {
       "autorkode": "1857",
@@ -11214,7 +11513,8 @@
       },
       "navn": {
         "nob": "Værøy"
-      }
+      },
+      "osm": "409033"
     },
     {
       "autorkode": "1859",
@@ -11245,7 +11545,8 @@
       },
       "navn": {
         "nob": "Flakstad"
-      }
+      },
+      "osm": "408479"
     },
     {
       "autorkode": "1860",
@@ -11278,7 +11579,8 @@
       },
       "navn": {
         "nob": "Vestvågøy"
-      }
+      },
+      "osm": "408480"
     },
     {
       "autorkode": "1865",
@@ -11309,7 +11611,8 @@
       },
       "navn": {
         "nob": "Vågan"
-      }
+      },
+      "osm": "408481"
     },
     {
       "autorkode": "1866",
@@ -11343,7 +11646,8 @@
       },
       "navn": {
         "nob": "Hadsel"
-      }
+      },
+      "osm": "409034"
     },
     {
       "autorkode": "1867",
@@ -11407,7 +11711,8 @@
       },
       "navn": {
         "nob": "Øksnes"
-      }
+      },
+      "osm": "408483"
     },
     {
       "autorkode": "1870",
@@ -11443,7 +11748,8 @@
       "navn": {
         "nob": "Sortland",
         "sme": "Suortá"
-      }
+      },
+      "osm": "408484"
     },
     {
       "autorkode": "1871",
@@ -11514,7 +11820,8 @@
       },
       "navn": {
         "nob": "Moskenes"
-      }
+      },
+      "osm": "408478"
     },
     {
       "autorkode": "1902",
@@ -11551,7 +11858,8 @@
       },
       "navn": {
         "nob": "Tromsø"
-      }
+      },
+      "osm": "407754"
     },
     {
       "autorkode": "1903",
@@ -11591,7 +11899,8 @@
       "navn": {
         "nob": "Harstad",
         "sme": "Hárstták"
-      }
+      },
+      "osm": "407767"
     },
     {
       "autorkode": "1911",
@@ -11625,7 +11934,8 @@
       },
       "navn": {
         "nob": "Kvæfjord"
-      }
+      },
+      "osm": "407768"
     },
     {
       "autorkode": "1913",
@@ -11662,7 +11972,8 @@
       },
       "navn": {
         "nob": "Skånland"
-      }
+      },
+      "osm": "407766"
     },
     {
       "autorkode": "1917",
@@ -11699,7 +12010,8 @@
       },
       "navn": {
         "nob": "Ibestad"
-      }
+      },
+      "osm": "407772"
     },
     {
       "autorkode": "1919",
@@ -11807,7 +12119,8 @@
       },
       "navn": {
         "nob": "Bardu"
-      }
+      },
+      "osm": "407757"
     },
     {
       "autorkode": "1923",
@@ -11879,7 +12192,8 @@
       },
       "navn": {
         "nob": "Målselv"
-      }
+      },
+      "osm": "407756"
     },
     {
       "autorkode": "1925",
@@ -11912,7 +12226,8 @@
       },
       "navn": {
         "nob": "Sørreisa"
-      }
+      },
+      "osm": "407761"
     },
     {
       "autorkode": "1926",
@@ -11984,7 +12299,8 @@
       },
       "navn": {
         "nob": "Tranøy"
-      }
+      },
+      "osm": "407770"
     },
     {
       "autorkode": "1928",
@@ -12017,7 +12333,8 @@
       },
       "navn": {
         "nob": "Torsken"
-      }
+      },
+      "osm": "407760"
     },
     {
       "autorkode": "1929",
@@ -12050,7 +12367,8 @@
       },
       "navn": {
         "nob": "Berg"
-      }
+      },
+      "osm": "407771"
     },
     {
       "autorkode": "1931",
@@ -12086,7 +12404,8 @@
       },
       "navn": {
         "nob": "Lenvik"
-      }
+      },
+      "osm": "407758"
     },
     {
       "autorkode": "1933",
@@ -12120,7 +12439,8 @@
       },
       "navn": {
         "nob": "Balsfjord"
-      }
+      },
+      "osm": "407755"
     },
     {
       "autorkode": "1936",
@@ -12155,7 +12475,8 @@
       },
       "navn": {
         "nob": "Karlsøy"
-      }
+      },
+      "osm": "407753"
     },
     {
       "autorkode": "1938",
@@ -12193,7 +12514,8 @@
       },
       "navn": {
         "nob": "Lyngen"
-      }
+      },
+      "osm": "407752"
     },
     {
       "autorkode": "1939",
@@ -12231,7 +12553,8 @@
         "fkv": "Omasvuono",
         "nob": "Storfjord",
         "sme": "Omasvuotna"
-      }
+      },
+      "osm": "407751"
     },
     {
       "autorkode": "1940",
@@ -12267,7 +12590,8 @@
         "fkv": "Kaivuono",
         "nob": "Kåfjord",
         "sme": "Gáivuotna"
-      }
+      },
+      "osm": "407750"
     },
     {
       "autorkode": "1941",
@@ -12300,7 +12624,8 @@
       },
       "navn": {
         "nob": "Skjervøy"
-      }
+      },
+      "osm": "407749"
     },
     {
       "autorkode": "1942",
@@ -12337,7 +12662,8 @@
         "fkv": "Raisi",
         "nob": "Nordreisa",
         "sme": "Ráisa"
-      }
+      },
+      "osm": "407747"
     },
     {
       "autorkode": "1943",
@@ -12372,7 +12698,8 @@
       },
       "navn": {
         "nob": "Kvænangen"
-      }
+      },
+      "osm": "407748"
     },
     {
       "autorkode": "2002",
@@ -12406,7 +12733,8 @@
       },
       "navn": {
         "nob": "Vardø"
-      }
+      },
+      "osm": "406652"
     },
     {
       "autorkode": "2003",
@@ -12445,7 +12773,8 @@
       },
       "navn": {
         "nob": "Vadsø"
-      }
+      },
+      "osm": "406653"
     },
     {
       "autorkode": "2004",
@@ -12474,11 +12803,12 @@
         "foto": [
           "http://commons.wikimedia.org/wiki/Special:FilePath/Hammerfest%20Juni%202005.jpg"
         ],
-        "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Hammerfest%20kommune.gif"
+        "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Hammerfest%20official%20komm.svg"
       },
       "navn": {
         "nob": "Hammerfest"
-      }
+      },
+      "osm": "406645"
     },
     {
       "autorkode": "2011",
@@ -12516,7 +12846,8 @@
       "navn": {
         "nob": "Kautokeino",
         "sme": "Guovdageaidnu"
-      }
+      },
+      "osm": "406657"
     },
     {
       "autorkode": "2012",
@@ -12556,7 +12887,8 @@
       },
       "navn": {
         "nob": "Alta"
-      }
+      },
+      "osm": "406659"
     },
     {
       "autorkode": "2014",
@@ -12591,7 +12923,8 @@
       },
       "navn": {
         "nob": "Loppa"
-      }
+      },
+      "osm": "406643"
     },
     {
       "autorkode": "2015",
@@ -12622,7 +12955,8 @@
       },
       "navn": {
         "nob": "Hasvik"
-      }
+      },
+      "osm": "406644"
     },
     {
       "autorkode": "2017",
@@ -12656,7 +12990,8 @@
       },
       "navn": {
         "nob": "Kvalsund"
-      }
+      },
+      "osm": "406660"
     },
     {
       "autorkode": "2018",
@@ -12690,7 +13025,8 @@
       },
       "navn": {
         "nob": "Måsøy"
-      }
+      },
+      "osm": "406646"
     },
     {
       "autorkode": "2019",
@@ -12724,7 +13060,8 @@
       },
       "navn": {
         "nob": "Nordkapp"
-      }
+      },
+      "osm": "406647"
     },
     {
       "autorkode": "2020",
@@ -12764,7 +13101,8 @@
         "fkv": "Porsanki",
         "nob": "Porsanger",
         "sme": "Porsáŋgu"
-      }
+      },
+      "osm": "406648"
     },
     {
       "autorkode": "2021",
@@ -12801,7 +13139,8 @@
       "navn": {
         "nob": "Karasjok",
         "sme": "Kárášjohka"
-      }
+      },
+      "osm": "406656"
     },
     {
       "autorkode": "2022",
@@ -12835,7 +13174,8 @@
       },
       "navn": {
         "nob": "Lebesby"
-      }
+      },
+      "osm": "406658"
     },
     {
       "autorkode": "2023",
@@ -12868,7 +13208,8 @@
       },
       "navn": {
         "nob": "Gamvik"
-      }
+      },
+      "osm": "406649"
     },
     {
       "autorkode": "2024",
@@ -12900,7 +13241,8 @@
       },
       "navn": {
         "nob": "Berlevåg"
-      }
+      },
+      "osm": "406650"
     },
     {
       "autorkode": "2025",
@@ -12942,7 +13284,8 @@
       "navn": {
         "nob": "Tana",
         "sme": "Deatnu"
-      }
+      },
+      "osm": "406655"
     },
     {
       "autorkode": "2027",
@@ -12974,7 +13317,8 @@
       "navn": {
         "nob": "Nesseby",
         "sme": "Unjárga"
-      }
+      },
+      "osm": "406654"
     },
     {
       "autorkode": "2028",
@@ -13011,7 +13355,8 @@
       },
       "navn": {
         "nob": "Båtsfjord"
-      }
+      },
+      "osm": "406651"
     },
     {
       "autorkode": "2030",
@@ -13044,7 +13389,8 @@
       },
       "navn": {
         "nob": "Sør-Varanger"
-      }
+      },
+      "osm": "406510"
     },
     {
       "autorkode": "5001",
@@ -13076,7 +13422,8 @@
       },
       "navn": {
         "nob": "Trondheim"
-      }
+      },
+      "osm": "406549"
     },
     {
       "autorkode": "5004",
@@ -13113,7 +13460,8 @@
       },
       "navn": {
         "nob": "Steinkjer"
-      }
+      },
+      "osm": "407272"
     },
     {
       "autorkode": "5005",
@@ -13150,7 +13498,8 @@
       },
       "navn": {
         "nob": "Namsos"
-      }
+      },
+      "osm": "407210"
     },
     {
       "autorkode": "5011",
@@ -13219,7 +13568,8 @@
       },
       "navn": {
         "nob": "Snillfjord"
-      }
+      },
+      "osm": "406232"
     },
     {
       "autorkode": "5013",
@@ -13256,7 +13606,8 @@
       },
       "navn": {
         "nob": "Hitra"
-      }
+      },
+      "osm": "405264"
     },
     {
       "autorkode": "5014",
@@ -13288,7 +13639,8 @@
       },
       "navn": {
         "nob": "Frøya"
-      }
+      },
+      "osm": "405219"
     },
     {
       "autorkode": "5015",
@@ -13319,7 +13671,8 @@
       },
       "navn": {
         "nob": "Ørland"
-      }
+      },
+      "osm": "405937"
     },
     {
       "autorkode": "5016",
@@ -13352,7 +13705,8 @@
       },
       "navn": {
         "nob": "Agdenes"
-      }
+      },
+      "osm": "406234"
     },
     {
       "autorkode": "5017",
@@ -13455,7 +13809,8 @@
       },
       "navn": {
         "nob": "Roan"
-      }
+      },
+      "osm": "405316"
     },
     {
       "autorkode": "5020",
@@ -13487,7 +13842,8 @@
       },
       "navn": {
         "nob": "Osen"
-      }
+      },
+      "osm": "405317"
     },
     {
       "autorkode": "5021",
@@ -13527,7 +13883,8 @@
       },
       "navn": {
         "nob": "Oppdal"
-      }
+      },
+      "osm": "406463"
     },
     {
       "autorkode": "5022",
@@ -13560,7 +13917,8 @@
       },
       "navn": {
         "nob": "Rennebu"
-      }
+      },
+      "osm": "406462"
     },
     {
       "autorkode": "5023",
@@ -13593,7 +13951,8 @@
       },
       "navn": {
         "nob": "Meldal"
-      }
+      },
+      "osm": "406449"
     },
     {
       "autorkode": "5024",
@@ -13628,7 +13987,8 @@
       },
       "navn": {
         "nob": "Orkdal"
-      }
+      },
+      "osm": "406233"
     },
     {
       "autorkode": "5025",
@@ -13665,7 +14025,8 @@
       },
       "navn": {
         "nob": "Røros"
-      }
+      },
+      "osm": "406493"
     },
     {
       "autorkode": "5026",
@@ -13774,7 +14135,8 @@
       },
       "navn": {
         "nob": "Melhus"
-      }
+      },
+      "osm": "406537"
     },
     {
       "autorkode": "5029",
@@ -13805,7 +14167,8 @@
       },
       "navn": {
         "nob": "Skaun"
-      }
+      },
+      "osm": "406540"
     },
     {
       "autorkode": "5030",
@@ -13836,7 +14199,8 @@
       },
       "navn": {
         "nob": "Klæbu"
-      }
+      },
+      "osm": "406526"
     },
     {
       "autorkode": "5031",
@@ -13870,7 +14234,8 @@
       },
       "navn": {
         "nob": "Malvik"
-      }
+      },
+      "osm": "406554"
     },
     {
       "autorkode": "5032",
@@ -13906,7 +14271,8 @@
       },
       "navn": {
         "nob": "Selbu"
-      }
+      },
+      "osm": "406520"
     },
     {
       "autorkode": "5033",
@@ -13938,7 +14304,8 @@
       },
       "navn": {
         "nob": "Tydal"
-      }
+      },
+      "osm": "406502"
     },
     {
       "autorkode": "5034",
@@ -14007,7 +14374,8 @@
       },
       "navn": {
         "nob": "Stjørdal"
-      }
+      },
+      "osm": "407291"
     },
     {
       "autorkode": "5036",
@@ -14075,7 +14443,8 @@
       },
       "navn": {
         "nob": "Levanger"
-      }
+      },
+      "osm": "407290"
     },
     {
       "autorkode": "5038",
@@ -14108,7 +14477,8 @@
       },
       "navn": {
         "nob": "Verdal"
-      }
+      },
+      "osm": "407278"
     },
     {
       "autorkode": "5039",
@@ -14141,7 +14511,8 @@
       },
       "navn": {
         "nob": "Verran"
-      }
+      },
+      "osm": "407274"
     },
     {
       "autorkode": "5040",
@@ -14243,7 +14614,8 @@
       },
       "navn": {
         "nob": "Lierne"
-      }
+      },
+      "osm": "407217"
     },
     {
       "autorkode": "5043",
@@ -14279,7 +14651,8 @@
       "navn": {
         "nob": "Røyrvik",
         "sma": "Raarvihke"
-      }
+      },
+      "osm": "407202"
     },
     {
       "autorkode": "5044",
@@ -14524,7 +14897,8 @@
       },
       "navn": {
         "nob": "Vikna"
-      }
+      },
+      "osm": "407204"
     },
     {
       "autorkode": "5051",
@@ -14557,7 +14931,8 @@
       },
       "navn": {
         "nob": "Nærøy"
-      }
+      },
+      "osm": "407179"
     },
     {
       "autorkode": "5052",
@@ -14592,7 +14967,8 @@
       },
       "navn": {
         "nob": "Leka"
-      }
+      },
+      "osm": "407178"
     },
     {
       "autorkode": "5053",
@@ -14662,7 +15038,8 @@
       },
       "navn": {
         "nob": "Indre Fosen"
-      }
+      },
+      "osm": "405951"
     },
     {
       "autorkode": "5061",
@@ -14696,12 +15073,13 @@
       },
       "navn": {
         "nob": "Rindal"
-      }
+      },
+      "osm": "406835"
     }
   ],
   "meta": {
     "tittel": "Kommune",
-    "produsertUtc": "2019-07-10T09:54:29.744Z",
+    "produsertUtc": "2019-07-30T17:05:43.498Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/kommune-data/master/kommune.json",
     "tool": {
