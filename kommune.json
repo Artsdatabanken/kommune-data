@@ -9608,6 +9608,7 @@
           "AO-15-35"
         ]
       },
+      "inception": "1849-01-01T00:00:00.000Z",
       "kode": "AO-15-29",
       "lenke": {
         "offisiell": "http://www.skodje.kommune.no/",
@@ -9643,6 +9644,7 @@
           "AO-15-32"
         ]
       },
+      "inception": "1977-01-01T00:00:00.000Z",
       "kode": "AO-15-31",
       "lenke": {
         "offisiell": "http://www.sula.kommune.no/",
@@ -15080,7 +15082,7 @@
   ],
   "meta": {
     "tittel": "Kommune",
-    "produsertUtc": "2019-08-10T12:42:35.586Z",
+    "produsertUtc": "2019-08-15T16:43:37.517Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/kommune-data/master/kommune.json",
     "tool": {
