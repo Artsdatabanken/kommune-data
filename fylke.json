@@ -11,10 +11,10 @@
           59.79058572250834
         ],
         "nabo": [
-          "AO-02"
+          "AO-FY-02"
         ]
       },
-      "kode": "AO-01",
+      "kode": "AO-FY-01",
       "lenke": {
         "offisiell": "https://www.ostfoldfk.no/",
         "wikidata": "http://www.wikidata.org/entity/Q50614",
@@ -46,14 +46,14 @@
           60.60514775059484
         ],
         "nabo": [
-          "AO-01",
-          "AO-03",
-          "AO-04",
-          "AO-05",
-          "AO-06"
+          "AO-FY-01",
+          "AO-FY-03",
+          "AO-FY-04",
+          "AO-FY-05",
+          "AO-FY-06"
         ]
       },
-      "kode": "AO-02",
+      "kode": "AO-FY-02",
       "lenke": {
         "offisiell": "http://www.akershus.no/",
         "wikidata": "http://www.wikidata.org/entity/Q50615",
@@ -86,13 +86,13 @@
           60.135106374869764
         ],
         "nabo": [
-          "AO-02",
-          "AO-05",
-          "AO-06"
+          "AO-FY-02",
+          "AO-FY-05",
+          "AO-FY-06"
         ]
       },
       "inception": "1048-01-01T00:00:00.000Z",
-      "kode": "AO-03",
+      "kode": "AO-FY-03",
       "lenke": {
         "offisiell": "http://www.oslo.kommune.no/",
         "wikidata": "http://www.wikidata.org/entity/Q585",
@@ -124,13 +124,13 @@
           62.6969279398166
         ],
         "nabo": [
-          "AO-02",
-          "AO-05",
-          "AO-16",
-          "AO-50"
+          "AO-FY-02",
+          "AO-FY-05",
+          "AO-FY-16",
+          "AO-FY-50"
         ]
       },
-      "kode": "AO-04",
+      "kode": "AO-FY-04",
       "lenke": {
         "offisiell": "http://www.hedmark.org/",
         "wikidata": "http://www.wikidata.org/entity/Q50616",
@@ -162,17 +162,17 @@
           62.3784023893859
         ],
         "nabo": [
-          "AO-02",
-          "AO-03",
-          "AO-04",
-          "AO-06",
-          "AO-14",
-          "AO-15",
-          "AO-16",
-          "AO-50"
+          "AO-FY-02",
+          "AO-FY-03",
+          "AO-FY-04",
+          "AO-FY-06",
+          "AO-FY-14",
+          "AO-FY-15",
+          "AO-FY-16",
+          "AO-FY-50"
         ]
       },
-      "kode": "AO-05",
+      "kode": "AO-FY-05",
       "lenke": {
         "offisiell": "http://www.oppland.no/",
         "wikidata": "http://www.wikidata.org/entity/Q50617",
@@ -202,16 +202,16 @@
           61.09172046834548
         ],
         "nabo": [
-          "AO-02",
-          "AO-03",
-          "AO-05",
-          "AO-07",
-          "AO-08",
-          "AO-12",
-          "AO-14"
+          "AO-FY-02",
+          "AO-FY-03",
+          "AO-FY-05",
+          "AO-FY-07",
+          "AO-FY-08",
+          "AO-FY-12",
+          "AO-FY-14"
         ]
       },
-      "kode": "AO-06",
+      "kode": "AO-FY-06",
       "lenke": {
         "offisiell": "http://www.bfk.no",
         "wikidata": "http://www.wikidata.org/entity/Q50618",
@@ -243,11 +243,11 @@
           59.70193802065795
         ],
         "nabo": [
-          "AO-06",
-          "AO-08"
+          "AO-FY-06",
+          "AO-FY-08"
         ]
       },
-      "kode": "AO-07",
+      "kode": "AO-FY-07",
       "lenke": {
         "offisiell": "http://www.vfk.no/",
         "wikidata": "http://www.wikidata.org/entity/Q50619",
@@ -279,14 +279,14 @@
           60.188271781160175
         ],
         "nabo": [
-          "AO-06",
-          "AO-07",
-          "AO-09",
-          "AO-11",
-          "AO-12"
+          "AO-FY-06",
+          "AO-FY-07",
+          "AO-FY-09",
+          "AO-FY-11",
+          "AO-FY-12"
         ]
       },
-      "kode": "AO-08",
+      "kode": "AO-FY-08",
       "lenke": {
         "offisiell": "http://www.telemark-fk.no/",
         "wikidata": "http://www.wikidata.org/entity/Q2254",
@@ -318,12 +318,12 @@
           59.6726868736413
         ],
         "nabo": [
-          "AO-08",
-          "AO-10",
-          "AO-11"
+          "AO-FY-08",
+          "AO-FY-10",
+          "AO-FY-11"
         ]
       },
-      "kode": "AO-09",
+      "kode": "AO-FY-09",
       "lenke": {
         "offisiell": "http://www.aa-f.kommune.no/",
         "wikidata": "http://www.wikidata.org/entity/Q50621",
@@ -355,11 +355,11 @@
           59.18968669392016
         ],
         "nabo": [
-          "AO-09",
-          "AO-11"
+          "AO-FY-09",
+          "AO-FY-11"
         ]
       },
-      "kode": "AO-10",
+      "kode": "AO-FY-10",
       "lenke": {
         "offisiell": "http://www.vaf.no",
         "wikidata": "http://www.wikidata.org/entity/Q50623",
@@ -391,13 +391,13 @@
           59.844574205093565
         ],
         "nabo": [
-          "AO-08",
-          "AO-09",
-          "AO-10",
-          "AO-12"
+          "AO-FY-08",
+          "AO-FY-09",
+          "AO-FY-10",
+          "AO-FY-12"
         ]
       },
-      "kode": "AO-11",
+      "kode": "AO-FY-11",
       "lenke": {
         "offisiell": "http://www.rogfk.no/",
         "wikidata": "http://www.wikidata.org/entity/Q50624",
@@ -429,13 +429,13 @@
           61.035237664538556
         ],
         "nabo": [
-          "AO-06",
-          "AO-08",
-          "AO-11",
-          "AO-14"
+          "AO-FY-06",
+          "AO-FY-08",
+          "AO-FY-11",
+          "AO-FY-14"
         ]
       },
-      "kode": "AO-12",
+      "kode": "AO-FY-12",
       "lenke": {
         "offisiell": "http://www.hordaland.no/",
         "wikidata": "http://www.wikidata.org/entity/Q50625",
@@ -467,13 +467,13 @@
           62.38239486643223
         ],
         "nabo": [
-          "AO-05",
-          "AO-06",
-          "AO-12",
-          "AO-15"
+          "AO-FY-05",
+          "AO-FY-06",
+          "AO-FY-12",
+          "AO-FY-15"
         ]
       },
-      "kode": "AO-14",
+      "kode": "AO-FY-14",
       "lenke": {
         "offisiell": "http://www.sfj.no/",
         "wikidata": "http://www.wikidata.org/entity/Q50626",
@@ -505,13 +505,13 @@
           63.768167664147704
         ],
         "nabo": [
-          "AO-05",
-          "AO-14",
-          "AO-16",
-          "AO-50"
+          "AO-FY-05",
+          "AO-FY-14",
+          "AO-FY-16",
+          "AO-FY-50"
         ]
       },
-      "kode": "AO-15",
+      "kode": "AO-FY-15",
       "lenke": {
         "offisiell": "http://www.mrfylke.no/",
         "wikidata": "http://www.wikidata.org/entity/Q50627",
@@ -543,12 +543,12 @@
           69.59670059381648
         ],
         "nabo": [
-          "AO-17",
-          "AO-19",
-          "AO-50"
+          "AO-FY-17",
+          "AO-FY-19",
+          "AO-FY-50"
         ]
       },
-      "kode": "AO-18",
+      "kode": "AO-FY-18",
       "lenke": {
         "offisiell": "http://www.nfk.no/",
         "wikidata": "http://www.wikidata.org/entity/Q50630",
@@ -580,11 +580,11 @@
           70.70361634219516
         ],
         "nabo": [
-          "AO-18",
-          "AO-20"
+          "AO-FY-18",
+          "AO-FY-20"
         ]
       },
-      "kode": "AO-19",
+      "kode": "AO-FY-19",
       "lenke": {
         "offisiell": "http://www.troms-f.kommune.no/",
         "wikidata": "http://www.wikidata.org/entity/Q50631",
@@ -617,10 +617,10 @@
           71.38487774566083
         ],
         "nabo": [
-          "AO-19"
+          "AO-FY-19"
         ]
       },
-      "kode": "AO-20",
+      "kode": "AO-FY-20",
       "lenke": {
         "offisiell": "http://www.ffk.no/",
         "wikidata": "http://www.wikidata.org/entity/Q50632",
@@ -653,13 +653,13 @@
           65.4701749999175
         ],
         "nabo": [
-          "AO-04",
-          "AO-05",
-          "AO-15",
-          "AO-18"
+          "AO-FY-04",
+          "AO-FY-05",
+          "AO-FY-15",
+          "AO-FY-18"
         ]
       },
-      "kode": "AO-50",
+      "kode": "AO-FY-50",
       "lenke": {
         "offisiell": "http://www.trondelag.com",
         "wikidata": "http://www.wikidata.org/entity/Q127676",
@@ -682,7 +682,7 @@
   ],
   "meta": {
     "tittel": "Fylke",
-    "produsertUtc": "2019-08-10T12:42:35.570Z",
+    "produsertUtc": "2019-08-17T23:02:14.968Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/kommune-data/master/fylke.json",
     "tool": {
