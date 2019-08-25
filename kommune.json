@@ -1509,6 +1509,7 @@
     },
     {
       "autorkode": "0403",
+      "elevation": 134,
       "geografi": {
         "areal": 351031804,
         "bbox": [
@@ -1897,6 +1898,7 @@
     },
     {
       "autorkode": "0428",
+      "elevation": 476,
       "geografi": {
         "areal": 3013569557,
         "bbox": [
@@ -2155,6 +2157,7 @@
     },
     {
       "autorkode": "0438",
+      "elevation": 67,
       "geografi": {
         "areal": 942669102,
         "bbox": [
@@ -6923,6 +6926,7 @@
     },
     {
       "autorkode": "1201",
+      "elevation": 5,
       "geografi": {
         "areal": 573676042,
         "bbox": [
@@ -10308,6 +10312,7 @@
     },
     {
       "autorkode": "1804",
+      "elevation": 12,
       "geografi": {
         "areal": 4823084940,
         "bbox": [
@@ -10324,6 +10329,7 @@
           "AO-TO-FL-18-45"
         ]
       },
+      "inception": "1816-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-18-04",
       "lenke": {
         "offisiell": "http://www.bodo.kommune.no/",
@@ -11646,7 +11652,7 @@
         "banner": [],
         "foto": [
           "http://commons.wikimedia.org/wiki/Special:FilePath/Stokmarknes%20winter.jpg",
-          "http://commons.wikimedia.org/wiki/Special:FilePath/IMG%200698a%20-%20Hadsel%20kirke.jpg"
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Hadsel%20kirke%2C%20Norway%2C%202006.jpg"
         ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Hadsel%20komm.svg"
       },
@@ -11831,6 +11837,7 @@
     },
     {
       "autorkode": "1902",
+      "elevation": 20,
       "geografi": {
         "areal": 5286335497,
         "bbox": [
@@ -11847,6 +11854,7 @@
           "AO-TO-FL-19-39"
         ]
       },
+      "inception": "1252-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-19-02",
       "lenke": {
         "offisiell": "http://www.tromso.kommune.no/",
@@ -11869,6 +11877,7 @@
     },
     {
       "autorkode": "1903",
+      "elevation": 62,
       "geografi": {
         "areal": 1519299950,
         "bbox": [
@@ -12798,6 +12807,7 @@
           "AO-TO-FL-20-17"
         ]
       },
+      "inception": "1789-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-20-04",
       "lenke": {
         "offisiell": "http://www.hammerfest.kommune.no/",
@@ -13112,6 +13122,7 @@
     },
     {
       "autorkode": "2021",
+      "elevation": 329,
       "geografi": {
         "areal": 5469615264,
         "bbox": [
@@ -13433,6 +13444,7 @@
     },
     {
       "autorkode": "5004",
+      "elevation": 46,
       "geografi": {
         "areal": 1619316790,
         "bbox": [
@@ -13853,6 +13865,7 @@
     },
     {
       "autorkode": "5021",
+      "elevation": 545,
       "geografi": {
         "areal": 2276700753,
         "bbox": [
@@ -14282,6 +14295,7 @@
     },
     {
       "autorkode": "5033",
+      "elevation": 260,
       "geografi": {
         "areal": 1328476495,
         "bbox": [
@@ -14348,6 +14362,7 @@
     },
     {
       "autorkode": "5035",
+      "elevation": 7,
       "geografi": {
         "areal": 1002763132,
         "bbox": [
@@ -15085,7 +15100,7 @@
   ],
   "meta": {
     "tittel": "Kommune",
-    "produsertUtc": "2019-08-19T10:15:15.983Z",
+    "produsertUtc": "2019-08-25T17:44:57.168Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/kommune-data/master/kommune.json",
     "tool": {
