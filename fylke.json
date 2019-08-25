@@ -288,7 +288,7 @@
       },
       "kode": "AO-TO-FL-08",
       "lenke": {
-        "offisiell": "http://www.telemark-fk.no/",
+        "offisiell": "http://www.telemark.no/",
         "wikidata": "http://www.wikidata.org/entity/Q2254",
         "wikipedia": "https://no.wikipedia.org/wiki/Telemark"
       },
@@ -682,7 +682,7 @@
   ],
   "meta": {
     "tittel": "Fylke",
-    "produsertUtc": "2019-08-19T10:15:15.966Z",
+    "produsertUtc": "2019-08-25T17:44:57.149Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/kommune-data/master/fylke.json",
     "tool": {
