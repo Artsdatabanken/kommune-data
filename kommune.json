@@ -2279,7 +2279,7 @@
           "AO-TO-FL-05-38"
         ]
       },
-      "inception": "1827-01-01T00:00:00.000Z",
+      "inception": "1838-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-05-01",
       "lenke": {
         "offisiell": "http://lillehammer.kommune.no/",
@@ -2450,6 +2450,7 @@
     },
     {
       "autorkode": "0514",
+      "elevation": 1192,
       "geografi": {
         "areal": 1972716083,
         "bbox": [
@@ -6096,6 +6097,7 @@
           "AO-TO-FL-11-42"
         ]
       },
+      "inception": "1125-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-11-03",
       "lenke": {
         "offisiell": "http://www.stavanger.kommune.no",
@@ -9081,6 +9083,7 @@
           "AO-TO-FL-15-57"
         ]
       },
+      "inception": "1500-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-15-02",
       "lenke": {
         "offisiell": "http://www.molde.kommune.no/",
@@ -12886,6 +12889,7 @@
           "AO-TO-FL-20-21"
         ]
       },
+      "inception": "1838-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-20-12",
       "lenke": {
         "offisiell": "http://www.alta.kommune.no/",
@@ -15100,7 +15104,7 @@
   ],
   "meta": {
     "tittel": "Kommune",
-    "produsertUtc": "2019-08-25T17:44:57.168Z",
+    "produsertUtc": "2019-09-02T15:04:29.581Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/kommune-data/master/kommune.json",
     "tool": {
