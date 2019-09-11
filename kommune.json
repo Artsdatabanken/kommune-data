@@ -1462,7 +1462,7 @@
           "http://commons.wikimedia.org/wiki/Special:FilePath/Oslo%20banner%20Akershus%20castle.jpg"
         ],
         "foto": [
-          "http://commons.wikimedia.org/wiki/Special:FilePath/Oslo%20city%20in%2010%20images.jpg"
+          "http://commons.wikimedia.org/wiki/Special:FilePath/View%20from%20siloen.jpg"
         ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Oslo%20komm.svg"
       },
@@ -6928,7 +6928,6 @@
     },
     {
       "autorkode": "1201",
-      "elevation": 5,
       "geografi": {
         "areal": 573676042,
         "bbox": [
@@ -6948,26 +6947,19 @@
           "AO-TO-FL-12-63"
         ]
       },
-      "inception": "1070-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-12-01",
       "lenke": {
-        "offisiell": "http://www.bergen.kommune.no/",
-        "wikidata": "http://www.wikidata.org/entity/Q26793",
-        "wikipedia": "https://no.wikipedia.org/wiki/Bergen"
+        "offisiell": "https://www.bergen.kommune.no/",
+        "wikidata": "http://www.wikidata.org/entity/Q10428388"
       },
       "mediakilde": {
-        "banner": [
-          "http://commons.wikimedia.org/wiki/Special:FilePath/Brygge%20Norway%202005-08-18.jpg"
-        ],
-        "foto": [
-          "http://commons.wikimedia.org/wiki/Special:FilePath/Fl%C3%B8yen%20view%20on%20Bergen%20edit.jpg"
-        ],
+        "banner": [],
+        "foto": [],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Bergen%20komm.svg"
       },
       "navn": {
         "nob": "Bergen"
-      },
-      "osm": "404159"
+      }
     },
     {
       "autorkode": "1211",
@@ -15104,7 +15096,7 @@
   ],
   "meta": {
     "tittel": "Kommune",
-    "produsertUtc": "2019-09-02T15:04:29.581Z",
+    "produsertUtc": "2019-09-11T21:07:36.082Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/kommune-data/master/kommune.json",
     "tool": {

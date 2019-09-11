@@ -104,7 +104,7 @@
         ],
         "flagg": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Oslo.svg",
         "foto": [
-          "http://commons.wikimedia.org/wiki/Special:FilePath/Oslo%20city%20in%2010%20images.jpg"
+          "http://commons.wikimedia.org/wiki/Special:FilePath/View%20from%20siloen.jpg"
         ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Oslo%20komm.svg"
       },
@@ -682,7 +682,7 @@
   ],
   "meta": {
     "tittel": "Fylke",
-    "produsertUtc": "2019-08-25T17:44:57.149Z",
+    "produsertUtc": "2019-09-11T21:07:36.062Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/kommune-data/master/fylke.json",
     "tool": {
