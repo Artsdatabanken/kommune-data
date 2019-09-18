@@ -682,14 +682,14 @@
   ],
   "meta": {
     "tittel": "Fylke",
-    "produsertUtc": "2019-09-11T21:07:36.062Z",
+    "produsertUtc": "2019-09-18T17:19:58.706Z",
     "utgiver": "Artsdatabanken",
-    "url": "https://raw.githubusercontent.com/Artsdatabanken/kommune-data/master/fylke.json",
+    "url": "https://raw.githubusercontent.com/Artsdatabanken/kommune/master/fylke.json",
     "tool": {
       "name": "kommune-lastejobb",
       "url": "https://github.com/Artsdatabanken/kommune-lastejobb"
     },
     "elementer": 18
   },
-  "$schema": "https://raw.githubusercontent.com/Artsdatabanken/kommune-data/master/fylke.schema.json#"
+  "$schema": "https://raw.githubusercontent.com/Artsdatabanken/kommune/master/fylke.schema.json#"
 }

@@ -6421,7 +6421,9 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": [],
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Solastranden.jpg"
+        ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Sola%20komm.svg"
       },
       "navn": {
@@ -7889,7 +7891,9 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": [],
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Indre%20B%C3%B8mlafjorden.jpg"
+        ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Meland%20komm.svg"
       },
       "navn": {
@@ -9366,7 +9370,9 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": [],
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Volda.jpg"
+        ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Volda%20komm.svg"
       },
       "navn": {
@@ -9546,7 +9552,9 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": [],
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/2010-08-05%20-%20Stordal%20am%20Storfjorden%20-%20panoramio%20%281%29.jpg"
+        ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Stordal%20komm.svg"
       },
       "navn": {
@@ -9725,7 +9733,9 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": [],
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/S%C3%98VIK.JPG"
+        ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Haram%20komm.svg"
       },
       "navn": {
@@ -9761,7 +9771,9 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": [],
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Vestnes%20Church%2C%20Vestnes%20-%20panoramio%20%28269%29.jpg"
+        ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Vestnes%20komm.svg"
       },
       "navn": {
@@ -9972,7 +9984,9 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": [],
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Malmefjorden.jpg"
+        ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Fr%C3%A6na%20komm.svg"
       },
       "navn": {
@@ -10006,7 +10020,9 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": [],
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Atlanterhavsvegen4.jpg"
+        ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Eide%20komm.svg"
       },
       "navn": {
@@ -11547,7 +11563,9 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": [],
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Flakstad-Kirche-02-2019-gje.jpg"
+        ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Flakstad%20komm.svg"
       },
       "navn": {
@@ -15096,14 +15114,14 @@
   ],
   "meta": {
     "tittel": "Kommune",
-    "produsertUtc": "2019-09-11T21:07:36.082Z",
+    "produsertUtc": "2019-09-18T17:19:58.724Z",
     "utgiver": "Artsdatabanken",
-    "url": "https://raw.githubusercontent.com/Artsdatabanken/kommune-data/master/kommune.json",
+    "url": "https://raw.githubusercontent.com/Artsdatabanken/kommune/master/kommune.json",
     "tool": {
       "name": "kommune-lastejobb",
       "url": "https://github.com/Artsdatabanken/kommune-lastejobb"
     },
     "elementer": 422
   },
-  "$schema": "https://raw.githubusercontent.com/Artsdatabanken/kommune-data/master/kommune.schema.json#"
+  "$schema": "https://raw.githubusercontent.com/Artsdatabanken/kommune/master/kommune.schema.json#"
 }
