@@ -33,6 +33,7 @@
       "navn": {
         "nob": "Østfold"
       },
+      "nivå": "fylke",
       "osm": "406060"
     },
     {
@@ -72,6 +73,7 @@
       "navn": {
         "nob": "Akershus"
       },
+      "nivå": "fylke",
       "osm": "406106"
     },
     {
@@ -111,6 +113,7 @@
       "navn": {
         "nob": "Oslo"
       },
+      "nivå": "fylke",
       "osm": "2775550"
     },
     {
@@ -149,6 +152,7 @@
       "navn": {
         "nob": "Hedmark"
       },
+      "nivå": "fylke",
       "osm": "412436"
     },
     {
@@ -189,6 +193,7 @@
       "navn": {
         "nob": "Oppland"
       },
+      "nivå": "fylke",
       "osm": "412377"
     },
     {
@@ -230,6 +235,7 @@
       "navn": {
         "nob": "Buskerud"
       },
+      "nivå": "fylke",
       "osm": "412297"
     },
     {
@@ -266,6 +272,7 @@
       "navn": {
         "nob": "Vestfold"
       },
+      "nivå": "fylke",
       "osm": "404589"
     },
     {
@@ -305,6 +312,7 @@
       "navn": {
         "nob": "Telemark"
       },
+      "nivå": "fylke",
       "osm": "405156"
     },
     {
@@ -342,6 +350,7 @@
       "navn": {
         "nob": "Aust-Agder"
       },
+      "nivå": "fylke",
       "osm": "406015"
     },
     {
@@ -378,6 +387,7 @@
       "navn": {
         "nob": "Vest-Agder"
       },
+      "nivå": "fylke",
       "osm": "405929"
     },
     {
@@ -416,6 +426,7 @@
       "navn": {
         "nob": "Rogaland"
       },
+      "nivå": "fylke",
       "osm": "405836"
     },
     {
@@ -454,6 +465,7 @@
       "navn": {
         "nob": "Hordaland"
       },
+      "nivå": "fylke",
       "osm": "404144"
     },
     {
@@ -492,6 +504,7 @@
       "navn": {
         "nob": "Sogn og Fjordane"
       },
+      "nivå": "fylke",
       "osm": "407787"
     },
     {
@@ -530,6 +543,7 @@
       "navn": {
         "nob": "Møre og Romsdal"
       },
+      "nivå": "fylke",
       "osm": "406868"
     },
     {
@@ -567,6 +581,7 @@
       "navn": {
         "nob": "Nordland"
       },
+      "nivå": "fylke",
       "osm": "408105"
     },
     {
@@ -604,6 +619,7 @@
         "nob": "Troms",
         "sme": "Romsa"
       },
+      "nivå": "fylke",
       "osm": "407717"
     },
     {
@@ -640,6 +656,7 @@
         "nob": "Finnmark",
         "sme": "Finnmárku"
       },
+      "nivå": "fylke",
       "osm": "406389"
     },
     {
@@ -677,12 +694,13 @@
       "navn": {
         "nob": "Trøndelag"
       },
+      "nivå": "fylke",
       "osm": "406567"
     }
   ],
   "meta": {
     "tittel": "Fylke",
-    "produsertUtc": "2019-09-18T17:19:58.706Z",
+    "produsertUtc": "2019-09-19T03:52:41.283Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/kommune/master/fylke.json",
     "tool": {

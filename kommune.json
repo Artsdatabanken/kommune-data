@@ -34,6 +34,7 @@
       "navn": {
         "nob": "Halden"
       },
+      "nivå": "kommune",
       "osm": "406075"
     },
     {
@@ -70,6 +71,7 @@
       "navn": {
         "nob": "Moss"
       },
+      "nivå": "kommune",
       "osm": "406087"
     },
     {
@@ -111,6 +113,7 @@
       "navn": {
         "nob": "Sarpsborg"
       },
+      "nivå": "kommune",
       "osm": "406078"
     },
     {
@@ -148,6 +151,7 @@
       "navn": {
         "nob": "Fredrikstad"
       },
+      "nivå": "kommune",
       "osm": "406077"
     },
     {
@@ -181,6 +185,7 @@
       "navn": {
         "nob": "Hvaler"
       },
+      "nivå": "kommune",
       "osm": "406076"
     },
     {
@@ -216,6 +221,7 @@
       "navn": {
         "nob": "Aremark"
       },
+      "nivå": "kommune",
       "osm": "406074"
     },
     {
@@ -252,6 +258,7 @@
       "navn": {
         "nob": "Marker"
       },
+      "nivå": "kommune",
       "osm": "406073"
     },
     {
@@ -283,6 +290,7 @@
       "navn": {
         "nob": "Rømskog"
       },
+      "nivå": "kommune",
       "osm": "406072"
     },
     {
@@ -320,6 +328,7 @@
       "navn": {
         "nob": "Trøgstad"
       },
+      "nivå": "kommune",
       "osm": "406081"
     },
     {
@@ -355,6 +364,7 @@
       "navn": {
         "nob": "Spydeberg"
       },
+      "nivå": "kommune",
       "osm": "406084"
     },
     {
@@ -390,6 +400,7 @@
       "navn": {
         "nob": "Askim"
       },
+      "nivå": "kommune",
       "osm": "406082"
     },
     {
@@ -425,6 +436,7 @@
       "navn": {
         "nob": "Eidsberg"
       },
+      "nivå": "kommune",
       "osm": "406080"
     },
     {
@@ -460,6 +472,7 @@
       "navn": {
         "nob": "Skiptvet"
       },
+      "nivå": "kommune",
       "osm": "406083"
     },
     {
@@ -495,6 +508,7 @@
       "navn": {
         "nob": "Rakkestad"
       },
+      "nivå": "kommune",
       "osm": "406079"
     },
     {
@@ -528,6 +542,7 @@
       "navn": {
         "nob": "Råde"
       },
+      "nivå": "kommune",
       "osm": "406089"
     },
     {
@@ -560,6 +575,7 @@
       "navn": {
         "nob": "Rygge"
       },
+      "nivå": "kommune",
       "osm": "406088"
     },
     {
@@ -597,6 +613,7 @@
       "navn": {
         "nob": "Våler"
       },
+      "nivå": "kommune",
       "osm": "406086"
     },
     {
@@ -632,6 +649,7 @@
       "navn": {
         "nob": "Hobøl"
       },
+      "nivå": "kommune",
       "osm": "406085"
     },
     {
@@ -666,6 +684,7 @@
       "navn": {
         "nob": "Vestby"
       },
+      "nivå": "kommune",
       "osm": "406133"
     },
     {
@@ -702,6 +721,7 @@
       "navn": {
         "nob": "Ski"
       },
+      "nivå": "kommune",
       "osm": "406130"
     },
     {
@@ -740,6 +760,7 @@
       "navn": {
         "nob": "Ås"
       },
+      "nivå": "kommune",
       "osm": "409940"
     },
     {
@@ -774,6 +795,7 @@
       "navn": {
         "nob": "Frogn"
       },
+      "nivå": "kommune",
       "osm": "406134"
     },
     {
@@ -809,6 +831,7 @@
       "navn": {
         "nob": "Nesodden"
       },
+      "nivå": "kommune",
       "osm": "406135"
     },
     {
@@ -841,6 +864,7 @@
       "navn": {
         "nob": "Oppegård"
       },
+      "nivå": "kommune",
       "osm": "406131"
     },
     {
@@ -878,6 +902,7 @@
       "navn": {
         "nob": "Bærum"
       },
+      "nivå": "kommune",
       "osm": "406136"
     },
     {
@@ -913,6 +938,7 @@
       "navn": {
         "nob": "Asker"
       },
+      "nivå": "kommune",
       "osm": "406137"
     },
     {
@@ -951,6 +977,7 @@
       "navn": {
         "nob": "Aurskog-Høland"
       },
+      "nivå": "kommune",
       "osm": "406120"
     },
     {
@@ -988,6 +1015,7 @@
       "navn": {
         "nob": "Sørum"
       },
+      "nivå": "kommune",
       "osm": "406124"
     },
     {
@@ -1025,6 +1053,7 @@
       "navn": {
         "nob": "Fet"
       },
+      "nivå": "kommune",
       "osm": "406128"
     },
     {
@@ -1058,6 +1087,7 @@
       "navn": {
         "nob": "Rælingen"
       },
+      "nivå": "kommune",
       "osm": "406127"
     },
     {
@@ -1095,6 +1125,7 @@
       "navn": {
         "nob": "Enebakk"
       },
+      "nivå": "kommune",
       "osm": "406129"
     },
     {
@@ -1130,6 +1161,7 @@
       "navn": {
         "nob": "Lørenskog"
       },
+      "nivå": "kommune",
       "osm": "406126"
     },
     {
@@ -1166,6 +1198,7 @@
       "navn": {
         "nob": "Skedsmo"
       },
+      "nivå": "kommune",
       "osm": "406125"
     },
     {
@@ -1200,6 +1233,7 @@
       "navn": {
         "nob": "Nittedal"
       },
+      "nivå": "kommune",
       "osm": "406122"
     },
     {
@@ -1236,6 +1270,7 @@
       "navn": {
         "nob": "Gjerdrum"
       },
+      "nivå": "kommune",
       "osm": "406123"
     },
     {
@@ -1272,6 +1307,7 @@
       "navn": {
         "nob": "Ullensaker"
       },
+      "nivå": "kommune",
       "osm": "406118"
     },
     {
@@ -1310,6 +1346,7 @@
       "navn": {
         "nob": "Nes"
       },
+      "nivå": "kommune",
       "osm": "406119"
     },
     {
@@ -1350,6 +1387,7 @@
       "navn": {
         "nob": "Eidsvoll"
       },
+      "nivå": "kommune",
       "osm": "406117"
     },
     {
@@ -1388,6 +1426,7 @@
       "navn": {
         "nob": "Nannestad"
       },
+      "nivå": "kommune",
       "osm": "406121"
     },
     {
@@ -1424,6 +1463,7 @@
       "navn": {
         "nob": "Hurdal"
       },
+      "nivå": "kommune",
       "osm": "406116"
     },
     {
@@ -1469,6 +1509,7 @@
       "navn": {
         "nob": "Oslo"
       },
+      "nivå": "kommune",
       "osm": "2775550"
     },
     {
@@ -1505,6 +1546,7 @@
       "navn": {
         "nob": "Kongsvinger"
       },
+      "nivå": "kommune",
       "osm": "412534"
     },
     {
@@ -1543,6 +1585,7 @@
       "navn": {
         "nob": "Hamar"
       },
+      "nivå": "kommune",
       "osm": "410882"
     },
     {
@@ -1580,6 +1623,7 @@
       "navn": {
         "nob": "Ringsaker"
       },
+      "nivå": "kommune",
       "osm": "411313"
     },
     {
@@ -1614,6 +1658,7 @@
       "navn": {
         "nob": "Løten"
       },
+      "nivå": "kommune",
       "osm": "410880"
     },
     {
@@ -1653,6 +1698,7 @@
       "navn": {
         "nob": "Stange"
       },
+      "nivå": "kommune",
       "osm": "410883"
     },
     {
@@ -1690,6 +1736,7 @@
       "navn": {
         "nob": "Nord-Odal"
       },
+      "nivå": "kommune",
       "osm": "412536"
     },
     {
@@ -1724,6 +1771,7 @@
       "navn": {
         "nob": "Sør-Odal"
       },
+      "nivå": "kommune",
       "osm": "412535"
     },
     {
@@ -1757,6 +1805,7 @@
       "navn": {
         "nob": "Eidskog"
       },
+      "nivå": "kommune",
       "osm": "412533"
     },
     {
@@ -1790,6 +1839,7 @@
       "navn": {
         "nob": "Grue"
       },
+      "nivå": "kommune",
       "osm": "412537"
     },
     {
@@ -1823,6 +1873,7 @@
       "navn": {
         "nob": "Åsnes"
       },
+      "nivå": "kommune",
       "osm": "412538"
     },
     {
@@ -1857,6 +1908,7 @@
       "navn": {
         "nob": "Våler"
       },
+      "nivå": "kommune",
       "osm": "410884"
     },
     {
@@ -1894,6 +1946,7 @@
       "navn": {
         "nob": "Elverum"
       },
+      "nivå": "kommune",
       "osm": "410881"
     },
     {
@@ -1932,6 +1985,7 @@
       "navn": {
         "nob": "Trysil"
       },
+      "nivå": "kommune",
       "osm": "412539"
     },
     {
@@ -1970,6 +2024,7 @@
       "navn": {
         "nob": "Åmot"
       },
+      "nivå": "kommune",
       "osm": "410885"
     },
     {
@@ -2007,6 +2062,7 @@
       "navn": {
         "nob": "Stor-Elvdal"
       },
+      "nivå": "kommune",
       "osm": "412540"
     },
     {
@@ -2043,6 +2099,7 @@
       "navn": {
         "nob": "Rendalen"
       },
+      "nivå": "kommune",
       "osm": "412541"
     },
     {
@@ -2077,6 +2134,7 @@
       "navn": {
         "nob": "Engerdal"
       },
+      "nivå": "kommune",
       "osm": "412542"
     },
     {
@@ -2112,6 +2170,7 @@
       "navn": {
         "nob": "Tolga"
       },
+      "nivå": "kommune",
       "osm": "412544"
     },
     {
@@ -2153,6 +2212,7 @@
       "navn": {
         "nob": "Tynset"
       },
+      "nivå": "kommune",
       "osm": "412545"
     },
     {
@@ -2187,6 +2247,7 @@
       "navn": {
         "nob": "Alvdal"
       },
+      "nivå": "kommune",
       "osm": "412546"
     },
     {
@@ -2223,6 +2284,7 @@
       "navn": {
         "nob": "Folldal"
       },
+      "nivå": "kommune",
       "osm": "412547"
     },
     {
@@ -2258,6 +2320,7 @@
       "navn": {
         "nob": "Os"
       },
+      "nivå": "kommune",
       "osm": "412543"
     },
     {
@@ -2298,6 +2361,7 @@
       "navn": {
         "nob": "Lillehammer"
       },
+      "nivå": "kommune",
       "osm": "412416"
     },
     {
@@ -2337,6 +2401,7 @@
       "navn": {
         "nob": "Gjøvik"
       },
+      "nivå": "kommune",
       "osm": "412418"
     },
     {
@@ -2373,6 +2438,7 @@
       "navn": {
         "nob": "Dovre"
       },
+      "nivå": "kommune",
       "osm": "412408"
     },
     {
@@ -2410,6 +2476,7 @@
       "navn": {
         "nob": "Lesja"
       },
+      "nivå": "kommune",
       "osm": "412407"
     },
     {
@@ -2446,6 +2513,7 @@
       "navn": {
         "nob": "Skjåk"
       },
+      "nivå": "kommune",
       "osm": "412406"
     },
     {
@@ -2483,6 +2551,7 @@
       "navn": {
         "nob": "Lom"
       },
+      "nivå": "kommune",
       "osm": "412409"
     },
     {
@@ -2519,6 +2588,7 @@
       "navn": {
         "nob": "Vågå"
       },
+      "nivå": "kommune",
       "osm": "412410"
     },
     {
@@ -2552,6 +2622,7 @@
       "navn": {
         "nob": "Nord-Fron"
       },
+      "nivå": "kommune",
       "osm": "412412"
     },
     {
@@ -2586,6 +2657,7 @@
       "navn": {
         "nob": "Sel"
       },
+      "nivå": "kommune",
       "osm": "412411"
     },
     {
@@ -2624,6 +2696,7 @@
       "navn": {
         "nob": "Sør-Fron"
       },
+      "nivå": "kommune",
       "osm": "412413"
     },
     {
@@ -2657,6 +2730,7 @@
       "navn": {
         "nob": "Ringebu"
       },
+      "nivå": "kommune",
       "osm": "412414"
     },
     {
@@ -2693,6 +2767,7 @@
       "navn": {
         "nob": "Øyer"
       },
+      "nivå": "kommune",
       "osm": "412415"
     },
     {
@@ -2729,6 +2804,7 @@
       "navn": {
         "nob": "Gausdal"
       },
+      "nivå": "kommune",
       "osm": "412417"
     },
     {
@@ -2766,6 +2842,7 @@
       "navn": {
         "nob": "Østre Toten"
       },
+      "nivå": "kommune",
       "osm": "412419"
     },
     {
@@ -2800,6 +2877,7 @@
       "navn": {
         "nob": "Vestre Toten"
       },
+      "nivå": "kommune",
       "osm": "412420"
     },
     {
@@ -2832,6 +2910,7 @@
       "navn": {
         "nob": "Jevnaker"
       },
+      "nivå": "kommune",
       "osm": "412429"
     },
     {
@@ -2867,6 +2946,7 @@
       "navn": {
         "nob": "Lunner"
       },
+      "nivå": "kommune",
       "osm": "412430"
     },
     {
@@ -2905,6 +2985,7 @@
       "navn": {
         "nob": "Gran"
       },
+      "nivå": "kommune",
       "osm": "412421"
     },
     {
@@ -2940,6 +3021,7 @@
       "navn": {
         "nob": "Søndre Land"
       },
+      "nivå": "kommune",
       "osm": "412422"
     },
     {
@@ -2976,6 +3058,7 @@
       "navn": {
         "nob": "Nordre Land"
       },
+      "nivå": "kommune",
       "osm": "412423"
     },
     {
@@ -3013,6 +3096,7 @@
       "navn": {
         "nob": "Sør-Aurdal"
       },
+      "nivå": "kommune",
       "osm": "412424"
     },
     {
@@ -3045,6 +3129,7 @@
       "navn": {
         "nob": "Etnedal"
       },
+      "nivå": "kommune",
       "osm": "412428"
     },
     {
@@ -3082,6 +3167,7 @@
       "navn": {
         "nob": "Nord-Aurdal"
       },
+      "nivå": "kommune",
       "osm": "412425"
     },
     {
@@ -3115,6 +3201,7 @@
       "navn": {
         "nob": "Vestre Slidre"
       },
+      "nivå": "kommune",
       "osm": "412426"
     },
     {
@@ -3151,6 +3238,7 @@
       "navn": {
         "nob": "Øystre Slidre"
       },
+      "nivå": "kommune",
       "osm": "412431"
     },
     {
@@ -3189,6 +3277,7 @@
       "navn": {
         "nob": "Vang"
       },
+      "nivå": "kommune",
       "osm": "412427"
     },
     {
@@ -3227,6 +3316,7 @@
       "navn": {
         "nob": "Drammen"
       },
+      "nivå": "kommune",
       "osm": "407953"
     },
     {
@@ -3269,6 +3359,7 @@
       "navn": {
         "nob": "Kongsberg"
       },
+      "nivå": "kommune",
       "osm": "412349"
     },
     {
@@ -3313,6 +3404,7 @@
       "navn": {
         "nob": "Ringerike"
       },
+      "nivå": "kommune",
       "osm": "412360"
     },
     {
@@ -3348,6 +3440,7 @@
       "navn": {
         "nob": "Hole"
       },
+      "nivå": "kommune",
       "osm": "411384"
     },
     {
@@ -3383,6 +3476,7 @@
       "navn": {
         "nob": "Flå"
       },
+      "nivå": "kommune",
       "osm": "412359"
     },
     {
@@ -3419,6 +3513,7 @@
       "navn": {
         "nob": "Nes"
       },
+      "nivå": "kommune",
       "osm": "412358"
     },
     {
@@ -3453,6 +3548,7 @@
       "navn": {
         "nob": "Gol"
       },
+      "nivå": "kommune",
       "osm": "412357"
     },
     {
@@ -3490,6 +3586,7 @@
       "navn": {
         "nob": "Hemsedal"
       },
+      "nivå": "kommune",
       "osm": "412356"
     },
     {
@@ -3527,6 +3624,7 @@
       "navn": {
         "nob": "Ål"
       },
+      "nivå": "kommune",
       "osm": "412355"
     },
     {
@@ -3562,6 +3660,7 @@
       "navn": {
         "nob": "Hol"
       },
+      "nivå": "kommune",
       "osm": "412354"
     },
     {
@@ -3598,6 +3697,7 @@
       "navn": {
         "nob": "Sigdal"
       },
+      "nivå": "kommune",
       "osm": "412362"
     },
     {
@@ -3633,6 +3733,7 @@
       "navn": {
         "nob": "Krødsherad"
       },
+      "nivå": "kommune",
       "osm": "412361"
     },
     {
@@ -3669,6 +3770,7 @@
       "navn": {
         "nob": "Modum"
       },
+      "nivå": "kommune",
       "osm": "412363"
     },
     {
@@ -3707,6 +3809,7 @@
       "navn": {
         "nob": "Øvre Eiker"
       },
+      "nivå": "kommune",
       "osm": "412350"
     },
     {
@@ -3741,6 +3844,7 @@
       "navn": {
         "nob": "Nedre Eiker"
       },
+      "nivå": "kommune",
       "osm": "407928"
     },
     {
@@ -3778,6 +3882,7 @@
       "navn": {
         "nob": "Lier"
       },
+      "nivå": "kommune",
       "osm": "411383"
     },
     {
@@ -3810,6 +3915,7 @@
       "navn": {
         "nob": "Røyken"
       },
+      "nivå": "kommune",
       "osm": "407793"
     },
     {
@@ -3842,6 +3948,7 @@
       "navn": {
         "nob": "Hurum"
       },
+      "nivå": "kommune",
       "osm": "412364"
     },
     {
@@ -3877,6 +3984,7 @@
       "navn": {
         "nob": "Flesberg"
       },
+      "nivå": "kommune",
       "osm": "412351"
     },
     {
@@ -3910,6 +4018,7 @@
       "navn": {
         "nob": "Rollag"
       },
+      "nivå": "kommune",
       "osm": "412352"
     },
     {
@@ -3948,6 +4057,7 @@
       "navn": {
         "nob": "Nore og Uvdal"
       },
+      "nivå": "kommune",
       "osm": "412353"
     },
     {
@@ -3984,6 +4094,7 @@
       "navn": {
         "nob": "Horten"
       },
+      "nivå": "kommune",
       "osm": "404590"
     },
     {
@@ -4021,6 +4132,7 @@
       "navn": {
         "nob": "Tønsberg"
       },
+      "nivå": "kommune",
       "osm": "404598"
     },
     {
@@ -4058,6 +4170,7 @@
       "navn": {
         "nob": "Sandefjord"
       },
+      "nivå": "kommune",
       "osm": "404592"
     },
     {
@@ -4091,6 +4204,7 @@
       "navn": {
         "nob": "Svelvik"
       },
+      "nivå": "kommune",
       "osm": "404603"
     },
     {
@@ -4131,6 +4245,7 @@
       "navn": {
         "nob": "Larvik"
       },
+      "nivå": "kommune",
       "osm": "404591"
     },
     {
@@ -4163,6 +4278,7 @@
       "navn": {
         "nob": "Sande"
       },
+      "nivå": "kommune",
       "osm": "404602"
     },
     {
@@ -4203,6 +4319,7 @@
       "navn": {
         "nob": "Holmestrand"
       },
+      "nivå": "kommune",
       "osm": "404600"
     },
     {
@@ -4247,6 +4364,7 @@
       "navn": {
         "nob": "Re"
       },
+      "nivå": "kommune",
       "osm": "404599"
     },
     {
@@ -4278,6 +4396,7 @@
       "navn": {
         "nob": "Færder"
       },
+      "nivå": "kommune",
       "osm": "404594"
     },
     {
@@ -4315,6 +4434,7 @@
       "navn": {
         "nob": "Porsgrunn"
       },
+      "nivå": "kommune",
       "osm": "405171"
     },
     {
@@ -4355,6 +4475,7 @@
       "navn": {
         "nob": "Skien"
       },
+      "nivå": "kommune",
       "osm": "405166"
     },
     {
@@ -4395,6 +4516,7 @@
       "navn": {
         "nob": "Notodden"
       },
+      "nivå": "kommune",
       "osm": "405159"
     },
     {
@@ -4428,6 +4550,7 @@
       "navn": {
         "nob": "Siljan"
       },
+      "nivå": "kommune",
       "osm": "405170"
     },
     {
@@ -4461,6 +4584,7 @@
       "navn": {
         "nob": "Bamble"
       },
+      "nivå": "kommune",
       "osm": "405172"
     },
     {
@@ -4496,6 +4620,7 @@
       "navn": {
         "nob": "Kragerø"
       },
+      "nivå": "kommune",
       "osm": "405173"
     },
     {
@@ -4532,6 +4657,7 @@
       "navn": {
         "nob": "Drangedal"
       },
+      "nivå": "kommune",
       "osm": "405167"
     },
     {
@@ -4568,6 +4694,7 @@
       "navn": {
         "nob": "Nome"
       },
+      "nivå": "kommune",
       "osm": "405164"
     },
     {
@@ -4602,6 +4729,7 @@
       "navn": {
         "nob": "Bø"
       },
+      "nivå": "kommune",
       "osm": "405162"
     },
     {
@@ -4636,6 +4764,7 @@
       "navn": {
         "nob": "Sauherad"
       },
+      "nivå": "kommune",
       "osm": "405165"
     },
     {
@@ -4674,6 +4803,7 @@
       "navn": {
         "nob": "Tinn"
       },
+      "nivå": "kommune",
       "osm": "405158"
     },
     {
@@ -4706,6 +4836,7 @@
       "navn": {
         "nob": "Hjartdal"
       },
+      "nivå": "kommune",
       "osm": "405160"
     },
     {
@@ -4744,6 +4875,7 @@
       "navn": {
         "nob": "Seljord"
       },
+      "nivå": "kommune",
       "osm": "405161"
     },
     {
@@ -4780,6 +4912,7 @@
       "navn": {
         "nob": "Kviteseid"
       },
+      "nivå": "kommune",
       "osm": "405163"
     },
     {
@@ -4815,6 +4948,7 @@
       "navn": {
         "nob": "Nissedal"
       },
+      "nivå": "kommune",
       "osm": "405174"
     },
     {
@@ -4850,6 +4984,7 @@
       "navn": {
         "nob": "Fyresdal"
       },
+      "nivå": "kommune",
       "osm": "405168"
     },
     {
@@ -4885,6 +5020,7 @@
       "navn": {
         "nob": "Tokke"
       },
+      "nivå": "kommune",
       "osm": "405169"
     },
     {
@@ -4922,6 +5058,7 @@
       "navn": {
         "nob": "Vinje"
       },
+      "nivå": "kommune",
       "osm": "405157"
     },
     {
@@ -4959,6 +5096,7 @@
       "navn": {
         "nob": "Risør"
       },
+      "nivå": "kommune",
       "osm": "406025"
     },
     {
@@ -4994,6 +5132,7 @@
       "navn": {
         "nob": "Grimstad"
       },
+      "nivå": "kommune",
       "osm": "406035"
     },
     {
@@ -5030,6 +5169,7 @@
       "navn": {
         "nob": "Arendal"
       },
+      "nivå": "kommune",
       "osm": "406036"
     },
     {
@@ -5064,6 +5204,7 @@
       "navn": {
         "nob": "Gjerstad"
       },
+      "nivå": "kommune",
       "osm": "406038"
     },
     {
@@ -5098,6 +5239,7 @@
       "navn": {
         "nob": "Vegårshei"
       },
+      "nivå": "kommune",
       "osm": "406037"
     },
     {
@@ -5134,6 +5276,7 @@
       "navn": {
         "nob": "Tvedestrand"
       },
+      "nivå": "kommune",
       "osm": "406026"
     },
     {
@@ -5172,6 +5315,7 @@
       "navn": {
         "nob": "Froland"
       },
+      "nivå": "kommune",
       "osm": "407595"
     },
     {
@@ -5208,6 +5352,7 @@
       "navn": {
         "nob": "Lillesand"
       },
+      "nivå": "kommune",
       "osm": "406034"
     },
     {
@@ -5245,6 +5390,7 @@
       "navn": {
         "nob": "Birkenes"
       },
+      "nivå": "kommune",
       "osm": "406033"
     },
     {
@@ -5280,6 +5426,7 @@
       "navn": {
         "nob": "Åmli"
       },
+      "nivå": "kommune",
       "osm": "406030"
     },
     {
@@ -5313,6 +5460,7 @@
       "navn": {
         "nob": "Iveland"
       },
+      "nivå": "kommune",
       "osm": "406032"
     },
     {
@@ -5351,6 +5499,7 @@
       "navn": {
         "nob": "Evje og Hornnes"
       },
+      "nivå": "kommune",
       "osm": "406031"
     },
     {
@@ -5388,6 +5537,7 @@
       "navn": {
         "nob": "Bygland"
       },
+      "nivå": "kommune",
       "osm": "406029"
     },
     {
@@ -5424,6 +5574,7 @@
       "navn": {
         "nob": "Valle"
       },
+      "nivå": "kommune",
       "osm": "406028"
     },
     {
@@ -5460,6 +5611,7 @@
       "navn": {
         "nob": "Bykle"
       },
+      "nivå": "kommune",
       "osm": "406027"
     },
     {
@@ -5498,6 +5650,7 @@
       "navn": {
         "nob": "Kristiansand"
       },
+      "nivå": "kommune",
       "osm": "405981"
     },
     {
@@ -5534,6 +5687,7 @@
       "navn": {
         "nob": "Mandal"
       },
+      "nivå": "kommune",
       "osm": "405983"
     },
     {
@@ -5567,6 +5721,7 @@
       "navn": {
         "nob": "Farsund"
       },
+      "nivå": "kommune",
       "osm": "405986"
     },
     {
@@ -5604,6 +5759,7 @@
       "navn": {
         "nob": "Flekkefjord"
       },
+      "nivå": "kommune",
       "osm": "405973"
     },
     {
@@ -5642,6 +5798,7 @@
       "navn": {
         "nob": "Vennesla"
       },
+      "nivå": "kommune",
       "osm": "405980"
     },
     {
@@ -5677,6 +5834,7 @@
       "navn": {
         "nob": "Songdalen"
       },
+      "nivå": "kommune",
       "osm": "405979"
     },
     {
@@ -5712,6 +5870,7 @@
       "navn": {
         "nob": "Søgne"
       },
+      "nivå": "kommune",
       "osm": "405982"
     },
     {
@@ -5748,6 +5907,7 @@
       "navn": {
         "nob": "Marnardal"
       },
+      "nivå": "kommune",
       "osm": "405978"
     },
     {
@@ -5782,6 +5942,7 @@
       "navn": {
         "nob": "Åseral"
       },
+      "nivå": "kommune",
       "osm": "405976"
     },
     {
@@ -5817,6 +5978,7 @@
       "navn": {
         "nob": "Audnedal"
       },
+      "nivå": "kommune",
       "osm": "405977"
     },
     {
@@ -5852,6 +6014,7 @@
       "navn": {
         "nob": "Lindesnes"
       },
+      "nivå": "kommune",
       "osm": "405984"
     },
     {
@@ -5888,6 +6051,7 @@
       "navn": {
         "nob": "Lyngdal"
       },
+      "nivå": "kommune",
       "osm": "405985"
     },
     {
@@ -5921,6 +6085,7 @@
       "navn": {
         "nob": "Hægebostad"
       },
+      "nivå": "kommune",
       "osm": "405987"
     },
     {
@@ -5962,6 +6127,7 @@
       "navn": {
         "nob": "Kvinesdal"
       },
+      "nivå": "kommune",
       "osm": "405975"
     },
     {
@@ -6001,6 +6167,7 @@
       "navn": {
         "nob": "Sirdal"
       },
+      "nivå": "kommune",
       "osm": "405974"
     },
     {
@@ -6037,6 +6204,7 @@
       "navn": {
         "nob": "Eigersund"
       },
+      "nivå": "kommune",
       "osm": "405825"
     },
     {
@@ -6077,6 +6245,7 @@
       "navn": {
         "nob": "Sandnes"
       },
+      "nivå": "kommune",
       "osm": "405654"
     },
     {
@@ -6116,6 +6285,7 @@
       "navn": {
         "nob": "Stavanger"
       },
+      "nivå": "kommune",
       "osm": "384615"
     },
     {
@@ -6153,6 +6323,7 @@
       "navn": {
         "nob": "Haugesund"
       },
+      "nivå": "kommune",
       "osm": "405834"
     },
     {
@@ -6185,6 +6356,7 @@
       "navn": {
         "nob": "Sokndal"
       },
+      "nivå": "kommune",
       "osm": "405788"
     },
     {
@@ -6218,6 +6390,7 @@
       "navn": {
         "nob": "Lund"
       },
+      "nivå": "kommune",
       "osm": "405824"
     },
     {
@@ -6252,6 +6425,7 @@
       "navn": {
         "nob": "Bjerkreim"
       },
+      "nivå": "kommune",
       "osm": "405826"
     },
     {
@@ -6289,6 +6463,7 @@
       "navn": {
         "nob": "Hå"
       },
+      "nivå": "kommune",
       "osm": "405787"
     },
     {
@@ -6322,6 +6497,7 @@
       "navn": {
         "nob": "Klepp"
       },
+      "nivå": "kommune",
       "osm": "405655"
     },
     {
@@ -6358,6 +6534,7 @@
       "navn": {
         "nob": "Time"
       },
+      "nivå": "kommune",
       "osm": "405786"
     },
     {
@@ -6394,6 +6571,7 @@
       "navn": {
         "nob": "Gjesdal"
       },
+      "nivå": "kommune",
       "osm": "405827"
     },
     {
@@ -6429,6 +6607,7 @@
       "navn": {
         "nob": "Sola"
       },
+      "nivå": "kommune",
       "osm": "405653"
     },
     {
@@ -6464,6 +6643,7 @@
       "navn": {
         "nob": "Randaberg"
       },
+      "nivå": "kommune",
       "osm": "405652"
     },
     {
@@ -6504,6 +6684,7 @@
       "navn": {
         "nob": "Forsand"
       },
+      "nivå": "kommune",
       "osm": "405828"
     },
     {
@@ -6538,6 +6719,7 @@
       "navn": {
         "nob": "Strand"
       },
+      "nivå": "kommune",
       "osm": "405657"
     },
     {
@@ -6572,6 +6754,7 @@
       "navn": {
         "nob": "Hjelmeland"
       },
+      "nivå": "kommune",
       "osm": "405829"
     },
     {
@@ -6611,6 +6794,7 @@
       "navn": {
         "nob": "Suldal"
       },
+      "nivå": "kommune",
       "osm": "405830"
     },
     {
@@ -6645,6 +6829,7 @@
       "navn": {
         "nob": "Sauda"
       },
+      "nivå": "kommune",
       "osm": "405837"
     },
     {
@@ -6683,6 +6868,7 @@
       "navn": {
         "nob": "Finnøy"
       },
+      "nivå": "kommune",
       "osm": "409899"
     },
     {
@@ -6719,6 +6905,7 @@
       "navn": {
         "nob": "Rennesøy"
       },
+      "nivå": "kommune",
       "osm": "405679"
     },
     {
@@ -6754,6 +6941,7 @@
       "navn": {
         "nob": "Kvitsøy"
       },
+      "nivå": "kommune",
       "osm": "405658"
     },
     {
@@ -6790,6 +6978,7 @@
       "navn": {
         "nob": "Bokn"
       },
+      "nivå": "kommune",
       "osm": "405833"
     },
     {
@@ -6825,6 +7014,7 @@
       "navn": {
         "nob": "Tysvær"
       },
+      "nivå": "kommune",
       "osm": "405835"
     },
     {
@@ -6861,6 +7051,7 @@
       "navn": {
         "nob": "Karmøy"
       },
+      "nivå": "kommune",
       "osm": "405832"
     },
     {
@@ -6891,6 +7082,7 @@
       "navn": {
         "nob": "Utsira"
       },
+      "nivå": "kommune",
       "osm": "405831"
     },
     {
@@ -6926,6 +7118,7 @@
       "navn": {
         "nob": "Vindafjord"
       },
+      "nivå": "kommune",
       "osm": "405845"
     },
     {
@@ -6961,7 +7154,8 @@
       },
       "navn": {
         "nob": "Bergen"
-      }
+      },
+      "nivå": "kommune"
     },
     {
       "autorkode": "1211",
@@ -6995,6 +7189,7 @@
       "navn": {
         "nob": "Etne"
       },
+      "nivå": "kommune",
       "osm": "404168"
     },
     {
@@ -7031,6 +7226,7 @@
       "navn": {
         "nob": "Sveio"
       },
+      "nivå": "kommune",
       "osm": "404171"
     },
     {
@@ -7065,6 +7261,7 @@
       "navn": {
         "nob": "Bømlo"
       },
+      "nivå": "kommune",
       "osm": "404170"
     },
     {
@@ -7100,6 +7297,7 @@
       "navn": {
         "nob": "Stord"
       },
+      "nivå": "kommune",
       "osm": "404169"
     },
     {
@@ -7133,6 +7331,7 @@
       "navn": {
         "nob": "Fitjar"
       },
+      "nivå": "kommune",
       "osm": "404166"
     },
     {
@@ -7168,6 +7367,7 @@
       "navn": {
         "nob": "Tysnes"
       },
+      "nivå": "kommune",
       "osm": "404165"
     },
     {
@@ -7210,6 +7410,7 @@
       "navn": {
         "nob": "Kvinnherad"
       },
+      "nivå": "kommune",
       "osm": "404167"
     },
     {
@@ -7244,6 +7445,7 @@
       "navn": {
         "nob": "Jondal"
       },
+      "nivå": "kommune",
       "osm": "404154"
     },
     {
@@ -7283,6 +7485,7 @@
       "navn": {
         "nob": "Odda"
       },
+      "nivå": "kommune",
       "osm": "404153"
     },
     {
@@ -7320,6 +7523,7 @@
       "navn": {
         "nob": "Ullensvang"
       },
+      "nivå": "kommune",
       "osm": "404152"
     },
     {
@@ -7357,6 +7561,7 @@
       "navn": {
         "nob": "Eidfjord"
       },
+      "nivå": "kommune",
       "osm": "404151"
     },
     {
@@ -7396,6 +7601,7 @@
       "navn": {
         "nob": "Ulvik"
       },
+      "nivå": "kommune",
       "osm": "404149"
     },
     {
@@ -7431,6 +7637,7 @@
       "navn": {
         "nob": "Granvin"
       },
+      "nivå": "kommune",
       "osm": "404150"
     },
     {
@@ -7470,6 +7677,7 @@
       "navn": {
         "nob": "Voss"
       },
+      "nivå": "kommune",
       "osm": "404138"
     },
     {
@@ -7507,6 +7715,7 @@
       "navn": {
         "nob": "Kvam"
       },
+      "nivå": "kommune",
       "osm": "404155"
     },
     {
@@ -7541,6 +7750,7 @@
       "navn": {
         "nob": "Fusa"
       },
+      "nivå": "kommune",
       "osm": "404161"
     },
     {
@@ -7577,6 +7787,7 @@
       "navn": {
         "nob": "Samnanger"
       },
+      "nivå": "kommune",
       "osm": "404160"
     },
     {
@@ -7613,6 +7824,7 @@
       "navn": {
         "nob": "Os"
       },
+      "nivå": "kommune",
       "osm": "404162"
     },
     {
@@ -7652,6 +7864,7 @@
       "navn": {
         "nob": "Austevoll"
       },
+      "nivå": "kommune",
       "osm": "404164"
     },
     {
@@ -7686,6 +7899,7 @@
       "navn": {
         "nob": "Sund"
       },
+      "nivå": "kommune",
       "osm": "404163"
     },
     {
@@ -7720,6 +7934,7 @@
       "navn": {
         "nob": "Fjell"
       },
+      "nivå": "kommune",
       "osm": "404158"
     },
     {
@@ -7758,6 +7973,7 @@
       "navn": {
         "nob": "Askøy"
       },
+      "nivå": "kommune",
       "osm": "404157"
     },
     {
@@ -7795,6 +8011,7 @@
       "navn": {
         "nob": "Vaksdal"
       },
+      "nivå": "kommune",
       "osm": "404139"
     },
     {
@@ -7831,6 +8048,7 @@
       "navn": {
         "nob": "Modalen"
       },
+      "nivå": "kommune",
       "osm": "404140"
     },
     {
@@ -7864,6 +8082,7 @@
       "navn": {
         "nob": "Osterøy"
       },
+      "nivå": "kommune",
       "osm": "404141"
     },
     {
@@ -7899,6 +8118,7 @@
       "navn": {
         "nob": "Meland"
       },
+      "nivå": "kommune",
       "osm": "404148"
     },
     {
@@ -7932,6 +8152,7 @@
       "navn": {
         "nob": "Øygarden"
       },
+      "nivå": "kommune",
       "osm": "404156"
     },
     {
@@ -7969,6 +8190,7 @@
       "navn": {
         "nob": "Radøy"
       },
+      "nivå": "kommune",
       "osm": "404147"
     },
     {
@@ -8011,6 +8233,7 @@
       "navn": {
         "nob": "Lindås"
       },
+      "nivå": "kommune",
       "osm": "404142"
     },
     {
@@ -8046,6 +8269,7 @@
       "navn": {
         "nob": "Austrheim"
       },
+      "nivå": "kommune",
       "osm": "404145"
     },
     {
@@ -8082,6 +8306,7 @@
       "navn": {
         "nob": "Fedje"
       },
+      "nivå": "kommune",
       "osm": "404146"
     },
     {
@@ -8115,6 +8340,7 @@
       "navn": {
         "nob": "Masfjorden"
       },
+      "nivå": "kommune",
       "osm": "404143"
     },
     {
@@ -8148,6 +8374,7 @@
       "navn": {
         "nob": "Flora"
       },
+      "nivå": "kommune",
       "osm": "404545"
     },
     {
@@ -8184,6 +8411,7 @@
       "navn": {
         "nob": "Gulen"
       },
+      "nivå": "kommune",
       "osm": "405322"
     },
     {
@@ -8217,6 +8445,7 @@
       "navn": {
         "nob": "Solund"
       },
+      "nivå": "kommune",
       "osm": "404731"
     },
     {
@@ -8252,6 +8481,7 @@
       "navn": {
         "nob": "Hyllestad"
       },
+      "nivå": "kommune",
       "osm": "404674"
     },
     {
@@ -8293,6 +8523,7 @@
       "navn": {
         "nob": "Høyanger"
       },
+      "nivå": "kommune",
       "osm": "409073"
     },
     {
@@ -8333,6 +8564,7 @@
       "navn": {
         "nob": "Vik"
       },
+      "nivå": "kommune",
       "osm": "409074"
     },
     {
@@ -8372,6 +8604,7 @@
       "navn": {
         "nob": "Balestrand"
       },
+      "nivå": "kommune",
       "osm": "404675"
     },
     {
@@ -8406,6 +8639,7 @@
       "navn": {
         "nob": "Leikanger"
       },
+      "nivå": "kommune",
       "osm": "409084"
     },
     {
@@ -8444,6 +8678,7 @@
       "navn": {
         "nob": "Sogndal"
       },
+      "nivå": "kommune",
       "osm": "409085"
     },
     {
@@ -8480,6 +8715,7 @@
       "navn": {
         "nob": "Aurland"
       },
+      "nivå": "kommune",
       "osm": "409075"
     },
     {
@@ -8521,6 +8757,7 @@
       "navn": {
         "nob": "Lærdal"
       },
+      "nivå": "kommune",
       "osm": "409076"
     },
     {
@@ -8555,6 +8792,7 @@
       "navn": {
         "nob": "Årdal"
       },
+      "nivå": "kommune",
       "osm": "409077"
     },
     {
@@ -8593,6 +8831,7 @@
       "navn": {
         "nob": "Luster"
       },
+      "nivå": "kommune",
       "osm": "409078"
     },
     {
@@ -8630,6 +8869,7 @@
       "navn": {
         "nob": "Askvoll"
       },
+      "nivå": "kommune",
       "osm": "404673"
     },
     {
@@ -8664,6 +8904,7 @@
       "navn": {
         "nob": "Fjaler"
       },
+      "nivå": "kommune",
       "osm": "404672"
     },
     {
@@ -8700,6 +8941,7 @@
       "navn": {
         "nob": "Gaular"
       },
+      "nivå": "kommune",
       "osm": "404671"
     },
     {
@@ -8735,6 +8977,7 @@
       "navn": {
         "nob": "Jølster"
       },
+      "nivå": "kommune",
       "osm": "404670"
     },
     {
@@ -8774,6 +9017,7 @@
       "navn": {
         "nob": "Førde"
       },
+      "nivå": "kommune",
       "osm": "404491"
     },
     {
@@ -8810,6 +9054,7 @@
       "navn": {
         "nob": "Naustdal"
       },
+      "nivå": "kommune",
       "osm": "404544"
     },
     {
@@ -8843,6 +9088,7 @@
       "navn": {
         "nob": "Bremanger"
       },
+      "nivå": "kommune",
       "osm": "409083"
     },
     {
@@ -8876,6 +9122,7 @@
       "navn": {
         "nob": "Vågsøy"
       },
+      "nivå": "kommune",
       "osm": "409086"
     },
     {
@@ -8910,6 +9157,7 @@
       "navn": {
         "nob": "Selje"
       },
+      "nivå": "kommune",
       "osm": "409087"
     },
     {
@@ -8946,6 +9194,7 @@
       "navn": {
         "nob": "Eid"
       },
+      "nivå": "kommune",
       "osm": "409081"
     },
     {
@@ -8981,6 +9230,7 @@
       "navn": {
         "nob": "Hornindal"
       },
+      "nivå": "kommune",
       "osm": "409080"
     },
     {
@@ -9016,6 +9266,7 @@
       "navn": {
         "nob": "Gloppen"
       },
+      "nivå": "kommune",
       "osm": "409082"
     },
     {
@@ -9056,6 +9307,7 @@
       "navn": {
         "nob": "Stryn"
       },
+      "nivå": "kommune",
       "osm": "409079"
     },
     {
@@ -9098,6 +9350,7 @@
       "navn": {
         "nob": "Molde"
       },
+      "nivå": "kommune",
       "osm": "406845"
     },
     {
@@ -9137,6 +9390,7 @@
       "navn": {
         "nob": "Ålesund"
       },
+      "nivå": "kommune",
       "osm": "406858"
     },
     {
@@ -9175,6 +9429,7 @@
       "navn": {
         "nob": "Kristiansund"
       },
+      "nivå": "kommune",
       "osm": "406837"
     },
     {
@@ -9210,6 +9465,7 @@
       "navn": {
         "nob": "Vanylven"
       },
+      "nivå": "kommune",
       "osm": "406862"
     },
     {
@@ -9244,6 +9500,7 @@
       "navn": {
         "nob": "Sande"
       },
+      "nivå": "kommune",
       "osm": "406867"
     },
     {
@@ -9277,6 +9534,7 @@
       "navn": {
         "nob": "Herøy"
       },
+      "nivå": "kommune",
       "osm": "406866"
     },
     {
@@ -9309,6 +9567,7 @@
       "navn": {
         "nob": "Ulstein"
       },
+      "nivå": "kommune",
       "osm": "406865"
     },
     {
@@ -9342,6 +9601,7 @@
       "navn": {
         "nob": "Hareid"
       },
+      "nivå": "kommune",
       "osm": "406864"
     },
     {
@@ -9378,6 +9638,7 @@
       "navn": {
         "nob": "Volda"
       },
+      "nivå": "kommune",
       "osm": "406861"
     },
     {
@@ -9415,6 +9676,7 @@
       "navn": {
         "nob": "Ørsta"
       },
+      "nivå": "kommune",
       "osm": "406860"
     },
     {
@@ -9451,6 +9713,7 @@
       "navn": {
         "nob": "Ørskog"
       },
+      "nivå": "kommune",
       "osm": "406854"
     },
     {
@@ -9484,6 +9747,7 @@
       "navn": {
         "nob": "Norddal"
       },
+      "nivå": "kommune",
       "osm": "406851"
     },
     {
@@ -9522,6 +9786,7 @@
       "navn": {
         "nob": "Stranda"
       },
+      "nivå": "kommune",
       "osm": "406852"
     },
     {
@@ -9560,6 +9825,7 @@
       "navn": {
         "nob": "Stordal"
       },
+      "nivå": "kommune",
       "osm": "406853"
     },
     {
@@ -9597,6 +9863,7 @@
       "navn": {
         "nob": "Sykkylven"
       },
+      "nivå": "kommune",
       "osm": "406857"
     },
     {
@@ -9634,6 +9901,7 @@
       "navn": {
         "nob": "Skodje"
       },
+      "nivå": "kommune",
       "osm": "406855"
     },
     {
@@ -9668,6 +9936,7 @@
       "navn": {
         "nob": "Sula"
       },
+      "nivå": "kommune",
       "osm": "406863"
     },
     {
@@ -9704,6 +9973,7 @@
       "navn": {
         "nob": "Giske"
       },
+      "nivå": "kommune",
       "osm": "406859"
     },
     {
@@ -9741,6 +10011,7 @@
       "navn": {
         "nob": "Haram"
       },
+      "nivå": "kommune",
       "osm": "406856"
     },
     {
@@ -9779,6 +10050,7 @@
       "navn": {
         "nob": "Vestnes"
       },
+      "nivå": "kommune",
       "osm": "406850"
     },
     {
@@ -9816,6 +10088,7 @@
       "navn": {
         "nob": "Rauma"
       },
+      "nivå": "kommune",
       "osm": "406844"
     },
     {
@@ -9851,6 +10124,7 @@
       "navn": {
         "nob": "Nesset"
       },
+      "nivå": "kommune",
       "osm": "406843"
     },
     {
@@ -9887,6 +10161,7 @@
       "navn": {
         "nob": "Midsund"
       },
+      "nivå": "kommune",
       "osm": "406849"
     },
     {
@@ -9922,6 +10197,7 @@
       "navn": {
         "nob": "Sandøy"
       },
+      "nivå": "kommune",
       "osm": "406848"
     },
     {
@@ -9957,6 +10233,7 @@
       "navn": {
         "nob": "Aukra"
       },
+      "nivå": "kommune",
       "osm": "406847"
     },
     {
@@ -9992,6 +10269,7 @@
       "navn": {
         "nob": "Fræna"
       },
+      "nivå": "kommune",
       "osm": "406846"
     },
     {
@@ -10028,6 +10306,7 @@
       "navn": {
         "nob": "Eide"
       },
+      "nivå": "kommune",
       "osm": "406842"
     },
     {
@@ -10064,6 +10343,7 @@
       "navn": {
         "nob": "Averøy"
       },
+      "nivå": "kommune",
       "osm": "406840"
     },
     {
@@ -10102,6 +10382,7 @@
       "navn": {
         "nob": "Gjemnes"
       },
+      "nivå": "kommune",
       "osm": "406841"
     },
     {
@@ -10139,6 +10420,7 @@
       "navn": {
         "nob": "Tingvoll"
       },
+      "nivå": "kommune",
       "osm": "406838"
     },
     {
@@ -10175,6 +10457,7 @@
       "navn": {
         "nob": "Sunndal"
       },
+      "nivå": "kommune",
       "osm": "406839"
     },
     {
@@ -10210,6 +10493,7 @@
       "navn": {
         "nob": "Surnadal"
       },
+      "nivå": "kommune",
       "osm": "406836"
     },
     {
@@ -10246,6 +10530,7 @@
       "navn": {
         "nob": "Halsa"
       },
+      "nivå": "kommune",
       "osm": "406834"
     },
     {
@@ -10279,6 +10564,7 @@
       "navn": {
         "nob": "Smøla"
       },
+      "nivå": "kommune",
       "osm": "405267"
     },
     {
@@ -10319,6 +10605,7 @@
       "navn": {
         "nob": "Aure"
       },
+      "nivå": "kommune",
       "osm": "406833"
     },
     {
@@ -10359,6 +10646,7 @@
       "navn": {
         "nob": "Bodø"
       },
+      "nivå": "kommune",
       "osm": "409037"
     },
     {
@@ -10394,6 +10682,7 @@
       "navn": {
         "nob": "Narvik"
       },
+      "nivå": "kommune",
       "osm": "408166"
     },
     {
@@ -10432,6 +10721,7 @@
       "navn": {
         "nob": "Bindal"
       },
+      "nivå": "kommune",
       "osm": "408210"
     },
     {
@@ -10463,6 +10753,7 @@
       "navn": {
         "nob": "Sømna"
       },
+      "nivå": "kommune",
       "osm": "408211"
     },
     {
@@ -10500,6 +10791,7 @@
       "navn": {
         "nob": "Brønnøy"
       },
+      "nivå": "kommune",
       "osm": "408212"
     },
     {
@@ -10536,6 +10828,7 @@
       "navn": {
         "nob": "Vega"
       },
+      "nivå": "kommune",
       "osm": "408215"
     },
     {
@@ -10570,6 +10863,7 @@
       "navn": {
         "nob": "Vevelstad"
       },
+      "nivå": "kommune",
       "osm": "408214"
     },
     {
@@ -10603,6 +10897,7 @@
       "navn": {
         "nob": "Herøy"
       },
+      "nivå": "kommune",
       "osm": "408217"
     },
     {
@@ -10640,6 +10935,7 @@
       "navn": {
         "nob": "Alstahaug"
       },
+      "nivå": "kommune",
       "osm": "408216"
     },
     {
@@ -10676,6 +10972,7 @@
       "navn": {
         "nob": "Leirfjord"
       },
+      "nivå": "kommune",
       "osm": "408218"
     },
     {
@@ -10714,6 +11011,7 @@
       "navn": {
         "nob": "Vefsn"
       },
+      "nivå": "kommune",
       "osm": "408213"
     },
     {
@@ -10750,6 +11048,7 @@
       "navn": {
         "nob": "Grane"
       },
+      "nivå": "kommune",
       "osm": "408209"
     },
     {
@@ -10784,6 +11083,7 @@
         "nob": "Hattfjelldal",
         "sma": "Aarborte"
       },
+      "nivå": "kommune",
       "osm": "408200"
     },
     {
@@ -10822,6 +11122,7 @@
       "navn": {
         "nob": "Dønna"
       },
+      "nivå": "kommune",
       "osm": "408219"
     },
     {
@@ -10857,6 +11158,7 @@
       "navn": {
         "nob": "Nesna"
       },
+      "nivå": "kommune",
       "osm": "408220"
     },
     {
@@ -10890,6 +11192,7 @@
       "navn": {
         "nob": "Hemnes"
       },
+      "nivå": "kommune",
       "osm": "408201"
     },
     {
@@ -10927,6 +11230,7 @@
       "navn": {
         "nob": "Rana"
       },
+      "nivå": "kommune",
       "osm": "408202"
     },
     {
@@ -10961,6 +11265,7 @@
       "navn": {
         "nob": "Lurøy"
       },
+      "nivå": "kommune",
       "osm": "408221"
     },
     {
@@ -10995,6 +11300,7 @@
       "navn": {
         "nob": "Træna"
       },
+      "nivå": "kommune",
       "osm": "408222"
     },
     {
@@ -11028,6 +11334,7 @@
       "navn": {
         "nob": "Rødøy"
       },
+      "nivå": "kommune",
       "osm": "408223"
     },
     {
@@ -11063,6 +11370,7 @@
       "navn": {
         "nob": "Meløy"
       },
+      "nivå": "kommune",
       "osm": "409040"
     },
     {
@@ -11095,6 +11403,7 @@
       "navn": {
         "nob": "Gildeskål"
       },
+      "nivå": "kommune",
       "osm": "409038"
     },
     {
@@ -11129,6 +11438,7 @@
       "navn": {
         "nob": "Beiarn"
       },
+      "nivå": "kommune",
       "osm": "409039"
     },
     {
@@ -11162,6 +11472,7 @@
       "navn": {
         "nob": "Saltdal"
       },
+      "nivå": "kommune",
       "osm": "408203"
     },
     {
@@ -11200,6 +11511,7 @@
         "nob": "Fauske",
         "smj": "Fuossko"
       },
+      "nivå": "kommune",
       "osm": "408204"
     },
     {
@@ -11234,6 +11546,7 @@
       "navn": {
         "nob": "Sørfold"
       },
+      "nivå": "kommune",
       "osm": "408205"
     },
     {
@@ -11265,6 +11578,7 @@
       "navn": {
         "nob": "Steigen"
       },
+      "nivå": "kommune",
       "osm": "408208"
     },
     {
@@ -11300,6 +11614,7 @@
         "nob": "Hamarøy",
         "smj": "Hábmer"
       },
+      "nivå": "kommune",
       "osm": "408206"
     },
     {
@@ -11332,6 +11647,7 @@
         "nob": "Tysfjord",
         "smj": "Divtasvuodna"
       },
+      "nivå": "kommune",
       "osm": "408207"
     },
     {
@@ -11366,6 +11682,7 @@
       "navn": {
         "nob": "Lødingen"
       },
+      "nivå": "kommune",
       "osm": "409041"
     },
     {
@@ -11402,6 +11719,7 @@
       "navn": {
         "nob": "Tjeldsund"
       },
+      "nivå": "kommune",
       "osm": "409035"
     },
     {
@@ -11435,6 +11753,7 @@
       "navn": {
         "nob": "Evenes"
       },
+      "nivå": "kommune",
       "osm": "409036"
     },
     {
@@ -11469,6 +11788,7 @@
       "navn": {
         "nob": "Ballangen"
       },
+      "nivå": "kommune",
       "osm": "408167"
     },
     {
@@ -11504,6 +11824,7 @@
       "navn": {
         "nob": "Røst"
       },
+      "nivå": "kommune",
       "osm": "409032"
     },
     {
@@ -11537,6 +11858,7 @@
       "navn": {
         "nob": "Værøy"
       },
+      "nivå": "kommune",
       "osm": "409033"
     },
     {
@@ -11571,6 +11893,7 @@
       "navn": {
         "nob": "Flakstad"
       },
+      "nivå": "kommune",
       "osm": "408479"
     },
     {
@@ -11605,6 +11928,7 @@
       "navn": {
         "nob": "Vestvågøy"
       },
+      "nivå": "kommune",
       "osm": "408480"
     },
     {
@@ -11637,6 +11961,7 @@
       "navn": {
         "nob": "Vågan"
       },
+      "nivå": "kommune",
       "osm": "408481"
     },
     {
@@ -11672,6 +11997,7 @@
       "navn": {
         "nob": "Hadsel"
       },
+      "nivå": "kommune",
       "osm": "409034"
     },
     {
@@ -11705,6 +12031,7 @@
       "navn": {
         "nob": "Bø"
       },
+      "nivå": "kommune",
       "osm": "408482"
     },
     {
@@ -11737,6 +12064,7 @@
       "navn": {
         "nob": "Øksnes"
       },
+      "nivå": "kommune",
       "osm": "408483"
     },
     {
@@ -11774,6 +12102,7 @@
         "nob": "Sortland",
         "sme": "Suortá"
       },
+      "nivå": "kommune",
       "osm": "408484"
     },
     {
@@ -11810,6 +12139,7 @@
       "navn": {
         "nob": "Andøy"
       },
+      "nivå": "kommune",
       "osm": "408160"
     },
     {
@@ -11846,6 +12176,7 @@
       "navn": {
         "nob": "Moskenes"
       },
+      "nivå": "kommune",
       "osm": "408478"
     },
     {
@@ -11886,6 +12217,7 @@
       "navn": {
         "nob": "Tromsø"
       },
+      "nivå": "kommune",
       "osm": "407754"
     },
     {
@@ -11928,6 +12260,7 @@
         "nob": "Harstad",
         "sme": "Hárstták"
       },
+      "nivå": "kommune",
       "osm": "407767"
     },
     {
@@ -11963,6 +12296,7 @@
       "navn": {
         "nob": "Kvæfjord"
       },
+      "nivå": "kommune",
       "osm": "407768"
     },
     {
@@ -12001,6 +12335,7 @@
       "navn": {
         "nob": "Skånland"
       },
+      "nivå": "kommune",
       "osm": "407766"
     },
     {
@@ -12039,6 +12374,7 @@
       "navn": {
         "nob": "Ibestad"
       },
+      "nivå": "kommune",
       "osm": "407772"
     },
     {
@@ -12075,6 +12411,7 @@
       "navn": {
         "nob": "Gratangen"
       },
+      "nivå": "kommune",
       "osm": "407765"
     },
     {
@@ -12112,6 +12449,7 @@
         "nob": "Lavangen",
         "sme": "Loabák"
       },
+      "nivå": "kommune",
       "osm": "407764"
     },
     {
@@ -12148,6 +12486,7 @@
       "navn": {
         "nob": "Bardu"
       },
+      "nivå": "kommune",
       "osm": "407757"
     },
     {
@@ -12184,6 +12523,7 @@
       "navn": {
         "nob": "Salangen"
       },
+      "nivå": "kommune",
       "osm": "407763"
     },
     {
@@ -12221,6 +12561,7 @@
       "navn": {
         "nob": "Målselv"
       },
+      "nivå": "kommune",
       "osm": "407756"
     },
     {
@@ -12255,6 +12596,7 @@
       "navn": {
         "nob": "Sørreisa"
       },
+      "nivå": "kommune",
       "osm": "407761"
     },
     {
@@ -12290,6 +12632,7 @@
       "navn": {
         "nob": "Dyrøy"
       },
+      "nivå": "kommune",
       "osm": "407762"
     },
     {
@@ -12328,6 +12671,7 @@
       "navn": {
         "nob": "Tranøy"
       },
+      "nivå": "kommune",
       "osm": "407770"
     },
     {
@@ -12362,6 +12706,7 @@
       "navn": {
         "nob": "Torsken"
       },
+      "nivå": "kommune",
       "osm": "407760"
     },
     {
@@ -12396,6 +12741,7 @@
       "navn": {
         "nob": "Berg"
       },
+      "nivå": "kommune",
       "osm": "407771"
     },
     {
@@ -12433,6 +12779,7 @@
       "navn": {
         "nob": "Lenvik"
       },
+      "nivå": "kommune",
       "osm": "407758"
     },
     {
@@ -12468,6 +12815,7 @@
       "navn": {
         "nob": "Balsfjord"
       },
+      "nivå": "kommune",
       "osm": "407755"
     },
     {
@@ -12504,6 +12852,7 @@
       "navn": {
         "nob": "Karlsøy"
       },
+      "nivå": "kommune",
       "osm": "407753"
     },
     {
@@ -12543,6 +12892,7 @@
       "navn": {
         "nob": "Lyngen"
       },
+      "nivå": "kommune",
       "osm": "407752"
     },
     {
@@ -12582,6 +12932,7 @@
         "nob": "Storfjord",
         "sme": "Omasvuotna"
       },
+      "nivå": "kommune",
       "osm": "407751"
     },
     {
@@ -12619,6 +12970,7 @@
         "nob": "Kåfjord",
         "sme": "Gáivuotna"
       },
+      "nivå": "kommune",
       "osm": "407750"
     },
     {
@@ -12653,6 +13005,7 @@
       "navn": {
         "nob": "Skjervøy"
       },
+      "nivå": "kommune",
       "osm": "407749"
     },
     {
@@ -12691,6 +13044,7 @@
         "nob": "Nordreisa",
         "sme": "Ráisa"
       },
+      "nivå": "kommune",
       "osm": "407747"
     },
     {
@@ -12727,6 +13081,7 @@
       "navn": {
         "nob": "Kvænangen"
       },
+      "nivå": "kommune",
       "osm": "407748"
     },
     {
@@ -12762,6 +13117,7 @@
       "navn": {
         "nob": "Vardø"
       },
+      "nivå": "kommune",
       "osm": "406652"
     },
     {
@@ -12802,6 +13158,7 @@
       "navn": {
         "nob": "Vadsø"
       },
+      "nivå": "kommune",
       "osm": "406653"
     },
     {
@@ -12837,6 +13194,7 @@
       "navn": {
         "nob": "Hammerfest"
       },
+      "nivå": "kommune",
       "osm": "406645"
     },
     {
@@ -12876,6 +13234,7 @@
         "nob": "Kautokeino",
         "sme": "Guovdageaidnu"
       },
+      "nivå": "kommune",
       "osm": "406657"
     },
     {
@@ -12918,6 +13277,7 @@
       "navn": {
         "nob": "Alta"
       },
+      "nivå": "kommune",
       "osm": "406659"
     },
     {
@@ -12954,6 +13314,7 @@
       "navn": {
         "nob": "Loppa"
       },
+      "nivå": "kommune",
       "osm": "406643"
     },
     {
@@ -12986,6 +13347,7 @@
       "navn": {
         "nob": "Hasvik"
       },
+      "nivå": "kommune",
       "osm": "406644"
     },
     {
@@ -13021,6 +13383,7 @@
       "navn": {
         "nob": "Kvalsund"
       },
+      "nivå": "kommune",
       "osm": "406660"
     },
     {
@@ -13056,6 +13419,7 @@
       "navn": {
         "nob": "Måsøy"
       },
+      "nivå": "kommune",
       "osm": "406646"
     },
     {
@@ -13091,6 +13455,7 @@
       "navn": {
         "nob": "Nordkapp"
       },
+      "nivå": "kommune",
       "osm": "406647"
     },
     {
@@ -13132,6 +13497,7 @@
         "nob": "Porsanger",
         "sme": "Porsáŋgu"
       },
+      "nivå": "kommune",
       "osm": "406648"
     },
     {
@@ -13171,6 +13537,7 @@
         "nob": "Karasjok",
         "sme": "Kárášjohka"
       },
+      "nivå": "kommune",
       "osm": "406656"
     },
     {
@@ -13206,6 +13573,7 @@
       "navn": {
         "nob": "Lebesby"
       },
+      "nivå": "kommune",
       "osm": "406658"
     },
     {
@@ -13240,6 +13608,7 @@
       "navn": {
         "nob": "Gamvik"
       },
+      "nivå": "kommune",
       "osm": "406649"
     },
     {
@@ -13273,6 +13642,7 @@
       "navn": {
         "nob": "Berlevåg"
       },
+      "nivå": "kommune",
       "osm": "406650"
     },
     {
@@ -13316,6 +13686,7 @@
         "nob": "Tana",
         "sme": "Deatnu"
       },
+      "nivå": "kommune",
       "osm": "406655"
     },
     {
@@ -13349,6 +13720,7 @@
         "nob": "Nesseby",
         "sme": "Unjárga"
       },
+      "nivå": "kommune",
       "osm": "406654"
     },
     {
@@ -13387,6 +13759,7 @@
       "navn": {
         "nob": "Båtsfjord"
       },
+      "nivå": "kommune",
       "osm": "406651"
     },
     {
@@ -13421,6 +13794,7 @@
       "navn": {
         "nob": "Sør-Varanger"
       },
+      "nivå": "kommune",
       "osm": "406510"
     },
     {
@@ -13454,6 +13828,7 @@
       "navn": {
         "nob": "Trondheim"
       },
+      "nivå": "kommune",
       "osm": "406549"
     },
     {
@@ -13493,6 +13868,7 @@
       "navn": {
         "nob": "Steinkjer"
       },
+      "nivå": "kommune",
       "osm": "407272"
     },
     {
@@ -13531,6 +13907,7 @@
       "navn": {
         "nob": "Namsos"
       },
+      "nivå": "kommune",
       "osm": "407210"
     },
     {
@@ -13567,6 +13944,7 @@
       "navn": {
         "nob": "Hemne"
       },
+      "nivå": "kommune",
       "osm": "406438"
     },
     {
@@ -13601,6 +13979,7 @@
       "navn": {
         "nob": "Snillfjord"
       },
+      "nivå": "kommune",
       "osm": "406232"
     },
     {
@@ -13639,6 +14018,7 @@
       "navn": {
         "nob": "Hitra"
       },
+      "nivå": "kommune",
       "osm": "405264"
     },
     {
@@ -13672,6 +14052,7 @@
       "navn": {
         "nob": "Frøya"
       },
+      "nivå": "kommune",
       "osm": "405219"
     },
     {
@@ -13704,6 +14085,7 @@
       "navn": {
         "nob": "Ørland"
       },
+      "nivå": "kommune",
       "osm": "405937"
     },
     {
@@ -13738,6 +14120,7 @@
       "navn": {
         "nob": "Agdenes"
       },
+      "nivå": "kommune",
       "osm": "406234"
     },
     {
@@ -13773,6 +14156,7 @@
       "navn": {
         "nob": "Bjugn"
       },
+      "nivå": "kommune",
       "osm": "405279"
     },
     {
@@ -13809,6 +14193,7 @@
       "navn": {
         "nob": "Åfjord"
       },
+      "nivå": "kommune",
       "osm": "405298"
     },
     {
@@ -13842,6 +14227,7 @@
       "navn": {
         "nob": "Roan"
       },
+      "nivå": "kommune",
       "osm": "405316"
     },
     {
@@ -13875,6 +14261,7 @@
       "navn": {
         "nob": "Osen"
       },
+      "nivå": "kommune",
       "osm": "405317"
     },
     {
@@ -13917,6 +14304,7 @@
       "navn": {
         "nob": "Oppdal"
       },
+      "nivå": "kommune",
       "osm": "406463"
     },
     {
@@ -13951,6 +14339,7 @@
       "navn": {
         "nob": "Rennebu"
       },
+      "nivå": "kommune",
       "osm": "406462"
     },
     {
@@ -13985,6 +14374,7 @@
       "navn": {
         "nob": "Meldal"
       },
+      "nivå": "kommune",
       "osm": "406449"
     },
     {
@@ -14021,6 +14411,7 @@
       "navn": {
         "nob": "Orkdal"
       },
+      "nivå": "kommune",
       "osm": "406233"
     },
     {
@@ -14059,6 +14450,7 @@
       "navn": {
         "nob": "Røros"
       },
+      "nivå": "kommune",
       "osm": "406493"
     },
     {
@@ -14093,6 +14485,7 @@
       "navn": {
         "nob": "Holtålen"
       },
+      "nivå": "kommune",
       "osm": "406477"
     },
     {
@@ -14129,6 +14522,7 @@
       "navn": {
         "nob": "Midtre Gauldal"
       },
+      "nivå": "kommune",
       "osm": "406476"
     },
     {
@@ -14169,6 +14563,7 @@
       "navn": {
         "nob": "Melhus"
       },
+      "nivå": "kommune",
       "osm": "406537"
     },
     {
@@ -14201,6 +14596,7 @@
       "navn": {
         "nob": "Skaun"
       },
+      "nivå": "kommune",
       "osm": "406540"
     },
     {
@@ -14233,6 +14629,7 @@
       "navn": {
         "nob": "Klæbu"
       },
+      "nivå": "kommune",
       "osm": "406526"
     },
     {
@@ -14268,6 +14665,7 @@
       "navn": {
         "nob": "Malvik"
       },
+      "nivå": "kommune",
       "osm": "406554"
     },
     {
@@ -14305,6 +14703,7 @@
       "navn": {
         "nob": "Selbu"
       },
+      "nivå": "kommune",
       "osm": "406520"
     },
     {
@@ -14339,6 +14738,7 @@
       "navn": {
         "nob": "Tydal"
       },
+      "nivå": "kommune",
       "osm": "406502"
     },
     {
@@ -14372,6 +14772,7 @@
       "navn": {
         "nob": "Meråker"
       },
+      "nivå": "kommune",
       "osm": "407292"
     },
     {
@@ -14410,6 +14811,7 @@
       "navn": {
         "nob": "Stjørdal"
       },
+      "nivå": "kommune",
       "osm": "407291"
     },
     {
@@ -14444,6 +14846,7 @@
       "navn": {
         "nob": "Frosta"
       },
+      "nivå": "kommune",
       "osm": "407287"
     },
     {
@@ -14479,6 +14882,7 @@
       "navn": {
         "nob": "Levanger"
       },
+      "nivå": "kommune",
       "osm": "407290"
     },
     {
@@ -14513,6 +14917,7 @@
       "navn": {
         "nob": "Verdal"
       },
+      "nivå": "kommune",
       "osm": "407278"
     },
     {
@@ -14547,6 +14952,7 @@
       "navn": {
         "nob": "Verran"
       },
+      "nivå": "kommune",
       "osm": "407274"
     },
     {
@@ -14583,6 +14989,7 @@
       "navn": {
         "nob": "Namdalseid"
       },
+      "nivå": "kommune",
       "osm": "407246"
     },
     {
@@ -14618,6 +15025,7 @@
         "nob": "Snåsa",
         "sma": "Snåase"
       },
+      "nivå": "kommune",
       "osm": "407273"
     },
     {
@@ -14650,6 +15058,7 @@
       "navn": {
         "nob": "Lierne"
       },
+      "nivå": "kommune",
       "osm": "407217"
     },
     {
@@ -14687,6 +15096,7 @@
         "nob": "Røyrvik",
         "sma": "Raarvihke"
       },
+      "nivå": "kommune",
       "osm": "407202"
     },
     {
@@ -14722,6 +15132,7 @@
       "navn": {
         "nob": "Namsskogan"
       },
+      "nivå": "kommune",
       "osm": "407201"
     },
     {
@@ -14757,6 +15168,7 @@
       "navn": {
         "nob": "Grong"
       },
+      "nivå": "kommune",
       "osm": "407216"
     },
     {
@@ -14792,6 +15204,7 @@
       "navn": {
         "nob": "Høylandet"
       },
+      "nivå": "kommune",
       "osm": "407200"
     },
     {
@@ -14829,6 +15242,7 @@
       "navn": {
         "nob": "Overhalla"
       },
+      "nivå": "kommune",
       "osm": "407211"
     },
     {
@@ -14865,6 +15279,7 @@
       "navn": {
         "nob": "Fosnes"
       },
+      "nivå": "kommune",
       "osm": "407205"
     },
     {
@@ -14900,6 +15315,7 @@
       "navn": {
         "nob": "Flatanger"
       },
+      "nivå": "kommune",
       "osm": "407245"
     },
     {
@@ -14933,6 +15349,7 @@
       "navn": {
         "nob": "Vikna"
       },
+      "nivå": "kommune",
       "osm": "407204"
     },
     {
@@ -14967,6 +15384,7 @@
       "navn": {
         "nob": "Nærøy"
       },
+      "nivå": "kommune",
       "osm": "407179"
     },
     {
@@ -15003,6 +15421,7 @@
       "navn": {
         "nob": "Leka"
       },
+      "nivå": "kommune",
       "osm": "407178"
     },
     {
@@ -15037,6 +15456,7 @@
       "navn": {
         "nob": "Inderøy"
       },
+      "nivå": "kommune",
       "osm": "2167163"
     },
     {
@@ -15074,6 +15494,7 @@
       "navn": {
         "nob": "Indre Fosen"
       },
+      "nivå": "kommune",
       "osm": "405951"
     },
     {
@@ -15109,12 +15530,13 @@
       "navn": {
         "nob": "Rindal"
       },
+      "nivå": "kommune",
       "osm": "406835"
     }
   ],
   "meta": {
     "tittel": "Kommune",
-    "produsertUtc": "2019-09-18T17:19:58.724Z",
+    "produsertUtc": "2019-09-19T03:52:41.301Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/kommune/master/kommune.json",
     "tool": {
