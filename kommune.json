@@ -11676,7 +11676,9 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": [],
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/L%C3%B8dingen-10-2019-gje.jpg"
+        ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/L%C3%B8dingen%20komm.svg"
       },
       "navn": {
@@ -15536,7 +15538,7 @@
   ],
   "meta": {
     "tittel": "Kommune",
-    "produsertUtc": "2019-09-19T03:52:41.301Z",
+    "produsertUtc": "2019-09-27T17:45:24.188Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/kommune/master/kommune.json",
     "tool": {
