@@ -10,26 +10,6 @@
           "autorkode": {
             "type": "string"
           },
-          "bilde": {
-            "type": "object",
-            "properties": {
-              "banner": {
-                "type": "array",
-                "items": {
-                  "type": "string"
-                }
-              },
-              "coa": {
-                "type": "string"
-              },
-              "foto": {
-                "type": "array",
-                "items": {
-                  "type": "string"
-                }
-              }
-            }
-          },
           "geografi": {
             "type": "object",
             "properties": {
@@ -67,10 +47,33 @@
               }
             }
           },
+          "mediakilde": {
+            "type": "object",
+            "properties": {
+              "banner": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "foto": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "logo": {
+                "type": "string"
+              }
+            }
+          },
           "navn": {
             "type": "object",
             "properties": {
               "nob": {
+                "type": "string"
+              },
+              "sma": {
                 "type": "string"
               },
               "smj": {
@@ -81,11 +84,14 @@
               },
               "fkv": {
                 "type": "string"
-              },
-              "sma": {
-                "type": "string"
               }
             }
+          },
+          "nivå": {
+            "type": "string"
+          },
+          "osm": {
+            "type": "string"
           },
           "elevation": {
             "type": "number"
@@ -93,19 +99,20 @@
           "inception": {
             "type": "string"
           },
-          "osm": {
+          "dissolved": {
             "type": "string"
           }
         },
         "required": [
           "autorkode",
-          "bilde",
           "geografi",
           "kode",
           "lenke",
+          "mediakilde",
           "navn",
-          "inception",
+          "nivå",
           "osm",
+          "inception",
           "elevation"
         ]
       }
@@ -144,5 +151,16 @@
     "$schema": {
       "type": "string"
     }
+  },
+  "meta": {
+    "tittel": "Kommune.schema",
+    "produsertUtc": "2019-09-27T17:45:24.212Z",
+    "utgiver": "Artsdatabanken",
+    "url": "https://raw.githubusercontent.com/Artsdatabanken/kommune/master/kommune.schema.json",
+    "tool": {
+      "name": "kommune-lastejobb",
+      "url": "https://github.com/Artsdatabanken/kommune-lastejobb"
+    },
+    "elementer": 3
   }
 }

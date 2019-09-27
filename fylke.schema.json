@@ -10,29 +10,6 @@
           "autorkode": {
             "type": "string"
           },
-          "bilde": {
-            "type": "object",
-            "properties": {
-              "banner": {
-                "type": "array",
-                "items": {
-                  "type": "string"
-                }
-              },
-              "coa": {
-                "type": "string"
-              },
-              "foto": {
-                "type": "array",
-                "items": {
-                  "type": "string"
-                }
-              }
-            }
-          },
-          "flag": {
-            "type": "string"
-          },
           "geografi": {
             "type": "object",
             "properties": {
@@ -70,6 +47,29 @@
               }
             }
           },
+          "mediakilde": {
+            "type": "object",
+            "properties": {
+              "banner": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "flagg": {
+                "type": "string"
+              },
+              "foto": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "logo": {
+                "type": "string"
+              }
+            }
+          },
           "navn": {
             "type": "object",
             "properties": {
@@ -81,24 +81,27 @@
               }
             }
           },
+          "nivå": {
+            "type": "string"
+          },
+          "osm": {
+            "type": "string"
+          },
           "elevation": {
             "type": "number"
           },
           "inception": {
             "type": "string"
-          },
-          "osm": {
-            "type": "string"
           }
         },
         "required": [
           "autorkode",
-          "bilde",
-          "flag",
           "geografi",
           "kode",
           "lenke",
+          "mediakilde",
           "navn",
+          "nivå",
           "osm"
         ]
       }
@@ -137,5 +140,16 @@
     "$schema": {
       "type": "string"
     }
+  },
+  "meta": {
+    "tittel": "Fylke.schema",
+    "produsertUtc": "2019-09-27T17:45:24.171Z",
+    "utgiver": "Artsdatabanken",
+    "url": "https://raw.githubusercontent.com/Artsdatabanken/kommune/master/fylke.schema.json",
+    "tool": {
+      "name": "kommune-lastejobb",
+      "url": "https://github.com/Artsdatabanken/kommune-lastejobb"
+    },
+    "elementer": 3
   }
 }
