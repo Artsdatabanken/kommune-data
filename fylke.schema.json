@@ -87,6 +87,9 @@
               }
             }
           },
+          "url": {
+            "type": "string"
+          },
           "elevation": {
             "type": "number"
           },
@@ -102,7 +105,8 @@
           "mediakilde",
           "nivå",
           "osm",
-          "tittel"
+          "tittel",
+          "url"
         ]
       }
     },
@@ -143,7 +147,7 @@
   },
   "meta": {
     "tittel": "Fylke.schema",
-    "produsertUtc": "2019-10-08T15:41:52.260Z",
+    "produsertUtc": "2019-10-08T18:41:47.024Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/kommune/master/fylke.schema.json",
     "tool": {

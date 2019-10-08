@@ -34,7 +34,8 @@
       "osm": "406060",
       "tittel": {
         "nob": "Østfold"
-      }
+      },
+      "url": "/Administrativ_grense/Territorialområde/Fastlands-Norge/Østfold"
     },
     {
       "autorkode": "02",
@@ -74,7 +75,8 @@
       "osm": "406106",
       "tittel": {
         "nob": "Akershus"
-      }
+      },
+      "url": "/Administrativ_grense/Territorialområde/Fastlands-Norge/Akershus"
     },
     {
       "autorkode": "03",
@@ -114,7 +116,8 @@
       "osm": "2775550",
       "tittel": {
         "nob": "Oslo"
-      }
+      },
+      "url": "/Administrativ_grense/Territorialområde/Fastlands-Norge/Oslo"
     },
     {
       "autorkode": "04",
@@ -153,7 +156,8 @@
       "osm": "412436",
       "tittel": {
         "nob": "Hedmark"
-      }
+      },
+      "url": "/Administrativ_grense/Territorialområde/Fastlands-Norge/Hedmark"
     },
     {
       "autorkode": "05",
@@ -194,7 +198,8 @@
       "osm": "412377",
       "tittel": {
         "nob": "Oppland"
-      }
+      },
+      "url": "/Administrativ_grense/Territorialområde/Fastlands-Norge/Oppland"
     },
     {
       "autorkode": "06",
@@ -236,7 +241,8 @@
       "osm": "412297",
       "tittel": {
         "nob": "Buskerud"
-      }
+      },
+      "url": "/Administrativ_grense/Territorialområde/Fastlands-Norge/Buskerud"
     },
     {
       "autorkode": "07",
@@ -273,7 +279,8 @@
       "osm": "404589",
       "tittel": {
         "nob": "Vestfold"
-      }
+      },
+      "url": "/Administrativ_grense/Territorialområde/Fastlands-Norge/Vestfold"
     },
     {
       "autorkode": "08",
@@ -313,7 +320,8 @@
       "osm": "405156",
       "tittel": {
         "nob": "Telemark"
-      }
+      },
+      "url": "/Administrativ_grense/Territorialområde/Fastlands-Norge/Telemark"
     },
     {
       "autorkode": "09",
@@ -351,7 +359,8 @@
       "osm": "406015",
       "tittel": {
         "nob": "Aust-Agder"
-      }
+      },
+      "url": "/Administrativ_grense/Territorialområde/Fastlands-Norge/Aust-Agder"
     },
     {
       "autorkode": "10",
@@ -388,7 +397,8 @@
       "osm": "405929",
       "tittel": {
         "nob": "Vest-Agder"
-      }
+      },
+      "url": "/Administrativ_grense/Territorialområde/Fastlands-Norge/Vest-Agder"
     },
     {
       "autorkode": "11",
@@ -427,7 +437,8 @@
       "osm": "405836",
       "tittel": {
         "nob": "Rogaland"
-      }
+      },
+      "url": "/Administrativ_grense/Territorialområde/Fastlands-Norge/Rogaland"
     },
     {
       "autorkode": "12",
@@ -466,7 +477,8 @@
       "osm": "404144",
       "tittel": {
         "nob": "Hordaland"
-      }
+      },
+      "url": "/Administrativ_grense/Territorialområde/Fastlands-Norge/Hordaland"
     },
     {
       "autorkode": "14",
@@ -505,7 +517,8 @@
       "osm": "407787",
       "tittel": {
         "nob": "Sogn og Fjordane"
-      }
+      },
+      "url": "/Administrativ_grense/Territorialområde/Fastlands-Norge/Sogn_og_Fjordane"
     },
     {
       "autorkode": "15",
@@ -544,7 +557,8 @@
       "osm": "406868",
       "tittel": {
         "nob": "Møre og Romsdal"
-      }
+      },
+      "url": "/Administrativ_grense/Territorialområde/Fastlands-Norge/Møre_og_Romsdal"
     },
     {
       "autorkode": "18",
@@ -582,7 +596,8 @@
       "osm": "408105",
       "tittel": {
         "nob": "Nordland"
-      }
+      },
+      "url": "/Administrativ_grense/Territorialområde/Fastlands-Norge/Nordland"
     },
     {
       "autorkode": "19",
@@ -620,7 +635,8 @@
       "tittel": {
         "nob": "Troms",
         "sme": "Romsa"
-      }
+      },
+      "url": "/Administrativ_grense/Territorialområde/Fastlands-Norge/Troms"
     },
     {
       "autorkode": "20",
@@ -657,7 +673,8 @@
       "tittel": {
         "nob": "Finnmark",
         "sme": "Finnmárku"
-      }
+      },
+      "url": "/Administrativ_grense/Territorialområde/Fastlands-Norge/Finnmark"
     },
     {
       "autorkode": "50",
@@ -695,12 +712,13 @@
       "osm": "406567",
       "tittel": {
         "nob": "Trøndelag"
-      }
+      },
+      "url": "/Administrativ_grense/Territorialområde/Fastlands-Norge/Trøndelag"
     }
   ],
   "meta": {
     "tittel": "Fylke",
-    "produsertUtc": "2019-10-08T15:41:52.255Z",
+    "produsertUtc": "2019-10-08T18:41:47.020Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/kommune/master/fylke.json",
     "tool": {

@@ -93,6 +93,9 @@
               }
             }
           },
+          "url": {
+            "type": "string"
+          },
           "elevation": {
             "type": "number"
           },
@@ -112,6 +115,7 @@
           "nivå",
           "osm",
           "tittel",
+          "url",
           "inception",
           "elevation"
         ]
@@ -154,7 +158,7 @@
   },
   "meta": {
     "tittel": "Kommune.schema",
-    "produsertUtc": "2019-10-08T15:41:52.304Z",
+    "produsertUtc": "2019-10-08T18:41:47.068Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/kommune/master/kommune.schema.json",
     "tool": {
