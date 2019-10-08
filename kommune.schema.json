@@ -67,7 +67,13 @@
               }
             }
           },
-          "navn": {
+          "nivå": {
+            "type": "string"
+          },
+          "osm": {
+            "type": "string"
+          },
+          "tittel": {
             "type": "object",
             "properties": {
               "nob": {
@@ -87,12 +93,6 @@
               }
             }
           },
-          "nivå": {
-            "type": "string"
-          },
-          "osm": {
-            "type": "string"
-          },
           "elevation": {
             "type": "number"
           },
@@ -109,9 +109,9 @@
           "kode",
           "lenke",
           "mediakilde",
-          "navn",
           "nivå",
           "osm",
+          "tittel",
           "inception",
           "elevation"
         ]
@@ -154,7 +154,7 @@
   },
   "meta": {
     "tittel": "Kommune.schema",
-    "produsertUtc": "2019-09-27T17:45:24.212Z",
+    "produsertUtc": "2019-10-08T15:41:52.304Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/kommune/master/kommune.schema.json",
     "tool": {

@@ -70,7 +70,13 @@
               }
             }
           },
-          "navn": {
+          "nivå": {
+            "type": "string"
+          },
+          "osm": {
+            "type": "string"
+          },
+          "tittel": {
             "type": "object",
             "properties": {
               "nob": {
@@ -80,12 +86,6 @@
                 "type": "string"
               }
             }
-          },
-          "nivå": {
-            "type": "string"
-          },
-          "osm": {
-            "type": "string"
           },
           "elevation": {
             "type": "number"
@@ -100,9 +100,9 @@
           "kode",
           "lenke",
           "mediakilde",
-          "navn",
           "nivå",
-          "osm"
+          "osm",
+          "tittel"
         ]
       }
     },
@@ -143,7 +143,7 @@
   },
   "meta": {
     "tittel": "Fylke.schema",
-    "produsertUtc": "2019-09-27T17:45:24.171Z",
+    "produsertUtc": "2019-10-08T15:41:52.260Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/kommune/master/fylke.schema.json",
     "tool": {
