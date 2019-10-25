@@ -2797,7 +2797,9 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": [],
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Forkalsrud.jpeg"
+        ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Ringebu%20komm.svg"
       },
       "nivå": "kommune",
@@ -5039,7 +5041,9 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": [],
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Kviteseidvatnet%202.jpg"
+        ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Kviteseid%20komm.svg"
       },
       "nivå": "kommune",
@@ -7721,7 +7725,9 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": [],
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Utne%20Halfway%20stop.jpg"
+        ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Ullensvang%20komm.svg"
       },
       "nivå": "kommune",
@@ -9320,6 +9326,7 @@
           "AO-TO-FL-14-45"
         ]
       },
+      "inception": "1866-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-14-38",
       "lenke": {
         "offisiell": "http://www.bremanger.kommune.no/",
@@ -12477,6 +12484,7 @@
     },
     {
       "autorkode": "1874",
+      "elevation": 10,
       "geografi": {
         "areal": 1591410259,
         "bbox": [
@@ -12934,7 +12942,9 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": [],
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/S%C3%B8rreisa.jpg"
+        ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/S%C3%B8rreisa%20komm.svg"
       },
       "nivå": "kommune",
@@ -13354,7 +13364,9 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": [],
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%85rviksand%2C%20Skjerv%C3%B8y%2C%20Troms%2C%20Norway%202008-06-25%20Panorama.jpg"
+        ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Skjerv%C3%B8y%20komm.svg"
       },
       "nivå": "kommune",
@@ -14318,7 +14330,9 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": [],
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Kyrks%C3%A6ter%C3%B8ra%20%28001%29.jpg"
+        ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Hemne%20komm.svg"
       },
       "nivå": "kommune",
@@ -14874,7 +14888,9 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": [],
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Haltdalen%20kyrkje%2001.jpg"
+        ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Holt%C3%A5len%20komm.svg"
       },
       "nivå": "kommune",
@@ -14912,7 +14928,9 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": [],
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Soknedal%20Midtre%20Gauldal.jpg"
+        ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Midtre%20Gauldal%20komm.svg"
       },
       "nivå": "kommune",
@@ -15169,7 +15187,9 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": [],
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Mer%C3%A5kerdalen%20jan%202010.JPG"
+        ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Mer%C3%A5ker%20komm.svg"
       },
       "nivå": "kommune",
@@ -15392,7 +15412,9 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": [],
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Namdalseid.jpg"
+        ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Namdalseid%20komm.svg"
       },
       "nivå": "kommune",
@@ -15428,7 +15450,9 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": [],
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Sandmo%20Sn%C3%A5sa%20stabbur.jpg"
+        ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Sn%C3%A5sa%20komm.svg"
       },
       "nivå": "kommune",
@@ -15539,7 +15563,9 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": [],
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Nams-Inn.jpg"
+        ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Namsskogan%20komm.svg"
       },
       "nivå": "kommune",
@@ -15576,7 +15602,9 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": [],
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Grong%20stasjonsbygning.jpg"
+        ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Grong%20komm.svg"
       },
       "nivå": "kommune",
@@ -15613,7 +15641,9 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": [],
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Hoeylandet%20fraa%20lufta.jpg"
+        ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/H%C3%B8ylandet%20komm.svg"
       },
       "nivå": "kommune",
@@ -15872,7 +15902,9 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": [],
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Inder%C3%B8y-Sund-Straumen.jpg"
+        ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Inder%C3%B8y%20komm.svg"
       },
       "nivå": "kommune",
@@ -15961,7 +15993,7 @@
   ],
   "meta": {
     "tittel": "Kommune",
-    "produsertUtc": "2019-10-08T18:41:47.042Z",
+    "produsertUtc": "2019-10-25T18:20:16.677Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/kommune/master/kommune.json",
     "tool": {
