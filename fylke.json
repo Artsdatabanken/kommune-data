@@ -341,7 +341,7 @@
       },
       "kode": "AO-TO-FL-09",
       "lenke": {
-        "offisiell": "http://www.aa-f.kommune.no/",
+        "offisiell": "https://www.austagderfk.no/",
         "wikidata": "http://www.wikidata.org/entity/Q50621",
         "wikipedia": "https://no.wikipedia.org/wiki/Aust-Agder"
       },
@@ -718,7 +718,7 @@
   ],
   "meta": {
     "tittel": "Fylke",
-    "produsertUtc": "2019-10-08T18:41:47.020Z",
+    "produsertUtc": "2019-11-25T13:57:52.100Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/kommune/master/fylke.json",
     "tool": {

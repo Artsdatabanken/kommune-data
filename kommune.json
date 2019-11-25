@@ -97,6 +97,7 @@
           "AO-TO-FL-01-37"
         ]
       },
+      "inception": "1839-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-01-05",
       "lenke": {
         "offisiell": "http://www.sarpsborg.kommune.no/",
@@ -7340,6 +7341,7 @@
           "AO-TO-FL-12-63"
         ]
       },
+      "inception": "1070-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-12-01",
       "lenke": {
         "offisiell": "https://www.bergen.kommune.no/",
@@ -9173,6 +9175,7 @@
           "AO-TO-FL-14-32"
         ]
       },
+      "inception": "1838-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-14-30",
       "lenke": {
         "offisiell": "http://www.gaular.kommune.no/",
@@ -9249,6 +9252,7 @@
           "AO-TO-FL-14-33"
         ]
       },
+      "inception": "1838-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-14-32",
       "lenke": {
         "offisiell": "http://www.forde.kommune.no/",
@@ -15993,7 +15997,7 @@
   ],
   "meta": {
     "tittel": "Kommune",
-    "produsertUtc": "2019-10-25T18:20:16.677Z",
+    "produsertUtc": "2019-11-25T13:57:52.123Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/kommune/master/kommune.json",
     "tool": {
