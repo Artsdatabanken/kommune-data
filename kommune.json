@@ -948,6 +948,7 @@
           "AO-TO-FL-06-27"
         ]
       },
+      "inception": "1837-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-02-20",
       "lenke": {
         "offisiell": "http://www.asker.kommune.no/",
@@ -998,7 +999,9 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": [],
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Aurskog%20kirke%2020071021%201.jpg"
+        ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Aurskog-H%C3%B8land%20komm.svg"
       },
       "nivå": "kommune",
@@ -1150,7 +1153,9 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": [],
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Enebakkirke2006.JPG"
+        ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Enebakk%20komm.svg"
       },
       "nivå": "kommune",
@@ -1407,6 +1412,7 @@
           "AO-TO-FL-05-28"
         ]
       },
+      "inception": "1838-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-02-37",
       "lenke": {
         "offisiell": "http://www.eidsvoll.kommune.no/",
@@ -1697,7 +1703,9 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": [],
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Loeten%20sentrum.jpg"
+        ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/L%C3%B8ten%20komm.svg"
       },
       "nivå": "kommune",
@@ -1840,6 +1848,7 @@
           "AO-TO-FL-04-19"
         ]
       },
+      "inception": "1864-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-04-20",
       "lenke": {
         "offisiell": "http://www.eidskog.kommune.no/",
@@ -1848,7 +1857,9 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": [],
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Magnor%20view.jpg"
+        ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Eidskog%20komm.svg"
       },
       "nivå": "kommune",
@@ -5260,6 +5271,7 @@
           "AO-TO-FL-09-28"
         ]
       },
+      "inception": "1816-06-06T00:00:00.000Z",
       "kode": "AO-TO-FL-09-04",
       "lenke": {
         "offisiell": "http://www.grimstad.kommune.no/",
@@ -5296,6 +5308,7 @@
           "AO-TO-FL-09-19"
         ]
       },
+      "inception": "1837-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-09-06",
       "lenke": {
         "offisiell": "https://www.arendal.kommune.no/",
@@ -5686,7 +5699,9 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": [],
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Bygland%20and%20Jordalsboe.JPG"
+        ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Bygland%20komm.svg"
       },
       "nivå": "kommune",
@@ -10968,6 +10983,7 @@
           "AO-TO-FL-19-22"
         ]
       },
+      "inception": "1902-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-18-05",
       "lenke": {
         "wikidata": "http://www.wikidata.org/entity/Q1215658"
@@ -15997,7 +16013,7 @@
   ],
   "meta": {
     "tittel": "Kommune",
-    "produsertUtc": "2019-11-25T13:57:52.123Z",
+    "produsertUtc": "2019-12-08T14:56:14.417Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/kommune/master/kommune.json",
     "tool": {
