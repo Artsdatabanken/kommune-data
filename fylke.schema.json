@@ -10,6 +10,9 @@
           "autorkode": {
             "type": "string"
           },
+          "elevation": {
+            "type": "number"
+          },
           "geografi": {
             "type": "object",
             "properties": {
@@ -29,6 +32,9 @@
                 }
               }
             }
+          },
+          "inception": {
+            "type": "string"
           },
           "kode": {
             "type": "string"
@@ -82,18 +88,18 @@
               "nob": {
                 "type": "string"
               },
+              "sma": {
+                "type": "string"
+              },
+              "fkv": {
+                "type": "string"
+              },
               "sme": {
                 "type": "string"
               }
             }
           },
           "url": {
-            "type": "string"
-          },
-          "elevation": {
-            "type": "number"
-          },
-          "inception": {
             "type": "string"
           }
         },
@@ -147,7 +153,7 @@
   },
   "meta": {
     "tittel": "Fylke.schema",
-    "produsertUtc": "2019-11-25T13:57:52.105Z",
+    "produsertUtc": "2020-01-01T13:12:11.916Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/kommune/master/fylke.schema.json",
     "tool": {
