@@ -16,10 +16,12 @@
           "AO-TO-FL-02-17",
           "AO-TO-FL-02-31",
           "AO-TO-FL-30-07",
+          "AO-TO-FL-30-20",
           "AO-TO-FL-30-23",
           "AO-TO-FL-30-24",
           "AO-TO-FL-30-28",
           "AO-TO-FL-30-29",
+          "AO-TO-FL-30-30",
           "AO-TO-FL-30-31",
           "AO-TO-FL-30-54"
         ]
@@ -100,7 +102,13 @@
           "AO-TO-FL-11-08",
           "AO-TO-FL-11-24",
           "AO-TO-FL-11-27",
-          "AO-TO-FL-11-42"
+          "AO-TO-FL-11-30",
+          "AO-TO-FL-11-33",
+          "AO-TO-FL-11-34",
+          "AO-TO-FL-11-42",
+          "AO-TO-FL-11-44",
+          "AO-TO-FL-11-45",
+          "AO-TO-FL-11-46"
         ]
       },
       "inception": "1125-01-01T00:00:00.000Z",
@@ -182,7 +190,11 @@
           "AO-TO-FL-11-21",
           "AO-TO-FL-11-22",
           "AO-TO-FL-11-24",
-          "AO-TO-FL-11-29"
+          "AO-TO-FL-11-29",
+          "AO-TO-FL-11-30",
+          "AO-TO-FL-11-33",
+          "AO-TO-FL-42-22",
+          "AO-TO-FL-42-28"
         ]
       },
       "kode": "AO-TO-FL-11-08",
@@ -547,6 +559,8 @@
           59.14329896327379
         ],
         "nabo": [
+          "AO-TO-FL-11-03",
+          "AO-TO-FL-11-08",
           "AO-TO-FL-11-29",
           "AO-TO-FL-11-33",
           "AO-TO-FL-11-41"
@@ -583,6 +597,8 @@
           59.37525381743361
         ],
         "nabo": [
+          "AO-TO-FL-11-03",
+          "AO-TO-FL-11-08",
           "AO-TO-FL-11-29",
           "AO-TO-FL-11-30",
           "AO-TO-FL-11-34",
@@ -619,6 +635,7 @@
           59.78277682352601
         ],
         "nabo": [
+          "AO-TO-FL-11-03",
           "AO-TO-FL-11-33",
           "AO-TO-FL-11-35",
           "AO-TO-FL-11-41",
@@ -626,7 +643,8 @@
           "AO-TO-FL-12-28",
           "AO-TO-FL-38-25",
           "AO-TO-FL-42-22",
-          "AO-TO-FL-46-11"
+          "AO-TO-FL-46-11",
+          "AO-TO-FL-46-18"
         ]
       },
       "kode": "AO-TO-FL-11-34",
@@ -662,7 +680,8 @@
         "nabo": [
           "AO-TO-FL-11-34",
           "AO-TO-FL-12-28",
-          "AO-TO-FL-46-11"
+          "AO-TO-FL-46-11",
+          "AO-TO-FL-46-18"
         ]
       },
       "kode": "AO-TO-FL-11-35",
@@ -696,6 +715,7 @@
           59.128275781821735
         ],
         "nabo": [
+          "AO-TO-FL-11-03",
           "AO-TO-FL-11-27",
           "AO-TO-FL-11-42",
           "AO-TO-FL-11-45",
@@ -733,6 +753,7 @@
           59.27624152989448
         ],
         "nabo": [
+          "AO-TO-FL-11-03",
           "AO-TO-FL-11-41",
           "AO-TO-FL-11-42",
           "AO-TO-FL-11-44",
@@ -771,6 +792,7 @@
           59.49967606661767
         ],
         "nabo": [
+          "AO-TO-FL-11-03",
           "AO-TO-FL-11-06",
           "AO-TO-FL-11-41",
           "AO-TO-FL-11-45",
@@ -956,13 +978,18 @@
           62.87143460060665
         ],
         "nabo": [
+          "AO-TO-FL-15-07",
           "AO-TO-FL-15-35",
           "AO-TO-FL-15-39",
           "AO-TO-FL-15-43",
           "AO-TO-FL-15-45",
           "AO-TO-FL-15-47",
           "AO-TO-FL-15-48",
-          "AO-TO-FL-15-57"
+          "AO-TO-FL-15-57",
+          "AO-TO-FL-15-60",
+          "AO-TO-FL-15-63",
+          "AO-TO-FL-15-79",
+          "AO-TO-FL-34-32"
         ]
       },
       "inception": "1500-01-01T00:00:00.000Z",
@@ -999,11 +1026,15 @@
           63.091331712180306
         ],
         "nabo": [
+          "AO-TO-FL-15-06",
           "AO-TO-FL-15-28",
           "AO-TO-FL-15-29",
           "AO-TO-FL-15-31",
           "AO-TO-FL-15-32",
-          "AO-TO-FL-15-34"
+          "AO-TO-FL-15-34",
+          "AO-TO-FL-15-35",
+          "AO-TO-FL-15-47",
+          "AO-TO-FL-15-78"
         ]
       },
       "inception": "1838-01-01T00:00:00.000Z",
@@ -1045,7 +1076,8 @@
           "AO-TO-FL-14-43",
           "AO-TO-FL-15-14",
           "AO-TO-FL-15-15",
-          "AO-TO-FL-15-77"
+          "AO-TO-FL-15-77",
+          "AO-TO-FL-46-49"
         ]
       },
       "kode": "AO-TO-FL-15-11",
@@ -1079,7 +1111,8 @@
         "nabo": [
           "AO-TO-FL-14-41",
           "AO-TO-FL-15-11",
-          "AO-TO-FL-15-15"
+          "AO-TO-FL-15-15",
+          "AO-TO-FL-46-49"
         ]
       },
       "kode": "AO-TO-FL-15-14",
@@ -1261,6 +1294,8 @@
           "AO-TO-FL-15-24",
           "AO-TO-FL-15-26",
           "AO-TO-FL-15-28",
+          "AO-TO-FL-15-77",
+          "AO-TO-FL-15-78",
           "AO-TO-FL-34-33",
           "AO-TO-FL-46-51"
         ]
@@ -1301,7 +1336,8 @@
           "AO-TO-FL-15-23",
           "AO-TO-FL-15-25",
           "AO-TO-FL-15-26",
-          "AO-TO-FL-15-29"
+          "AO-TO-FL-15-29",
+          "AO-TO-FL-15-78"
         ]
       },
       "kode": "AO-TO-FL-15-28",
@@ -1410,12 +1446,14 @@
         ],
         "nabo": [
           "AO-TO-FL-15-06",
+          "AO-TO-FL-15-07",
           "AO-TO-FL-15-23",
           "AO-TO-FL-15-26",
           "AO-TO-FL-15-29",
           "AO-TO-FL-15-34",
           "AO-TO-FL-15-39",
-          "AO-TO-FL-15-45"
+          "AO-TO-FL-15-45",
+          "AO-TO-FL-15-78"
         ]
       },
       "kode": "AO-TO-FL-15-35",
@@ -1454,6 +1492,7 @@
           "AO-TO-FL-15-26",
           "AO-TO-FL-15-35",
           "AO-TO-FL-15-43",
+          "AO-TO-FL-15-78",
           "AO-TO-FL-34-32",
           "AO-TO-FL-34-33"
         ]
@@ -1489,9 +1528,11 @@
         ],
         "nabo": [
           "AO-TO-FL-15-06",
+          "AO-TO-FL-15-07",
           "AO-TO-FL-15-45",
           "AO-TO-FL-15-46",
-          "AO-TO-FL-15-48"
+          "AO-TO-FL-15-48",
+          "AO-TO-FL-15-79"
         ]
       },
       "kode": "AO-TO-FL-15-47",
@@ -1527,7 +1568,8 @@
         "nabo": [
           "AO-TO-FL-15-05",
           "AO-TO-FL-15-51",
-          "AO-TO-FL-15-57"
+          "AO-TO-FL-15-57",
+          "AO-TO-FL-15-79"
         ]
       },
       "kode": "AO-TO-FL-15-54",
@@ -1569,7 +1611,8 @@
           "AO-TO-FL-15-48",
           "AO-TO-FL-15-51",
           "AO-TO-FL-15-54",
-          "AO-TO-FL-15-60"
+          "AO-TO-FL-15-60",
+          "AO-TO-FL-15-79"
         ]
       },
       "kode": "AO-TO-FL-15-57",
@@ -1604,12 +1647,14 @@
         ],
         "nabo": [
           "AO-TO-FL-15-05",
+          "AO-TO-FL-15-06",
           "AO-TO-FL-15-43",
           "AO-TO-FL-15-57",
           "AO-TO-FL-15-63",
           "AO-TO-FL-15-66",
           "AO-TO-FL-15-71",
-          "AO-TO-FL-15-76"
+          "AO-TO-FL-15-76",
+          "AO-TO-FL-50-55"
         ]
       },
       "inception": "1838-01-01T00:00:00.000Z",
@@ -1642,6 +1687,7 @@
           62.94126207613368
         ],
         "nabo": [
+          "AO-TO-FL-15-06",
           "AO-TO-FL-15-43",
           "AO-TO-FL-15-60",
           "AO-TO-FL-15-66",
@@ -1685,6 +1731,7 @@
           "AO-TO-FL-15-71",
           "AO-TO-FL-50-11",
           "AO-TO-FL-50-21",
+          "AO-TO-FL-50-55",
           "AO-TO-FL-50-61"
         ]
       },
@@ -1757,6 +1804,7 @@
           "AO-TO-FL-15-71",
           "AO-TO-FL-15-73",
           "AO-TO-FL-50-11",
+          "AO-TO-FL-50-55",
           "AO-TO-FL-50-56"
         ]
       },
@@ -1798,7 +1846,10 @@
           "AO-TO-FL-14-44",
           "AO-TO-FL-15-11",
           "AO-TO-FL-15-15",
-          "AO-TO-FL-15-20"
+          "AO-TO-FL-15-20",
+          "AO-TO-FL-15-25",
+          "AO-TO-FL-46-49",
+          "AO-TO-FL-46-51"
         ]
       },
       "kode": "AO-TO-FL-15-77",
@@ -1831,7 +1882,14 @@
           7.828579874792106,
           62.48430672600748
         ],
-        "nabo": []
+        "nabo": [
+          "AO-TO-FL-15-07",
+          "AO-TO-FL-15-25",
+          "AO-TO-FL-15-28",
+          "AO-TO-FL-15-35",
+          "AO-TO-FL-15-39",
+          "AO-TO-FL-34-33"
+        ]
       },
       "inception": "2020-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-15-78",
@@ -1860,7 +1918,12 @@
           7.615331243708826,
           63.27331542144484
         ],
-        "nabo": []
+        "nabo": [
+          "AO-TO-FL-15-06",
+          "AO-TO-FL-15-47",
+          "AO-TO-FL-15-54",
+          "AO-TO-FL-15-57"
+        ]
       },
       "inception": "2020-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-15-79",
@@ -1933,7 +1996,9 @@
         "nabo": [
           "AO-TO-FL-18-53",
           "AO-TO-FL-18-54",
+          "AO-TO-FL-18-75",
           "AO-TO-FL-19-13",
+          "AO-TO-FL-54-12",
           "AO-TO-FL-54-14",
           "AO-TO-FL-54-15",
           "AO-TO-FL-54-16"
@@ -1975,7 +2040,8 @@
           "AO-TO-FL-50-44",
           "AO-TO-FL-50-46",
           "AO-TO-FL-50-51",
-          "AO-TO-FL-50-52"
+          "AO-TO-FL-50-52",
+          "AO-TO-FL-50-60"
         ]
       },
       "kode": "AO-TO-FL-18-11",
@@ -3295,7 +3361,8 @@
           "AO-TO-FL-18-70",
           "AO-TO-FL-19-27",
           "AO-TO-FL-19-28",
-          "AO-TO-FL-54-02"
+          "AO-TO-FL-54-02",
+          "AO-TO-FL-54-21"
         ]
       },
       "kode": "AO-TO-FL-18-71",
@@ -3368,6 +3435,7 @@
           68.3150324826721
         ],
         "nabo": [
+          "AO-TO-FL-18-06",
           "AO-TO-FL-18-45",
           "AO-TO-FL-18-48",
           "AO-TO-FL-18-50"
@@ -3444,6 +3512,7 @@
         ],
         "nabo": [
           "AO-TO-FL-01-36",
+          "AO-TO-FL-30-17",
           "AO-TO-FL-30-18",
           "AO-TO-FL-30-19"
         ]
@@ -3567,6 +3636,8 @@
           "AO-TO-FL-06-25",
           "AO-TO-FL-07-11",
           "AO-TO-FL-07-13",
+          "AO-TO-FL-30-47",
+          "AO-TO-FL-30-48",
           "AO-TO-FL-30-49",
           "AO-TO-FL-38-02"
         ]
@@ -3611,7 +3682,8 @@
           "AO-TO-FL-38-05",
           "AO-TO-FL-38-07",
           "AO-TO-FL-38-08",
-          "AO-TO-FL-38-12"
+          "AO-TO-FL-38-12",
+          "AO-TO-FL-38-17"
         ]
       },
       "inception": "1624-01-01T00:00:00.000Z",
@@ -3769,6 +3841,7 @@
           "AO-TO-FL-01-21",
           "AO-TO-FL-01-25",
           "AO-TO-FL-30-12",
+          "AO-TO-FL-30-14",
           "AO-TO-FL-30-16",
           "AO-TO-FL-30-26"
         ]
@@ -3803,7 +3876,18 @@
           11.55100013920371,
           59.770265959786585
         ],
-        "nabo": []
+        "nabo": [
+          "AO-TO-FL-30-13",
+          "AO-TO-FL-30-15",
+          "AO-TO-FL-30-16",
+          "AO-TO-FL-30-18",
+          "AO-TO-FL-30-19",
+          "AO-TO-FL-30-20",
+          "AO-TO-FL-30-21",
+          "AO-TO-FL-30-26",
+          "AO-TO-FL-30-28",
+          "AO-TO-FL-30-30"
+        ]
       },
       "inception": "2020-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-30-14",
@@ -3837,6 +3921,7 @@
           "AO-TO-FL-01-24",
           "AO-TO-FL-01-25",
           "AO-TO-FL-30-03",
+          "AO-TO-FL-30-14",
           "AO-TO-FL-30-16",
           "AO-TO-FL-30-18"
         ]
@@ -3875,6 +3960,7 @@
           "AO-TO-FL-30-03",
           "AO-TO-FL-30-12",
           "AO-TO-FL-30-13",
+          "AO-TO-FL-30-14",
           "AO-TO-FL-30-15"
         ]
       },
@@ -3908,6 +3994,7 @@
         ],
         "nabo": [
           "AO-TO-FL-01-36",
+          "AO-TO-FL-30-02",
           "AO-TO-FL-30-03",
           "AO-TO-FL-30-04",
           "AO-TO-FL-30-18"
@@ -3947,6 +4034,7 @@
           "AO-TO-FL-01-38",
           "AO-TO-FL-30-02",
           "AO-TO-FL-30-03",
+          "AO-TO-FL-30-14",
           "AO-TO-FL-30-15",
           "AO-TO-FL-30-17",
           "AO-TO-FL-30-19"
@@ -3983,6 +4071,7 @@
         "nabo": [
           "AO-TO-FL-01-38",
           "AO-TO-FL-30-02",
+          "AO-TO-FL-30-14",
           "AO-TO-FL-30-18",
           "AO-TO-FL-30-21",
           "AO-TO-FL-30-22"
@@ -4016,7 +4105,12 @@
           10.991982238965539,
           59.83928320374827
         ],
-        "nabo": []
+        "nabo": [
+          "AO-TO-FL-03-01",
+          "AO-TO-FL-30-14",
+          "AO-TO-FL-30-21",
+          "AO-TO-FL-30-28"
+        ]
       },
       "inception": "2020-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-30-20",
@@ -4049,7 +4143,9 @@
           "AO-TO-FL-01-38",
           "AO-TO-FL-02-13",
           "AO-TO-FL-02-17",
+          "AO-TO-FL-30-14",
           "AO-TO-FL-30-19",
+          "AO-TO-FL-30-20",
           "AO-TO-FL-30-22"
         ]
       },
@@ -4125,8 +4221,7 @@
         "nabo": [
           "AO-TO-FL-03-01",
           "AO-TO-FL-30-22",
-          "AO-TO-FL-30-24",
-          "AO-TO-FL-30-25"
+          "AO-TO-FL-30-24"
         ]
       },
       "kode": "AO-TO-FL-30-23",
@@ -4163,7 +4258,6 @@
           "AO-TO-FL-03-01",
           "AO-TO-FL-30-07",
           "AO-TO-FL-30-23",
-          "AO-TO-FL-30-25",
           "AO-TO-FL-30-38",
           "AO-TO-FL-30-49"
         ]
@@ -4198,29 +4292,18 @@
           10.634994075121236,
           59.9059384287949
         ],
-        "nabo": [
-          "AO-TO-FL-06-27",
-          "AO-TO-FL-30-23",
-          "AO-TO-FL-30-24",
-          "AO-TO-FL-30-49"
-        ]
+        "nabo": []
       },
-      "inception": "1837-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-30-25",
       "lenke": {
-        "offisiell": "http://www.asker.kommune.no/",
-        "wikidata": "http://www.wikidata.org/entity/Q56869",
+        "wikidata": "http://www.wikidata.org/entity/Q80593157",
         "wikipedia": "https://no.wikipedia.org/wiki/Asker"
       },
       "mediakilde": {
         "banner": [],
-        "foto": [
-          "http://commons.wikimedia.org/wiki/Special:FilePath/Asker%20raadhus%20main%20entrance%202010%2005%2030.JPG"
-        ],
-        "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Asker%20komm.svg"
+        "foto": []
       },
       "nivå": "kommune",
-      "osm": "406137",
       "tittel": {
         "nob": "Asker"
       },
@@ -4243,6 +4326,8 @@
           "AO-TO-FL-02-26",
           "AO-TO-FL-02-27",
           "AO-TO-FL-30-13",
+          "AO-TO-FL-30-14",
+          "AO-TO-FL-30-30",
           "AO-TO-FL-30-34",
           "AO-TO-FL-34-16"
         ]
@@ -4282,7 +4367,8 @@
           "AO-TO-FL-02-27",
           "AO-TO-FL-02-31",
           "AO-TO-FL-30-28",
-          "AO-TO-FL-30-29"
+          "AO-TO-FL-30-29",
+          "AO-TO-FL-30-30"
         ]
       },
       "kode": "AO-TO-FL-30-27",
@@ -4320,8 +4406,11 @@
           "AO-TO-FL-02-13",
           "AO-TO-FL-02-27",
           "AO-TO-FL-03-01",
+          "AO-TO-FL-30-14",
+          "AO-TO-FL-30-20",
           "AO-TO-FL-30-27",
-          "AO-TO-FL-30-29"
+          "AO-TO-FL-30-29",
+          "AO-TO-FL-30-30"
         ]
       },
       "kode": "AO-TO-FL-30-28",
@@ -4358,7 +4447,8 @@
           "AO-TO-FL-02-31",
           "AO-TO-FL-03-01",
           "AO-TO-FL-30-27",
-          "AO-TO-FL-30-28"
+          "AO-TO-FL-30-28",
+          "AO-TO-FL-30-30"
         ]
       },
       "kode": "AO-TO-FL-30-29",
@@ -4391,7 +4481,18 @@
           11.43950622773801,
           60.07724702641858
         ],
-        "nabo": []
+        "nabo": [
+          "AO-TO-FL-03-01",
+          "AO-TO-FL-30-14",
+          "AO-TO-FL-30-26",
+          "AO-TO-FL-30-27",
+          "AO-TO-FL-30-28",
+          "AO-TO-FL-30-29",
+          "AO-TO-FL-30-31",
+          "AO-TO-FL-30-32",
+          "AO-TO-FL-30-33",
+          "AO-TO-FL-30-34"
+        ]
       },
       "inception": "2020-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-30-30",
@@ -4423,6 +4524,7 @@
         "nabo": [
           "AO-TO-FL-02-31",
           "AO-TO-FL-03-01",
+          "AO-TO-FL-30-30",
           "AO-TO-FL-30-32",
           "AO-TO-FL-30-36",
           "AO-TO-FL-30-54"
@@ -4459,6 +4561,7 @@
         "nabo": [
           "AO-TO-FL-02-26",
           "AO-TO-FL-02-31",
+          "AO-TO-FL-30-30",
           "AO-TO-FL-30-31",
           "AO-TO-FL-30-33",
           "AO-TO-FL-30-36"
@@ -4496,6 +4599,7 @@
         ],
         "nabo": [
           "AO-TO-FL-02-26",
+          "AO-TO-FL-30-30",
           "AO-TO-FL-30-32",
           "AO-TO-FL-30-34",
           "AO-TO-FL-30-35",
@@ -4535,6 +4639,7 @@
         "nabo": [
           "AO-TO-FL-02-26",
           "AO-TO-FL-30-26",
+          "AO-TO-FL-30-30",
           "AO-TO-FL-30-33",
           "AO-TO-FL-30-35",
           "AO-TO-FL-34-14",
@@ -5033,6 +5138,7 @@
         ],
         "nabo": [
           "AO-TO-FL-06-25",
+          "AO-TO-FL-30-05",
           "AO-TO-FL-30-07",
           "AO-TO-FL-30-38",
           "AO-TO-FL-30-45",
@@ -5071,6 +5177,7 @@
         ],
         "nabo": [
           "AO-TO-FL-06-25",
+          "AO-TO-FL-30-05",
           "AO-TO-FL-30-06",
           "AO-TO-FL-30-45",
           "AO-TO-FL-30-47",
@@ -5114,7 +5221,6 @@
           "AO-TO-FL-06-27",
           "AO-TO-FL-30-05",
           "AO-TO-FL-30-24",
-          "AO-TO-FL-30-25",
           "AO-TO-FL-30-38",
           "AO-TO-FL-30-47",
           "AO-TO-FL-30-48"
@@ -6295,6 +6401,7 @@
           62.37840240615476
         ],
         "nabo": [
+          "AO-TO-FL-15-06",
           "AO-TO-FL-15-39",
           "AO-TO-FL-15-43",
           "AO-TO-FL-15-63",
@@ -6337,6 +6444,7 @@
           "AO-TO-FL-15-24",
           "AO-TO-FL-15-25",
           "AO-TO-FL-15-39",
+          "AO-TO-FL-15-78",
           "AO-TO-FL-34-32",
           "AO-TO-FL-34-34",
           "AO-TO-FL-46-44",
@@ -7089,6 +7197,7 @@
         ],
         "nabo": [
           "AO-TO-FL-07-16",
+          "AO-TO-FL-38-02",
           "AO-TO-FL-38-03"
         ]
       },
@@ -7132,6 +7241,8 @@
           "AO-TO-FL-30-05",
           "AO-TO-FL-30-06",
           "AO-TO-FL-30-48",
+          "AO-TO-FL-38-01",
+          "AO-TO-FL-38-03",
           "AO-TO-FL-38-05"
         ]
       },
@@ -7170,7 +7281,9 @@
         "nabo": [
           "AO-TO-FL-07-16",
           "AO-TO-FL-38-01",
+          "AO-TO-FL-38-02",
           "AO-TO-FL-38-04",
+          "AO-TO-FL-38-05",
           "AO-TO-FL-38-11"
         ]
       },
@@ -7250,6 +7363,7 @@
           "AO-TO-FL-07-16",
           "AO-TO-FL-30-06",
           "AO-TO-FL-38-02",
+          "AO-TO-FL-38-03",
           "AO-TO-FL-38-04",
           "AO-TO-FL-38-06",
           "AO-TO-FL-38-12"
@@ -7334,7 +7448,8 @@
           "AO-TO-FL-38-12",
           "AO-TO-FL-38-13",
           "AO-TO-FL-38-15",
-          "AO-TO-FL-38-16"
+          "AO-TO-FL-38-16",
+          "AO-TO-FL-38-17"
         ]
       },
       "kode": "AO-TO-FL-38-07",
@@ -7374,6 +7489,7 @@
           "AO-TO-FL-08-22",
           "AO-TO-FL-30-06",
           "AO-TO-FL-30-50",
+          "AO-TO-FL-38-17",
           "AO-TO-FL-38-18",
           "AO-TO-FL-38-19",
           "AO-TO-FL-38-20"
@@ -7594,6 +7710,7 @@
           "AO-TO-FL-08-22",
           "AO-TO-FL-38-07",
           "AO-TO-FL-38-15",
+          "AO-TO-FL-38-17",
           "AO-TO-FL-38-21"
         ]
       },
@@ -7627,7 +7744,14 @@
           9.471744273407923,
           59.53590464139927
         ],
-        "nabo": []
+        "nabo": [
+          "AO-TO-FL-30-06",
+          "AO-TO-FL-38-07",
+          "AO-TO-FL-38-08",
+          "AO-TO-FL-38-16",
+          "AO-TO-FL-38-20",
+          "AO-TO-FL-38-21"
+        ]
       },
       "inception": "2020-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-38-17",
@@ -7732,6 +7856,7 @@
         "nabo": [
           "AO-TO-FL-08-21",
           "AO-TO-FL-38-08",
+          "AO-TO-FL-38-17",
           "AO-TO-FL-38-18",
           "AO-TO-FL-38-19",
           "AO-TO-FL-38-21",
@@ -7773,6 +7898,7 @@
           "AO-TO-FL-08-21",
           "AO-TO-FL-38-15",
           "AO-TO-FL-38-16",
+          "AO-TO-FL-38-17",
           "AO-TO-FL-38-20",
           "AO-TO-FL-38-22",
           "AO-TO-FL-38-23",
@@ -8115,27 +8241,20 @@
           7.879243913446926,
           58.473295003387854
         ],
-        "nabo": [
-          "AO-TO-FL-10-02",
-          "AO-TO-FL-10-21",
-          "AO-TO-FL-42-25"
-        ]
+        "nabo": []
       },
       "kode": "AO-TO-FL-42-05",
       "lenke": {
-        "offisiell": "http://www.lindesnes.kommune.no/",
-        "wikidata": "http://www.wikidata.org/entity/Q489038",
+        "wikidata": "http://www.wikidata.org/entity/Q80571266",
         "wikipedia": "https://no.wikipedia.org/wiki/Lindesnes"
       },
       "mediakilde": {
         "banner": [],
         "foto": [
           "http://commons.wikimedia.org/wiki/Special:FilePath/Lindesnes%20Knarvika%20wwii%20bunker%20rocks%20ID%20169896.JPG"
-        ],
-        "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Lindesnes%20komm.svg"
+        ]
       },
       "nivå": "kommune",
-      "osm": "405984",
       "tittel": {
         "nob": "Lindesnes"
       },
@@ -8156,6 +8275,7 @@
           "AO-TO-FL-42-27"
         ]
       },
+      "inception": "1795-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-42-06",
       "lenke": {
         "offisiell": "http://www.farsund.kommune.no/",
@@ -8533,7 +8653,8 @@
           "AO-TO-FL-42-18",
           "AO-TO-FL-42-20",
           "AO-TO-FL-42-23",
-          "AO-TO-FL-42-24"
+          "AO-TO-FL-42-24",
+          "AO-TO-FL-42-25"
         ]
       },
       "inception": "1960-01-01T00:00:00.000Z",
@@ -8545,7 +8666,9 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": [],
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Fennefoss.jpg"
+        ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Evje%20og%20Hornnes%20komm.svg"
       },
       "nivå": "kommune",
@@ -8646,6 +8769,7 @@
           59.67268697626103
         ],
         "nabo": [
+          "AO-TO-FL-11-08",
           "AO-TO-FL-11-29",
           "AO-TO-FL-11-33",
           "AO-TO-FL-11-34",
@@ -8729,6 +8853,7 @@
         "nabo": [
           "AO-TO-FL-42-19",
           "AO-TO-FL-42-20",
+          "AO-TO-FL-42-25",
           "AO-TO-FL-42-26",
           "AO-TO-FL-42-27"
         ]
@@ -8762,8 +8887,9 @@
           58.51560940702238
         ],
         "nabo": [
-          "AO-TO-FL-42-05",
           "AO-TO-FL-42-06",
+          "AO-TO-FL-42-19",
+          "AO-TO-FL-42-24",
           "AO-TO-FL-42-26",
           "AO-TO-FL-42-27"
         ]
@@ -8877,6 +9003,7 @@
         ],
         "nabo": [
           "AO-TO-FL-11-01",
+          "AO-TO-FL-11-08",
           "AO-TO-FL-11-12",
           "AO-TO-FL-11-14",
           "AO-TO-FL-11-22",
@@ -8922,9 +9049,12 @@
           "AO-TO-FL-12-56",
           "AO-TO-FL-12-63",
           "AO-TO-FL-46-23",
+          "AO-TO-FL-46-24",
           "AO-TO-FL-46-25",
+          "AO-TO-FL-46-26",
           "AO-TO-FL-46-27",
-          "AO-TO-FL-46-28"
+          "AO-TO-FL-46-28",
+          "AO-TO-FL-46-31"
         ]
       },
       "inception": "1070-01-01T00:00:00.000Z",
@@ -8954,7 +9084,13 @@
           5.733439349868765,
           61.78346508367651
         ],
-        "nabo": []
+        "nabo": [
+          "AO-TO-FL-46-45",
+          "AO-TO-FL-46-47",
+          "AO-TO-FL-46-48",
+          "AO-TO-FL-46-49",
+          "AO-TO-FL-46-50"
+        ]
       },
       "inception": "2020-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-46-02",
@@ -8987,7 +9123,8 @@
           "AO-TO-FL-11-35",
           "AO-TO-FL-11-60",
           "AO-TO-FL-12-28",
-          "AO-TO-FL-46-17"
+          "AO-TO-FL-46-17",
+          "AO-TO-FL-46-18"
         ]
       },
       "kode": "AO-TO-FL-46-11",
@@ -9170,6 +9307,7 @@
           "AO-TO-FL-46-14",
           "AO-TO-FL-46-15",
           "AO-TO-FL-46-17",
+          "AO-TO-FL-46-24",
           "AO-TO-FL-46-25"
         ]
       },
@@ -9210,7 +9348,8 @@
           "AO-TO-FL-46-14",
           "AO-TO-FL-46-16",
           "AO-TO-FL-46-18",
-          "AO-TO-FL-46-22"
+          "AO-TO-FL-46-22",
+          "AO-TO-FL-46-24"
         ]
       },
       "kode": "AO-TO-FL-46-17",
@@ -9246,13 +9385,17 @@
           60.48156624084707
         ],
         "nabo": [
+          "AO-TO-FL-11-34",
+          "AO-TO-FL-11-35",
           "AO-TO-FL-12-27",
           "AO-TO-FL-12-28",
           "AO-TO-FL-12-34",
           "AO-TO-FL-38-25",
+          "AO-TO-FL-46-11",
           "AO-TO-FL-46-17",
           "AO-TO-FL-46-19",
           "AO-TO-FL-46-20",
+          "AO-TO-FL-46-21",
           "AO-TO-FL-46-22"
         ]
       },
@@ -9260,7 +9403,7 @@
       "lenke": {
         "offisiell": "http://www.ullensvang.kommune.no/",
         "wikidata": "http://www.wikidata.org/entity/Q484077",
-        "wikipedia": "https://no.wikipedia.org/wiki/Ullensvang"
+        "wikipedia": "https://no.wikipedia.org/wiki/Ullensvang_(1837_-_2019)"
       },
       "mediakilde": {
         "banner": [],
@@ -9368,6 +9511,7 @@
         ],
         "nabo": [
           "AO-TO-FL-12-34",
+          "AO-TO-FL-46-18",
           "AO-TO-FL-46-20",
           "AO-TO-FL-46-22",
           "AO-TO-FL-46-28",
@@ -9415,6 +9559,7 @@
           "AO-TO-FL-46-18",
           "AO-TO-FL-46-21",
           "AO-TO-FL-46-23",
+          "AO-TO-FL-46-24",
           "AO-TO-FL-46-28"
         ]
       },
@@ -9451,6 +9596,7 @@
           "AO-TO-FL-12-43",
           "AO-TO-FL-46-01",
           "AO-TO-FL-46-22",
+          "AO-TO-FL-46-24",
           "AO-TO-FL-46-28"
         ]
       },
@@ -9484,7 +9630,14 @@
           5.961293763879627,
           60.35361603229858
         ],
-        "nabo": []
+        "nabo": [
+          "AO-TO-FL-46-01",
+          "AO-TO-FL-46-16",
+          "AO-TO-FL-46-17",
+          "AO-TO-FL-46-22",
+          "AO-TO-FL-46-23",
+          "AO-TO-FL-46-25"
+        ]
       },
       "inception": "2020-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-46-24",
@@ -9519,7 +9672,9 @@
           "AO-TO-FL-46-01",
           "AO-TO-FL-46-13",
           "AO-TO-FL-46-15",
-          "AO-TO-FL-46-16"
+          "AO-TO-FL-46-16",
+          "AO-TO-FL-46-24",
+          "AO-TO-FL-46-26"
         ]
       },
       "kode": "AO-TO-FL-46-25",
@@ -9554,7 +9709,13 @@
           5.238022201843246,
           60.7409057406146
         ],
-        "nabo": []
+        "nabo": [
+          "AO-TO-FL-46-01",
+          "AO-TO-FL-46-25",
+          "AO-TO-FL-46-27",
+          "AO-TO-FL-46-31",
+          "AO-TO-FL-46-33"
+        ]
       },
       "inception": "2020-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-46-26",
@@ -9589,7 +9750,9 @@
           "AO-TO-FL-12-56",
           "AO-TO-FL-12-59",
           "AO-TO-FL-12-60",
-          "AO-TO-FL-46-01"
+          "AO-TO-FL-46-01",
+          "AO-TO-FL-46-26",
+          "AO-TO-FL-46-31"
         ]
       },
       "kode": "AO-TO-FL-46-27",
@@ -9632,6 +9795,7 @@
           "AO-TO-FL-46-23",
           "AO-TO-FL-46-29",
           "AO-TO-FL-46-30",
+          "AO-TO-FL-46-31",
           "AO-TO-FL-46-39"
         ]
       },
@@ -9666,6 +9830,7 @@
         "nabo": [
           "AO-TO-FL-12-63",
           "AO-TO-FL-46-28",
+          "AO-TO-FL-46-31",
           "AO-TO-FL-46-34",
           "AO-TO-FL-46-38",
           "AO-TO-FL-46-39"
@@ -9703,7 +9868,8 @@
         ],
         "nabo": [
           "AO-TO-FL-12-63",
-          "AO-TO-FL-46-28"
+          "AO-TO-FL-46-28",
+          "AO-TO-FL-46-31"
         ]
       },
       "kode": "AO-TO-FL-46-30",
@@ -9736,7 +9902,18 @@
           5.713821104098831,
           60.852778205083766
         ],
-        "nabo": []
+        "nabo": [
+          "AO-TO-FL-46-01",
+          "AO-TO-FL-46-26",
+          "AO-TO-FL-46-27",
+          "AO-TO-FL-46-28",
+          "AO-TO-FL-46-29",
+          "AO-TO-FL-46-30",
+          "AO-TO-FL-46-32",
+          "AO-TO-FL-46-33",
+          "AO-TO-FL-46-34",
+          "AO-TO-FL-46-35"
+        ]
       },
       "inception": "2020-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-46-31",
@@ -9767,6 +9944,7 @@
         "nabo": [
           "AO-TO-FL-12-60",
           "AO-TO-FL-12-63",
+          "AO-TO-FL-46-31",
           "AO-TO-FL-46-33",
           "AO-TO-FL-46-35"
         ]
@@ -9804,6 +9982,8 @@
         "nabo": [
           "AO-TO-FL-12-59",
           "AO-TO-FL-12-60",
+          "AO-TO-FL-46-26",
+          "AO-TO-FL-46-31",
           "AO-TO-FL-46-32",
           "AO-TO-FL-46-35"
         ]
@@ -9842,6 +10022,7 @@
         "nabo": [
           "AO-TO-FL-12-63",
           "AO-TO-FL-46-29",
+          "AO-TO-FL-46-31",
           "AO-TO-FL-46-35",
           "AO-TO-FL-46-38"
         ]
@@ -9876,6 +10057,7 @@
         ],
         "nabo": [
           "AO-TO-FL-12-63",
+          "AO-TO-FL-46-31",
           "AO-TO-FL-46-32",
           "AO-TO-FL-46-33",
           "AO-TO-FL-46-34",
@@ -9992,7 +10174,9 @@
           "AO-TO-FL-46-35",
           "AO-TO-FL-46-37",
           "AO-TO-FL-46-39",
-          "AO-TO-FL-46-46"
+          "AO-TO-FL-46-40",
+          "AO-TO-FL-46-46",
+          "AO-TO-FL-46-47"
         ]
       },
       "kode": "AO-TO-FL-46-38",
@@ -10074,9 +10258,11 @@
           "AO-TO-FL-14-19",
           "AO-TO-FL-14-31",
           "AO-TO-FL-14-32",
+          "AO-TO-FL-46-38",
           "AO-TO-FL-46-39",
           "AO-TO-FL-46-42",
-          "AO-TO-FL-46-44"
+          "AO-TO-FL-46-44",
+          "AO-TO-FL-46-47"
         ]
       },
       "kode": "AO-TO-FL-46-40",
@@ -10233,6 +10419,7 @@
           "AO-TO-FL-34-54",
           "AO-TO-FL-46-40",
           "AO-TO-FL-46-43",
+          "AO-TO-FL-46-47",
           "AO-TO-FL-46-51"
         ]
       },
@@ -10271,8 +10458,10 @@
           "AO-TO-FL-14-30",
           "AO-TO-FL-14-32",
           "AO-TO-FL-14-33",
+          "AO-TO-FL-46-02",
           "AO-TO-FL-46-36",
-          "AO-TO-FL-46-46"
+          "AO-TO-FL-46-46",
+          "AO-TO-FL-46-47"
         ]
       },
       "kode": "AO-TO-FL-46-45",
@@ -10310,7 +10499,8 @@
           "AO-TO-FL-46-36",
           "AO-TO-FL-46-37",
           "AO-TO-FL-46-38",
-          "AO-TO-FL-46-45"
+          "AO-TO-FL-46-45",
+          "AO-TO-FL-46-47"
         ]
       },
       "kode": "AO-TO-FL-46-46",
@@ -10341,7 +10531,16 @@
           6.854306726059589,
           61.70168844653709
         ],
-        "nabo": []
+        "nabo": [
+          "AO-TO-FL-46-02",
+          "AO-TO-FL-46-38",
+          "AO-TO-FL-46-40",
+          "AO-TO-FL-46-44",
+          "AO-TO-FL-46-45",
+          "AO-TO-FL-46-46",
+          "AO-TO-FL-46-50",
+          "AO-TO-FL-46-51"
+        ]
       },
       "inception": "2020-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-46-47",
@@ -10374,6 +10573,8 @@
           "AO-TO-FL-14-01",
           "AO-TO-FL-14-39",
           "AO-TO-FL-14-43",
+          "AO-TO-FL-46-02",
+          "AO-TO-FL-46-49",
           "AO-TO-FL-46-50"
         ]
       },
@@ -10406,7 +10607,15 @@
           6.477322250906994,
           62.38239573347979
         ],
-        "nabo": []
+        "nabo": [
+          "AO-TO-FL-15-11",
+          "AO-TO-FL-15-14",
+          "AO-TO-FL-15-77",
+          "AO-TO-FL-46-02",
+          "AO-TO-FL-46-48",
+          "AO-TO-FL-46-50",
+          "AO-TO-FL-46-51"
+        ]
       },
       "inception": "2020-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-46-49",
@@ -10440,7 +10649,10 @@
           "AO-TO-FL-14-31",
           "AO-TO-FL-14-33",
           "AO-TO-FL-14-43",
+          "AO-TO-FL-46-02",
+          "AO-TO-FL-46-47",
           "AO-TO-FL-46-48",
+          "AO-TO-FL-46-49",
           "AO-TO-FL-46-51"
         ]
       },
@@ -10477,8 +10689,11 @@
           "AO-TO-FL-14-43",
           "AO-TO-FL-14-44",
           "AO-TO-FL-15-25",
+          "AO-TO-FL-15-77",
           "AO-TO-FL-34-33",
           "AO-TO-FL-46-44",
+          "AO-TO-FL-46-47",
+          "AO-TO-FL-46-49",
           "AO-TO-FL-46-50"
         ]
       },
@@ -10518,6 +10733,7 @@
           "AO-TO-FL-50-28",
           "AO-TO-FL-50-29",
           "AO-TO-FL-50-31",
+          "AO-TO-FL-50-32",
           "AO-TO-FL-50-54"
         ]
       },
@@ -10550,13 +10766,15 @@
           64.33029021726621
         ],
         "nabo": [
+          "AO-TO-FL-50-07",
           "AO-TO-FL-50-38",
           "AO-TO-FL-50-39",
           "AO-TO-FL-50-40",
           "AO-TO-FL-50-41",
-          "AO-TO-FL-50-45",
           "AO-TO-FL-50-47",
-          "AO-TO-FL-50-53"
+          "AO-TO-FL-50-53",
+          "AO-TO-FL-50-54",
+          "AO-TO-FL-50-58"
         ]
       },
       "kode": "AO-TO-FL-50-06",
@@ -10590,10 +10808,15 @@
           64.83503513996125
         ],
         "nabo": [
+          "AO-TO-FL-50-06",
+          "AO-TO-FL-50-20",
           "AO-TO-FL-50-40",
+          "AO-TO-FL-50-46",
           "AO-TO-FL-50-47",
           "AO-TO-FL-50-48",
-          "AO-TO-FL-50-49"
+          "AO-TO-FL-50-49",
+          "AO-TO-FL-50-58",
+          "AO-TO-FL-50-60"
         ]
       },
       "inception": "1846-01-01T00:00:00.000Z",
@@ -10631,7 +10854,8 @@
         ],
         "nabo": [
           "AO-TO-FL-50-17",
-          "AO-TO-FL-50-56"
+          "AO-TO-FL-50-56",
+          "AO-TO-FL-50-57"
         ]
       },
       "kode": "AO-TO-FL-50-14",
@@ -10665,9 +10889,11 @@
           64.72844917916036
         ],
         "nabo": [
+          "AO-TO-FL-50-07",
           "AO-TO-FL-50-19",
           "AO-TO-FL-50-40",
-          "AO-TO-FL-50-49"
+          "AO-TO-FL-50-49",
+          "AO-TO-FL-50-58"
         ]
       },
       "inception": "1892-01-01T00:00:00.000Z",
@@ -10748,6 +10974,7 @@
           "AO-TO-FL-50-21",
           "AO-TO-FL-50-23",
           "AO-TO-FL-50-27",
+          "AO-TO-FL-50-59",
           "AO-TO-FL-50-61"
         ]
       },
@@ -10865,7 +11092,8 @@
           "AO-TO-FL-50-23",
           "AO-TO-FL-50-26",
           "AO-TO-FL-50-28",
-          "AO-TO-FL-50-32"
+          "AO-TO-FL-50-32",
+          "AO-TO-FL-50-59"
         ]
       },
       "kode": "AO-TO-FL-50-27",
@@ -10904,7 +11132,8 @@
           "AO-TO-FL-50-24",
           "AO-TO-FL-50-27",
           "AO-TO-FL-50-29",
-          "AO-TO-FL-50-32"
+          "AO-TO-FL-50-32",
+          "AO-TO-FL-50-59"
         ]
       },
       "kode": "AO-TO-FL-50-28",
@@ -10942,7 +11171,8 @@
         "nabo": [
           "AO-TO-FL-50-01",
           "AO-TO-FL-50-24",
-          "AO-TO-FL-50-28"
+          "AO-TO-FL-50-28",
+          "AO-TO-FL-50-59"
         ]
       },
       "kode": "AO-TO-FL-50-29",
@@ -11011,6 +11241,7 @@
           63.34789415481969
         ],
         "nabo": [
+          "AO-TO-FL-50-01",
           "AO-TO-FL-50-26",
           "AO-TO-FL-50-27",
           "AO-TO-FL-50-28",
@@ -11422,7 +11653,6 @@
           64.72636635005618
         ],
         "nabo": [
-          "AO-TO-FL-50-06",
           "AO-TO-FL-50-41",
           "AO-TO-FL-50-42",
           "AO-TO-FL-50-44",
@@ -11462,11 +11692,13 @@
         ],
         "nabo": [
           "AO-TO-FL-18-11",
+          "AO-TO-FL-50-07",
           "AO-TO-FL-50-44",
           "AO-TO-FL-50-45",
           "AO-TO-FL-50-47",
           "AO-TO-FL-50-48",
-          "AO-TO-FL-50-51"
+          "AO-TO-FL-50-51",
+          "AO-TO-FL-50-60"
         ]
       },
       "kode": "AO-TO-FL-50-46",
@@ -11542,7 +11774,8 @@
           "AO-TO-FL-50-07",
           "AO-TO-FL-50-20",
           "AO-TO-FL-50-40",
-          "AO-TO-FL-50-50"
+          "AO-TO-FL-50-50",
+          "AO-TO-FL-50-60"
         ]
       },
       "kode": "AO-TO-FL-50-49",
@@ -11578,7 +11811,8 @@
         "nabo": [
           "AO-TO-FL-18-11",
           "AO-TO-FL-50-50",
-          "AO-TO-FL-50-51"
+          "AO-TO-FL-50-51",
+          "AO-TO-FL-50-60"
         ]
       },
       "kode": "AO-TO-FL-50-52",
@@ -11653,12 +11887,15 @@
         ],
         "nabo": [
           "AO-TO-FL-50-01",
+          "AO-TO-FL-50-06",
           "AO-TO-FL-50-16",
           "AO-TO-FL-50-17",
           "AO-TO-FL-50-36",
           "AO-TO-FL-50-39",
           "AO-TO-FL-50-53",
-          "AO-TO-FL-50-58"
+          "AO-TO-FL-50-57",
+          "AO-TO-FL-50-58",
+          "AO-TO-FL-50-59"
         ]
       },
       "inception": "2018-01-01T00:00:00.000Z",
@@ -11690,7 +11927,14 @@
           9.454094870086431,
           63.48150779355435
         ],
-        "nabo": []
+        "nabo": [
+          "AO-TO-FL-15-60",
+          "AO-TO-FL-15-66",
+          "AO-TO-FL-15-76",
+          "AO-TO-FL-50-56",
+          "AO-TO-FL-50-59",
+          "AO-TO-FL-50-61"
+        ]
       },
       "inception": "2020-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-50-55",
@@ -11725,7 +11969,9 @@
           "AO-TO-FL-50-12",
           "AO-TO-FL-50-14",
           "AO-TO-FL-50-16",
-          "AO-TO-FL-50-57"
+          "AO-TO-FL-50-55",
+          "AO-TO-FL-50-57",
+          "AO-TO-FL-50-59"
         ]
       },
       "kode": "AO-TO-FL-50-56",
@@ -11759,9 +12005,13 @@
           64.07467871087495
         ],
         "nabo": [
+          "AO-TO-FL-50-14",
           "AO-TO-FL-50-16",
           "AO-TO-FL-50-17",
-          "AO-TO-FL-50-56"
+          "AO-TO-FL-50-54",
+          "AO-TO-FL-50-56",
+          "AO-TO-FL-50-58",
+          "AO-TO-FL-50-59"
         ]
       },
       "kode": "AO-TO-FL-50-57",
@@ -11793,11 +12043,15 @@
           64.39592103732667
         ],
         "nabo": [
+          "AO-TO-FL-50-06",
+          "AO-TO-FL-50-07",
           "AO-TO-FL-50-17",
           "AO-TO-FL-50-19",
+          "AO-TO-FL-50-20",
           "AO-TO-FL-50-39",
           "AO-TO-FL-50-40",
-          "AO-TO-FL-50-54"
+          "AO-TO-FL-50-54",
+          "AO-TO-FL-50-57"
         ]
       },
       "kode": "AO-TO-FL-50-58",
@@ -11830,7 +12084,17 @@
           10.054116640090928,
           63.671842066336524
         ],
-        "nabo": []
+        "nabo": [
+          "AO-TO-FL-50-22",
+          "AO-TO-FL-50-27",
+          "AO-TO-FL-50-28",
+          "AO-TO-FL-50-29",
+          "AO-TO-FL-50-54",
+          "AO-TO-FL-50-55",
+          "AO-TO-FL-50-56",
+          "AO-TO-FL-50-57",
+          "AO-TO-FL-50-61"
+        ]
       },
       "inception": "2020-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-50-59",
@@ -11858,7 +12122,13 @@
           12.58088778813702,
           65.26520615218375
         ],
-        "nabo": []
+        "nabo": [
+          "AO-TO-FL-18-11",
+          "AO-TO-FL-50-07",
+          "AO-TO-FL-50-46",
+          "AO-TO-FL-50-49",
+          "AO-TO-FL-50-52"
+        ]
       },
       "inception": "2020-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-50-60",
@@ -11870,7 +12140,8 @@
         "banner": [],
         "foto": [
           "http://commons.wikimedia.org/wiki/Special:FilePath/Collage%20N%C3%A6r%C3%B8ysund%20kommune.jpg"
-        ]
+        ],
+        "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/N%C3%A6r%C3%B8ysund%20komm.svg"
       },
       "nivå": "kommune",
       "tittel": {
@@ -11894,7 +12165,9 @@
           "AO-TO-FL-50-21",
           "AO-TO-FL-50-22",
           "AO-TO-FL-50-23",
-          "AO-TO-FL-50-24"
+          "AO-TO-FL-50-24",
+          "AO-TO-FL-50-55",
+          "AO-TO-FL-50-59"
         ]
       },
       "kode": "AO-TO-FL-50-61",
@@ -11928,6 +12201,7 @@
         ],
         "nabo": [
           "AO-TO-FL-19-31",
+          "AO-TO-FL-54-21",
           "AO-TO-FL-54-22",
           "AO-TO-FL-54-23",
           "AO-TO-FL-54-24",
@@ -11974,7 +12248,8 @@
           "AO-TO-FL-19-27",
           "AO-TO-FL-54-11",
           "AO-TO-FL-54-12",
-          "AO-TO-FL-54-13"
+          "AO-TO-FL-54-13",
+          "AO-TO-FL-54-21"
         ]
       },
       "inception": "1904-01-01T00:00:00.000Z",
@@ -12137,7 +12412,9 @@
         "nabo": [
           "AO-TO-FL-20-17",
           "AO-TO-FL-54-03",
-          "AO-TO-FL-54-33"
+          "AO-TO-FL-54-33",
+          "AO-TO-FL-54-34",
+          "AO-TO-FL-54-36"
         ]
       },
       "inception": "1789-01-01T00:00:00.000Z",
@@ -12209,12 +12486,15 @@
           68.73695259397198
         ],
         "nabo": [
+          "AO-TO-FL-18-06",
           "AO-TO-FL-18-51",
           "AO-TO-FL-18-53",
           "AO-TO-FL-18-54",
           "AO-TO-FL-19-13",
           "AO-TO-FL-54-02",
-          "AO-TO-FL-54-11"
+          "AO-TO-FL-54-11",
+          "AO-TO-FL-54-13",
+          "AO-TO-FL-54-14"
         ]
       },
       "inception": "1909-01-01T00:00:00.000Z",
@@ -12250,10 +12530,12 @@
           "AO-TO-FL-19-13",
           "AO-TO-FL-19-27",
           "AO-TO-FL-54-02",
+          "AO-TO-FL-54-12",
           "AO-TO-FL-54-14",
           "AO-TO-FL-54-15",
           "AO-TO-FL-54-17",
-          "AO-TO-FL-54-20"
+          "AO-TO-FL-54-20",
+          "AO-TO-FL-54-21"
         ]
       },
       "kode": "AO-TO-FL-54-13",
@@ -12289,6 +12571,7 @@
         "nabo": [
           "AO-TO-FL-18-06",
           "AO-TO-FL-19-13",
+          "AO-TO-FL-54-12",
           "AO-TO-FL-54-13",
           "AO-TO-FL-54-15"
         ]
@@ -12443,6 +12726,7 @@
           "AO-TO-FL-19-31",
           "AO-TO-FL-54-16",
           "AO-TO-FL-54-19",
+          "AO-TO-FL-54-21",
           "AO-TO-FL-54-22",
           "AO-TO-FL-54-25"
         ]
@@ -12483,7 +12767,8 @@
           "AO-TO-FL-54-16",
           "AO-TO-FL-54-17",
           "AO-TO-FL-54-18",
-          "AO-TO-FL-54-20"
+          "AO-TO-FL-54-20",
+          "AO-TO-FL-54-21"
         ]
       },
       "kode": "AO-TO-FL-54-19",
@@ -12520,7 +12805,8 @@
           "AO-TO-FL-19-27",
           "AO-TO-FL-54-13",
           "AO-TO-FL-54-17",
-          "AO-TO-FL-54-19"
+          "AO-TO-FL-54-19",
+          "AO-TO-FL-54-21"
         ]
       },
       "kode": "AO-TO-FL-54-20",
@@ -12553,7 +12839,16 @@
           18.548798289317485,
           69.8115435839256
         ],
-        "nabo": []
+        "nabo": [
+          "AO-TO-FL-18-71",
+          "AO-TO-FL-54-01",
+          "AO-TO-FL-54-02",
+          "AO-TO-FL-54-13",
+          "AO-TO-FL-54-18",
+          "AO-TO-FL-54-19",
+          "AO-TO-FL-54-20",
+          "AO-TO-FL-54-22"
+        ]
       },
       "inception": "2020-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-54-21",
@@ -12588,6 +12883,7 @@
           "AO-TO-FL-19-31",
           "AO-TO-FL-54-01",
           "AO-TO-FL-54-18",
+          "AO-TO-FL-54-21",
           "AO-TO-FL-54-25"
         ]
       },
@@ -13011,6 +13307,7 @@
         ],
         "nabo": [
           "AO-TO-FL-20-17",
+          "AO-TO-FL-54-06",
           "AO-TO-FL-54-35",
           "AO-TO-FL-54-36"
         ]
@@ -13086,6 +13383,7 @@
         "nabo": [
           "AO-TO-FL-20-17",
           "AO-TO-FL-54-03",
+          "AO-TO-FL-54-06",
           "AO-TO-FL-54-34",
           "AO-TO-FL-54-35",
           "AO-TO-FL-54-37",
@@ -13424,7 +13722,7 @@
   ],
   "meta": {
     "tittel": "Kommune",
-    "produsertUtc": "2020-01-01T13:12:11.932Z",
+    "produsertUtc": "2020-01-02T09:40:37.873Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/kommune/master/kommune.json",
     "tool": {
