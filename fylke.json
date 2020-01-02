@@ -14,7 +14,8 @@
         "nabo": [
           "AO-TO-FL-02",
           "AO-TO-FL-05",
-          "AO-TO-FL-06"
+          "AO-TO-FL-06",
+          "AO-TO-FL-30"
         ]
       },
       "inception": "1048-01-01T00:00:00.000Z",
@@ -176,9 +177,26 @@
           11.946004480771515,
           61.09172049882229
         ],
-        "nabo": []
+        "nabo": [
+          "AO-TO-FL-03",
+          "AO-TO-FL-34",
+          "AO-TO-FL-38",
+          "AO-TO-FL-46"
+        ]
       },
+      "inception": "2020-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-30",
+      "lenke": {
+        "offisiell": "https://www.viken2020.no",
+        "wikidata": "http://www.wikidata.org/entity/Q56407178",
+        "wikipedia": "https://no.wikipedia.org/wiki/Viken_(fylke)"
+      },
+      "mediakilde": {
+        "banner": [],
+        "foto": [],
+        "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Viken%20v%C3%A5pen.png"
+      },
+      "nivå": "fylke",
       "tittel": {
         "nob": "Viken"
       },
@@ -196,6 +214,7 @@
         ],
         "nabo": [
           "AO-TO-FL-15",
+          "AO-TO-FL-30",
           "AO-TO-FL-46",
           "AO-TO-FL-50"
         ]
@@ -230,6 +249,7 @@
         ],
         "nabo": [
           "AO-TO-FL-11",
+          "AO-TO-FL-30",
           "AO-TO-FL-42",
           "AO-TO-FL-46"
         ]
@@ -298,6 +318,7 @@
         "nabo": [
           "AO-TO-FL-11",
           "AO-TO-FL-15",
+          "AO-TO-FL-30",
           "AO-TO-FL-34",
           "AO-TO-FL-38"
         ]
@@ -400,7 +421,7 @@
   ],
   "meta": {
     "tittel": "Fylke",
-    "produsertUtc": "2020-01-02T09:40:37.854Z",
+    "produsertUtc": "2020-01-02T22:58:18.261Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/kommune/master/fylke.json",
     "tool": {
