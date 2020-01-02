@@ -55,7 +55,10 @@
           "AO-TO-FL-08",
           "AO-TO-FL-09",
           "AO-TO-FL-10",
-          "AO-TO-FL-12"
+          "AO-TO-FL-12",
+          "AO-TO-FL-38",
+          "AO-TO-FL-42",
+          "AO-TO-FL-46"
         ]
       },
       "kode": "AO-TO-FL-11",
@@ -95,6 +98,8 @@
           "AO-TO-FL-05",
           "AO-TO-FL-14",
           "AO-TO-FL-16",
+          "AO-TO-FL-34",
+          "AO-TO-FL-46",
           "AO-TO-FL-50"
         ]
       },
@@ -134,7 +139,8 @@
         "nabo": [
           "AO-TO-FL-17",
           "AO-TO-FL-19",
-          "AO-TO-FL-50"
+          "AO-TO-FL-50",
+          "AO-TO-FL-54"
         ]
       },
       "kode": "AO-TO-FL-18",
@@ -188,9 +194,25 @@
           12.870848559833835,
           62.69692794268321
         ],
-        "nabo": []
+        "nabo": [
+          "AO-TO-FL-15",
+          "AO-TO-FL-46",
+          "AO-TO-FL-50"
+        ]
       },
+      "inception": "2020-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-34",
+      "lenke": {
+        "offisiell": "https://www.innlandetfylke.no",
+        "wikidata": "http://www.wikidata.org/entity/Q56404886",
+        "wikipedia": "https://no.wikipedia.org/wiki/Innlandet"
+      },
+      "mediakilde": {
+        "banner": [],
+        "foto": [],
+        "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Innlandet%20v%C3%A5pen.svg"
+      },
+      "nivå": "fylke",
       "tittel": {
         "nob": "Innlandet"
       },
@@ -206,9 +228,25 @@
           10.675019827794427,
           60.18827181571405
         ],
-        "nabo": []
+        "nabo": [
+          "AO-TO-FL-11",
+          "AO-TO-FL-42",
+          "AO-TO-FL-46"
+        ]
       },
+      "inception": "2020-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-38",
+      "lenke": {
+        "offisiell": "https://vtfk.no/",
+        "wikidata": "http://www.wikidata.org/entity/Q56405721",
+        "wikipedia": "https://no.wikipedia.org/wiki/Vestfold_og_Telemark"
+      },
+      "mediakilde": {
+        "banner": [],
+        "foto": [],
+        "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Vestfold%20og%20Telemark%20v%C3%A5pen.png"
+      },
+      "nivå": "fylke",
       "tittel": {
         "nob": "Vestfold og Telemark"
       },
@@ -224,9 +262,24 @@
           9.668876552798709,
           59.67268697626103
         ],
-        "nabo": []
+        "nabo": [
+          "AO-TO-FL-11",
+          "AO-TO-FL-38"
+        ]
       },
+      "inception": "2020-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-42",
+      "lenke": {
+        "offisiell": "https://agderfk.no",
+        "wikidata": "http://www.wikidata.org/entity/Q2729021",
+        "wikipedia": "https://no.wikipedia.org/wiki/Agder"
+      },
+      "mediakilde": {
+        "banner": [],
+        "foto": [],
+        "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Agder%20v%C3%A5pen.png"
+      },
+      "nivå": "fylke",
       "tittel": {
         "nob": "Agder"
       },
@@ -242,9 +295,26 @@
           8.322052971369217,
           62.38239573347979
         ],
-        "nabo": []
+        "nabo": [
+          "AO-TO-FL-11",
+          "AO-TO-FL-15",
+          "AO-TO-FL-34",
+          "AO-TO-FL-38"
+        ]
       },
+      "inception": "2020-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-46",
+      "lenke": {
+        "offisiell": "https://www.vlfk.no/",
+        "wikidata": "http://www.wikidata.org/entity/Q56407177",
+        "wikipedia": "https://no.wikipedia.org/wiki/Vestland"
+      },
+      "mediakilde": {
+        "banner": [],
+        "foto": [],
+        "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Vestland%20v%C3%A5pen.svg"
+      },
+      "nivå": "fylke",
       "tittel": {
         "nob": "Vestland"
       },
@@ -264,7 +334,8 @@
           "AO-TO-FL-04",
           "AO-TO-FL-05",
           "AO-TO-FL-15",
-          "AO-TO-FL-18"
+          "AO-TO-FL-18",
+          "AO-TO-FL-34"
         ]
       },
       "kode": "AO-TO-FL-50",
@@ -300,9 +371,25 @@
           31.761592631162344,
           71.384878756345
         ],
-        "nabo": []
+        "nabo": [
+          "AO-TO-FL-18"
+        ]
       },
+      "inception": "2020-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-54",
+      "lenke": {
+        "offisiell": "http://nyetffk.no/",
+        "wikidata": "http://www.wikidata.org/entity/Q52600648",
+        "wikipedia": "https://no.wikipedia.org/wiki/Troms_og_Finnmark"
+      },
+      "mediakilde": {
+        "banner": [],
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Arn%C3%B8yh%C3%B8gda%2C%20Laukslettinden%2C%20Tjuvtinden%20%26%20R%C3%B8dhetta%2C%202012%20March.jpg"
+        ],
+        "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Finnmark%20county%20and%20Troms%20county.jpg"
+      },
+      "nivå": "fylke",
       "tittel": {
         "fkv": "Tromssa ja Finmarkku",
         "nob": "Troms og Finnmark",
@@ -313,7 +400,7 @@
   ],
   "meta": {
     "tittel": "Fylke",
-    "produsertUtc": "2020-01-01T13:12:11.913Z",
+    "produsertUtc": "2020-01-02T09:40:37.854Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/kommune/master/fylke.json",
     "tool": {
