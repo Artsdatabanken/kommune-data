@@ -8202,8 +8202,6 @@
           58.36895268593819
         ],
         "nabo": [
-          "AO-TO-FL-10-17",
-          "AO-TO-FL-10-18",
           "AO-TO-FL-42-15",
           "AO-TO-FL-42-16",
           "AO-TO-FL-42-23"
@@ -8354,6 +8352,7 @@
           "AO-TO-FL-42-12"
         ]
       },
+      "inception": "1838-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-42-11",
       "lenke": {
         "offisiell": "http://www.gjerstad.kommune.no/",
@@ -8362,7 +8361,9 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": [],
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Madland.jpg"
+        ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Gjerstad%20komm.svg"
       },
       "nivå": "kommune",
@@ -8649,7 +8650,6 @@
           58.73127414152346
         ],
         "nabo": [
-          "AO-TO-FL-10-21",
           "AO-TO-FL-42-14",
           "AO-TO-FL-42-16",
           "AO-TO-FL-42-18",
@@ -8813,8 +8813,6 @@
           58.4629896143292
         ],
         "nabo": [
-          "AO-TO-FL-10-17",
-          "AO-TO-FL-10-21",
           "AO-TO-FL-42-04",
           "AO-TO-FL-42-16",
           "AO-TO-FL-42-18",
@@ -13719,7 +13717,7 @@
   ],
   "meta": {
     "tittel": "Kommune",
-    "produsertUtc": "2020-01-02T22:58:18.279Z",
+    "produsertUtc": "2020-01-03T09:35:04.437Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/kommune/master/kommune.json",
     "tool": {

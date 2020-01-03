@@ -408,7 +408,7 @@
         "foto": [
           "http://commons.wikimedia.org/wiki/Special:FilePath/Arn%C3%B8yh%C3%B8gda%2C%20Laukslettinden%2C%20Tjuvtinden%20%26%20R%C3%B8dhetta%2C%202012%20March.jpg"
         ],
-        "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Finnmark%20county%20and%20Troms%20county.jpg"
+        "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Finnmark%20county%20and%20Troms%20county.svg"
       },
       "nivå": "fylke",
       "tittel": {
@@ -421,7 +421,7 @@
   ],
   "meta": {
     "tittel": "Fylke",
-    "produsertUtc": "2020-01-02T22:58:18.261Z",
+    "produsertUtc": "2020-01-03T09:35:04.418Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/kommune/master/fylke.json",
     "tool": {
