@@ -116,7 +116,7 @@
         ],
         "flagg": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20M%C3%B8re%20og%20Romsdal.svg",
         "foto": [
-          "http://commons.wikimedia.org/wiki/Special:FilePath/Vartdal.jpg"
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Blick%20von%20der%20Dalsnibba%20in%20den%20Geirangerfjord.JPG"
         ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/M%C3%B8re%20og%20Romsdal%20v%C3%A5pen.svg"
       },
@@ -187,14 +187,16 @@
       "inception": "2020-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-30",
       "lenke": {
-        "offisiell": "https://www.viken2020.no",
+        "offisiell": "https://www.viken.no",
         "wikidata": "http://www.wikidata.org/entity/Q56407178",
         "wikipedia": "https://no.wikipedia.org/wiki/Viken_(fylke)"
       },
       "mediakilde": {
         "banner": [],
-        "foto": [],
-        "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Viken%20v%C3%A5pen.png"
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/2010-10-25%20Oslofjord.jpg"
+        ],
+        "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Viken%20v%C3%A5pen.svg"
       },
       "nivå": "fylke",
       "tittel": {
@@ -228,7 +230,9 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": [],
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/S%C3%B8r-Fron.JPG"
+        ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Innlandet%20v%C3%A5pen.svg"
       },
       "nivå": "fylke",
@@ -263,7 +267,9 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": [],
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Stavechurch-heddal.jpg"
+        ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Vestfold%20og%20Telemark%20v%C3%A5pen.png"
       },
       "nivå": "fylke",
@@ -296,7 +302,9 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": [],
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Lindesnes%2020151012%20153540.jpg"
+        ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Agder%20v%C3%A5pen.png"
       },
       "nivå": "fylke",
@@ -332,7 +340,9 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": [],
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Sognefjord%20-%202013.08%20-%20panoramio.jpg"
+        ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Vestland%20v%C3%A5pen.svg"
       },
       "nivå": "fylke",
@@ -406,7 +416,7 @@
       "mediakilde": {
         "banner": [],
         "foto": [
-          "http://commons.wikimedia.org/wiki/Special:FilePath/Arn%C3%B8yh%C3%B8gda%2C%20Laukslettinden%2C%20Tjuvtinden%20%26%20R%C3%B8dhetta%2C%202012%20March.jpg"
+          "http://commons.wikimedia.org/wiki/Special:FilePath/North%20Cape%202005-07-18.jpg"
         ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Finnmark%20county%20and%20Troms%20county.svg"
       },
@@ -421,7 +431,7 @@
   ],
   "meta": {
     "tittel": "Fylke",
-    "produsertUtc": "2020-01-03T09:35:04.418Z",
+    "produsertUtc": "2020-01-13T12:27:42.558Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/kommune/master/fylke.json",
     "tool": {

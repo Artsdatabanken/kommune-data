@@ -1863,7 +1863,7 @@
         "foto": [
           "http://commons.wikimedia.org/wiki/Special:FilePath/Volda.jpg"
         ],
-        "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Volda%20komm.svg"
+        "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Volda%20komm%202020.svg"
       },
       "nivå": "kommune",
       "osm": "406861",
@@ -1900,7 +1900,8 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": []
+        "foto": [],
+        "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Fjord%20komm.svg"
       },
       "nivå": "kommune",
       "tittel": {
@@ -2014,7 +2015,7 @@
         "foto": [
           "http://commons.wikimedia.org/wiki/Special:FilePath/Narvi%2002.jpg"
         ],
-        "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Narvik%20komm.svg"
+        "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Narvik%20komm%202020.svg"
       },
       "nivå": "kommune",
       "osm": "408166",
@@ -3530,7 +3531,7 @@
         "foto": [
           "http://commons.wikimedia.org/wiki/Special:FilePath/Moss%2C%20Norway.jpg"
         ],
-        "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Moss%20komm.svg"
+        "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Rygge%20komm.svg"
       },
       "nivå": "kommune",
       "osm": "406087",
@@ -3635,7 +3636,6 @@
         "nabo": [
           "AO-TO-FL-06-25",
           "AO-TO-FL-07-11",
-          "AO-TO-FL-07-13",
           "AO-TO-FL-30-47",
           "AO-TO-FL-30-48",
           "AO-TO-FL-30-49",
@@ -4221,7 +4221,8 @@
         "nabo": [
           "AO-TO-FL-03-01",
           "AO-TO-FL-30-22",
-          "AO-TO-FL-30-24"
+          "AO-TO-FL-30-24",
+          "AO-TO-FL-30-25"
         ]
       },
       "kode": "AO-TO-FL-30-23",
@@ -4258,6 +4259,7 @@
           "AO-TO-FL-03-01",
           "AO-TO-FL-30-07",
           "AO-TO-FL-30-23",
+          "AO-TO-FL-30-25",
           "AO-TO-FL-30-38",
           "AO-TO-FL-30-49"
         ]
@@ -4292,8 +4294,13 @@
           10.634994075121236,
           59.9059384287949
         ],
-        "nabo": []
+        "nabo": [
+          "AO-TO-FL-30-23",
+          "AO-TO-FL-30-24",
+          "AO-TO-FL-30-49"
+        ]
       },
+      "inception": "2020-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-30-25",
       "lenke": {
         "wikidata": "http://www.wikidata.org/entity/Q80593157",
@@ -4301,7 +4308,8 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": []
+        "foto": [],
+        "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/New%20Asker%20komm.svg"
       },
       "nivå": "kommune",
       "tittel": {
@@ -5221,6 +5229,7 @@
           "AO-TO-FL-06-27",
           "AO-TO-FL-30-05",
           "AO-TO-FL-30-24",
+          "AO-TO-FL-30-25",
           "AO-TO-FL-30-38",
           "AO-TO-FL-30-47",
           "AO-TO-FL-30-48"
@@ -5569,6 +5578,7 @@
           "AO-TO-FL-34-48"
         ]
       },
+      "inception": "1861-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-34-07",
       "lenke": {
         "offisiell": "http://www.gjovik.kommune.no/",
@@ -5946,6 +5956,7 @@
           "AO-TO-FL-34-22"
         ]
       },
+      "inception": "1838-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-34-20",
       "lenke": {
         "offisiell": "https://www.elverum.kommune.no/",
@@ -6143,6 +6154,7 @@
           "AO-TO-FL-50-25"
         ]
       },
+      "inception": "1911-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-34-25",
       "lenke": {
         "offisiell": "http://www.engerdal.kommune.no/",
@@ -6151,7 +6163,9 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": [],
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Engerdal%20Femunden.jpg"
+        ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Engerdal%20komm.svg"
       },
       "nivå": "kommune",
@@ -6259,6 +6273,7 @@
           "AO-TO-FL-34-29"
         ]
       },
+      "inception": "1864-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-34-28",
       "lenke": {
         "offisiell": "http://www.alvdal.kommune.no/",
@@ -6267,7 +6282,9 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": [],
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Alvdal1.jpg"
+        ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Alvdal%20komm.svg"
       },
       "nivå": "kommune",
@@ -6297,6 +6314,7 @@
           "AO-TO-FL-50-21"
         ]
       },
+      "inception": "1914-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-34-29",
       "lenke": {
         "offisiell": "http://www.folldal.kommune.no",
@@ -6305,7 +6323,9 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": [],
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Veslsvulten%2001.JPG"
+        ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Folldal%20komm.svg"
       },
       "nivå": "kommune",
@@ -6752,6 +6772,7 @@
           "AO-TO-FL-34-53"
         ]
       },
+      "inception": "1962-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-34-41",
       "lenke": {
         "offisiell": "http://www.gausdal.kommune.no/",
@@ -6760,7 +6781,9 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": [],
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Liomseter.jpg"
+        ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Gausdal%20komm.svg"
       },
       "nivå": "kommune",
@@ -7015,6 +7038,7 @@
           "AO-TO-FL-34-51"
         ]
       },
+      "inception": "1894-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-34-50",
       "lenke": {
         "offisiell": "http://www.etnedal.kommune.no/",
@@ -7023,7 +7047,9 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": [],
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Lunde%20Bru%2C%20Norway.JPG"
+        ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Etnedal%20komm.svg"
       },
       "nivå": "kommune",
@@ -7236,7 +7262,6 @@
         ],
         "nabo": [
           "AO-TO-FL-06-25",
-          "AO-TO-FL-07-13",
           "AO-TO-FL-07-16",
           "AO-TO-FL-30-05",
           "AO-TO-FL-30-06",
@@ -7714,6 +7739,7 @@
           "AO-TO-FL-38-21"
         ]
       },
+      "inception": "1964-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-38-16",
       "lenke": {
         "offisiell": "http://www.nome.kommune.no/",
@@ -7756,6 +7782,7 @@
       "inception": "2020-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-38-17",
       "lenke": {
+        "offisiell": "https://midt-telemark.kommune.no/",
         "wikidata": "http://www.wikidata.org/entity/Q56405258",
         "wikipedia": "https://no.wikipedia.org/wiki/Midt-Telemark_(kommune)"
       },
@@ -8018,6 +8045,7 @@
           "AO-TO-FL-42-22"
         ]
       },
+      "inception": "1964-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-38-24",
       "lenke": {
         "offisiell": "http://www.tokke.kommune.no/",
@@ -8092,6 +8120,7 @@
           "AO-TO-FL-42-13"
         ]
       },
+      "inception": "1837-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-42-01",
       "lenke": {
         "offisiell": "http://www.risor.kommune.no/",
@@ -8202,11 +8231,13 @@
           58.36895268593819
         ],
         "nabo": [
+          "AO-TO-FL-42-05",
           "AO-TO-FL-42-15",
           "AO-TO-FL-42-16",
           "AO-TO-FL-42-23"
         ]
       },
+      "inception": "1641-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-42-04",
       "lenke": {
         "offisiell": "http://www.kristiansand.kommune.no/",
@@ -8239,10 +8270,17 @@
           7.879243913446926,
           58.473295003387854
         ],
-        "nabo": []
+        "nabo": [
+          "AO-TO-FL-42-04",
+          "AO-TO-FL-42-19",
+          "AO-TO-FL-42-23",
+          "AO-TO-FL-42-25"
+        ]
       },
+      "inception": "2020-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-42-05",
       "lenke": {
+        "offisiell": "https://www.lindesnes.kommune.no/",
         "wikidata": "http://www.wikidata.org/entity/Q80571266",
         "wikipedia": "https://no.wikipedia.org/wiki/Lindesnes"
       },
@@ -8253,6 +8291,7 @@
         ]
       },
       "nivå": "kommune",
+      "osm": "10152441",
       "tittel": {
         "nob": "Lindesnes"
       },
@@ -8391,6 +8430,7 @@
           "AO-TO-FL-42-17"
         ]
       },
+      "inception": "1837-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-42-12",
       "lenke": {
         "offisiell": "http://www.vegarshei.kommune.no/",
@@ -8399,7 +8439,9 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": [],
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Vegaar2.jpg"
+        ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Veg%C3%A5rshei%20komm.svg"
       },
       "nivå": "kommune",
@@ -8427,6 +8469,7 @@
           "AO-TO-FL-42-17"
         ]
       },
+      "inception": "1837-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-42-13",
       "lenke": {
         "offisiell": "http://www.tvedestrand.kommune.no/",
@@ -8504,6 +8547,7 @@
           "AO-TO-FL-42-16"
         ]
       },
+      "inception": "1837-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-42-15",
       "lenke": {
         "offisiell": "http://www.lillesand.kommune.no",
@@ -8512,9 +8556,11 @@
       },
       "mediakilde": {
         "banner": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Lillesand%20banner.jpg",
           "http://commons.wikimedia.org/wiki/Special:FilePath/Lillesand%20banner.jpg"
         ],
         "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Lillesand%20church.jpg",
           "http://commons.wikimedia.org/wiki/Special:FilePath/Lillesandskyline12.jpg"
         ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Lillesand%20komm.svg"
@@ -8586,6 +8632,7 @@
           "AO-TO-FL-42-20"
         ]
       },
+      "inception": "1837-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-42-17",
       "lenke": {
         "offisiell": "http://www.amli.kommune.no/",
@@ -8594,7 +8641,9 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": [],
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%85mli%20Nidelva%20bro.JPG"
+        ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%85mli%20komm.svg"
       },
       "nivå": "kommune",
@@ -8650,6 +8699,7 @@
           58.73127414152346
         ],
         "nabo": [
+          "AO-TO-FL-42-05",
           "AO-TO-FL-42-14",
           "AO-TO-FL-42-16",
           "AO-TO-FL-42-18",
@@ -8740,6 +8790,7 @@
           "AO-TO-FL-42-28"
         ]
       },
+      "inception": "1837-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-42-21",
       "lenke": {
         "offisiell": "http://www.valle.kommune.no/",
@@ -8814,6 +8865,7 @@
         ],
         "nabo": [
           "AO-TO-FL-42-04",
+          "AO-TO-FL-42-05",
           "AO-TO-FL-42-16",
           "AO-TO-FL-42-18",
           "AO-TO-FL-42-19"
@@ -8858,6 +8910,7 @@
           "AO-TO-FL-42-27"
         ]
       },
+      "inception": "1837-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-42-24",
       "lenke": {
         "offisiell": "http://www.aseral.kommune.no/",
@@ -8887,6 +8940,8 @@
           58.51560940702238
         ],
         "nabo": [
+          "AO-TO-FL-10-29",
+          "AO-TO-FL-42-05",
           "AO-TO-FL-42-06",
           "AO-TO-FL-42-19",
           "AO-TO-FL-42-24",
@@ -8894,9 +8949,10 @@
           "AO-TO-FL-42-27"
         ]
       },
+      "inception": "1837-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-42-25",
       "lenke": {
-        "offisiell": "http://www.lyngdal.kommune.no/Modules/Default.aspx",
+        "offisiell": "http://www.lyngdal.kommune.no/",
         "wikidata": "http://www.wikidata.org/entity/Q505952",
         "wikipedia": "https://no.wikipedia.org/wiki/Lyngdal"
       },
@@ -8904,7 +8960,9 @@
         "banner": [
           "http://commons.wikimedia.org/wiki/Special:FilePath/Lyngdal%20panorama%20%28cropped%29.jpg"
         ],
-        "foto": [],
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/LyngdalKirke.jpg"
+        ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Lyngdal%20komm.svg"
       },
       "nivå": "kommune",
@@ -8930,6 +8988,7 @@
           "AO-TO-FL-42-27"
         ]
       },
+      "inception": "1837-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-42-26",
       "lenke": {
         "offisiell": "http://www.haegebostad.kommune.no/",
@@ -8968,6 +9027,7 @@
           "AO-TO-FL-42-28"
         ]
       },
+      "inception": "1838-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-42-27",
       "lenke": {
         "offisiell": "http://www.kvinesdal.kommune.no/",
@@ -9015,6 +9075,7 @@
           "AO-TO-FL-42-27"
         ]
       },
+      "inception": "1960-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-42-28",
       "lenke": {
         "offisiell": "http://www.sirdal.kommune.no/",
@@ -9046,8 +9107,6 @@
         "nabo": [
           "AO-TO-FL-12-43",
           "AO-TO-FL-12-45",
-          "AO-TO-FL-12-56",
-          "AO-TO-FL-12-63",
           "AO-TO-FL-46-23",
           "AO-TO-FL-46-24",
           "AO-TO-FL-46-25",
@@ -9100,7 +9159,8 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": []
+        "foto": [],
+        "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Kinn%20komm.svg"
       },
       "nivå": "kommune",
       "tittel": {
@@ -9387,9 +9447,6 @@
         "nabo": [
           "AO-TO-FL-11-34",
           "AO-TO-FL-11-35",
-          "AO-TO-FL-12-27",
-          "AO-TO-FL-12-28",
-          "AO-TO-FL-12-34",
           "AO-TO-FL-38-25",
           "AO-TO-FL-46-11",
           "AO-TO-FL-46-17",
@@ -9399,21 +9456,18 @@
           "AO-TO-FL-46-22"
         ]
       },
+      "inception": "2020-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-46-18",
       "lenke": {
-        "offisiell": "http://www.ullensvang.kommune.no/",
-        "wikidata": "http://www.wikidata.org/entity/Q484077",
-        "wikipedia": "https://no.wikipedia.org/wiki/Ullensvang_(1838%E2%80%932019)"
+        "wikidata": "http://www.wikidata.org/entity/Q80678654",
+        "wikipedia": "https://no.wikipedia.org/wiki/Ullensvang"
       },
       "mediakilde": {
         "banner": [],
-        "foto": [
-          "http://commons.wikimedia.org/wiki/Special:FilePath/Utne%20Halfway%20stop.jpg"
-        ],
-        "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Ullensvang%20komm.svg"
+        "foto": [],
+        "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Ullensvang%20komm%202020.svg"
       },
       "nivå": "kommune",
-      "osm": "404152",
       "tittel": {
         "nob": "Ullensvang"
       },
@@ -9532,7 +9586,7 @@
         "foto": [
           "http://commons.wikimedia.org/wiki/Special:FilePath/Vossavangen.jpg"
         ],
-        "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Voss%20komm.svg"
+        "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Voss%20herad.svg"
       },
       "nivå": "kommune",
       "osm": "404138",
@@ -9648,7 +9702,8 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": []
+        "foto": [],
+        "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Bj%C3%B8rnafjorden%20komm.svg"
       },
       "nivå": "kommune",
       "tittel": {
@@ -9747,7 +9802,6 @@
         ],
         "nabo": [
           "AO-TO-FL-12-46",
-          "AO-TO-FL-12-56",
           "AO-TO-FL-46-01",
           "AO-TO-FL-46-26",
           "AO-TO-FL-46-31"
@@ -9786,7 +9840,6 @@
           60.91397137638397
         ],
         "nabo": [
-          "AO-TO-FL-12-63",
           "AO-TO-FL-46-01",
           "AO-TO-FL-46-21",
           "AO-TO-FL-46-22",
@@ -9826,7 +9879,6 @@
           61.035237984401896
         ],
         "nabo": [
-          "AO-TO-FL-12-63",
           "AO-TO-FL-46-28",
           "AO-TO-FL-46-31",
           "AO-TO-FL-46-34",
@@ -9865,7 +9917,6 @@
           60.71644033426533
         ],
         "nabo": [
-          "AO-TO-FL-12-63",
           "AO-TO-FL-46-28",
           "AO-TO-FL-46-31"
         ]
@@ -9916,14 +9967,17 @@
       "inception": "2020-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-46-31",
       "lenke": {
+        "offisiell": "https://alverkommune.no/",
         "wikidata": "http://www.wikidata.org/entity/Q56404228",
         "wikipedia": "https://no.wikipedia.org/wiki/Alver"
       },
       "mediakilde": {
         "banner": [],
-        "foto": []
+        "foto": [],
+        "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Alver%20komm.jpg"
       },
       "nivå": "kommune",
+      "osm": "10150624",
       "tittel": {
         "nob": "Alver"
       },
@@ -9940,7 +9994,6 @@
           60.858220120770845
         ],
         "nabo": [
-          "AO-TO-FL-12-63",
           "AO-TO-FL-46-31",
           "AO-TO-FL-46-33",
           "AO-TO-FL-46-35"
@@ -10015,7 +10068,6 @@
           60.98550434036668
         ],
         "nabo": [
-          "AO-TO-FL-12-63",
           "AO-TO-FL-46-29",
           "AO-TO-FL-46-31",
           "AO-TO-FL-46-35",
@@ -10051,7 +10103,6 @@
           61.11784811891921
         ],
         "nabo": [
-          "AO-TO-FL-12-63",
           "AO-TO-FL-46-31",
           "AO-TO-FL-46-32",
           "AO-TO-FL-46-33",
@@ -10848,7 +10899,6 @@
           64.54729414512592
         ],
         "nabo": [
-          "AO-TO-FL-50-17",
           "AO-TO-FL-50-56",
           "AO-TO-FL-50-57"
         ]
@@ -11884,7 +11934,6 @@
           "AO-TO-FL-50-01",
           "AO-TO-FL-50-06",
           "AO-TO-FL-50-16",
-          "AO-TO-FL-50-17",
           "AO-TO-FL-50-36",
           "AO-TO-FL-50-39",
           "AO-TO-FL-50-53",
@@ -11961,7 +12010,6 @@
           "AO-TO-FL-15-73",
           "AO-TO-FL-15-76",
           "AO-TO-FL-50-11",
-          "AO-TO-FL-50-12",
           "AO-TO-FL-50-14",
           "AO-TO-FL-50-16",
           "AO-TO-FL-50-55",
@@ -12002,7 +12050,6 @@
         "nabo": [
           "AO-TO-FL-50-14",
           "AO-TO-FL-50-16",
-          "AO-TO-FL-50-17",
           "AO-TO-FL-50-54",
           "AO-TO-FL-50-56",
           "AO-TO-FL-50-58",
@@ -12040,7 +12087,6 @@
         "nabo": [
           "AO-TO-FL-50-06",
           "AO-TO-FL-50-07",
-          "AO-TO-FL-50-17",
           "AO-TO-FL-50-19",
           "AO-TO-FL-50-20",
           "AO-TO-FL-50-39",
@@ -12099,7 +12145,8 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": []
+        "foto": [],
+        "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Orkland%20komm.svg"
       },
       "nivå": "kommune",
       "tittel": {
@@ -13717,7 +13764,7 @@
   ],
   "meta": {
     "tittel": "Kommune",
-    "produsertUtc": "2020-01-03T09:35:04.437Z",
+    "produsertUtc": "2020-01-13T12:27:42.580Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/kommune/master/kommune.json",
     "tool": {
