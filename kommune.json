@@ -4121,7 +4121,8 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": []
+        "foto": [],
+        "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Nordre%20Follo%20kommunev%C3%A5pen.svg"
       },
       "nivå": "kommune",
       "tittel": {
@@ -4659,7 +4660,7 @@
       "lenke": {
         "offisiell": "http://www.nes-ak.kommune.no/",
         "wikidata": "http://www.wikidata.org/entity/Q488026",
-        "wikipedia": "https://no.wikipedia.org/wiki/Nes_(Akershus)"
+        "wikipedia": "https://no.wikipedia.org/wiki/Nes_(Viken)"
       },
       "mediakilde": {
         "banner": [],
@@ -5495,6 +5496,7 @@
           "AO-TO-FL-34-22"
         ]
       },
+      "inception": "1848-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-34-03",
       "lenke": {
         "offisiell": "https://www.hamar.kommune.no/",
@@ -5849,6 +5851,7 @@
           "AO-TO-FL-34-18"
         ]
       },
+      "inception": "1838-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-34-17",
       "lenke": {
         "offisiell": "http://www.grue.kommune.no/",
@@ -5857,7 +5860,9 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": [],
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Grue%20kirke.jpg"
+        ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Grue%20komm.svg"
       },
       "nivå": "kommune",
@@ -6888,6 +6893,7 @@
           "AO-TO-FL-34-47"
         ]
       },
+      "inception": "1838-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-34-46",
       "lenke": {
         "offisiell": "http://www.gran.kommune.no/",
@@ -13764,7 +13770,7 @@
   ],
   "meta": {
     "tittel": "Kommune",
-    "produsertUtc": "2020-01-13T12:27:42.580Z",
+    "produsertUtc": "2020-01-15T07:44:45.183Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/kommune/master/kommune.json",
     "tool": {

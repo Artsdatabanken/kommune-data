@@ -305,7 +305,7 @@
         "foto": [
           "http://commons.wikimedia.org/wiki/Special:FilePath/Lindesnes%2020151012%20153540.jpg"
         ],
-        "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Agder%20v%C3%A5pen.png"
+        "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Agder%20v%C3%A5pen.svg"
       },
       "nivå": "fylke",
       "tittel": {
@@ -431,7 +431,7 @@
   ],
   "meta": {
     "tittel": "Fylke",
-    "produsertUtc": "2020-01-13T12:27:42.558Z",
+    "produsertUtc": "2020-01-15T07:44:45.165Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/kommune/master/fylke.json",
     "tool": {
