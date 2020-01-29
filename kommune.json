@@ -3898,7 +3898,8 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": []
+        "foto": [],
+        "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Indre%20%C3%98stfold%20komm.svg"
       },
       "nivå": "kommune",
       "tittel": {
@@ -4353,7 +4354,7 @@
         "foto": [
           "http://commons.wikimedia.org/wiki/Special:FilePath/Aurskog%20kirke%2020071021%201.jpg"
         ],
-        "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Aurskog-H%C3%B8land%20komm.svg"
+        "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/R%C3%B8mskog%20komm.svg"
       },
       "nivå": "kommune",
       "osm": "406120",
@@ -4512,7 +4513,8 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": []
+        "foto": [],
+        "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Lillestr%C3%B8m%20komm.svg"
       },
       "nivå": "kommune",
       "tittel": {
@@ -5353,7 +5355,7 @@
       "inception": "1962-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-30-52",
       "lenke": {
-        "offisiell": "http://www.nore-og-uvdal.kommune.no/",
+        "offisiell": "https://www.nore-og-uvdal.kommune.no/",
         "wikidata": "http://www.wikidata.org/entity/Q48924",
         "wikipedia": "https://no.wikipedia.org/wiki/Nore_og_Uvdal"
       },
@@ -5385,6 +5387,7 @@
           "AO-TO-FL-34-46"
         ]
       },
+      "inception": "1838-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-30-53",
       "lenke": {
         "offisiell": "http://www.jevnaker.kommune.no/",
@@ -5393,7 +5396,9 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": [],
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Hadeland%20Glassverke%20-%20old%20buildings.jpg"
+        ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Jevnaker%20komm.svg"
       },
       "nivå": "kommune",
@@ -5422,6 +5427,7 @@
           "AO-TO-FL-34-46"
         ]
       },
+      "inception": "1898-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-30-54",
       "lenke": {
         "offisiell": "http://www.lunner.kommune.no/",
@@ -5430,7 +5436,9 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": [],
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Lunner%20sentrum.jpg"
+        ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Lunner%20komm.svg"
       },
       "nivå": "kommune",
@@ -5456,6 +5464,7 @@
           "AO-TO-FL-34-17"
         ]
       },
+      "inception": "1855-02-07T00:00:00.000Z",
       "kode": "AO-TO-FL-34-01",
       "lenke": {
         "offisiell": "http://www.kongsvinger.kommune.no/",
@@ -5624,6 +5633,7 @@
           "AO-TO-FL-34-42"
         ]
       },
+      "inception": "1838-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-34-11",
       "lenke": {
         "offisiell": "http://www.ringsaker.kommune.no/",
@@ -5632,7 +5642,9 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": [],
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Ringsaker_kirke.jpg"
+        ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Ringsaker%20komm.svg"
       },
       "nivå": "kommune",
@@ -5660,6 +5672,7 @@
           "AO-TO-FL-34-22"
         ]
       },
+      "inception": "1838-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-34-12",
       "lenke": {
         "offisiell": "http://www.loten.kommune.no/",
@@ -5701,6 +5714,7 @@
           "AO-TO-FL-34-42"
         ]
       },
+      "inception": "1838-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-34-13",
       "lenke": {
         "offisiell": "https://www.stange.kommune.no/",
@@ -5740,6 +5754,7 @@
           "AO-TO-FL-34-18"
         ]
       },
+      "inception": "1838-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-34-14",
       "lenke": {
         "offisiell": "http://www.nord-odal.kommune.no/",
@@ -5778,6 +5793,7 @@
           "AO-TO-FL-34-17"
         ]
       },
+      "inception": "1838-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-34-15",
       "lenke": {
         "offisiell": "http://www.sor-odal.kommune.no/",
@@ -5786,7 +5802,9 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": [],
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Skarnes%20bru.jpg"
+        ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/S%C3%B8r-Odal%20komm.svg"
       },
       "nivå": "kommune",
@@ -5926,6 +5944,7 @@
           "AO-TO-FL-34-21"
         ]
       },
+      "inception": "1854-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-34-19",
       "lenke": {
         "offisiell": "http://www.valer.kommune.no/",
@@ -5934,7 +5953,9 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": [],
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Gravberget%20kirke.jpg"
+        ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/V%C3%A5ler%20Hedmark%20komm.svg"
       },
       "nivå": "kommune",
@@ -6014,7 +6035,9 @@
         "banner": [
           "http://commons.wikimedia.org/wiki/Special:FilePath/Northern%20Lights-banner2.jpg"
         ],
-        "foto": [],
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/NybergsundBru.jpg"
+        ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Trysil%20komm.svg"
       },
       "nivå": "kommune",
@@ -6044,6 +6067,7 @@
           "AO-TO-FL-34-24"
         ]
       },
+      "inception": "1838-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-34-22",
       "lenke": {
         "offisiell": "http://www.amot.kommune.no/",
@@ -6085,6 +6109,7 @@
           "AO-TO-FL-34-40"
         ]
       },
+      "inception": "1838-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-34-23",
       "lenke": {
         "offisiell": "http://www.stor-elvdal.kommune.no/",
@@ -6093,7 +6118,9 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": [],
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Glomma%20Stor-Elvdal.jpg"
+        ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Stor-Elvdal%20komm.svg"
       },
       "nivå": "kommune",
@@ -6123,6 +6150,7 @@
           "AO-TO-FL-34-28"
         ]
       },
+      "inception": "1965-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-34-24",
       "lenke": {
         "offisiell": "http://www.rendalen.kommune.no/",
@@ -6131,7 +6159,9 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": [],
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Rendalen%20Kommunehus.jpg"
+        ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Rendalen%20komm.svg"
       },
       "nivå": "kommune",
@@ -6197,6 +6227,7 @@
           "AO-TO-FL-34-30"
         ]
       },
+      "inception": "1976-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-34-26",
       "lenke": {
         "offisiell": "http://www.tolga.kommune.no/",
@@ -6359,6 +6390,7 @@
           "AO-TO-FL-50-27"
         ]
       },
+      "inception": "1976-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-34-30",
       "lenke": {
         "offisiell": "http://www.os.hedmark.no",
@@ -6367,7 +6399,9 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": [],
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/H%20Tufsingdal%20kirke.jpg"
+        ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Os%20Hedmark%20komm.svg"
       },
       "nivå": "kommune",
@@ -6437,6 +6471,7 @@
           "AO-TO-FL-50-21"
         ]
       },
+      "inception": "1838-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-34-32",
       "lenke": {
         "offisiell": "http://www.lesja.kommune.no/",
@@ -6445,7 +6480,9 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": [],
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/63a-2770%20Stugufl%C3%A5tbrua%202004%20SRS.jpg"
+        ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Lesja%20komm.svg"
       },
       "nivå": "kommune",
@@ -6476,6 +6513,7 @@
           "AO-TO-FL-46-51"
         ]
       },
+      "inception": "1866-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-34-33",
       "lenke": {
         "offisiell": "http://www.skjaak.kommune.no/",
@@ -6484,7 +6522,9 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": [],
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Skjaak.jpg"
+        ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Skj%C3%A5k%20komm.svg"
       },
       "nivå": "kommune",
@@ -6513,6 +6553,7 @@
           "AO-TO-FL-46-44"
         ]
       },
+      "inception": "1838-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-34-34",
       "lenke": {
         "offisiell": "http://www.lom.kommune.no/",
@@ -6553,6 +6594,7 @@
           "AO-TO-FL-34-54"
         ]
       },
+      "inception": "1838-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-34-35",
       "lenke": {
         "offisiell": "http://www.vaga.kommune.no/",
@@ -6561,7 +6603,9 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": [],
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Jotunheimen%20mountains%20near%20Memurubu.jpg"
+        ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/V%C3%A5g%C3%A5%20komm.svg"
       },
       "nivå": "kommune",
@@ -6588,6 +6632,7 @@
           "AO-TO-FL-34-53"
         ]
       },
+      "inception": "1977-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-34-36",
       "lenke": {
         "offisiell": "http://www.nord-fron.kommune.no/",
@@ -6596,7 +6641,9 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": [],
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Gjende%2C%20Jotunheimen.JPG"
+        ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Nord-Fron%20komm.svg"
       },
       "nivå": "kommune",
@@ -6624,6 +6671,7 @@
           "AO-TO-FL-34-38"
         ]
       },
+      "inception": "1908-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-34-37",
       "lenke": {
         "offisiell": "http://www.sel.kommune.no/",
@@ -6632,7 +6680,9 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": [],
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Sel%20church%2C%20Sel%2C%20Norway.jpg"
+        ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Sel%20komm.svg"
       },
       "nivå": "kommune",
@@ -6662,6 +6712,7 @@
           "AO-TO-FL-34-53"
         ]
       },
+      "inception": "1977-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-34-38",
       "lenke": {
         "offisiell": "http://www.sor-fron.kommune.no/",
@@ -6699,6 +6750,7 @@
           "AO-TO-FL-34-41"
         ]
       },
+      "inception": "1838-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-34-39",
       "lenke": {
         "offisiell": "http://www.ringebu.kommune.no/",
@@ -6737,6 +6789,7 @@
           "AO-TO-FL-34-41"
         ]
       },
+      "inception": "1838-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-34-40",
       "lenke": {
         "offisiell": "http://www.oyer.kommune.no/",
@@ -6817,6 +6870,7 @@
           "AO-TO-FL-34-43"
         ]
       },
+      "inception": "1838-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-34-42",
       "lenke": {
         "offisiell": "http://www.ostre-toten.kommune.no/",
@@ -6855,6 +6909,7 @@
           "AO-TO-FL-34-47"
         ]
       },
+      "inception": "1838-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-34-43",
       "lenke": {
         "offisiell": "http://www.vestre-toten.kommune.no/",
@@ -6863,7 +6918,9 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": [],
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Eina.jpg"
+        ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Vestre%20Toten%20komm.svg"
       },
       "nivå": "kommune",
@@ -6933,6 +6990,7 @@
           "AO-TO-FL-34-49"
         ]
       },
+      "inception": "1847-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-34-47",
       "lenke": {
         "offisiell": "http://www.sondre-land.kommune.no/",
@@ -6941,7 +6999,9 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": [],
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Hov%20i%20Land%2C%20S%C3%B8ndre%20Land.jpg"
+        ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/S%C3%B8ndre%20Land%20komm.svg"
       },
       "nivå": "kommune",
@@ -6971,6 +7031,7 @@
           "AO-TO-FL-34-51"
         ]
       },
+      "inception": "1847-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-34-48",
       "lenke": {
         "offisiell": "http://www.nordre-land.kommune.no/",
@@ -6979,7 +7040,9 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": [],
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/AamotkirkeTorpa2.jpg"
+        ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Nordre%20Land%20komm.svg"
       },
       "nivå": "kommune",
@@ -7010,6 +7073,7 @@
           "AO-TO-FL-34-51"
         ]
       },
+      "inception": "1838-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-34-49",
       "lenke": {
         "offisiell": "http://www.sor-aurdal.kommune.no/",
@@ -7018,7 +7082,9 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": [],
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Smedlund%2C%20S%C3%B8r-Aurdal.JPG"
+        ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/S%C3%B8r-Aurdal%20komm.svg"
       },
       "nivå": "kommune",
@@ -7086,6 +7152,7 @@
           "AO-TO-FL-34-53"
         ]
       },
+      "inception": "1838-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-34-51",
       "lenke": {
         "offisiell": "http://www.nord-aurdal.kommune.no/",
@@ -7094,7 +7161,9 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": [],
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Fagernes%2C%20Nord-Aurdal.JPG"
+        ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Nord-Aurdal%20komm.svg"
       },
       "nivå": "kommune",
@@ -7121,6 +7190,7 @@
           "AO-TO-FL-34-54"
         ]
       },
+      "inception": "1849-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-34-52",
       "lenke": {
         "offisiell": "http://www.vestre-slidre.kommune.no/",
@@ -7129,7 +7199,9 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": [],
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Vestre%20Slidre.JPG"
+        ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Vestre%20Slidre%20komm.svg"
       },
       "nivå": "kommune",
@@ -7159,6 +7231,7 @@
           "AO-TO-FL-34-54"
         ]
       },
+      "inception": "1849-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-34-53",
       "lenke": {
         "offisiell": "http://www.oystre-slidre.kommune.no/",
@@ -7167,7 +7240,9 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": [],
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Valdresflya%20veg.jpg"
+        ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%98ystre%20Slidre%20komm.svg"
       },
       "nivå": "kommune",
@@ -7207,7 +7282,9 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": [],
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Oye%20stave%20church.jpg"
+        ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Vang%20komm.svg"
       },
       "nivå": "kommune",
@@ -9980,7 +10057,7 @@
       "mediakilde": {
         "banner": [],
         "foto": [],
-        "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Alver%20komm.jpg"
+        "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Alver%20komm.svg"
       },
       "nivå": "kommune",
       "osm": "10150624",
@@ -11989,6 +12066,7 @@
       "inception": "2020-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-50-55",
       "lenke": {
+        "offisiell": "https://www.heim.kommune.no/",
         "wikidata": "http://www.wikidata.org/entity/Q48475310",
         "wikipedia": "https://no.wikipedia.org/wiki/Heim"
       },
@@ -13770,7 +13848,7 @@
   ],
   "meta": {
     "tittel": "Kommune",
-    "produsertUtc": "2020-01-15T07:44:45.183Z",
+    "produsertUtc": "2020-01-29T16:45:06.914Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/kommune/master/kommune.json",
     "tool": {

@@ -12,9 +12,6 @@
           60.13510637668019
         ],
         "nabo": [
-          "AO-TO-FL-02",
-          "AO-TO-FL-05",
-          "AO-TO-FL-06",
           "AO-TO-FL-30"
         ]
       },
@@ -53,10 +50,6 @@
           59.84457438357803
         ],
         "nabo": [
-          "AO-TO-FL-08",
-          "AO-TO-FL-09",
-          "AO-TO-FL-10",
-          "AO-TO-FL-12",
           "AO-TO-FL-38",
           "AO-TO-FL-42",
           "AO-TO-FL-46"
@@ -96,9 +89,6 @@
           63.76816772602909
         ],
         "nabo": [
-          "AO-TO-FL-05",
-          "AO-TO-FL-14",
-          "AO-TO-FL-16",
           "AO-TO-FL-34",
           "AO-TO-FL-46",
           "AO-TO-FL-50"
@@ -138,8 +128,6 @@
           69.59670059442948
         ],
         "nabo": [
-          "AO-TO-FL-17",
-          "AO-TO-FL-19",
           "AO-TO-FL-50",
           "AO-TO-FL-54"
         ]
@@ -199,6 +187,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Viken%20v%C3%A5pen.svg"
       },
       "nivå": "fylke",
+      "osm": "10155539",
       "tittel": {
         "nob": "Viken"
       },
@@ -236,6 +225,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Innlandet%20v%C3%A5pen.svg"
       },
       "nivå": "fylke",
+      "osm": "10155527",
       "tittel": {
         "nob": "Innlandet"
       },
@@ -273,6 +263,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Vestfold%20og%20Telemark%20v%C3%A5pen.png"
       },
       "nivå": "fylke",
+      "osm": "10487008",
       "tittel": {
         "nob": "Vestfold og Telemark"
       },
@@ -308,6 +299,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Agder%20v%C3%A5pen.svg"
       },
       "nivå": "fylke",
+      "osm": "10155517",
       "tittel": {
         "nob": "Agder"
       },
@@ -346,6 +338,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Vestland%20v%C3%A5pen.svg"
       },
       "nivå": "fylke",
+      "osm": "10155543",
       "tittel": {
         "nob": "Vestland"
       },
@@ -362,8 +355,6 @@
           65.47017500162336
         ],
         "nabo": [
-          "AO-TO-FL-04",
-          "AO-TO-FL-05",
           "AO-TO-FL-15",
           "AO-TO-FL-18",
           "AO-TO-FL-34"
@@ -421,6 +412,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Finnmark%20county%20and%20Troms%20county.svg"
       },
       "nivå": "fylke",
+      "osm": "10155507",
       "tittel": {
         "fkv": "Tromssa ja Finmarkku",
         "nob": "Troms og Finnmark",
@@ -431,7 +423,7 @@
   ],
   "meta": {
     "tittel": "Fylke",
-    "produsertUtc": "2020-01-15T07:44:45.165Z",
+    "produsertUtc": "2020-01-29T16:45:06.880Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/kommune/master/fylke.json",
     "tool": {
