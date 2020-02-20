@@ -400,7 +400,7 @@
       "inception": "2020-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-54",
       "lenke": {
-        "offisiell": "http://nyetffk.no/",
+        "offisiell": "https://www.tffk.no/",
         "wikidata": "http://www.wikidata.org/entity/Q52600648",
         "wikipedia": "https://no.wikipedia.org/wiki/Troms_og_Finnmark"
       },
@@ -423,7 +423,7 @@
   ],
   "meta": {
     "tittel": "Fylke",
-    "produsertUtc": "2020-01-29T16:45:06.880Z",
+    "produsertUtc": "2020-02-20T11:24:12.016Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/kommune/master/fylke.json",
     "tool": {
