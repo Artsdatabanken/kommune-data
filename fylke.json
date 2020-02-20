@@ -33,7 +33,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Oslo%20komm.svg"
       },
       "nivå": "fylke",
-      "osm": "2775550",
+      "osm": "https://www.openstreetmap.org/relation/2775550",
       "tittel": {
         "nob": "Oslo"
       },
@@ -72,7 +72,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Rogaland%20v%C3%A5pen.svg"
       },
       "nivå": "fylke",
-      "osm": "405836",
+      "osm": "https://www.openstreetmap.org/relation/405836",
       "tittel": {
         "nob": "Rogaland"
       },
@@ -111,7 +111,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/M%C3%B8re%20og%20Romsdal%20v%C3%A5pen.svg"
       },
       "nivå": "fylke",
-      "osm": "406868",
+      "osm": "https://www.openstreetmap.org/relation/406868",
       "tittel": {
         "nob": "Møre og Romsdal"
       },
@@ -149,7 +149,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Nordland%20v%C3%A5pen.svg"
       },
       "nivå": "fylke",
-      "osm": "408105",
+      "osm": "https://www.openstreetmap.org/relation/408105",
       "tittel": {
         "nob": "Nordland"
       },
@@ -187,7 +187,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Viken%20v%C3%A5pen.svg"
       },
       "nivå": "fylke",
-      "osm": "10155539",
+      "osm": "https://www.openstreetmap.org/relation/10155539",
       "tittel": {
         "nob": "Viken"
       },
@@ -225,7 +225,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Innlandet%20v%C3%A5pen.svg"
       },
       "nivå": "fylke",
-      "osm": "10155527",
+      "osm": "https://www.openstreetmap.org/relation/10155527",
       "tittel": {
         "nob": "Innlandet"
       },
@@ -263,7 +263,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Vestfold%20og%20Telemark%20v%C3%A5pen.png"
       },
       "nivå": "fylke",
-      "osm": "10487008",
+      "osm": "https://www.openstreetmap.org/relation/10487008",
       "tittel": {
         "nob": "Vestfold og Telemark"
       },
@@ -299,7 +299,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Agder%20v%C3%A5pen.svg"
       },
       "nivå": "fylke",
-      "osm": "10155517",
+      "osm": "https://www.openstreetmap.org/relation/10155517",
       "tittel": {
         "nob": "Agder"
       },
@@ -338,7 +338,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Vestland%20v%C3%A5pen.svg"
       },
       "nivå": "fylke",
-      "osm": "10155543",
+      "osm": "https://www.openstreetmap.org/relation/10155543",
       "tittel": {
         "nob": "Vestland"
       },
@@ -376,7 +376,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Tr%C3%B8ndelag%20v%C3%A5pen.svg"
       },
       "nivå": "fylke",
-      "osm": "406567",
+      "osm": "https://www.openstreetmap.org/relation/406567",
       "tittel": {
         "nob": "Trøndelag",
         "sma": "Trööndelage"
@@ -412,7 +412,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Finnmark%20county%20and%20Troms%20county.svg"
       },
       "nivå": "fylke",
-      "osm": "10155507",
+      "osm": "https://www.openstreetmap.org/relation/10155507",
       "tittel": {
         "fkv": "Tromssa ja Finmarkku",
         "nob": "Troms og Finnmark",
@@ -423,7 +423,7 @@
   ],
   "meta": {
     "tittel": "Fylke",
-    "produsertUtc": "2020-02-20T11:24:12.016Z",
+    "produsertUtc": "2020-02-20T11:31:20.996Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/kommune/master/fylke.json",
     "tool": {

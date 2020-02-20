@@ -43,7 +43,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Oslo%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "2775550",
+      "osm": "https://www.openstreetmap.org/relation/2775550",
       "tittel": {
         "nob": "Oslo"
       },
@@ -81,7 +81,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Eigersund%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "405825",
+      "osm": "https://www.openstreetmap.org/relation/405825",
       "tittel": {
         "nob": "Eigersund"
       },
@@ -128,7 +128,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Stavanger%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "384615",
+      "osm": "https://www.openstreetmap.org/relation/384615",
       "tittel": {
         "nob": "Stavanger"
       },
@@ -167,7 +167,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Haugesund%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "405834",
+      "osm": "https://www.openstreetmap.org/relation/405834",
       "tittel": {
         "nob": "Haugesund"
       },
@@ -213,7 +213,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandnes%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "405654",
+      "osm": "https://www.openstreetmap.org/relation/405654",
       "tittel": {
         "nob": "Sandnes"
       },
@@ -247,7 +247,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Sokndal%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "405788",
+      "osm": "https://www.openstreetmap.org/relation/405788",
       "tittel": {
         "nob": "Sokndal"
       },
@@ -282,7 +282,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Lund%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "405824",
+      "osm": "https://www.openstreetmap.org/relation/405824",
       "tittel": {
         "nob": "Lund"
       },
@@ -318,7 +318,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Bjerkreim%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "405826",
+      "osm": "https://www.openstreetmap.org/relation/405826",
       "tittel": {
         "nob": "Bjerkreim"
       },
@@ -357,7 +357,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/H%C3%A5%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "405787",
+      "osm": "https://www.openstreetmap.org/relation/405787",
       "tittel": {
         "nob": "Hå"
       },
@@ -392,7 +392,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Klepp%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "405655",
+      "osm": "https://www.openstreetmap.org/relation/405655",
       "tittel": {
         "nob": "Klepp"
       },
@@ -430,7 +430,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Time%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "405786",
+      "osm": "https://www.openstreetmap.org/relation/405786",
       "tittel": {
         "nob": "Time"
       },
@@ -468,7 +468,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Gjesdal%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "405827",
+      "osm": "https://www.openstreetmap.org/relation/405827",
       "tittel": {
         "nob": "Gjesdal"
       },
@@ -505,7 +505,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Sola%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "405653",
+      "osm": "https://www.openstreetmap.org/relation/405653",
       "tittel": {
         "nob": "Sola"
       },
@@ -542,7 +542,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Randaberg%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "405652",
+      "osm": "https://www.openstreetmap.org/relation/405652",
       "tittel": {
         "nob": "Randaberg"
       },
@@ -580,7 +580,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Strand%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "405657",
+      "osm": "https://www.openstreetmap.org/relation/405657",
       "tittel": {
         "nob": "Strand"
       },
@@ -618,7 +618,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Hjelmeland%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "405829",
+      "osm": "https://www.openstreetmap.org/relation/405829",
       "tittel": {
         "nob": "Hjelmeland"
       },
@@ -660,7 +660,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Suldal%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "405830",
+      "osm": "https://www.openstreetmap.org/relation/405830",
       "tittel": {
         "nob": "Suldal"
       },
@@ -696,7 +696,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Sauda%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "405837",
+      "osm": "https://www.openstreetmap.org/relation/405837",
       "tittel": {
         "nob": "Sauda"
       },
@@ -734,7 +734,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Kvits%C3%B8y%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "405658",
+      "osm": "https://www.openstreetmap.org/relation/405658",
       "tittel": {
         "nob": "Kvitsøy"
       },
@@ -773,7 +773,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Bokn%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "405833",
+      "osm": "https://www.openstreetmap.org/relation/405833",
       "tittel": {
         "nob": "Bokn"
       },
@@ -811,7 +811,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Tysv%C3%A6r%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "405835",
+      "osm": "https://www.openstreetmap.org/relation/405835",
       "tittel": {
         "nob": "Tysvær"
       },
@@ -849,7 +849,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Karm%C3%B8y%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "405832",
+      "osm": "https://www.openstreetmap.org/relation/405832",
       "tittel": {
         "nob": "Karmøy"
       },
@@ -881,7 +881,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Utsira%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "405831",
+      "osm": "https://www.openstreetmap.org/relation/405831",
       "tittel": {
         "nob": "Utsira"
       },
@@ -918,7 +918,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Vindafjord%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "405845",
+      "osm": "https://www.openstreetmap.org/relation/405845",
       "tittel": {
         "nob": "Vindafjord"
       },
@@ -958,7 +958,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Kristiansund%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406837",
+      "osm": "https://www.openstreetmap.org/relation/406837",
       "tittel": {
         "nob": "Kristiansund"
       },
@@ -1007,7 +1007,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Molde%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406845",
+      "osm": "https://www.openstreetmap.org/relation/406845",
       "tittel": {
         "nob": "Molde"
       },
@@ -1052,7 +1052,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%85lesund%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406858",
+      "osm": "https://www.openstreetmap.org/relation/406858",
       "tittel": {
         "nob": "Ålesund"
       },
@@ -1090,7 +1090,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Vanylven%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406862",
+      "osm": "https://www.openstreetmap.org/relation/406862",
       "tittel": {
         "nob": "Vanylven"
       },
@@ -1127,7 +1127,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Sande%20M%C3%B8re%20og%20Romsdal%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406867",
+      "osm": "https://www.openstreetmap.org/relation/406867",
       "tittel": {
         "nob": "Sande"
       },
@@ -1162,7 +1162,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Her%C3%B8y%20M%C3%B8re%20og%20Romsdal%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406866",
+      "osm": "https://www.openstreetmap.org/relation/406866",
       "tittel": {
         "nob": "Herøy"
       },
@@ -1196,7 +1196,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Ulstein%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406865",
+      "osm": "https://www.openstreetmap.org/relation/406865",
       "tittel": {
         "nob": "Ulstein"
       },
@@ -1231,7 +1231,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Hareid%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406864",
+      "osm": "https://www.openstreetmap.org/relation/406864",
       "tittel": {
         "nob": "Hareid"
       },
@@ -1270,7 +1270,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%98rsta%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406860",
+      "osm": "https://www.openstreetmap.org/relation/406860",
       "tittel": {
         "nob": "Ørsta"
       },
@@ -1312,7 +1312,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Stranda%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406852",
+      "osm": "https://www.openstreetmap.org/relation/406852",
       "tittel": {
         "nob": "Stranda"
       },
@@ -1352,7 +1352,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Sykkylven%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406857",
+      "osm": "https://www.openstreetmap.org/relation/406857",
       "tittel": {
         "nob": "Sykkylven"
       },
@@ -1388,7 +1388,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Sula%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406863",
+      "osm": "https://www.openstreetmap.org/relation/406863",
       "tittel": {
         "nob": "Sula"
       },
@@ -1426,7 +1426,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Giske%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406859",
+      "osm": "https://www.openstreetmap.org/relation/406859",
       "tittel": {
         "nob": "Giske"
       },
@@ -1468,7 +1468,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Vestnes%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406850",
+      "osm": "https://www.openstreetmap.org/relation/406850",
       "tittel": {
         "nob": "Vestnes"
       },
@@ -1508,7 +1508,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Rauma%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406844",
+      "osm": "https://www.openstreetmap.org/relation/406844",
       "tittel": {
         "nob": "Rauma"
       },
@@ -1547,7 +1547,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Aukra%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406847",
+      "osm": "https://www.openstreetmap.org/relation/406847",
       "tittel": {
         "nob": "Aukra"
       },
@@ -1586,7 +1586,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Aver%C3%B8y%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406840",
+      "osm": "https://www.openstreetmap.org/relation/406840",
       "tittel": {
         "nob": "Averøy"
       },
@@ -1627,7 +1627,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Gjemnes%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406841",
+      "osm": "https://www.openstreetmap.org/relation/406841",
       "tittel": {
         "nob": "Gjemnes"
       },
@@ -1668,7 +1668,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Tingvoll%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406838",
+      "osm": "https://www.openstreetmap.org/relation/406838",
       "tittel": {
         "nob": "Tingvoll"
       },
@@ -1707,7 +1707,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Sunndal%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406839",
+      "osm": "https://www.openstreetmap.org/relation/406839",
       "tittel": {
         "nob": "Sunndal"
       },
@@ -1745,7 +1745,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Surnadal%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406836",
+      "osm": "https://www.openstreetmap.org/relation/406836",
       "tittel": {
         "nob": "Surnadal"
       },
@@ -1780,7 +1780,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Sm%C3%B8la%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "405267",
+      "osm": "https://www.openstreetmap.org/relation/405267",
       "tittel": {
         "nob": "Smøla"
       },
@@ -1823,7 +1823,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Aure%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406833",
+      "osm": "https://www.openstreetmap.org/relation/406833",
       "tittel": {
         "nob": "Aure"
       },
@@ -1864,7 +1864,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Volda%20komm%202020.svg"
       },
       "nivå": "kommune",
-      "osm": "406861",
+      "osm": "https://www.openstreetmap.org/relation/406861",
       "tittel": {
         "nob": "Volda"
       },
@@ -1979,7 +1979,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Bod%C3%B8%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "409037",
+      "osm": "https://www.openstreetmap.org/relation/409037",
       "tittel": {
         "nob": "Bodø"
       },
@@ -2019,7 +2019,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Narvik%20komm%202020.svg"
       },
       "nivå": "kommune",
-      "osm": "408166",
+      "osm": "https://www.openstreetmap.org/relation/408166",
       "tittel": {
         "nob": "Narvik"
       },
@@ -2060,7 +2060,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Bindal%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "408210",
+      "osm": "https://www.openstreetmap.org/relation/408210",
       "tittel": {
         "nob": "Bindal"
       },
@@ -2093,7 +2093,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/S%C3%B8mna%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "408211",
+      "osm": "https://www.openstreetmap.org/relation/408211",
       "tittel": {
         "nob": "Sømna"
       },
@@ -2132,7 +2132,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Br%C3%B8nn%C3%B8y%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "408212",
+      "osm": "https://www.openstreetmap.org/relation/408212",
       "tittel": {
         "nob": "Brønnøy"
       },
@@ -2170,7 +2170,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Vega%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "408215",
+      "osm": "https://www.openstreetmap.org/relation/408215",
       "tittel": {
         "nob": "Vega"
       },
@@ -2206,7 +2206,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Vevelstad%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "408214",
+      "osm": "https://www.openstreetmap.org/relation/408214",
       "tittel": {
         "nob": "Vevelstad"
       },
@@ -2241,7 +2241,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Her%C3%B8y%20Nordland%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "408217",
+      "osm": "https://www.openstreetmap.org/relation/408217",
       "tittel": {
         "nob": "Herøy"
       },
@@ -2280,7 +2280,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Alstahaug%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "408216",
+      "osm": "https://www.openstreetmap.org/relation/408216",
       "tittel": {
         "nob": "Alstahaug"
       },
@@ -2318,7 +2318,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Leirfjord%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "408218",
+      "osm": "https://www.openstreetmap.org/relation/408218",
       "tittel": {
         "nob": "Leirfjord"
       },
@@ -2359,7 +2359,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Vefsn%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "408213",
+      "osm": "https://www.openstreetmap.org/relation/408213",
       "tittel": {
         "nob": "Vefsn"
       },
@@ -2397,7 +2397,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Grane%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "408209",
+      "osm": "https://www.openstreetmap.org/relation/408209",
       "tittel": {
         "nob": "Grane"
       },
@@ -2432,7 +2432,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Hattfjelldal%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "408200",
+      "osm": "https://www.openstreetmap.org/relation/408200",
       "tittel": {
         "nob": "Hattfjelldal",
         "sma": "Aarborte"
@@ -2473,7 +2473,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/D%C3%B8nna%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "408219",
+      "osm": "https://www.openstreetmap.org/relation/408219",
       "tittel": {
         "nob": "Dønna"
       },
@@ -2510,7 +2510,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Nesna%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "408220",
+      "osm": "https://www.openstreetmap.org/relation/408220",
       "tittel": {
         "nob": "Nesna"
       },
@@ -2545,7 +2545,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Hemnes%20Kommunevapen.svg"
       },
       "nivå": "kommune",
-      "osm": "408201",
+      "osm": "https://www.openstreetmap.org/relation/408201",
       "tittel": {
         "nob": "Hemnes"
       },
@@ -2587,7 +2587,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Rana%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "408202",
+      "osm": "https://www.openstreetmap.org/relation/408202",
       "tittel": {
         "nob": "Rana"
       },
@@ -2623,7 +2623,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Lur%C3%B8y%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "408221",
+      "osm": "https://www.openstreetmap.org/relation/408221",
       "tittel": {
         "nob": "Lurøy"
       },
@@ -2659,7 +2659,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Tr%C3%A6na%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "408222",
+      "osm": "https://www.openstreetmap.org/relation/408222",
       "tittel": {
         "nob": "Træna"
       },
@@ -2694,7 +2694,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/R%C3%B8d%C3%B8y%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "408223",
+      "osm": "https://www.openstreetmap.org/relation/408223",
       "tittel": {
         "nob": "Rødøy"
       },
@@ -2731,7 +2731,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Mel%C3%B8y%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "409040",
+      "osm": "https://www.openstreetmap.org/relation/409040",
       "tittel": {
         "nob": "Meløy"
       },
@@ -2765,7 +2765,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Gildesk%C3%A5l%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "409038",
+      "osm": "https://www.openstreetmap.org/relation/409038",
       "tittel": {
         "nob": "Gildeskål"
       },
@@ -2801,7 +2801,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Beiarn%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "409039",
+      "osm": "https://www.openstreetmap.org/relation/409039",
       "tittel": {
         "nob": "Beiarn"
       },
@@ -2836,7 +2836,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Saltdal%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "408203",
+      "osm": "https://www.openstreetmap.org/relation/408203",
       "tittel": {
         "nob": "Saltdal"
       },
@@ -2875,7 +2875,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Fauske%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "408204",
+      "osm": "https://www.openstreetmap.org/relation/408204",
       "tittel": {
         "nob": "Fauske",
         "smj": "Fuossko"
@@ -2912,7 +2912,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/S%C3%B8rfold%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "408205",
+      "osm": "https://www.openstreetmap.org/relation/408205",
       "tittel": {
         "nob": "Sørfold"
       },
@@ -2945,7 +2945,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Steigen%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "408208",
+      "osm": "https://www.openstreetmap.org/relation/408208",
       "tittel": {
         "nob": "Steigen"
       },
@@ -2983,7 +2983,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/L%C3%B8dingen%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "409041",
+      "osm": "https://www.openstreetmap.org/relation/409041",
       "tittel": {
         "nob": "Lødingen"
       },
@@ -3018,7 +3018,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Evenes%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "409036",
+      "osm": "https://www.openstreetmap.org/relation/409036",
       "tittel": {
         "nob": "Evenes"
       },
@@ -3055,7 +3055,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/R%C3%B8st%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "409032",
+      "osm": "https://www.openstreetmap.org/relation/409032",
       "tittel": {
         "nob": "Røst"
       },
@@ -3091,7 +3091,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/V%C3%A6r%C3%B8y%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "409033",
+      "osm": "https://www.openstreetmap.org/relation/409033",
       "tittel": {
         "nob": "Værøy"
       },
@@ -3127,7 +3127,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Flakstad%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "408479",
+      "osm": "https://www.openstreetmap.org/relation/408479",
       "tittel": {
         "nob": "Flakstad"
       },
@@ -3163,7 +3163,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Vestv%C3%A5g%C3%B8y%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "408480",
+      "osm": "https://www.openstreetmap.org/relation/408480",
       "tittel": {
         "nob": "Vestvågøy"
       },
@@ -3197,7 +3197,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/V%C3%A5gan%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "408481",
+      "osm": "https://www.openstreetmap.org/relation/408481",
       "tittel": {
         "nob": "Vågan"
       },
@@ -3234,7 +3234,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Hadsel%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "409034",
+      "osm": "https://www.openstreetmap.org/relation/409034",
       "tittel": {
         "nob": "Hadsel"
       },
@@ -3269,7 +3269,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/B%C3%B8%20Nordland%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "408482",
+      "osm": "https://www.openstreetmap.org/relation/408482",
       "tittel": {
         "nob": "Bø"
       },
@@ -3303,7 +3303,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%98ksnes%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "408483",
+      "osm": "https://www.openstreetmap.org/relation/408483",
       "tittel": {
         "nob": "Øksnes"
       },
@@ -3341,7 +3341,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Sortland%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "408484",
+      "osm": "https://www.openstreetmap.org/relation/408484",
       "tittel": {
         "nob": "Sortland",
         "sme": "Suortá"
@@ -3381,7 +3381,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/And%C3%B8y%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "408160",
+      "osm": "https://www.openstreetmap.org/relation/408160",
       "tittel": {
         "nob": "Andøy"
       },
@@ -3420,7 +3420,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Moskenes%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "408478",
+      "osm": "https://www.openstreetmap.org/relation/408478",
       "tittel": {
         "nob": "Moskenes"
       },
@@ -3457,7 +3457,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Hamar%C3%B8y%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "408206",
+      "osm": "https://www.openstreetmap.org/relation/408206",
       "tittel": {
         "nob": "Hamarøy",
         "smj": "Hábmer"
@@ -3496,7 +3496,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Halden%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406075",
+      "osm": "https://www.openstreetmap.org/relation/406075",
       "tittel": {
         "nob": "Halden"
       },
@@ -3535,7 +3535,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Rygge%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406087",
+      "osm": "https://www.openstreetmap.org/relation/406087",
       "tittel": {
         "nob": "Moss"
       },
@@ -3579,7 +3579,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Sarpsborg%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406078",
+      "osm": "https://www.openstreetmap.org/relation/406078",
       "tittel": {
         "nob": "Sarpsborg"
       },
@@ -3618,7 +3618,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Fredrikstad%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406077",
+      "osm": "https://www.openstreetmap.org/relation/406077",
       "tittel": {
         "nob": "Fredrikstad"
       },
@@ -3658,7 +3658,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Drammen%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "407953",
+      "osm": "https://www.openstreetmap.org/relation/407953",
       "tittel": {
         "nob": "Drammen"
       },
@@ -3702,7 +3702,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Kongsberg%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "412349",
+      "osm": "https://www.openstreetmap.org/relation/412349",
       "tittel": {
         "nob": "Kongsberg"
       },
@@ -3748,7 +3748,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Ringerike%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "412360",
+      "osm": "https://www.openstreetmap.org/relation/412360",
       "tittel": {
         "nob": "Ringerike"
       },
@@ -3783,7 +3783,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Hvaler%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406076",
+      "osm": "https://www.openstreetmap.org/relation/406076",
       "tittel": {
         "nob": "Hvaler"
       },
@@ -3820,7 +3820,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Aremark%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406074",
+      "osm": "https://www.openstreetmap.org/relation/406074",
       "tittel": {
         "nob": "Aremark"
       },
@@ -3859,7 +3859,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Marker%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406073",
+      "osm": "https://www.openstreetmap.org/relation/406073",
       "tittel": {
         "nob": "Marker"
       },
@@ -3940,7 +3940,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Skiptvet%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406083",
+      "osm": "https://www.openstreetmap.org/relation/406083",
       "tittel": {
         "nob": "Skiptvet"
       },
@@ -3978,7 +3978,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Rakkestad%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406079",
+      "osm": "https://www.openstreetmap.org/relation/406079",
       "tittel": {
         "nob": "Rakkestad"
       },
@@ -4014,7 +4014,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/R%C3%A5de%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406089",
+      "osm": "https://www.openstreetmap.org/relation/406089",
       "tittel": {
         "nob": "Råde"
       },
@@ -4054,7 +4054,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/V%C3%A5ler%20%C3%98stfold%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406086",
+      "osm": "https://www.openstreetmap.org/relation/406086",
       "tittel": {
         "nob": "Våler"
       },
@@ -4091,7 +4091,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Vestby%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406133",
+      "osm": "https://www.openstreetmap.org/relation/406133",
       "tittel": {
         "nob": "Vestby"
       },
@@ -4168,7 +4168,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%85s%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "409940",
+      "osm": "https://www.openstreetmap.org/relation/409940",
       "tittel": {
         "nob": "Ås"
       },
@@ -4206,7 +4206,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Frogn%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406134",
+      "osm": "https://www.openstreetmap.org/relation/406134",
       "tittel": {
         "nob": "Frogn"
       },
@@ -4243,7 +4243,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Nesodden%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406135",
+      "osm": "https://www.openstreetmap.org/relation/406135",
       "tittel": {
         "nob": "Nesodden"
       },
@@ -4282,7 +4282,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/B%C3%A6rum%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406136",
+      "osm": "https://www.openstreetmap.org/relation/406136",
       "tittel": {
         "nob": "Bærum"
       },
@@ -4360,7 +4360,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/R%C3%B8mskog%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406120",
+      "osm": "https://www.openstreetmap.org/relation/406120",
       "tittel": {
         "nob": "Aurskog-Høland"
       },
@@ -4396,7 +4396,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/R%C3%A6lingen%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406127",
+      "osm": "https://www.openstreetmap.org/relation/406127",
       "tittel": {
         "nob": "Rælingen"
       },
@@ -4440,7 +4440,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Enebakk%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406129",
+      "osm": "https://www.openstreetmap.org/relation/406129",
       "tittel": {
         "nob": "Enebakk"
       },
@@ -4478,7 +4478,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/L%C3%B8renskog%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406126",
+      "osm": "https://www.openstreetmap.org/relation/406126",
       "tittel": {
         "nob": "Lørenskog"
       },
@@ -4556,7 +4556,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Nittedal%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406122",
+      "osm": "https://www.openstreetmap.org/relation/406122",
       "tittel": {
         "nob": "Nittedal"
       },
@@ -4595,7 +4595,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Gjerdrum%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406123",
+      "osm": "https://www.openstreetmap.org/relation/406123",
       "tittel": {
         "nob": "Gjerdrum"
       },
@@ -4634,7 +4634,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Ullensaker%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406118",
+      "osm": "https://www.openstreetmap.org/relation/406118",
       "tittel": {
         "nob": "Ullensaker"
       },
@@ -4675,7 +4675,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Nes%20Akershus%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406119",
+      "osm": "https://www.openstreetmap.org/relation/406119",
       "tittel": {
         "nob": "Nes"
       },
@@ -4718,7 +4718,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Eidsvoll%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406117",
+      "osm": "https://www.openstreetmap.org/relation/406117",
       "tittel": {
         "nob": "Eidsvoll"
       },
@@ -4758,7 +4758,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Nannestad%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406121",
+      "osm": "https://www.openstreetmap.org/relation/406121",
       "tittel": {
         "nob": "Nannestad"
       },
@@ -4796,7 +4796,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Hurdal%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406116",
+      "osm": "https://www.openstreetmap.org/relation/406116",
       "tittel": {
         "nob": "Hurdal"
       },
@@ -4833,7 +4833,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Hole%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "411384",
+      "osm": "https://www.openstreetmap.org/relation/411384",
       "tittel": {
         "nob": "Hole"
       },
@@ -4870,7 +4870,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Fl%C3%A5%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "412359",
+      "osm": "https://www.openstreetmap.org/relation/412359",
       "tittel": {
         "nob": "Flå"
       },
@@ -4908,7 +4908,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Nes%20Buskerud%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "412358",
+      "osm": "https://www.openstreetmap.org/relation/412358",
       "tittel": {
         "nob": "Nesbyen"
       },
@@ -4944,7 +4944,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Gol%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "412357",
+      "osm": "https://www.openstreetmap.org/relation/412357",
       "tittel": {
         "nob": "Gol"
       },
@@ -4983,7 +4983,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Hemsedal%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "412356",
+      "osm": "https://www.openstreetmap.org/relation/412356",
       "tittel": {
         "nob": "Hemsedal"
       },
@@ -5022,7 +5022,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%85l%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "412355",
+      "osm": "https://www.openstreetmap.org/relation/412355",
       "tittel": {
         "nob": "Ål"
       },
@@ -5059,7 +5059,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Hol%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "412354",
+      "osm": "https://www.openstreetmap.org/relation/412354",
       "tittel": {
         "nob": "Hol"
       },
@@ -5097,7 +5097,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Sigdal%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "412362",
+      "osm": "https://www.openstreetmap.org/relation/412362",
       "tittel": {
         "nob": "Sigdal"
       },
@@ -5134,7 +5134,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Kr%C3%B8dsherad%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "412361",
+      "osm": "https://www.openstreetmap.org/relation/412361",
       "tittel": {
         "nob": "Krødsherad"
       },
@@ -5173,7 +5173,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Modum%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "412363",
+      "osm": "https://www.openstreetmap.org/relation/412363",
       "tittel": {
         "nob": "Modum"
       },
@@ -5214,7 +5214,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%98vre%20Eiker%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "412350",
+      "osm": "https://www.openstreetmap.org/relation/412350",
       "tittel": {
         "nob": "Øvre Eiker"
       },
@@ -5255,7 +5255,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Lier%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "411383",
+      "osm": "https://www.openstreetmap.org/relation/411383",
       "tittel": {
         "nob": "Lier"
       },
@@ -5292,7 +5292,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Flesberg%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "412351",
+      "osm": "https://www.openstreetmap.org/relation/412351",
       "tittel": {
         "nob": "Flesberg"
       },
@@ -5327,7 +5327,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Rollag%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "412352",
+      "osm": "https://www.openstreetmap.org/relation/412352",
       "tittel": {
         "nob": "Rollag"
       },
@@ -5368,7 +5368,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Nore%20og%20Uvdal%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "412353",
+      "osm": "https://www.openstreetmap.org/relation/412353",
       "tittel": {
         "nob": "Nore og Uvdal"
       },
@@ -5405,7 +5405,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Jevnaker%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "412429",
+      "osm": "https://www.openstreetmap.org/relation/412429",
       "tittel": {
         "nob": "Jevnaker"
       },
@@ -5445,7 +5445,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Lunner%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "412430",
+      "osm": "https://www.openstreetmap.org/relation/412430",
       "tittel": {
         "nob": "Lunner"
       },
@@ -5484,7 +5484,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Kongsvinger%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "412534",
+      "osm": "https://www.openstreetmap.org/relation/412534",
       "tittel": {
         "nob": "Kongsvinger"
       },
@@ -5525,7 +5525,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Hamar%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "410882",
+      "osm": "https://www.openstreetmap.org/relation/410882",
       "tittel": {
         "nob": "Hamar"
       },
@@ -5567,7 +5567,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Lillehammer%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "412416",
+      "osm": "https://www.openstreetmap.org/relation/412416",
       "tittel": {
         "nob": "Lillehammer"
       },
@@ -5609,7 +5609,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Gj%C3%B8vik%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "412418",
+      "osm": "https://www.openstreetmap.org/relation/412418",
       "tittel": {
         "nob": "Gjøvik"
       },
@@ -5651,7 +5651,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Ringsaker%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "411313",
+      "osm": "https://www.openstreetmap.org/relation/411313",
       "tittel": {
         "nob": "Ringsaker"
       },
@@ -5690,7 +5690,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/L%C3%B8ten%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "410880",
+      "osm": "https://www.openstreetmap.org/relation/410880",
       "tittel": {
         "nob": "Løten"
       },
@@ -5732,7 +5732,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Stange%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "410883",
+      "osm": "https://www.openstreetmap.org/relation/410883",
       "tittel": {
         "nob": "Stange"
       },
@@ -5772,7 +5772,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Nord-Odal%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "412536",
+      "osm": "https://www.openstreetmap.org/relation/412536",
       "tittel": {
         "nob": "Nord-Odal"
       },
@@ -5811,7 +5811,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/S%C3%B8r-Odal%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "412535",
+      "osm": "https://www.openstreetmap.org/relation/412535",
       "tittel": {
         "nob": "Sør-Odal"
       },
@@ -5849,7 +5849,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Eidskog%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "412533",
+      "osm": "https://www.openstreetmap.org/relation/412533",
       "tittel": {
         "nob": "Eidskog"
       },
@@ -5887,7 +5887,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Grue%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "412537",
+      "osm": "https://www.openstreetmap.org/relation/412537",
       "tittel": {
         "nob": "Grue"
       },
@@ -5923,7 +5923,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%85snes%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "412538",
+      "osm": "https://www.openstreetmap.org/relation/412538",
       "tittel": {
         "nob": "Åsnes"
       },
@@ -5962,7 +5962,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/V%C3%A5ler%20Hedmark%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "410884",
+      "osm": "https://www.openstreetmap.org/relation/410884",
       "tittel": {
         "nob": "Våler"
       },
@@ -6002,7 +6002,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Elverum%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "410881",
+      "osm": "https://www.openstreetmap.org/relation/410881",
       "tittel": {
         "nob": "Elverum"
       },
@@ -6044,7 +6044,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Trysil%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "412539",
+      "osm": "https://www.openstreetmap.org/relation/412539",
       "tittel": {
         "nob": "Trysil"
       },
@@ -6085,7 +6085,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%85mot%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "410885",
+      "osm": "https://www.openstreetmap.org/relation/410885",
       "tittel": {
         "nob": "Åmot"
       },
@@ -6127,7 +6127,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Stor-Elvdal%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "412540",
+      "osm": "https://www.openstreetmap.org/relation/412540",
       "tittel": {
         "nob": "Stor-Elvdal"
       },
@@ -6168,7 +6168,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Rendalen%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "412541",
+      "osm": "https://www.openstreetmap.org/relation/412541",
       "tittel": {
         "nob": "Rendalen"
       },
@@ -6207,7 +6207,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Engerdal%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "412542",
+      "osm": "https://www.openstreetmap.org/relation/412542",
       "tittel": {
         "nob": "Engerdal"
       },
@@ -6245,7 +6245,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Tolga%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "412544",
+      "osm": "https://www.openstreetmap.org/relation/412544",
       "tittel": {
         "nob": "Tolga"
       },
@@ -6288,7 +6288,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Tynset%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "412545",
+      "osm": "https://www.openstreetmap.org/relation/412545",
       "tittel": {
         "nob": "Tynset"
       },
@@ -6327,7 +6327,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Alvdal%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "412546",
+      "osm": "https://www.openstreetmap.org/relation/412546",
       "tittel": {
         "nob": "Alvdal"
       },
@@ -6368,7 +6368,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Folldal%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "412547",
+      "osm": "https://www.openstreetmap.org/relation/412547",
       "tittel": {
         "nob": "Folldal"
       },
@@ -6408,7 +6408,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Os%20Hedmark%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "412543",
+      "osm": "https://www.openstreetmap.org/relation/412543",
       "tittel": {
         "nob": "Os"
       },
@@ -6446,7 +6446,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Dovre%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "412408",
+      "osm": "https://www.openstreetmap.org/relation/412408",
       "tittel": {
         "nob": "Dovre"
       },
@@ -6489,7 +6489,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Lesja%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "412407",
+      "osm": "https://www.openstreetmap.org/relation/412407",
       "tittel": {
         "nob": "Lesja"
       },
@@ -6531,7 +6531,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Skj%C3%A5k%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "412406",
+      "osm": "https://www.openstreetmap.org/relation/412406",
       "tittel": {
         "nob": "Skjåk"
       },
@@ -6571,7 +6571,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Lom%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "412409",
+      "osm": "https://www.openstreetmap.org/relation/412409",
       "tittel": {
         "nob": "Lom"
       },
@@ -6612,7 +6612,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/V%C3%A5g%C3%A5%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "412410",
+      "osm": "https://www.openstreetmap.org/relation/412410",
       "tittel": {
         "nob": "Vågå"
       },
@@ -6650,7 +6650,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Nord-Fron%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "412412",
+      "osm": "https://www.openstreetmap.org/relation/412412",
       "tittel": {
         "nob": "Nord-Fron"
       },
@@ -6689,7 +6689,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Sel%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "412411",
+      "osm": "https://www.openstreetmap.org/relation/412411",
       "tittel": {
         "nob": "Sel"
       },
@@ -6730,7 +6730,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/S%C3%B8r-Fron%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "412413",
+      "osm": "https://www.openstreetmap.org/relation/412413",
       "tittel": {
         "nob": "Sør-Fron"
       },
@@ -6768,7 +6768,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Ringebu%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "412414",
+      "osm": "https://www.openstreetmap.org/relation/412414",
       "tittel": {
         "nob": "Ringebu"
       },
@@ -6807,7 +6807,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%98yer%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "412415",
+      "osm": "https://www.openstreetmap.org/relation/412415",
       "tittel": {
         "nob": "Øyer"
       },
@@ -6848,7 +6848,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Gausdal%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "412417",
+      "osm": "https://www.openstreetmap.org/relation/412417",
       "tittel": {
         "nob": "Gausdal"
       },
@@ -6888,7 +6888,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%98stre%20Toten%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "412419",
+      "osm": "https://www.openstreetmap.org/relation/412419",
       "tittel": {
         "nob": "Østre Toten"
       },
@@ -6927,7 +6927,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Vestre%20Toten%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "412420",
+      "osm": "https://www.openstreetmap.org/relation/412420",
       "tittel": {
         "nob": "Vestre Toten"
       },
@@ -6968,7 +6968,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Gran%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "412421",
+      "osm": "https://www.openstreetmap.org/relation/412421",
       "tittel": {
         "nob": "Gran"
       },
@@ -7008,7 +7008,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/S%C3%B8ndre%20Land%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "412422",
+      "osm": "https://www.openstreetmap.org/relation/412422",
       "tittel": {
         "nob": "Søndre Land"
       },
@@ -7049,7 +7049,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Nordre%20Land%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "412423",
+      "osm": "https://www.openstreetmap.org/relation/412423",
       "tittel": {
         "nob": "Nordre Land"
       },
@@ -7091,7 +7091,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/S%C3%B8r-Aurdal%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "412424",
+      "osm": "https://www.openstreetmap.org/relation/412424",
       "tittel": {
         "nob": "Sør-Aurdal"
       },
@@ -7128,7 +7128,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Etnedal%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "412428",
+      "osm": "https://www.openstreetmap.org/relation/412428",
       "tittel": {
         "nob": "Etnedal"
       },
@@ -7170,7 +7170,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Nord-Aurdal%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "412425",
+      "osm": "https://www.openstreetmap.org/relation/412425",
       "tittel": {
         "nob": "Nord-Aurdal"
       },
@@ -7208,7 +7208,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Vestre%20Slidre%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "412426",
+      "osm": "https://www.openstreetmap.org/relation/412426",
       "tittel": {
         "nob": "Vestre Slidre"
       },
@@ -7249,7 +7249,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%98ystre%20Slidre%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "412431",
+      "osm": "https://www.openstreetmap.org/relation/412431",
       "tittel": {
         "nob": "Øystre Slidre"
       },
@@ -7291,7 +7291,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Vang%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "412427",
+      "osm": "https://www.openstreetmap.org/relation/412427",
       "tittel": {
         "nob": "Vang"
       },
@@ -7329,7 +7329,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Horten%20Kommune.svg"
       },
       "nivå": "kommune",
-      "osm": "404590",
+      "osm": "https://www.openstreetmap.org/relation/404590",
       "tittel": {
         "nob": "Horten"
       },
@@ -7372,7 +7372,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Holmestrand%20komm%202020.svg"
       },
       "nivå": "kommune",
-      "osm": "404600",
+      "osm": "https://www.openstreetmap.org/relation/404600",
       "tittel": {
         "nob": "Holmestrand"
       },
@@ -7413,7 +7413,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/T%C3%B8nsberg%20komm%202020.svg"
       },
       "nivå": "kommune",
-      "osm": "404598",
+      "osm": "https://www.openstreetmap.org/relation/404598",
       "tittel": {
         "nob": "Tønsberg"
       },
@@ -7452,7 +7452,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandefjord%20komm%202017.svg"
       },
       "nivå": "kommune",
-      "osm": "404592",
+      "osm": "https://www.openstreetmap.org/relation/404592",
       "tittel": {
         "nob": "Sandefjord"
       },
@@ -7494,7 +7494,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Larvik%20komm%202018.svg"
       },
       "nivå": "kommune",
-      "osm": "404591",
+      "osm": "https://www.openstreetmap.org/relation/404591",
       "tittel": {
         "nob": "Larvik"
       },
@@ -7534,7 +7534,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Porsgrunn%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "405171",
+      "osm": "https://www.openstreetmap.org/relation/405171",
       "tittel": {
         "nob": "Porsgrunn"
       },
@@ -7577,7 +7577,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Skien%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "405166",
+      "osm": "https://www.openstreetmap.org/relation/405166",
       "tittel": {
         "nob": "Skien"
       },
@@ -7619,7 +7619,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Notodden%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "405159",
+      "osm": "https://www.openstreetmap.org/relation/405159",
       "tittel": {
         "nob": "Notodden"
       },
@@ -7654,7 +7654,7 @@
         ]
       },
       "nivå": "kommune",
-      "osm": "404594",
+      "osm": "https://www.openstreetmap.org/relation/404594",
       "tittel": {
         "nob": "Færder"
       },
@@ -7689,7 +7689,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Siljan%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "405170",
+      "osm": "https://www.openstreetmap.org/relation/405170",
       "tittel": {
         "nob": "Siljan"
       },
@@ -7727,7 +7727,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Bamble%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "405172",
+      "osm": "https://www.openstreetmap.org/relation/405172",
       "tittel": {
         "nob": "Bamble"
       },
@@ -7765,7 +7765,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Krager%C3%B8%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "405173",
+      "osm": "https://www.openstreetmap.org/relation/405173",
       "tittel": {
         "nob": "Kragerø"
       },
@@ -7805,7 +7805,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Drangedal%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "405167",
+      "osm": "https://www.openstreetmap.org/relation/405167",
       "tittel": {
         "nob": "Drangedal"
       },
@@ -7843,7 +7843,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Nome%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "405164",
+      "osm": "https://www.openstreetmap.org/relation/405164",
       "tittel": {
         "nob": "Nome"
       },
@@ -7921,7 +7921,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Tinn%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "405158",
+      "osm": "https://www.openstreetmap.org/relation/405158",
       "tittel": {
         "nob": "Tinn"
       },
@@ -7956,7 +7956,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Hjartdal%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "405160",
+      "osm": "https://www.openstreetmap.org/relation/405160",
       "tittel": {
         "nob": "Hjartdal"
       },
@@ -7997,7 +7997,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Seljord%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "405161",
+      "osm": "https://www.openstreetmap.org/relation/405161",
       "tittel": {
         "nob": "Seljord"
       },
@@ -8038,7 +8038,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Kviteseid%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "405163",
+      "osm": "https://www.openstreetmap.org/relation/405163",
       "tittel": {
         "nob": "Kviteseid"
       },
@@ -8077,7 +8077,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Nissedal%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "405174",
+      "osm": "https://www.openstreetmap.org/relation/405174",
       "tittel": {
         "nob": "Nissedal"
       },
@@ -8116,7 +8116,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Fyresdal%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "405168",
+      "osm": "https://www.openstreetmap.org/relation/405168",
       "tittel": {
         "nob": "Fyresdal"
       },
@@ -8156,7 +8156,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Tokke%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "405169",
+      "osm": "https://www.openstreetmap.org/relation/405169",
       "tittel": {
         "nob": "Tokke"
       },
@@ -8197,7 +8197,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Vinje%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "405157",
+      "osm": "https://www.openstreetmap.org/relation/405157",
       "tittel": {
         "nob": "Vinje"
       },
@@ -8237,7 +8237,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Ris%C3%B8r%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406025",
+      "osm": "https://www.openstreetmap.org/relation/406025",
       "tittel": {
         "nob": "Risør"
       },
@@ -8275,7 +8275,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Grimstad%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406035",
+      "osm": "https://www.openstreetmap.org/relation/406035",
       "tittel": {
         "nob": "Grimstad"
       },
@@ -8314,7 +8314,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Arendal%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406036",
+      "osm": "https://www.openstreetmap.org/relation/406036",
       "tittel": {
         "nob": "Arendal"
       },
@@ -8354,7 +8354,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Kristiansand%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "405981",
+      "osm": "https://www.openstreetmap.org/relation/405981",
       "tittel": {
         "nob": "Kristiansand"
       },
@@ -8391,7 +8391,7 @@
         ]
       },
       "nivå": "kommune",
-      "osm": "10152441",
+      "osm": "https://www.openstreetmap.org/relation/10152441",
       "tittel": {
         "nob": "Lindesnes"
       },
@@ -8427,7 +8427,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Farsund%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "405986",
+      "osm": "https://www.openstreetmap.org/relation/405986",
       "tittel": {
         "nob": "Farsund"
       },
@@ -8467,7 +8467,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Flekkefjord%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "405973",
+      "osm": "https://www.openstreetmap.org/relation/405973",
       "tittel": {
         "nob": "Flekkefjord"
       },
@@ -8506,7 +8506,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Gjerstad%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406038",
+      "osm": "https://www.openstreetmap.org/relation/406038",
       "tittel": {
         "nob": "Gjerstad"
       },
@@ -8545,7 +8545,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Veg%C3%A5rshei%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406037",
+      "osm": "https://www.openstreetmap.org/relation/406037",
       "tittel": {
         "nob": "Vegårshei"
       },
@@ -8584,7 +8584,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Tvedestrand%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406026",
+      "osm": "https://www.openstreetmap.org/relation/406026",
       "tittel": {
         "nob": "Tvedestrand"
       },
@@ -8625,7 +8625,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Froland%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "407595",
+      "osm": "https://www.openstreetmap.org/relation/407595",
       "tittel": {
         "nob": "Froland"
       },
@@ -8666,7 +8666,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Lillesand%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406034",
+      "osm": "https://www.openstreetmap.org/relation/406034",
       "tittel": {
         "nob": "Lillesand"
       },
@@ -8707,7 +8707,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Birkenes%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406033",
+      "osm": "https://www.openstreetmap.org/relation/406033",
       "tittel": {
         "nob": "Birkenes"
       },
@@ -8747,7 +8747,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%85mli%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406030",
+      "osm": "https://www.openstreetmap.org/relation/406030",
       "tittel": {
         "nob": "Åmli"
       },
@@ -8782,7 +8782,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Iveland%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406032",
+      "osm": "https://www.openstreetmap.org/relation/406032",
       "tittel": {
         "nob": "Iveland"
       },
@@ -8824,7 +8824,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Evje%20og%20Hornnes%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406031",
+      "osm": "https://www.openstreetmap.org/relation/406031",
       "tittel": {
         "nob": "Evje og Hornnes"
       },
@@ -8866,7 +8866,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Bygland%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406029",
+      "osm": "https://www.openstreetmap.org/relation/406029",
       "tittel": {
         "nob": "Bygland"
       },
@@ -8905,7 +8905,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Valle%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406028",
+      "osm": "https://www.openstreetmap.org/relation/406028",
       "tittel": {
         "nob": "Valle"
       },
@@ -8947,7 +8947,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Bykle%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406027",
+      "osm": "https://www.openstreetmap.org/relation/406027",
       "tittel": {
         "nob": "Bykle"
       },
@@ -8986,7 +8986,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Vennesla%20Kommune%20Coat%20of%20Arms.jpg"
       },
       "nivå": "kommune",
-      "osm": "405980",
+      "osm": "https://www.openstreetmap.org/relation/405980",
       "tittel": {
         "nob": "Vennesla"
       },
@@ -9023,7 +9023,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%85seral%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "405976",
+      "osm": "https://www.openstreetmap.org/relation/405976",
       "tittel": {
         "nob": "Åseral"
       },
@@ -9066,7 +9066,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Lyngdal%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "405985",
+      "osm": "https://www.openstreetmap.org/relation/405985",
       "tittel": {
         "nob": "Lyngdal"
       },
@@ -9101,7 +9101,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/H%C3%A6gebostad%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "405987",
+      "osm": "https://www.openstreetmap.org/relation/405987",
       "tittel": {
         "nob": "Hægebostad"
       },
@@ -9145,7 +9145,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Kvinesdal%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "405975",
+      "osm": "https://www.openstreetmap.org/relation/405975",
       "tittel": {
         "nob": "Kvinesdal"
       },
@@ -9188,7 +9188,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Sirdal%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "405974",
+      "osm": "https://www.openstreetmap.org/relation/405974",
       "tittel": {
         "nob": "Sirdal"
       },
@@ -9298,7 +9298,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Etne%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "404168",
+      "osm": "https://www.openstreetmap.org/relation/404168",
       "tittel": {
         "nob": "Etne"
       },
@@ -9336,7 +9336,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Sveio%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "404171",
+      "osm": "https://www.openstreetmap.org/relation/404171",
       "tittel": {
         "nob": "Sveio"
       },
@@ -9372,7 +9372,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/B%C3%B8mlo%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "404170",
+      "osm": "https://www.openstreetmap.org/relation/404170",
       "tittel": {
         "nob": "Bømlo"
       },
@@ -9409,7 +9409,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Stord%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "404169",
+      "osm": "https://www.openstreetmap.org/relation/404169",
       "tittel": {
         "nob": "Stord"
       },
@@ -9444,7 +9444,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Fitjar%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "404166",
+      "osm": "https://www.openstreetmap.org/relation/404166",
       "tittel": {
         "nob": "Fitjar"
       },
@@ -9482,7 +9482,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Tysnes%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "404165",
+      "osm": "https://www.openstreetmap.org/relation/404165",
       "tittel": {
         "nob": "Tysnes"
       },
@@ -9526,7 +9526,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Kvinnherad%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "404167",
+      "osm": "https://www.openstreetmap.org/relation/404167",
       "tittel": {
         "nob": "Kvinnherad"
       },
@@ -9604,7 +9604,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Eidfjord%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "404151",
+      "osm": "https://www.openstreetmap.org/relation/404151",
       "tittel": {
         "nob": "Eidfjord"
       },
@@ -9645,7 +9645,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Ulvik%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "404149",
+      "osm": "https://www.openstreetmap.org/relation/404149",
       "tittel": {
         "nob": "Ulvik"
       },
@@ -9687,7 +9687,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Voss%20herad.svg"
       },
       "nivå": "kommune",
-      "osm": "404138",
+      "osm": "https://www.openstreetmap.org/relation/404138",
       "tittel": {
         "nob": "Voss"
       },
@@ -9727,7 +9727,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Kvam%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "404155",
+      "osm": "https://www.openstreetmap.org/relation/404155",
       "tittel": {
         "nob": "Kvam"
       },
@@ -9766,7 +9766,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Samnanger%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "404160",
+      "osm": "https://www.openstreetmap.org/relation/404160",
       "tittel": {
         "nob": "Samnanger"
       },
@@ -9848,7 +9848,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Austevoll%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "404164",
+      "osm": "https://www.openstreetmap.org/relation/404164",
       "tittel": {
         "nob": "Austevoll"
       },
@@ -9923,7 +9923,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Ask%C3%B8y%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "404157",
+      "osm": "https://www.openstreetmap.org/relation/404157",
       "tittel": {
         "nob": "Askøy"
       },
@@ -9962,7 +9962,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Vaksdal%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "404139",
+      "osm": "https://www.openstreetmap.org/relation/404139",
       "tittel": {
         "nob": "Vaksdal"
       },
@@ -10000,7 +10000,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Modalen%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "404140",
+      "osm": "https://www.openstreetmap.org/relation/404140",
       "tittel": {
         "nob": "Modalen"
       },
@@ -10035,7 +10035,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Oster%C3%B8y%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "404141",
+      "osm": "https://www.openstreetmap.org/relation/404141",
       "tittel": {
         "nob": "Osterøy"
       },
@@ -10077,7 +10077,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Alver%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "10150624",
+      "osm": "https://www.openstreetmap.org/relation/10150624",
       "tittel": {
         "nob": "Alver"
       },
@@ -10113,7 +10113,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Austrheim%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "404145",
+      "osm": "https://www.openstreetmap.org/relation/404145",
       "tittel": {
         "nob": "Austrheim"
       },
@@ -10151,7 +10151,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Fedje%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "404146",
+      "osm": "https://www.openstreetmap.org/relation/404146",
       "tittel": {
         "nob": "Fedje"
       },
@@ -10186,7 +10186,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Masfjorden%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "404143",
+      "osm": "https://www.openstreetmap.org/relation/404143",
       "tittel": {
         "nob": "Masfjorden"
       },
@@ -10224,7 +10224,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Gulen%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "405322",
+      "osm": "https://www.openstreetmap.org/relation/405322",
       "tittel": {
         "nob": "Gulen"
       },
@@ -10259,7 +10259,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Solund%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "404731",
+      "osm": "https://www.openstreetmap.org/relation/404731",
       "tittel": {
         "nob": "Solund"
       },
@@ -10296,7 +10296,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Hyllestad%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "404674",
+      "osm": "https://www.openstreetmap.org/relation/404674",
       "tittel": {
         "nob": "Hyllestad"
       },
@@ -10341,7 +10341,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/H%C3%B8yanger%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "409073",
+      "osm": "https://www.openstreetmap.org/relation/409073",
       "tittel": {
         "nob": "Høyanger"
       },
@@ -10383,7 +10383,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Vik%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "409074",
+      "osm": "https://www.openstreetmap.org/relation/409074",
       "tittel": {
         "nob": "Vik"
       },
@@ -10425,7 +10425,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Sogndal%20komm%202020.svg"
       },
       "nivå": "kommune",
-      "osm": "409085",
+      "osm": "https://www.openstreetmap.org/relation/409085",
       "tittel": {
         "nob": "Sogndal"
       },
@@ -10463,7 +10463,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Aurland%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "409075",
+      "osm": "https://www.openstreetmap.org/relation/409075",
       "tittel": {
         "nob": "Aurland"
       },
@@ -10506,7 +10506,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/L%C3%A6rdal%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "409076",
+      "osm": "https://www.openstreetmap.org/relation/409076",
       "tittel": {
         "nob": "Lærdal"
       },
@@ -10542,7 +10542,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%85rdal%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "409077",
+      "osm": "https://www.openstreetmap.org/relation/409077",
       "tittel": {
         "nob": "Årdal"
       },
@@ -10583,7 +10583,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Luster%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "409078",
+      "osm": "https://www.openstreetmap.org/relation/409078",
       "tittel": {
         "nob": "Luster"
       },
@@ -10624,7 +10624,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Askvoll%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "404673",
+      "osm": "https://www.openstreetmap.org/relation/404673",
       "tittel": {
         "nob": "Askvoll"
       },
@@ -10661,7 +10661,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Fjaler%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "404672",
+      "osm": "https://www.openstreetmap.org/relation/404672",
       "tittel": {
         "nob": "Fjaler"
       },
@@ -10737,7 +10737,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Bremanger%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "409083",
+      "osm": "https://www.openstreetmap.org/relation/409083",
       "tittel": {
         "nob": "Bremanger"
       },
@@ -10816,7 +10816,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Gloppen%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "409082",
+      "osm": "https://www.openstreetmap.org/relation/409082",
       "tittel": {
         "nob": "Gloppen"
       },
@@ -10861,7 +10861,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Stryn%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "409079",
+      "osm": "https://www.openstreetmap.org/relation/409079",
       "tittel": {
         "nob": "Stryn"
       },
@@ -10896,7 +10896,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Trondheim%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406549",
+      "osm": "https://www.openstreetmap.org/relation/406549",
       "tittel": {
         "nob": "Trondheim"
       },
@@ -10939,7 +10939,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Verran%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "407272",
+      "osm": "https://www.openstreetmap.org/relation/407272",
       "tittel": {
         "nob": "Steinkjer"
       },
@@ -10984,7 +10984,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Namsos%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "407210",
+      "osm": "https://www.openstreetmap.org/relation/407210",
       "tittel": {
         "nob": "Namsos"
       },
@@ -11019,7 +11019,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Fr%C3%B8ya%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "405219",
+      "osm": "https://www.openstreetmap.org/relation/405219",
       "tittel": {
         "nob": "Frøya"
       },
@@ -11058,7 +11058,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Osen%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "405317",
+      "osm": "https://www.openstreetmap.org/relation/405317",
       "tittel": {
         "nob": "Osen"
       },
@@ -11102,7 +11102,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Oppdal%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406463",
+      "osm": "https://www.openstreetmap.org/relation/406463",
       "tittel": {
         "nob": "Oppdal"
       },
@@ -11140,7 +11140,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Rennebu%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406462",
+      "osm": "https://www.openstreetmap.org/relation/406462",
       "tittel": {
         "nob": "Rennebu"
       },
@@ -11181,7 +11181,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/R%C3%B8ros%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406493",
+      "osm": "https://www.openstreetmap.org/relation/406493",
       "tittel": {
         "nob": "Røros"
       },
@@ -11219,7 +11219,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Holt%C3%A5len%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406477",
+      "osm": "https://www.openstreetmap.org/relation/406477",
       "tittel": {
         "nob": "Holtålen"
       },
@@ -11259,7 +11259,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Midtre%20Gauldal%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406476",
+      "osm": "https://www.openstreetmap.org/relation/406476",
       "tittel": {
         "nob": "Midtre Gauldal"
       },
@@ -11300,7 +11300,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Melhus%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406537",
+      "osm": "https://www.openstreetmap.org/relation/406537",
       "tittel": {
         "nob": "Melhus"
       },
@@ -11335,7 +11335,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Skaun%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406540",
+      "osm": "https://www.openstreetmap.org/relation/406540",
       "tittel": {
         "nob": "Skaun"
       },
@@ -11372,7 +11372,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Malvik%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406554",
+      "osm": "https://www.openstreetmap.org/relation/406554",
       "tittel": {
         "nob": "Malvik"
       },
@@ -11413,7 +11413,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Selbu%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406520",
+      "osm": "https://www.openstreetmap.org/relation/406520",
       "tittel": {
         "nob": "Selbu"
       },
@@ -11451,7 +11451,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Tydal%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406502",
+      "osm": "https://www.openstreetmap.org/relation/406502",
       "tittel": {
         "nob": "Tydal"
       },
@@ -11488,7 +11488,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Mer%C3%A5ker%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "407292",
+      "osm": "https://www.openstreetmap.org/relation/407292",
       "tittel": {
         "nob": "Meråker"
       },
@@ -11528,7 +11528,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Stj%C3%B8rdal%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "407291",
+      "osm": "https://www.openstreetmap.org/relation/407291",
       "tittel": {
         "nob": "Stjørdal"
       },
@@ -11564,7 +11564,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Frosta%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "407287",
+      "osm": "https://www.openstreetmap.org/relation/407287",
       "tittel": {
         "nob": "Frosta"
       },
@@ -11601,7 +11601,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Levanger%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "407290",
+      "osm": "https://www.openstreetmap.org/relation/407290",
       "tittel": {
         "nob": "Levanger"
       },
@@ -11637,7 +11637,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Verdal%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "407278",
+      "osm": "https://www.openstreetmap.org/relation/407278",
       "tittel": {
         "nob": "Verdal"
       },
@@ -11675,7 +11675,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Sn%C3%A5sa%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "407273",
+      "osm": "https://www.openstreetmap.org/relation/407273",
       "tittel": {
         "nob": "Snåsa",
         "sma": "Snåase"
@@ -11712,7 +11712,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Lierne%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "407217",
+      "osm": "https://www.openstreetmap.org/relation/407217",
       "tittel": {
         "nob": "Lierne"
       },
@@ -11750,7 +11750,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/R%C3%B8yrvik%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "407202",
+      "osm": "https://www.openstreetmap.org/relation/407202",
       "tittel": {
         "nob": "Røyrvik",
         "sma": "Raarvihke"
@@ -11790,7 +11790,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Namsskogan%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "407201",
+      "osm": "https://www.openstreetmap.org/relation/407201",
       "tittel": {
         "nob": "Namsskogan"
       },
@@ -11828,7 +11828,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Grong%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "407216",
+      "osm": "https://www.openstreetmap.org/relation/407216",
       "tittel": {
         "nob": "Grong"
       },
@@ -11869,7 +11869,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/H%C3%B8ylandet%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "407200",
+      "osm": "https://www.openstreetmap.org/relation/407200",
       "tittel": {
         "nob": "Høylandet"
       },
@@ -11908,7 +11908,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Overhalla%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "407211",
+      "osm": "https://www.openstreetmap.org/relation/407211",
       "tittel": {
         "nob": "Overhalla"
       },
@@ -11946,7 +11946,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Flatanger%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "407245",
+      "osm": "https://www.openstreetmap.org/relation/407245",
       "tittel": {
         "nob": "Flatanger"
       },
@@ -11985,7 +11985,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Leka%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "407178",
+      "osm": "https://www.openstreetmap.org/relation/407178",
       "tittel": {
         "nob": "Leka"
       },
@@ -12023,7 +12023,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Inder%C3%B8y%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "2167163",
+      "osm": "https://www.openstreetmap.org/relation/2167163",
       "tittel": {
         "nob": "Inderøy"
       },
@@ -12064,7 +12064,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Leksvik%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "405951",
+      "osm": "https://www.openstreetmap.org/relation/405951",
       "tittel": {
         "nob": "Indre Fosen"
       },
@@ -12144,7 +12144,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Hitra%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "405264",
+      "osm": "https://www.openstreetmap.org/relation/405264",
       "tittel": {
         "nob": "Hitra"
       },
@@ -12183,7 +12183,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%98rland%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "405937",
+      "osm": "https://www.openstreetmap.org/relation/405937",
       "tittel": {
         "nob": "Ørland"
       },
@@ -12224,7 +12224,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Roan%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "405298",
+      "osm": "https://www.openstreetmap.org/relation/405298",
       "tittel": {
         "nob": "Åfjord"
       },
@@ -12340,7 +12340,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Rindal%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406835",
+      "osm": "https://www.openstreetmap.org/relation/406835",
       "tittel": {
         "nob": "Rindal"
       },
@@ -12383,7 +12383,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Troms%C3%B8%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "407754",
+      "osm": "https://www.openstreetmap.org/relation/407754",
       "tittel": {
         "nob": "Tromsø"
       },
@@ -12427,7 +12427,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Harstad%20komm2.png"
       },
       "nivå": "kommune",
-      "osm": "407767",
+      "osm": "https://www.openstreetmap.org/relation/407767",
       "tittel": {
         "nob": "Harstad",
         "sme": "Hárstták"
@@ -12472,7 +12472,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Alta%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406659",
+      "osm": "https://www.openstreetmap.org/relation/406659",
       "tittel": {
         "nob": "Alta"
       },
@@ -12509,7 +12509,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Vard%C3%B8%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406652",
+      "osm": "https://www.openstreetmap.org/relation/406652",
       "tittel": {
         "nob": "Vardø"
       },
@@ -12551,7 +12551,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Vads%C3%B8%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406653",
+      "osm": "https://www.openstreetmap.org/relation/406653",
       "tittel": {
         "nob": "Vadsø"
       },
@@ -12590,7 +12590,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Hammerfest%20official%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406645",
+      "osm": "https://www.openstreetmap.org/relation/406645",
       "tittel": {
         "nob": "Hammerfest"
       },
@@ -12627,7 +12627,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Kv%C3%A6fjord%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "407768",
+      "osm": "https://www.openstreetmap.org/relation/407768",
       "tittel": {
         "nob": "Kvæfjord"
       },
@@ -12668,7 +12668,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Tjeldsund%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "409035",
+      "osm": "https://www.openstreetmap.org/relation/409035",
       "tittel": {
         "nob": "Tjeldsund"
       },
@@ -12710,7 +12710,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Ibestad%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "407772",
+      "osm": "https://www.openstreetmap.org/relation/407772",
       "tittel": {
         "nob": "Ibestad"
       },
@@ -12749,7 +12749,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Gratangen%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "407765",
+      "osm": "https://www.openstreetmap.org/relation/407765",
       "tittel": {
         "nob": "Gratangen"
       },
@@ -12787,7 +12787,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Lavangen%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "407764",
+      "osm": "https://www.openstreetmap.org/relation/407764",
       "tittel": {
         "nob": "Lavangen",
         "sme": "Loabák"
@@ -12826,7 +12826,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Bardu%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "407757",
+      "osm": "https://www.openstreetmap.org/relation/407757",
       "tittel": {
         "nob": "Bardu"
       },
@@ -12864,7 +12864,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Salangen%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "407763",
+      "osm": "https://www.openstreetmap.org/relation/407763",
       "tittel": {
         "nob": "Salangen"
       },
@@ -12904,7 +12904,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/M%C3%A5lselv%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "407756",
+      "osm": "https://www.openstreetmap.org/relation/407756",
       "tittel": {
         "nob": "Målselv"
       },
@@ -12943,7 +12943,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/S%C3%B8rreisa%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "407761",
+      "osm": "https://www.openstreetmap.org/relation/407761",
       "tittel": {
         "nob": "Sørreisa"
       },
@@ -12981,7 +12981,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Dyr%C3%B8y%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "407762",
+      "osm": "https://www.openstreetmap.org/relation/407762",
       "tittel": {
         "nob": "Dyrøy"
       },
@@ -13059,7 +13059,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Balsfjord%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "407755",
+      "osm": "https://www.openstreetmap.org/relation/407755",
       "tittel": {
         "nob": "Balsfjord"
       },
@@ -13097,7 +13097,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Karls%C3%B8y%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "407753",
+      "osm": "https://www.openstreetmap.org/relation/407753",
       "tittel": {
         "nob": "Karlsøy"
       },
@@ -13138,7 +13138,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Lyngen%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "407752",
+      "osm": "https://www.openstreetmap.org/relation/407752",
       "tittel": {
         "nob": "Lyngen"
       },
@@ -13177,7 +13177,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Storfjord%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "407751",
+      "osm": "https://www.openstreetmap.org/relation/407751",
       "tittel": {
         "fkv": "Omasvuono",
         "nob": "Storfjord",
@@ -13216,7 +13216,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/K%C3%A5fjord%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "407750",
+      "osm": "https://www.openstreetmap.org/relation/407750",
       "tittel": {
         "fkv": "Kaivuono",
         "nob": "Kåfjord",
@@ -13256,7 +13256,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Skjerv%C3%B8y%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "407749",
+      "osm": "https://www.openstreetmap.org/relation/407749",
       "tittel": {
         "nob": "Skjervøy"
       },
@@ -13294,7 +13294,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Nordreisa%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "407747",
+      "osm": "https://www.openstreetmap.org/relation/407747",
       "tittel": {
         "fkv": "Raisi",
         "nob": "Nordreisa",
@@ -13334,7 +13334,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Kv%C3%A6nangen%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "407748",
+      "osm": "https://www.openstreetmap.org/relation/407748",
       "tittel": {
         "nob": "Kvænangen"
       },
@@ -13374,7 +13374,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Kautokeino%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406657",
+      "osm": "https://www.openstreetmap.org/relation/406657",
       "tittel": {
         "nob": "Kautokeino",
         "sme": "Guovdageaidnu"
@@ -13413,7 +13413,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Loppa%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406643",
+      "osm": "https://www.openstreetmap.org/relation/406643",
       "tittel": {
         "nob": "Loppa"
       },
@@ -13447,7 +13447,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Hasvik%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406644",
+      "osm": "https://www.openstreetmap.org/relation/406644",
       "tittel": {
         "nob": "Hasvik"
       },
@@ -13485,7 +13485,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/M%C3%A5s%C3%B8y%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406646",
+      "osm": "https://www.openstreetmap.org/relation/406646",
       "tittel": {
         "nob": "Måsøy"
       },
@@ -13522,7 +13522,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Nordkapp%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406647",
+      "osm": "https://www.openstreetmap.org/relation/406647",
       "tittel": {
         "nob": "Nordkapp"
       },
@@ -13564,7 +13564,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Porsanger%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406648",
+      "osm": "https://www.openstreetmap.org/relation/406648",
       "tittel": {
         "fkv": "Porsanki",
         "nob": "Porsanger",
@@ -13606,7 +13606,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Karasjok%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406656",
+      "osm": "https://www.openstreetmap.org/relation/406656",
       "tittel": {
         "nob": "Karasjok",
         "sme": "Kárášjohka"
@@ -13644,7 +13644,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Lebesby%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406658",
+      "osm": "https://www.openstreetmap.org/relation/406658",
       "tittel": {
         "nob": "Lebesby"
       },
@@ -13680,7 +13680,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Gamvik%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406649",
+      "osm": "https://www.openstreetmap.org/relation/406649",
       "tittel": {
         "nob": "Gamvik"
       },
@@ -13715,7 +13715,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Berlev%C3%A5g%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406650",
+      "osm": "https://www.openstreetmap.org/relation/406650",
       "tittel": {
         "nob": "Berlevåg"
       },
@@ -13759,7 +13759,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Tana%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406655",
+      "osm": "https://www.openstreetmap.org/relation/406655",
       "tittel": {
         "nob": "Tana",
         "sme": "Deatnu"
@@ -13794,7 +13794,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Nesseby%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406654",
+      "osm": "https://www.openstreetmap.org/relation/406654",
       "tittel": {
         "nob": "Nesseby",
         "sme": "Unjárga"
@@ -13835,7 +13835,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/B%C3%A5tsfjord%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406651",
+      "osm": "https://www.openstreetmap.org/relation/406651",
       "tittel": {
         "nob": "Båtsfjord"
       },
@@ -13871,7 +13871,7 @@
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/S%C3%B8r-Varanger%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "406510",
+      "osm": "https://www.openstreetmap.org/relation/406510",
       "tittel": {
         "nob": "Sør-Varanger"
       },
@@ -13880,7 +13880,7 @@
   ],
   "meta": {
     "tittel": "Kommune",
-    "produsertUtc": "2020-02-20T11:24:12.032Z",
+    "produsertUtc": "2020-02-20T11:31:21.012Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/kommune/master/kommune.json",
     "tool": {
