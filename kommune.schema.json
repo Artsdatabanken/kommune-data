@@ -141,22 +141,22 @@
                 "name": {
                   "type": "string"
                 },
-                "produsert": {
-                  "type": "string"
-                },
                 "produsertUtc": {
                   "type": "string"
                 },
                 "source": {
                   "items": {
                     "properties": {
+                      "elementer": {
+                        "type": "number"
+                      },
                       "lastetNed": {
                         "type": "string"
                       },
                       "name": {
                         "type": "string"
                       },
-                      "produsert": {
+                      "produsertUtc": {
                         "type": "string"
                       },
                       "source": {
@@ -171,14 +171,19 @@
                       },
                       "url": {
                         "type": "string"
+                      },
+                      "utgiver": {
+                        "type": "string"
                       }
                     },
                     "required": [
                       "name",
                       "tittel",
-                      "produsert",
+                      "produsertUtc",
+                      "utgiver",
                       "url",
                       "tool",
+                      "elementer",
                       "lastetNed",
                       "source"
                     ],
@@ -213,13 +218,12 @@
               "required": [
                 "name",
                 "tittel",
-                "url",
-                "source",
                 "produsertUtc",
                 "utgiver",
-                "tool",
+                "url",
                 "elementer",
-                "produsert",
+                "source",
+                "tool",
                 "lastetNed"
               ],
               "type": "object"
@@ -257,54 +261,60 @@
   },
   "meta": {
     "tittel": "Kommune.schema",
-    "produsertUtc": "2020-04-29T11:44:13.380Z",
+    "produsertUtc": "2020-04-29T12:14:16.606Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/kommune/tree/kommune.schema.json",
     "tool": {
       "name": "kommune-lastejobb",
       "url": "https://github.com/Artsdatabanken/kommune-lastejobb",
-      "commit": "https://github.com/Artsdatabanken/kommune-lastejobb/master/d6b0097fdc02e938ed32be98242cfa1a01a3d496"
+      "commit": "https://github.com/Artsdatabanken/kommune-lastejobb/master/77914c3c98f347b938084af0ec3406e0335bbd8d"
     },
     "elementer": 3,
     "source": [
       {
         "name": "fylke_mapped.json",
         "tittel": "Fylke mapped",
-        "produsertUtc": "2020-04-29T11:44:13.071Z",
+        "produsertUtc": "2020-04-29T12:14:16.258Z",
         "utgiver": "Artsdatabanken",
         "url": "https://github.com/Artsdatabanken/kommune/blob/master/fylke.json",
         "tool": {
           "name": "kommune-lastejobb",
           "url": "https://github.com/Artsdatabanken/kommune-lastejobb",
-          "commit": "https://github.com/Artsdatabanken/kommune-lastejobb/master/d6b0097fdc02e938ed32be98242cfa1a01a3d496"
+          "commit": "https://github.com/Artsdatabanken/kommune-lastejobb/master/77914c3c98f347b938084af0ec3406e0335bbd8d"
         },
         "elementer": 10,
         "source": [
           {
             "name": "fylke",
             "tittel": "Fylke",
-            "produsert": "2020-04-29T11:31:15.220Z",
+            "produsertUtc": "2020-04-29T12:14:14.508Z",
+            "utgiver": "Artsdatabanken",
             "url": "https://query.wikidata.org/sparql?query=SELECT * WHERE { ?item wdt:P31 wd:Q192299; OPTIONAL { ?item wdt:P300 ?code. } OPTIONAL { ?item wdt:P571 ?inception. } OPTIONAL { ?item wdt:P576 ?dissolved. } OPTIONAL { ?item wdt:P2044 ?elevation. } OPTIONAL { ?item wdt:P856 ?url. } OPTIONAL { ?item wdt:P94 ?coa. } OPTIONAL { ?item wdt:P41 ?flag. } OPTIONAL { ?item wdt:P402 ?osm. } OPTIONAL { ?article schema:about ?item; schema:isPartOf <https://no.wikipedia.org/>. } SERVICE wikibase:label { bd:serviceParam wikibase:language \"nb\". ?item rdfs:label ?itemLabel. }}",
             "tool": "stages/download",
-            "lastetNed": "2020-04-29T11:31:15.220Z",
+            "elementer": 2,
+            "lastetNed": "2020-04-29T12:14:14.507Z",
             "source": []
           },
           {
             "name": "fylkenabo",
             "tittel": "Fylkenabo",
-            "produsert": "2020-04-29T11:31:14.868Z",
+            "produsertUtc": "2020-04-29T12:14:14.567Z",
+            "utgiver": "Artsdatabanken",
             "url": "https://query.wikidata.org/sparql?query=SELECT * WHERE { ?item wdt:P31 wd:Q192299; wdt:P47 ?shares_border_with.}",
             "tool": "stages/download",
-            "lastetNed": "2020-04-29T11:31:14.868Z",
+            "elementer": 2,
+            "lastetNed": "2020-04-29T12:14:14.567Z",
             "source": []
           },
           {
             "name": "fylkebilde",
             "tittel": "Fylkebilde",
-            "produsert": "2020-04-29T11:31:14.591Z",
+            "produsertUtc": "2020-04-29T12:14:14.285Z",
+            "utgiver": "Artsdatabanken",
             "url": "https://query.wikidata.org/sparql?query=SELECT * WHERE { ?item wdt:P31 wd:Q192299; OPTIONAL { ?item wdt:P18 ?image. } OPTIONAL { ?item wdt:P948 ?banner. } }ORDER BY ?item",
             "tool": "stages/download",
-            "lastetNed": "2020-04-29T11:31:14.589Z",
+            "elementer": 2,
+            "lastetNed": "2020-04-29T12:14:14.282Z",
             "source": []
           }
         ]
@@ -312,58 +322,68 @@
       {
         "name": "fylke_meta.json",
         "tittel": "Fylke meta",
-        "produsert": "2020-04-29T11:31:13.375Z",
+        "produsertUtc": "2020-04-29T12:14:13.036Z",
+        "utgiver": "Artsdatabanken",
         "url": "https://raw.githubusercontent.com/Artsdatabanken/kommune-kart/master/fylke_meta.json",
-        "lastetNed": "2020-04-29T11:31:13.372Z",
+        "elementer": 3,
+        "lastetNed": "2020-04-29T12:14:13.035Z",
         "source": []
       },
       {
         "name": "kommune_mapped.json",
         "tittel": "Kommune mapped",
-        "produsertUtc": "2020-04-29T11:44:13.216Z",
+        "produsertUtc": "2020-04-29T12:14:16.415Z",
         "utgiver": "Artsdatabanken",
         "url": "https://github.com/Artsdatabanken/kommune/blob/master/kommune.json",
         "tool": {
           "name": "kommune-lastejobb",
           "url": "https://github.com/Artsdatabanken/kommune-lastejobb",
-          "commit": "https://github.com/Artsdatabanken/kommune-lastejobb/master/d6b0097fdc02e938ed32be98242cfa1a01a3d496"
+          "commit": "https://github.com/Artsdatabanken/kommune-lastejobb/master/77914c3c98f347b938084af0ec3406e0335bbd8d"
         },
         "elementer": 356,
         "source": [
           {
             "name": "kommune",
             "tittel": "Kommune",
-            "produsert": "2020-04-29T11:31:15.794Z",
+            "produsertUtc": "2020-04-29T12:14:15.636Z",
+            "utgiver": "Artsdatabanken",
             "url": "https://query.wikidata.org/sparql?query=SELECT * WHERE { ?item wdt:P31 wd:Q755707 ; OPTIONAL { ?item wdt:P1476 ?title. } OPTIONAL { ?item wdt:P2044 ?elevation. } OPTIONAL { ?item wdt:P856 ?url. } OPTIONAL { ?item wdt:P94 ?coa. } OPTIONAL { ?item wdt:P571 ?inception. } OPTIONAL { ?item wdt:P576 ?dissolved. } OPTIONAL { ?item wdt:P402 ?osm. } OPTIONAL { ?article schema:about ?item; schema:isPartOf <https://no.wikipedia.org/>. } SERVICE wikibase:label { bd:serviceParam wikibase:language \"nb\". ?item rdfs:label ?itemLabel. }}",
             "tool": "stages/download",
-            "lastetNed": "2020-04-29T11:31:15.794Z",
+            "elementer": 2,
+            "lastetNed": "2020-04-29T12:14:15.635Z",
             "source": []
           },
           {
             "name": "kommunenummer",
             "tittel": "Kommunenummer",
-            "produsert": "2020-04-29T11:31:15.622Z",
+            "produsertUtc": "2020-04-29T12:14:14.444Z",
+            "utgiver": "Artsdatabanken",
             "url": "https://query.wikidata.org/sparql?query=SELECT * WHERE { ?kommune wdt:P31 wd:Q755707. ?kommune p:P2504 ?knr. ?knr ps:P2504 ?code. OPTIONAL{ ?knr pq:P580 ?start_time.} OPTIONAL{ ?knr pq:P582 ?end_time.}}",
             "tool": "stages/download",
-            "lastetNed": "2020-04-29T11:31:15.621Z",
+            "elementer": 2,
+            "lastetNed": "2020-04-29T12:14:14.444Z",
             "source": []
           },
           {
             "name": "kommunenabo",
             "tittel": "Kommunenabo",
-            "produsert": "2020-04-29T11:31:15.579Z",
+            "produsertUtc": "2020-04-29T12:14:14.686Z",
+            "utgiver": "Artsdatabanken",
             "url": "https://query.wikidata.org/sparql?query=SELECT * WHERE { ?item wdt:P31 wd:Q755707; wdt:P47 ?shares_border_with.}",
             "tool": "stages/download",
-            "lastetNed": "2020-04-29T11:31:15.579Z",
+            "elementer": 2,
+            "lastetNed": "2020-04-29T12:14:14.686Z",
             "source": []
           },
           {
             "name": "kommunebilde",
             "tittel": "Kommunebilde",
-            "produsert": "2020-04-29T11:31:15.052Z",
+            "produsertUtc": "2020-04-29T12:14:14.333Z",
+            "utgiver": "Artsdatabanken",
             "url": "https://query.wikidata.org/sparql?query=SELECT * WHERE { ?item wdt:P31 wd:Q755707; OPTIONAL { ?item wdt:P18 ?image. } OPTIONAL { ?item wdt:P948 ?banner. } OPTIONAL { ?item wdt:P41 ?flag. } }ORDER BY ?item",
             "tool": "stages/download",
-            "lastetNed": "2020-04-29T11:31:15.052Z",
+            "elementer": 2,
+            "lastetNed": "2020-04-29T12:14:14.333Z",
             "source": []
           }
         ]
@@ -371,9 +391,11 @@
       {
         "name": "kommune_meta.json",
         "tittel": "Kommune meta",
-        "produsert": "2020-04-29T11:31:13.466Z",
+        "produsertUtc": "2020-04-29T12:14:13.045Z",
+        "utgiver": "Artsdatabanken",
         "url": "https://raw.githubusercontent.com/Artsdatabanken/kommune-kart/master/kommune_meta.json",
-        "lastetNed": "2020-04-29T11:31:13.466Z",
+        "elementer": 3,
+        "lastetNed": "2020-04-29T12:14:13.045Z",
         "source": []
       }
     ]
