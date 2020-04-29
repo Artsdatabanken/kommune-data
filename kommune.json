@@ -2,7 +2,6 @@
   "items": [
     {
       "autorkode": "0301",
-      "elevation": 23,
       "geografi": {
         "areal": 481034663,
         "bbox": [
@@ -11,39 +10,20 @@
           10.95138944182126,
           60.13510637668019
         ],
-        "nabo": [
-          "AO-TO-FL-02-13",
-          "AO-TO-FL-02-17",
-          "AO-TO-FL-02-31",
-          "AO-TO-FL-30-07",
-          "AO-TO-FL-30-20",
-          "AO-TO-FL-30-23",
-          "AO-TO-FL-30-24",
-          "AO-TO-FL-30-28",
-          "AO-TO-FL-30-29",
-          "AO-TO-FL-30-30",
-          "AO-TO-FL-30-31",
-          "AO-TO-FL-30-54"
-        ]
+        "nabo": []
       },
-      "inception": "1048-01-01T00:00:00.000Z",
+      "inception": "1838-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-03-01",
       "lenke": {
         "offisiell": "http://www.oslo.kommune.no/",
-        "wikidata": "http://www.wikidata.org/entity/Q585",
-        "wikipedia": "https://no.wikipedia.org/wiki/Oslo"
+        "wikidata": "http://www.wikidata.org/entity/Q5245991"
       },
       "mediakilde": {
-        "banner": [
-          "http://commons.wikimedia.org/wiki/Special:FilePath/Oslo%20banner%20Akershus%20castle.jpg"
-        ],
-        "foto": [
-          "http://commons.wikimedia.org/wiki/Special:FilePath/View%20from%20siloen.jpg"
-        ],
+        "banner": [],
+        "foto": [],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Oslo%20komm.svg"
       },
       "nivå": "kommune",
-      "osm": "https://www.openstreetmap.org/relation/2775550",
       "tittel": {
         "nob": "Oslo"
       },
@@ -105,7 +85,6 @@
           "AO-TO-FL-11-30",
           "AO-TO-FL-11-33",
           "AO-TO-FL-11-34",
-          "AO-TO-FL-11-42",
           "AO-TO-FL-11-44",
           "AO-TO-FL-11-45",
           "AO-TO-FL-11-46"
@@ -190,7 +169,6 @@
           "AO-TO-FL-11-21",
           "AO-TO-FL-11-22",
           "AO-TO-FL-11-24",
-          "AO-TO-FL-11-29",
           "AO-TO-FL-11-30",
           "AO-TO-FL-11-33",
           "AO-TO-FL-42-22",
@@ -208,7 +186,7 @@
           "http://commons.wikimedia.org/wiki/Special:FilePath/Sandnes%20banner.jpg"
         ],
         "foto": [
-          "http://commons.wikimedia.org/wiki/Special:FilePath/Sandnes.JPG"
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Aerial%20view%20of%20Sandnes%2C%20Norway%20in%202015.jpg"
         ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandnes%20komm.svg"
       },
@@ -450,7 +428,6 @@
           "AO-TO-FL-11-08",
           "AO-TO-FL-11-14",
           "AO-TO-FL-11-21",
-          "AO-TO-FL-11-29",
           "AO-TO-FL-42-28"
         ]
       },
@@ -524,7 +501,6 @@
         "nabo": [
           "AO-TO-FL-11-03",
           "AO-TO-FL-11-24",
-          "AO-TO-FL-11-42",
           "AO-TO-FL-11-44"
         ]
       },
@@ -561,9 +537,7 @@
         "nabo": [
           "AO-TO-FL-11-03",
           "AO-TO-FL-11-08",
-          "AO-TO-FL-11-29",
-          "AO-TO-FL-11-33",
-          "AO-TO-FL-11-41"
+          "AO-TO-FL-11-33"
         ]
       },
       "kode": "AO-TO-FL-11-30",
@@ -599,10 +573,8 @@
         "nabo": [
           "AO-TO-FL-11-03",
           "AO-TO-FL-11-08",
-          "AO-TO-FL-11-29",
           "AO-TO-FL-11-30",
           "AO-TO-FL-11-34",
-          "AO-TO-FL-11-41",
           "AO-TO-FL-42-22"
         ]
       },
@@ -638,7 +610,6 @@
           "AO-TO-FL-11-03",
           "AO-TO-FL-11-33",
           "AO-TO-FL-11-35",
-          "AO-TO-FL-11-41",
           "AO-TO-FL-11-60",
           "AO-TO-FL-38-25",
           "AO-TO-FL-42-22",
@@ -715,7 +686,6 @@
         "nabo": [
           "AO-TO-FL-11-03",
           "AO-TO-FL-11-27",
-          "AO-TO-FL-11-42",
           "AO-TO-FL-11-45",
           "AO-TO-FL-11-49"
         ]
@@ -752,8 +722,6 @@
         ],
         "nabo": [
           "AO-TO-FL-11-03",
-          "AO-TO-FL-11-41",
-          "AO-TO-FL-11-42",
           "AO-TO-FL-11-44",
           "AO-TO-FL-11-46",
           "AO-TO-FL-11-49"
@@ -792,7 +760,6 @@
         "nabo": [
           "AO-TO-FL-11-03",
           "AO-TO-FL-11-06",
-          "AO-TO-FL-11-41",
           "AO-TO-FL-11-45",
           "AO-TO-FL-11-49",
           "AO-TO-FL-11-60",
@@ -979,10 +946,7 @@
           "AO-TO-FL-15-07",
           "AO-TO-FL-15-35",
           "AO-TO-FL-15-39",
-          "AO-TO-FL-15-43",
-          "AO-TO-FL-15-45",
           "AO-TO-FL-15-47",
-          "AO-TO-FL-15-48",
           "AO-TO-FL-15-57",
           "AO-TO-FL-15-60",
           "AO-TO-FL-15-63",
@@ -1026,10 +990,8 @@
         "nabo": [
           "AO-TO-FL-15-06",
           "AO-TO-FL-15-28",
-          "AO-TO-FL-15-29",
           "AO-TO-FL-15-31",
           "AO-TO-FL-15-32",
-          "AO-TO-FL-15-34",
           "AO-TO-FL-15-35",
           "AO-TO-FL-15-47",
           "AO-TO-FL-15-78"
@@ -1069,9 +1031,6 @@
           62.216153935449974
         ],
         "nabo": [
-          "AO-TO-FL-14-39",
-          "AO-TO-FL-14-41",
-          "AO-TO-FL-14-43",
           "AO-TO-FL-15-14",
           "AO-TO-FL-15-15",
           "AO-TO-FL-15-77",
@@ -1107,7 +1066,6 @@
           62.4332375867387
         ],
         "nabo": [
-          "AO-TO-FL-14-41",
           "AO-TO-FL-15-11",
           "AO-TO-FL-15-15",
           "AO-TO-FL-46-49"
@@ -1248,7 +1206,6 @@
           62.39435752978991
         ],
         "nabo": [
-          "AO-TO-FL-14-44",
           "AO-TO-FL-15-17",
           "AO-TO-FL-15-25",
           "AO-TO-FL-15-28",
@@ -1287,10 +1244,7 @@
           62.3721617283779
         ],
         "nabo": [
-          "AO-TO-FL-14-44",
           "AO-TO-FL-15-20",
-          "AO-TO-FL-15-24",
-          "AO-TO-FL-15-26",
           "AO-TO-FL-15-28",
           "AO-TO-FL-15-77",
           "AO-TO-FL-15-78",
@@ -1307,7 +1261,7 @@
       "mediakilde": {
         "banner": [],
         "foto": [
-          "http://commons.wikimedia.org/wiki/Special:FilePath/Stranda-Norway-HH.jpg"
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Storfjorden%20from%20Riksvei%20650.JPG"
         ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Stranda%20komm.svg"
       },
@@ -1331,10 +1285,7 @@
         "nabo": [
           "AO-TO-FL-15-07",
           "AO-TO-FL-15-20",
-          "AO-TO-FL-15-23",
           "AO-TO-FL-15-25",
-          "AO-TO-FL-15-26",
-          "AO-TO-FL-15-29",
           "AO-TO-FL-15-78"
         ]
       },
@@ -1408,8 +1359,7 @@
           "AO-TO-FL-15-07",
           "AO-TO-FL-15-16",
           "AO-TO-FL-15-17",
-          "AO-TO-FL-15-31",
-          "AO-TO-FL-15-34"
+          "AO-TO-FL-15-31"
         ]
       },
       "kode": "AO-TO-FL-15-32",
@@ -1445,12 +1395,7 @@
         "nabo": [
           "AO-TO-FL-15-06",
           "AO-TO-FL-15-07",
-          "AO-TO-FL-15-23",
-          "AO-TO-FL-15-26",
-          "AO-TO-FL-15-29",
-          "AO-TO-FL-15-34",
           "AO-TO-FL-15-39",
-          "AO-TO-FL-15-45",
           "AO-TO-FL-15-78"
         ]
       },
@@ -1486,10 +1431,7 @@
         ],
         "nabo": [
           "AO-TO-FL-15-06",
-          "AO-TO-FL-15-24",
-          "AO-TO-FL-15-26",
           "AO-TO-FL-15-35",
-          "AO-TO-FL-15-43",
           "AO-TO-FL-15-78",
           "AO-TO-FL-34-32",
           "AO-TO-FL-34-33"
@@ -1527,9 +1469,6 @@
         "nabo": [
           "AO-TO-FL-15-06",
           "AO-TO-FL-15-07",
-          "AO-TO-FL-15-45",
-          "AO-TO-FL-15-46",
-          "AO-TO-FL-15-48",
           "AO-TO-FL-15-79"
         ]
       },
@@ -1565,7 +1504,6 @@
         ],
         "nabo": [
           "AO-TO-FL-15-05",
-          "AO-TO-FL-15-51",
           "AO-TO-FL-15-57",
           "AO-TO-FL-15-79"
         ]
@@ -1605,9 +1543,6 @@
         "nabo": [
           "AO-TO-FL-15-05",
           "AO-TO-FL-15-06",
-          "AO-TO-FL-15-43",
-          "AO-TO-FL-15-48",
-          "AO-TO-FL-15-51",
           "AO-TO-FL-15-54",
           "AO-TO-FL-15-60",
           "AO-TO-FL-15-79"
@@ -1646,11 +1581,9 @@
         "nabo": [
           "AO-TO-FL-15-05",
           "AO-TO-FL-15-06",
-          "AO-TO-FL-15-43",
           "AO-TO-FL-15-57",
           "AO-TO-FL-15-63",
           "AO-TO-FL-15-66",
-          "AO-TO-FL-15-71",
           "AO-TO-FL-15-76",
           "AO-TO-FL-50-55"
         ]
@@ -1686,7 +1619,6 @@
         ],
         "nabo": [
           "AO-TO-FL-15-06",
-          "AO-TO-FL-15-43",
           "AO-TO-FL-15-60",
           "AO-TO-FL-15-66",
           "AO-TO-FL-34-32",
@@ -1726,8 +1658,6 @@
         "nabo": [
           "AO-TO-FL-15-60",
           "AO-TO-FL-15-63",
-          "AO-TO-FL-15-71",
-          "AO-TO-FL-50-11",
           "AO-TO-FL-50-21",
           "AO-TO-FL-50-55",
           "AO-TO-FL-50-61"
@@ -1799,9 +1729,7 @@
         "nabo": [
           "AO-TO-FL-15-05",
           "AO-TO-FL-15-60",
-          "AO-TO-FL-15-71",
           "AO-TO-FL-15-73",
-          "AO-TO-FL-50-11",
           "AO-TO-FL-50-55",
           "AO-TO-FL-50-56"
         ]
@@ -1840,8 +1768,6 @@
           62.23752328422255
         ],
         "nabo": [
-          "AO-TO-FL-14-43",
-          "AO-TO-FL-14-44",
           "AO-TO-FL-15-11",
           "AO-TO-FL-15-15",
           "AO-TO-FL-15-20",
@@ -1997,9 +1923,7 @@
         ],
         "nabo": [
           "AO-TO-FL-18-53",
-          "AO-TO-FL-18-54",
           "AO-TO-FL-18-75",
-          "AO-TO-FL-19-13",
           "AO-TO-FL-54-12",
           "AO-TO-FL-54-14",
           "AO-TO-FL-54-15",
@@ -2041,7 +1965,6 @@
           "AO-TO-FL-18-25",
           "AO-TO-FL-50-44",
           "AO-TO-FL-50-46",
-          "AO-TO-FL-50-51",
           "AO-TO-FL-50-52",
           "AO-TO-FL-50-60"
         ]
@@ -3001,8 +2924,6 @@
         ],
         "nabo": [
           "AO-TO-FL-18-06",
-          "AO-TO-FL-18-54",
-          "AO-TO-FL-19-13",
           "AO-TO-FL-54-12"
         ]
       },
@@ -3361,8 +3282,6 @@
         "nabo": [
           "AO-TO-FL-18-68",
           "AO-TO-FL-18-70",
-          "AO-TO-FL-19-27",
-          "AO-TO-FL-19-28",
           "AO-TO-FL-54-02",
           "AO-TO-FL-54-21"
         ]
@@ -3439,8 +3358,7 @@
         "nabo": [
           "AO-TO-FL-18-06",
           "AO-TO-FL-18-45",
-          "AO-TO-FL-18-48",
-          "AO-TO-FL-18-50"
+          "AO-TO-FL-18-48"
         ]
       },
       "kode": "AO-TO-FL-18-75",
@@ -3513,7 +3431,6 @@
           59.53458082819507
         ],
         "nabo": [
-          "AO-TO-FL-01-36",
           "AO-TO-FL-30-17",
           "AO-TO-FL-30-18",
           "AO-TO-FL-30-19"
@@ -3635,7 +3552,6 @@
           59.86254360294803
         ],
         "nabo": [
-          "AO-TO-FL-06-25",
           "AO-TO-FL-30-47",
           "AO-TO-FL-30-48",
           "AO-TO-FL-30-49",
@@ -3719,7 +3635,6 @@
           60.637925964845586
         ],
         "nabo": [
-          "AO-TO-FL-03-01",
           "AO-TO-FL-30-24",
           "AO-TO-FL-30-38",
           "AO-TO-FL-30-39",
@@ -3805,7 +3720,7 @@
           "AO-TO-FL-30-16"
         ]
       },
-      "inception": "1837-01-01T00:00:00.000Z",
+      "inception": "1838-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-30-12",
       "lenke": {
         "offisiell": "http://www.aremark.kommune.no/",
@@ -3837,8 +3752,6 @@
           59.677215985141046
         ],
         "nabo": [
-          "AO-TO-FL-01-21",
-          "AO-TO-FL-01-25",
           "AO-TO-FL-30-12",
           "AO-TO-FL-30-14",
           "AO-TO-FL-30-16",
@@ -3919,9 +3832,6 @@
           59.54925095694394
         ],
         "nabo": [
-          "AO-TO-FL-01-23",
-          "AO-TO-FL-01-24",
-          "AO-TO-FL-01-25",
           "AO-TO-FL-30-03",
           "AO-TO-FL-30-14",
           "AO-TO-FL-30-16",
@@ -3957,7 +3867,6 @@
           59.48431764673121
         ],
         "nabo": [
-          "AO-TO-FL-01-25",
           "AO-TO-FL-30-01",
           "AO-TO-FL-30-03",
           "AO-TO-FL-30-12",
@@ -3995,7 +3904,6 @@
           59.41103602628882
         ],
         "nabo": [
-          "AO-TO-FL-01-36",
           "AO-TO-FL-30-02",
           "AO-TO-FL-30-03",
           "AO-TO-FL-30-04",
@@ -4031,9 +3939,6 @@
           59.541972772303176
         ],
         "nabo": [
-          "AO-TO-FL-01-23",
-          "AO-TO-FL-01-36",
-          "AO-TO-FL-01-38",
           "AO-TO-FL-30-02",
           "AO-TO-FL-30-03",
           "AO-TO-FL-30-14",
@@ -4071,7 +3976,6 @@
           59.64771946458504
         ],
         "nabo": [
-          "AO-TO-FL-01-38",
           "AO-TO-FL-30-02",
           "AO-TO-FL-30-14",
           "AO-TO-FL-30-18",
@@ -4108,7 +4012,6 @@
           59.83928320374827
         ],
         "nabo": [
-          "AO-TO-FL-03-01",
           "AO-TO-FL-30-14",
           "AO-TO-FL-30-21",
           "AO-TO-FL-30-28"
@@ -4143,9 +4046,6 @@
           59.76598711462201
         ],
         "nabo": [
-          "AO-TO-FL-01-38",
-          "AO-TO-FL-02-13",
-          "AO-TO-FL-02-17",
           "AO-TO-FL-30-14",
           "AO-TO-FL-30-19",
           "AO-TO-FL-30-20",
@@ -4223,7 +4123,6 @@
           59.884410484545164
         ],
         "nabo": [
-          "AO-TO-FL-03-01",
           "AO-TO-FL-30-22",
           "AO-TO-FL-30-24",
           "AO-TO-FL-30-25"
@@ -4260,7 +4159,6 @@
           60.03222716629387
         ],
         "nabo": [
-          "AO-TO-FL-03-01",
           "AO-TO-FL-30-07",
           "AO-TO-FL-30-23",
           "AO-TO-FL-30-25",
@@ -4333,11 +4231,6 @@
           60.023633677828755
         ],
         "nabo": [
-          "AO-TO-FL-01-21",
-          "AO-TO-FL-01-22",
-          "AO-TO-FL-01-25",
-          "AO-TO-FL-02-26",
-          "AO-TO-FL-02-27",
           "AO-TO-FL-30-13",
           "AO-TO-FL-30-14",
           "AO-TO-FL-30-30",
@@ -4377,8 +4270,6 @@
           59.95485388468331
         ],
         "nabo": [
-          "AO-TO-FL-02-27",
-          "AO-TO-FL-02-31",
           "AO-TO-FL-30-28",
           "AO-TO-FL-30-29",
           "AO-TO-FL-30-30"
@@ -4413,12 +4304,6 @@
           59.85605136832019
         ],
         "nabo": [
-          "AO-TO-FL-01-22",
-          "AO-TO-FL-01-23",
-          "AO-TO-FL-01-38",
-          "AO-TO-FL-02-13",
-          "AO-TO-FL-02-27",
-          "AO-TO-FL-03-01",
           "AO-TO-FL-30-14",
           "AO-TO-FL-30-20",
           "AO-TO-FL-30-27",
@@ -4457,8 +4342,6 @@
           59.95795694455195
         ],
         "nabo": [
-          "AO-TO-FL-02-31",
-          "AO-TO-FL-03-01",
           "AO-TO-FL-30-27",
           "AO-TO-FL-30-28",
           "AO-TO-FL-30-30"
@@ -4495,7 +4378,6 @@
           60.07724702641858
         ],
         "nabo": [
-          "AO-TO-FL-03-01",
           "AO-TO-FL-30-14",
           "AO-TO-FL-30-26",
           "AO-TO-FL-30-27",
@@ -4536,8 +4418,6 @@
           60.18801867118066
         ],
         "nabo": [
-          "AO-TO-FL-02-31",
-          "AO-TO-FL-03-01",
           "AO-TO-FL-30-30",
           "AO-TO-FL-30-32",
           "AO-TO-FL-30-36",
@@ -4573,8 +4453,6 @@
           60.12899712991271
         ],
         "nabo": [
-          "AO-TO-FL-02-26",
-          "AO-TO-FL-02-31",
           "AO-TO-FL-30-30",
           "AO-TO-FL-30-31",
           "AO-TO-FL-30-33",
@@ -4612,7 +4490,6 @@
           60.256572273521456
         ],
         "nabo": [
-          "AO-TO-FL-02-26",
           "AO-TO-FL-30-30",
           "AO-TO-FL-30-32",
           "AO-TO-FL-30-34",
@@ -4651,7 +4528,6 @@
           60.35256303821694
         ],
         "nabo": [
-          "AO-TO-FL-02-26",
           "AO-TO-FL-30-26",
           "AO-TO-FL-30-30",
           "AO-TO-FL-30-33",
@@ -5151,7 +5027,6 @@
           60.17081890426668
         ],
         "nabo": [
-          "AO-TO-FL-06-25",
           "AO-TO-FL-30-05",
           "AO-TO-FL-30-07",
           "AO-TO-FL-30-38",
@@ -5190,7 +5065,6 @@
           59.90593315479833
         ],
         "nabo": [
-          "AO-TO-FL-06-25",
           "AO-TO-FL-30-05",
           "AO-TO-FL-30-06",
           "AO-TO-FL-30-45",
@@ -5231,8 +5105,6 @@
           59.974562248409725
         ],
         "nabo": [
-          "AO-TO-FL-06-25",
-          "AO-TO-FL-06-27",
           "AO-TO-FL-30-05",
           "AO-TO-FL-30-24",
           "AO-TO-FL-30-25",
@@ -5422,7 +5294,6 @@
           60.339114968282786
         ],
         "nabo": [
-          "AO-TO-FL-03-01",
           "AO-TO-FL-30-07",
           "AO-TO-FL-30-31",
           "AO-TO-FL-30-36",
@@ -6296,7 +6167,7 @@
     },
     {
       "autorkode": "3428",
-      "elevation": 67,
+      "elevation": 505.8,
       "geografi": {
         "areal": 942669103,
         "bbox": [
@@ -6465,7 +6336,6 @@
         "nabo": [
           "AO-TO-FL-15-06",
           "AO-TO-FL-15-39",
-          "AO-TO-FL-15-43",
           "AO-TO-FL-15-63",
           "AO-TO-FL-34-31",
           "AO-TO-FL-34-33",
@@ -6506,7 +6376,6 @@
           62.189686861842155
         ],
         "nabo": [
-          "AO-TO-FL-15-24",
           "AO-TO-FL-15-25",
           "AO-TO-FL-15-39",
           "AO-TO-FL-15-78",
@@ -7281,7 +7150,7 @@
       "lenke": {
         "offisiell": "http://www.vang.kommune.no/",
         "wikidata": "http://www.wikidata.org/entity/Q503637",
-        "wikipedia": "https://no.wikipedia.org/wiki/Vang_(Oppland)"
+        "wikipedia": "https://no.wikipedia.org/wiki/Vang"
       },
       "mediakilde": {
         "banner": [],
@@ -7346,7 +7215,6 @@
           59.67401096740488
         ],
         "nabo": [
-          "AO-TO-FL-06-25",
           "AO-TO-FL-30-05",
           "AO-TO-FL-30-06",
           "AO-TO-FL-30-48",
@@ -8185,7 +8053,7 @@
       "inception": "1838-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-38-25",
       "lenke": {
-        "offisiell": "http://www.vinje.kommune.no/",
+        "offisiell": "https://www.vinje.kommune.no/",
         "wikidata": "http://www.wikidata.org/entity/Q2245",
         "wikipedia": "https://no.wikipedia.org/wiki/Vinje"
       },
@@ -8309,7 +8177,7 @@
           "http://commons.wikimedia.org/wiki/Special:FilePath/Arendal%20WV%20Banner.jpg"
         ],
         "foto": [
-          "http://commons.wikimedia.org/wiki/Special:FilePath/Arendal%20Utsikt%2002.JPG"
+          "http://commons.wikimedia.org/wiki/Special:FilePath/ArendalPollen2.jpg"
         ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Arendal%20komm.svg"
       },
@@ -8660,8 +8528,8 @@
           "http://commons.wikimedia.org/wiki/Special:FilePath/Lillesand%20banner.jpg"
         ],
         "foto": [
-          "http://commons.wikimedia.org/wiki/Special:FilePath/Lillesand%20church.jpg",
-          "http://commons.wikimedia.org/wiki/Special:FilePath/Lillesandskyline12.jpg"
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Lillesandskyline12.jpg",
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Lillesand%20church.jpg"
         ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Lillesand%20komm.svg"
       },
@@ -8923,7 +8791,6 @@
         ],
         "nabo": [
           "AO-TO-FL-11-08",
-          "AO-TO-FL-11-29",
           "AO-TO-FL-11-33",
           "AO-TO-FL-11-34",
           "AO-TO-FL-38-24",
@@ -9040,7 +8907,6 @@
           58.51560940702238
         ],
         "nabo": [
-          "AO-TO-FL-10-29",
           "AO-TO-FL-42-05",
           "AO-TO-FL-42-06",
           "AO-TO-FL-42-19",
@@ -9049,7 +8915,7 @@
           "AO-TO-FL-42-27"
         ]
       },
-      "inception": "1837-01-01T00:00:00.000Z",
+      "inception": "1838-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-42-25",
       "lenke": {
         "offisiell": "http://www.lyngdal.kommune.no/",
@@ -9167,7 +9033,6 @@
           "AO-TO-FL-11-12",
           "AO-TO-FL-11-14",
           "AO-TO-FL-11-22",
-          "AO-TO-FL-11-29",
           "AO-TO-FL-42-07",
           "AO-TO-FL-42-20",
           "AO-TO-FL-42-21",
@@ -9205,8 +9070,6 @@
           60.536093128491444
         ],
         "nabo": [
-          "AO-TO-FL-12-43",
-          "AO-TO-FL-12-45",
           "AO-TO-FL-46-23",
           "AO-TO-FL-46-24",
           "AO-TO-FL-46-25",
@@ -9362,7 +9225,7 @@
       },
       "kode": "AO-TO-FL-46-13",
       "lenke": {
-        "offisiell": "http://www.bomlo.kommune.no/",
+        "offisiell": "https://www.bomlo.kommune.no/",
         "wikidata": "http://www.wikidata.org/entity/Q113552",
         "wikipedia": "https://no.wikipedia.org/wiki/B%C3%B8mlo"
       },
@@ -9461,8 +9324,6 @@
           60.124403295859565
         ],
         "nabo": [
-          "AO-TO-FL-12-41",
-          "AO-TO-FL-12-43",
           "AO-TO-FL-46-14",
           "AO-TO-FL-46-15",
           "AO-TO-FL-46-17",
@@ -9500,8 +9361,6 @@
         ],
         "nabo": [
           "AO-TO-FL-11-60",
-          "AO-TO-FL-12-27",
-          "AO-TO-FL-12-41",
           "AO-TO-FL-46-11",
           "AO-TO-FL-46-14",
           "AO-TO-FL-46-16",
@@ -9557,6 +9416,7 @@
       "inception": "2020-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-46-18",
       "lenke": {
+        "offisiell": "https://ullensvang.kommune.no/",
         "wikidata": "http://www.wikidata.org/entity/Q80678654",
         "wikipedia": "https://no.wikipedia.org/wiki/Ullensvang"
       },
@@ -9621,7 +9481,6 @@
           60.740840390253524
         ],
         "nabo": [
-          "AO-TO-FL-12-34",
           "AO-TO-FL-30-44",
           "AO-TO-FL-46-18",
           "AO-TO-FL-46-19",
@@ -9662,7 +9521,6 @@
           60.95955186926747
         ],
         "nabo": [
-          "AO-TO-FL-12-34",
           "AO-TO-FL-46-18",
           "AO-TO-FL-46-20",
           "AO-TO-FL-46-22",
@@ -9704,9 +9562,6 @@
           60.53360263510986
         ],
         "nabo": [
-          "AO-TO-FL-12-27",
-          "AO-TO-FL-12-34",
-          "AO-TO-FL-12-41",
           "AO-TO-FL-46-17",
           "AO-TO-FL-46-18",
           "AO-TO-FL-46-21",
@@ -9744,8 +9599,6 @@
           60.5265756377547
         ],
         "nabo": [
-          "AO-TO-FL-12-41",
-          "AO-TO-FL-12-43",
           "AO-TO-FL-46-01",
           "AO-TO-FL-46-22",
           "AO-TO-FL-46-24",
@@ -9822,8 +9675,6 @@
           60.18879580430031
         ],
         "nabo": [
-          "AO-TO-FL-12-43",
-          "AO-TO-FL-12-45",
           "AO-TO-FL-46-01",
           "AO-TO-FL-46-13",
           "AO-TO-FL-46-15",
@@ -9901,7 +9752,6 @@
           60.63189314644996
         ],
         "nabo": [
-          "AO-TO-FL-12-46",
           "AO-TO-FL-46-01",
           "AO-TO-FL-46-26",
           "AO-TO-FL-46-31"
@@ -10313,8 +10163,6 @@
           61.29781914743192
         ],
         "nabo": [
-          "AO-TO-FL-14-18",
-          "AO-TO-FL-14-30",
           "AO-TO-FL-46-29",
           "AO-TO-FL-46-34",
           "AO-TO-FL-46-35",
@@ -10358,8 +10206,6 @@
           61.19071494113735
         ],
         "nabo": [
-          "AO-TO-FL-14-18",
-          "AO-TO-FL-14-19",
           "AO-TO-FL-46-21",
           "AO-TO-FL-46-28",
           "AO-TO-FL-46-29",
@@ -10400,10 +10246,6 @@
           61.57024715409045
         ],
         "nabo": [
-          "AO-TO-FL-14-18",
-          "AO-TO-FL-14-19",
-          "AO-TO-FL-14-31",
-          "AO-TO-FL-14-32",
           "AO-TO-FL-46-38",
           "AO-TO-FL-46-39",
           "AO-TO-FL-46-42",
@@ -10559,7 +10401,6 @@
           61.85750942511504
         ],
         "nabo": [
-          "AO-TO-FL-14-31",
           "AO-TO-FL-34-33",
           "AO-TO-FL-34-34",
           "AO-TO-FL-34-54",
@@ -10600,10 +10441,6 @@
           61.49096748753912
         ],
         "nabo": [
-          "AO-TO-FL-14-01",
-          "AO-TO-FL-14-30",
-          "AO-TO-FL-14-32",
-          "AO-TO-FL-14-33",
           "AO-TO-FL-46-02",
           "AO-TO-FL-46-36",
           "AO-TO-FL-46-46",
@@ -10641,7 +10478,6 @@
           61.380919434685815
         ],
         "nabo": [
-          "AO-TO-FL-14-30",
           "AO-TO-FL-46-36",
           "AO-TO-FL-46-37",
           "AO-TO-FL-46-38",
@@ -10716,9 +10552,6 @@
           62.03194037766972
         ],
         "nabo": [
-          "AO-TO-FL-14-01",
-          "AO-TO-FL-14-39",
-          "AO-TO-FL-14-43",
           "AO-TO-FL-46-02",
           "AO-TO-FL-46-49",
           "AO-TO-FL-46-50"
@@ -10793,10 +10626,6 @@
           61.8692804308336
         ],
         "nabo": [
-          "AO-TO-FL-14-01",
-          "AO-TO-FL-14-31",
-          "AO-TO-FL-14-33",
-          "AO-TO-FL-14-43",
           "AO-TO-FL-46-02",
           "AO-TO-FL-46-47",
           "AO-TO-FL-46-48",
@@ -10833,9 +10662,6 @@
           62.03409249905321
         ],
         "nabo": [
-          "AO-TO-FL-14-31",
-          "AO-TO-FL-14-43",
-          "AO-TO-FL-14-44",
           "AO-TO-FL-15-25",
           "AO-TO-FL-15-77",
           "AO-TO-FL-34-33",
@@ -10916,8 +10742,6 @@
         "nabo": [
           "AO-TO-FL-50-07",
           "AO-TO-FL-50-38",
-          "AO-TO-FL-50-39",
-          "AO-TO-FL-50-40",
           "AO-TO-FL-50-41",
           "AO-TO-FL-50-47",
           "AO-TO-FL-50-53",
@@ -10958,10 +10782,8 @@
         "nabo": [
           "AO-TO-FL-50-06",
           "AO-TO-FL-50-20",
-          "AO-TO-FL-50-40",
           "AO-TO-FL-50-46",
           "AO-TO-FL-50-47",
-          "AO-TO-FL-50-48",
           "AO-TO-FL-50-49",
           "AO-TO-FL-50-58",
           "AO-TO-FL-50-60"
@@ -11037,8 +10859,6 @@
         ],
         "nabo": [
           "AO-TO-FL-50-07",
-          "AO-TO-FL-50-19",
-          "AO-TO-FL-50-40",
           "AO-TO-FL-50-49",
           "AO-TO-FL-50-58"
         ]
@@ -11277,7 +11097,6 @@
         ],
         "nabo": [
           "AO-TO-FL-50-01",
-          "AO-TO-FL-50-24",
           "AO-TO-FL-50-27",
           "AO-TO-FL-50-29",
           "AO-TO-FL-50-32",
@@ -11318,7 +11137,6 @@
         ],
         "nabo": [
           "AO-TO-FL-50-01",
-          "AO-TO-FL-50-24",
           "AO-TO-FL-50-28",
           "AO-TO-FL-50-59"
         ]
@@ -11850,8 +11668,6 @@
           "AO-TO-FL-50-44",
           "AO-TO-FL-50-45",
           "AO-TO-FL-50-47",
-          "AO-TO-FL-50-48",
-          "AO-TO-FL-50-51",
           "AO-TO-FL-50-60"
         ]
       },
@@ -11890,8 +11706,7 @@
           "AO-TO-FL-50-07",
           "AO-TO-FL-50-41",
           "AO-TO-FL-50-45",
-          "AO-TO-FL-50-46",
-          "AO-TO-FL-50-48"
+          "AO-TO-FL-50-46"
         ]
       },
       "kode": "AO-TO-FL-50-47",
@@ -11927,8 +11742,6 @@
         "nabo": [
           "AO-TO-FL-50-07",
           "AO-TO-FL-50-20",
-          "AO-TO-FL-50-40",
-          "AO-TO-FL-50-50",
           "AO-TO-FL-50-60"
         ]
       },
@@ -11964,8 +11777,6 @@
         ],
         "nabo": [
           "AO-TO-FL-18-11",
-          "AO-TO-FL-50-50",
-          "AO-TO-FL-50-51",
           "AO-TO-FL-50-60"
         ]
       },
@@ -12005,7 +11816,6 @@
           "AO-TO-FL-50-06",
           "AO-TO-FL-50-37",
           "AO-TO-FL-50-38",
-          "AO-TO-FL-50-39",
           "AO-TO-FL-50-54"
         ]
       },
@@ -12042,9 +11852,7 @@
         "nabo": [
           "AO-TO-FL-50-01",
           "AO-TO-FL-50-06",
-          "AO-TO-FL-50-16",
           "AO-TO-FL-50-36",
-          "AO-TO-FL-50-39",
           "AO-TO-FL-50-53",
           "AO-TO-FL-50-57",
           "AO-TO-FL-50-58",
@@ -12122,9 +11930,7 @@
         "nabo": [
           "AO-TO-FL-15-73",
           "AO-TO-FL-15-76",
-          "AO-TO-FL-50-11",
           "AO-TO-FL-50-14",
-          "AO-TO-FL-50-16",
           "AO-TO-FL-50-55",
           "AO-TO-FL-50-57",
           "AO-TO-FL-50-59"
@@ -12162,7 +11968,6 @@
         ],
         "nabo": [
           "AO-TO-FL-50-14",
-          "AO-TO-FL-50-16",
           "AO-TO-FL-50-54",
           "AO-TO-FL-50-56",
           "AO-TO-FL-50-58",
@@ -12202,10 +12007,7 @@
         "nabo": [
           "AO-TO-FL-50-06",
           "AO-TO-FL-50-07",
-          "AO-TO-FL-50-19",
           "AO-TO-FL-50-20",
-          "AO-TO-FL-50-39",
-          "AO-TO-FL-50-40",
           "AO-TO-FL-50-54",
           "AO-TO-FL-50-57"
         ]
@@ -12320,10 +12122,8 @@
         ],
         "nabo": [
           "AO-TO-FL-15-66",
-          "AO-TO-FL-50-11",
           "AO-TO-FL-50-21",
           "AO-TO-FL-50-22",
-          "AO-TO-FL-50-24",
           "AO-TO-FL-50-55",
           "AO-TO-FL-50-59"
         ]
@@ -12358,7 +12158,6 @@
           70.16841666936386
         ],
         "nabo": [
-          "AO-TO-FL-19-31",
           "AO-TO-FL-54-21",
           "AO-TO-FL-54-22",
           "AO-TO-FL-54-23",
@@ -12402,8 +12201,6 @@
         ],
         "nabo": [
           "AO-TO-FL-18-71",
-          "AO-TO-FL-19-13",
-          "AO-TO-FL-19-27",
           "AO-TO-FL-54-11",
           "AO-TO-FL-54-12",
           "AO-TO-FL-54-13",
@@ -12445,7 +12242,6 @@
           70.44802120287962
         ],
         "nabo": [
-          "AO-TO-FL-20-17",
           "AO-TO-FL-54-06",
           "AO-TO-FL-54-29",
           "AO-TO-FL-54-30",
@@ -12568,14 +12364,13 @@
           71.18622806004552
         ],
         "nabo": [
-          "AO-TO-FL-20-17",
           "AO-TO-FL-54-03",
           "AO-TO-FL-54-33",
           "AO-TO-FL-54-34",
           "AO-TO-FL-54-36"
         ]
       },
-      "inception": "1789-01-01T00:00:00.000Z",
+      "inception": "1789-07-17T00:00:00.000Z",
       "kode": "AO-TO-FL-54-06",
       "lenke": {
         "offisiell": "http://www.hammerfest.kommune.no/",
@@ -12613,6 +12408,7 @@
           "AO-TO-FL-54-12"
         ]
       },
+      "inception": "1837-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-54-11",
       "lenke": {
         "offisiell": "http://www.kvaefjord.kommune.no/",
@@ -12647,8 +12443,6 @@
           "AO-TO-FL-18-06",
           "AO-TO-FL-18-51",
           "AO-TO-FL-18-53",
-          "AO-TO-FL-18-54",
-          "AO-TO-FL-19-13",
           "AO-TO-FL-54-02",
           "AO-TO-FL-54-11",
           "AO-TO-FL-54-13",
@@ -12685,8 +12479,6 @@
           68.97333380010315
         ],
         "nabo": [
-          "AO-TO-FL-19-13",
-          "AO-TO-FL-19-27",
           "AO-TO-FL-54-02",
           "AO-TO-FL-54-12",
           "AO-TO-FL-54-14",
@@ -12696,6 +12488,7 @@
           "AO-TO-FL-54-21"
         ]
       },
+      "inception": "1837-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-54-13",
       "lenke": {
         "offisiell": "http://www.ibestad.kommune.no/",
@@ -12728,7 +12521,6 @@
         ],
         "nabo": [
           "AO-TO-FL-18-06",
-          "AO-TO-FL-19-13",
           "AO-TO-FL-54-12",
           "AO-TO-FL-54-13",
           "AO-TO-FL-54-15"
@@ -12773,6 +12565,7 @@
           "AO-TO-FL-54-17"
         ]
       },
+      "inception": "1977-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-54-15",
       "lenke": {
         "offisiell": "http://www.lavangen.kommune.no/",
@@ -12812,6 +12605,7 @@
           "AO-TO-FL-54-19"
         ]
       },
+      "inception": "1854-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-54-16",
       "lenke": {
         "offisiell": "http://www.bardu.kommune.no/",
@@ -12881,7 +12675,6 @@
           69.37718614614938
         ],
         "nabo": [
-          "AO-TO-FL-19-31",
           "AO-TO-FL-54-16",
           "AO-TO-FL-54-19",
           "AO-TO-FL-54-21",
@@ -12921,7 +12714,6 @@
           69.22074823022201
         ],
         "nabo": [
-          "AO-TO-FL-19-31",
           "AO-TO-FL-54-16",
           "AO-TO-FL-54-17",
           "AO-TO-FL-54-18",
@@ -12960,13 +12752,13 @@
           69.14920325569285
         ],
         "nabo": [
-          "AO-TO-FL-19-27",
           "AO-TO-FL-54-13",
           "AO-TO-FL-54-17",
           "AO-TO-FL-54-19",
           "AO-TO-FL-54-21"
         ]
       },
+      "inception": "1886-09-01T00:00:00.000Z",
       "kode": "AO-TO-FL-54-20",
       "lenke": {
         "offisiell": "http://www.dyroy.kommune.no/",
@@ -13038,13 +12830,13 @@
           69.52988016874122
         ],
         "nabo": [
-          "AO-TO-FL-19-31",
           "AO-TO-FL-54-01",
           "AO-TO-FL-54-18",
           "AO-TO-FL-54-21",
           "AO-TO-FL-54-25"
         ]
       },
+      "inception": "1860-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-54-22",
       "lenke": {
         "offisiell": "http://www.balsfjord.kommune.no/",
@@ -13081,6 +12873,7 @@
           "AO-TO-FL-54-27"
         ]
       },
+      "inception": "1837-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-54-23",
       "lenke": {
         "offisiell": "http://www.karlsoy.kommune.no/",
@@ -13122,6 +12915,7 @@
           "AO-TO-FL-54-28"
         ]
       },
+      "inception": "1837-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-54-24",
       "lenke": {
         "offisiell": "http://www.lyngen.kommune.no/",
@@ -13280,6 +13074,7 @@
           "AO-TO-FL-54-30"
         ]
       },
+      "inception": "1886-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-54-28",
       "lenke": {
         "offisiell": "http://www.nordreisa.kommune.no/",
@@ -13320,6 +13115,7 @@
           "AO-TO-FL-54-32"
         ]
       },
+      "inception": "1863-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-54-29",
       "lenke": {
         "offisiell": "http://www.kvaenangen.kommune.no/",
@@ -13435,6 +13231,7 @@
           "AO-TO-FL-54-32"
         ]
       },
+      "inception": "1853-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-54-33",
       "lenke": {
         "offisiell": "http://www.hasvik.kommune.no/",
@@ -13443,7 +13240,9 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": [],
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Murmansk%20cruiser%20shipwreck.jpg"
+        ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Hasvik%20komm.svg"
       },
       "nivå": "kommune",
@@ -13464,13 +13263,12 @@
           71.33567676474824
         ],
         "nabo": [
-          "AO-TO-FL-20-17",
           "AO-TO-FL-54-06",
           "AO-TO-FL-54-35",
           "AO-TO-FL-54-36"
         ]
       },
-      "inception": "1838-01-01T00:00:00.000Z",
+      "inception": "1839-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-54-34",
       "lenke": {
         "offisiell": "http://www.masoy.kommune.no/",
@@ -13507,7 +13305,7 @@
           "AO-TO-FL-54-38"
         ]
       },
-      "inception": "1861-06-01T00:00:00.000Z",
+      "inception": "1861-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-54-35",
       "lenke": {
         "offisiell": "http://www.nordkapp.kommune.no/",
@@ -13539,7 +13337,6 @@
           70.75506345052962
         ],
         "nabo": [
-          "AO-TO-FL-20-17",
           "AO-TO-FL-54-03",
           "AO-TO-FL-54-06",
           "AO-TO-FL-54-34",
@@ -13590,6 +13387,7 @@
           "AO-TO-FL-54-41"
         ]
       },
+      "inception": "1866-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-54-37",
       "lenke": {
         "offisiell": "http://www.karasjok.kommune.no/",
@@ -13630,6 +13428,7 @@
           "AO-TO-FL-54-41"
         ]
       },
+      "inception": "1838-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-54-38",
       "lenke": {
         "offisiell": "http://www.lebesby.kommune.no/",
@@ -13711,7 +13510,9 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": [],
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Berlev%C3%A5g%20sentrum.jpg"
+        ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Berlev%C3%A5g%20komm.svg"
       },
       "nivå": "kommune",
@@ -13782,6 +13583,7 @@
           "AO-TO-FL-54-44"
         ]
       },
+      "inception": "1864-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-54-42",
       "lenke": {
         "offisiell": "http://www.nesseby.kommune.no/",
@@ -13790,7 +13592,9 @@
       },
       "mediakilde": {
         "banner": [],
-        "foto": [],
+        "foto": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Nesseby%20church.jpg"
+        ],
         "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Nesseby%20komm.svg"
       },
       "nivå": "kommune",
@@ -13818,7 +13622,7 @@
           "AO-TO-FL-54-41"
         ]
       },
-      "inception": "1838-01-01T00:00:00.000Z",
+      "inception": "1839-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-54-43",
       "lenke": {
         "offisiell": "http://www.batsfjord.kommune.no/",
@@ -13880,14 +13684,126 @@
   ],
   "meta": {
     "tittel": "Kommune",
-    "produsertUtc": "2020-02-20T11:31:21.012Z",
+    "produsertUtc": "2020-04-29T11:44:13.362Z",
     "utgiver": "Artsdatabanken",
-    "url": "https://raw.githubusercontent.com/Artsdatabanken/kommune/master/kommune.json",
+    "url": "https://raw.githubusercontent.com/Artsdatabanken/kommune/tree/kommune.json",
     "tool": {
       "name": "kommune-lastejobb",
-      "url": "https://github.com/Artsdatabanken/kommune-lastejobb"
+      "url": "https://github.com/Artsdatabanken/kommune-lastejobb",
+      "commit": "https://github.com/Artsdatabanken/kommune-lastejobb/master/d6b0097fdc02e938ed32be98242cfa1a01a3d496"
     },
-    "elementer": 356
+    "elementer": 356,
+    "source": [
+      {
+        "name": "fylke_mapped.json",
+        "tittel": "Fylke mapped",
+        "produsertUtc": "2020-04-29T11:44:13.071Z",
+        "utgiver": "Artsdatabanken",
+        "url": "https://github.com/Artsdatabanken/kommune/blob/master/fylke.json",
+        "tool": {
+          "name": "kommune-lastejobb",
+          "url": "https://github.com/Artsdatabanken/kommune-lastejobb",
+          "commit": "https://github.com/Artsdatabanken/kommune-lastejobb/master/d6b0097fdc02e938ed32be98242cfa1a01a3d496"
+        },
+        "elementer": 10,
+        "source": [
+          {
+            "name": "fylke",
+            "tittel": "Fylke",
+            "produsert": "2020-04-29T11:31:15.220Z",
+            "url": "https://query.wikidata.org/sparql?query=SELECT * WHERE { ?item wdt:P31 wd:Q192299; OPTIONAL { ?item wdt:P300 ?code. } OPTIONAL { ?item wdt:P571 ?inception. } OPTIONAL { ?item wdt:P576 ?dissolved. } OPTIONAL { ?item wdt:P2044 ?elevation. } OPTIONAL { ?item wdt:P856 ?url. } OPTIONAL { ?item wdt:P94 ?coa. } OPTIONAL { ?item wdt:P41 ?flag. } OPTIONAL { ?item wdt:P402 ?osm. } OPTIONAL { ?article schema:about ?item; schema:isPartOf <https://no.wikipedia.org/>. } SERVICE wikibase:label { bd:serviceParam wikibase:language \"nb\". ?item rdfs:label ?itemLabel. }}",
+            "tool": "stages/download",
+            "lastetNed": "2020-04-29T11:31:15.220Z",
+            "source": []
+          },
+          {
+            "name": "fylkenabo",
+            "tittel": "Fylkenabo",
+            "produsert": "2020-04-29T11:31:14.868Z",
+            "url": "https://query.wikidata.org/sparql?query=SELECT * WHERE { ?item wdt:P31 wd:Q192299; wdt:P47 ?shares_border_with.}",
+            "tool": "stages/download",
+            "lastetNed": "2020-04-29T11:31:14.868Z",
+            "source": []
+          },
+          {
+            "name": "fylkebilde",
+            "tittel": "Fylkebilde",
+            "produsert": "2020-04-29T11:31:14.591Z",
+            "url": "https://query.wikidata.org/sparql?query=SELECT * WHERE { ?item wdt:P31 wd:Q192299; OPTIONAL { ?item wdt:P18 ?image. } OPTIONAL { ?item wdt:P948 ?banner. } }ORDER BY ?item",
+            "tool": "stages/download",
+            "lastetNed": "2020-04-29T11:31:14.589Z",
+            "source": []
+          }
+        ]
+      },
+      {
+        "name": "fylke_meta.json",
+        "tittel": "Fylke meta",
+        "produsert": "2020-04-29T11:31:13.375Z",
+        "url": "https://raw.githubusercontent.com/Artsdatabanken/kommune-kart/master/fylke_meta.json",
+        "lastetNed": "2020-04-29T11:31:13.372Z",
+        "source": []
+      },
+      {
+        "name": "kommune_mapped.json",
+        "tittel": "Kommune mapped",
+        "produsertUtc": "2020-04-29T11:44:13.216Z",
+        "utgiver": "Artsdatabanken",
+        "url": "https://github.com/Artsdatabanken/kommune/blob/master/kommune.json",
+        "tool": {
+          "name": "kommune-lastejobb",
+          "url": "https://github.com/Artsdatabanken/kommune-lastejobb",
+          "commit": "https://github.com/Artsdatabanken/kommune-lastejobb/master/d6b0097fdc02e938ed32be98242cfa1a01a3d496"
+        },
+        "elementer": 356,
+        "source": [
+          {
+            "name": "kommune",
+            "tittel": "Kommune",
+            "produsert": "2020-04-29T11:31:15.794Z",
+            "url": "https://query.wikidata.org/sparql?query=SELECT * WHERE { ?item wdt:P31 wd:Q755707 ; OPTIONAL { ?item wdt:P1476 ?title. } OPTIONAL { ?item wdt:P2044 ?elevation. } OPTIONAL { ?item wdt:P856 ?url. } OPTIONAL { ?item wdt:P94 ?coa. } OPTIONAL { ?item wdt:P571 ?inception. } OPTIONAL { ?item wdt:P576 ?dissolved. } OPTIONAL { ?item wdt:P402 ?osm. } OPTIONAL { ?article schema:about ?item; schema:isPartOf <https://no.wikipedia.org/>. } SERVICE wikibase:label { bd:serviceParam wikibase:language \"nb\". ?item rdfs:label ?itemLabel. }}",
+            "tool": "stages/download",
+            "lastetNed": "2020-04-29T11:31:15.794Z",
+            "source": []
+          },
+          {
+            "name": "kommunenummer",
+            "tittel": "Kommunenummer",
+            "produsert": "2020-04-29T11:31:15.622Z",
+            "url": "https://query.wikidata.org/sparql?query=SELECT * WHERE { ?kommune wdt:P31 wd:Q755707. ?kommune p:P2504 ?knr. ?knr ps:P2504 ?code. OPTIONAL{ ?knr pq:P580 ?start_time.} OPTIONAL{ ?knr pq:P582 ?end_time.}}",
+            "tool": "stages/download",
+            "lastetNed": "2020-04-29T11:31:15.621Z",
+            "source": []
+          },
+          {
+            "name": "kommunenabo",
+            "tittel": "Kommunenabo",
+            "produsert": "2020-04-29T11:31:15.579Z",
+            "url": "https://query.wikidata.org/sparql?query=SELECT * WHERE { ?item wdt:P31 wd:Q755707; wdt:P47 ?shares_border_with.}",
+            "tool": "stages/download",
+            "lastetNed": "2020-04-29T11:31:15.579Z",
+            "source": []
+          },
+          {
+            "name": "kommunebilde",
+            "tittel": "Kommunebilde",
+            "produsert": "2020-04-29T11:31:15.052Z",
+            "url": "https://query.wikidata.org/sparql?query=SELECT * WHERE { ?item wdt:P31 wd:Q755707; OPTIONAL { ?item wdt:P18 ?image. } OPTIONAL { ?item wdt:P948 ?banner. } OPTIONAL { ?item wdt:P41 ?flag. } }ORDER BY ?item",
+            "tool": "stages/download",
+            "lastetNed": "2020-04-29T11:31:15.052Z",
+            "source": []
+          }
+        ]
+      },
+      {
+        "name": "kommune_meta.json",
+        "tittel": "Kommune meta",
+        "produsert": "2020-04-29T11:31:13.466Z",
+        "url": "https://raw.githubusercontent.com/Artsdatabanken/kommune-kart/master/kommune_meta.json",
+        "lastetNed": "2020-04-29T11:31:13.466Z",
+        "source": []
+      }
+    ]
   },
-  "$schema": "https://raw.githubusercontent.com/Artsdatabanken/kommune/master/kommune.schema.json#"
+  "$schema": "https://raw.githubusercontent.com/Artsdatabanken/kommune/tree/kommune.schema.json#"
 }

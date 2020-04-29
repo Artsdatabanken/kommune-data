@@ -2,7 +2,6 @@
   "items": [
     {
       "autorkode": "03",
-      "elevation": 23,
       "geografi": {
         "areal": 481034633,
         "bbox": [
@@ -11,29 +10,9 @@
           10.95138944182126,
           60.13510637668019
         ],
-        "nabo": [
-          "AO-TO-FL-30"
-        ]
+        "nabo": []
       },
-      "inception": "1048-01-01T00:00:00.000Z",
       "kode": "AO-TO-FL-03",
-      "lenke": {
-        "offisiell": "http://www.oslo.kommune.no/",
-        "wikidata": "http://www.wikidata.org/entity/Q585",
-        "wikipedia": "https://no.wikipedia.org/wiki/Oslo"
-      },
-      "mediakilde": {
-        "banner": [
-          "http://commons.wikimedia.org/wiki/Special:FilePath/Oslo%20banner%20Akershus%20castle.jpg"
-        ],
-        "flagg": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Oslo.svg",
-        "foto": [
-          "http://commons.wikimedia.org/wiki/Special:FilePath/View%20from%20siloen.jpg"
-        ],
-        "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Oslo%20komm.svg"
-      },
-      "nivå": "fylke",
-      "osm": "https://www.openstreetmap.org/relation/2775550",
       "tittel": {
         "nob": "Oslo"
       },
@@ -166,7 +145,6 @@
           61.09172049882229
         ],
         "nabo": [
-          "AO-TO-FL-03",
           "AO-TO-FL-34",
           "AO-TO-FL-38",
           "AO-TO-FL-46"
@@ -257,10 +235,11 @@
       },
       "mediakilde": {
         "banner": [],
+        "flagg": "http://commons.wikimedia.org/wiki/Special:FilePath/Vestfold%20og%20Telemark%20fylke%2C%20flagg.svg",
         "foto": [
           "http://commons.wikimedia.org/wiki/Special:FilePath/Stavechurch-heddal.jpg"
         ],
-        "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Vestfold%20og%20Telemark%20v%C3%A5pen.png"
+        "logo": "http://commons.wikimedia.org/wiki/Special:FilePath/Vestfold%20og%20Telemark%20v%C3%A5pen.svg"
       },
       "nivå": "fylke",
       "osm": "https://www.openstreetmap.org/relation/10487008",
@@ -423,14 +402,67 @@
   ],
   "meta": {
     "tittel": "Fylke",
-    "produsertUtc": "2020-02-20T11:31:20.996Z",
+    "produsertUtc": "2020-04-29T11:44:13.345Z",
     "utgiver": "Artsdatabanken",
-    "url": "https://raw.githubusercontent.com/Artsdatabanken/kommune/master/fylke.json",
+    "url": "https://raw.githubusercontent.com/Artsdatabanken/kommune/tree/fylke.json",
     "tool": {
       "name": "kommune-lastejobb",
-      "url": "https://github.com/Artsdatabanken/kommune-lastejobb"
+      "url": "https://github.com/Artsdatabanken/kommune-lastejobb",
+      "commit": "https://github.com/Artsdatabanken/kommune-lastejobb/master/d6b0097fdc02e938ed32be98242cfa1a01a3d496"
     },
-    "elementer": 11
+    "elementer": 11,
+    "source": [
+      {
+        "name": "fylke_mapped.json",
+        "tittel": "Fylke mapped",
+        "produsertUtc": "2020-04-29T11:44:13.071Z",
+        "utgiver": "Artsdatabanken",
+        "url": "https://github.com/Artsdatabanken/kommune/blob/master/fylke.json",
+        "tool": {
+          "name": "kommune-lastejobb",
+          "url": "https://github.com/Artsdatabanken/kommune-lastejobb",
+          "commit": "https://github.com/Artsdatabanken/kommune-lastejobb/master/d6b0097fdc02e938ed32be98242cfa1a01a3d496"
+        },
+        "elementer": 10,
+        "source": [
+          {
+            "name": "fylke",
+            "tittel": "Fylke",
+            "produsert": "2020-04-29T11:31:15.220Z",
+            "url": "https://query.wikidata.org/sparql?query=SELECT * WHERE { ?item wdt:P31 wd:Q192299; OPTIONAL { ?item wdt:P300 ?code. } OPTIONAL { ?item wdt:P571 ?inception. } OPTIONAL { ?item wdt:P576 ?dissolved. } OPTIONAL { ?item wdt:P2044 ?elevation. } OPTIONAL { ?item wdt:P856 ?url. } OPTIONAL { ?item wdt:P94 ?coa. } OPTIONAL { ?item wdt:P41 ?flag. } OPTIONAL { ?item wdt:P402 ?osm. } OPTIONAL { ?article schema:about ?item; schema:isPartOf <https://no.wikipedia.org/>. } SERVICE wikibase:label { bd:serviceParam wikibase:language \"nb\". ?item rdfs:label ?itemLabel. }}",
+            "tool": "stages/download",
+            "lastetNed": "2020-04-29T11:31:15.220Z",
+            "source": []
+          },
+          {
+            "name": "fylkenabo",
+            "tittel": "Fylkenabo",
+            "produsert": "2020-04-29T11:31:14.868Z",
+            "url": "https://query.wikidata.org/sparql?query=SELECT * WHERE { ?item wdt:P31 wd:Q192299; wdt:P47 ?shares_border_with.}",
+            "tool": "stages/download",
+            "lastetNed": "2020-04-29T11:31:14.868Z",
+            "source": []
+          },
+          {
+            "name": "fylkebilde",
+            "tittel": "Fylkebilde",
+            "produsert": "2020-04-29T11:31:14.591Z",
+            "url": "https://query.wikidata.org/sparql?query=SELECT * WHERE { ?item wdt:P31 wd:Q192299; OPTIONAL { ?item wdt:P18 ?image. } OPTIONAL { ?item wdt:P948 ?banner. } }ORDER BY ?item",
+            "tool": "stages/download",
+            "lastetNed": "2020-04-29T11:31:14.589Z",
+            "source": []
+          }
+        ]
+      },
+      {
+        "name": "fylke_meta.json",
+        "tittel": "Fylke meta",
+        "produsert": "2020-04-29T11:31:13.375Z",
+        "url": "https://raw.githubusercontent.com/Artsdatabanken/kommune-kart/master/fylke_meta.json",
+        "lastetNed": "2020-04-29T11:31:13.372Z",
+        "source": []
+      }
+    ]
   },
-  "$schema": "https://raw.githubusercontent.com/Artsdatabanken/kommune/master/fylke.schema.json#"
+  "$schema": "https://raw.githubusercontent.com/Artsdatabanken/kommune/tree/fylke.schema.json#"
 }
